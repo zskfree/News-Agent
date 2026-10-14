@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-13 12:31
+**最后更新时间**: 2026-10-14 01:41
+
+---
+
+## 🆕 最新更新 (2026-10-14 01:41)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产](https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 09:21
+
+#### [手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999](https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 22:26
+
+#### [30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热](https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-13 21:34
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [星巴克，重新学做中国生意](https://www.tmtpost.com/8167760.html)
+**发布时间**: 2026-10-14 09:03
+
+#### [双11大变天：有人掉队，就有人超车](https://www.tmtpost.com/8167622.html)
+**发布时间**: 2026-10-14 09:03
+
+#### [所有App都在塞AI，但用户已经烦了](https://www.tmtpost.com/8167377.html)
+**发布时间**: 2026-10-14 09:02
+
+#### [Edge AI Daily 早报（10月14日）](https://www.tmtpost.com/8167796.html)
+**发布时间**: 2026-10-14 08:51
+
+#### [【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资](https://www.tmtpost.com/8167674.html)
+**发布时间**: 2026-10-14 07:20
+
+#### [Shopify有望凭借AI智能体大获成功，但这可能需要时间](https://www.tmtpost.com/8167702.html)
+**发布时间**: 2026-10-13 21:46
+
+#### [Vertiv及另外5只工业股：财报发布前的投资标的](https://www.tmtpost.com/8167697.html)
+**发布时间**: 2026-10-13 21:43
+
+#### [一只18A“超购王”的停摆：停牌半年、调出港股通，中慧生物年内第三位董事辞任](https://www.tmtpost.com/8167657.html)
+**发布时间**: 2026-10-13 21:37
+
+#### [天价离婚落定，猪周期未醒：神农集团站上关口](https://www.tmtpost.com/8167612.html)
+**发布时间**: 2026-10-13 20:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Apple 发布 HomePod mini 2、HomeView 等新品](https://sspai.com/post/116138)
+**发布时间**: 2026-10-14 08:40
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [超越抖音，传红果短剧日均时长 125 分钟；299 美元，苹果推 Siri AI 带屏音箱；谷歌最强模型 Gemini 4 正式上线](http://www.geekpark.net/news/372304)
+**发布时间**: 2026-10-14 08:28
+
+#### [苹果给 Siri 做了一块能认出全家人的屏幕，售价 299 美元](http://www.geekpark.net/news/372302)
+**发布时间**: 2026-10-13 21:51
 
 ---
 

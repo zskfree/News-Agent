@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-13 12:30
+**最后更新时间**: 2026-10-14 01:39
+
+---
+
+## 🆕 最新更新 (2026-10-14 01:39)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It](https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/)
+**发布时间**: 2026-10-13 22:53
+
+#### [How to Use Meta’s Rebalancer for Task Placement & Optimization](https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/)
+**发布时间**: 2026-10-13 22:14
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Building agents that transact with Anchor Browser and AgentCore payments](https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/)
+**发布时间**: 2026-10-13 20:10
+
+#### [Manage private pricing offers for Amazon Bedrock with managed entitlements](https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/)
+**发布时间**: 2026-10-13 17:17
+
+#### [Natural language security queries at Orca Security using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/)
+**发布时间**: 2026-10-13 16:03
+
+#### [How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-13 15:54
+
+#### [Build long-horizon agents with Grok 4.7 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/)
+**发布时间**: 2026-10-13 15:52
+
+#### [Mixture-of-Experts kernel engineering on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-10-13 15:17
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Run fast, private agents on-device with LFM2.5-24B-A2B](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b)
+**发布时间**: 2026-10-13 17:05
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [How artificial neural networks build their own learning machinery](https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013)
+**发布时间**: 2026-10-13 17:00
+
+#### [MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology](https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013)
+**发布时间**: 2026-10-13 16:40
+
+#### [3 Questions: What is the best path forward for AI in academia?](https://news.mit.edu/2026/3-questions-best-path-forward-for-ai-academia-1008)
+**发布时间**: 2026-10-08 17:25
+
+#### [Documenting the tech worker movement](https://news.mit.edu/2026/documenting-tech-worker-movement-1002)
+**发布时间**: 2026-10-02 13:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Announces New Investments in France’s Startups](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/)
+**发布时间**: 2026-10-13 05:00
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 13 Oct 2026 12:30:00 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 12:32:00 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 01:39:00 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:42:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司</title>
-      <link>https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html</link>
-      <description>&lt;![CDATA[独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html</guid>
+      <title>Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It</title>
+      <link>https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/</link>
+      <description>&lt;![CDATA[Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 22:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>中秋国庆影像数据出炉：大疆Pocket系列拿下云台相机9成市场份额</title>
-      <link>https://www.leiphone.com/category/industrynews/fhYapSsp1iE9H2OM.html</link>
-      <description>&lt;![CDATA[中秋国庆影像数据出炉：大疆Pocket系列拿下云台相机9成市场份额]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fhYapSsp1iE9H2OM.html</guid>
+      <title>How to Use Meta’s Rebalancer for Task Placement &amp; Optimization</title>
+      <link>https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/</link>
+      <description>&lt;![CDATA[How to Use Meta’s Rebalancer for Task Placement &amp; Optimization]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 22:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”</title>
-      <link>https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html</link>
-      <description>&lt;![CDATA[其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 13:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html</guid>
+      <title>Building agents that transact with Anchor Browser and AgentCore payments</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/</link>
+      <description>&lt;![CDATA[Building agents that transact with Anchor Browser and AgentCore payments]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 20:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>字节跳动 Seed 单独设立大模型安全与对齐部门</title>
-      <link>https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html</link>
-      <description>&lt;![CDATA[字节跳动 Seed 单独设立大模型安全与对齐部门]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 13:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html</guid>
+      <title>Manage private pricing offers for Amazon Bedrock with managed entitlements</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/</link>
+      <description>&lt;![CDATA[Manage private pricing offers for Amazon Bedrock with managed entitlements]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>拓竹官宣首款3D扫描仪，进军个人制造全品类</title>
-      <link>https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html</link>
-      <description>&lt;![CDATA[拓竹官宣首款3D扫描仪，进军个人制造全品类]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 13:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html</guid>
+      <title>Natural language security queries at Orca Security using Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Natural language security queries at Orca Security using Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>海尔官宣孙颖莎成为全球品牌代言人</title>
-      <link>https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html</link>
-      <description>&lt;![CDATA[海尔官宣孙颖莎成为全球品牌代言人]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 13:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html</guid>
+      <title>How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>千问确认将推出「千问Go!」，已开放体验申请</title>
-      <link>https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html</link>
-      <description>&lt;![CDATA[千问确认将推出「千问Go!」，已开放体验申请]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 12:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html</guid>
+      <title>Build long-horizon agents with Grok 4.7 on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Build long-horizon agents with Grok 4.7 on Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 15:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>1688全面接入AI电商工作台Accio</title>
-      <link>https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html</link>
-      <description>&lt;![CDATA[1688全面接入AI电商工作台Accio]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html</guid>
+      <title>Mixture-of-Experts kernel engineering on Amazon SageMaker AI</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/</link>
+      <description>&lt;![CDATA[Mixture-of-Experts kernel engineering on Amazon SageMaker AI]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>「千问Go！」即将发布，刚帮用户在淘宝申请52元价保退款</title>
-      <link>https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html</link>
-      <description>&lt;![CDATA[「千问Go！」即将发布，刚帮用户在淘宝申请52元价保退款]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html</guid>
+      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+      <description>&lt;![CDATA[Run fast, private agents on-device with LFM2.5-24B-A2B]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</link>
-      <description>&lt;![CDATA[All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</guid>
+      <title>How artificial neural networks build their own learning machinery</title>
+      <link>https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</link>
+      <description>&lt;![CDATA[How artificial neural networks build their own learning machinery]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-13 12:31
+**最后更新时间**: 2026-10-14 01:41
+
+---
+
+## 🆕 最新更新 (2026-10-14 01:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?](https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 01:31
+
+#### [My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?](https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 01:25
+
+#### [Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market](https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 21:02
+
+#### [Six Flags’ stock slumps near 17-year low after fatal incident](https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 20:41
+
+#### [AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans](https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 20:32
+
+#### [Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.](https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 20:27
+
+#### [Micron’s stock extends declines as China competition heats up](https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 20:25
+
+#### [My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?](https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-13 20:16
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Saudi Aramco HQ attacked in suspected Houthi strike](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 22:00
+
+#### [US arrests Saudi employee of OpenAI for allegedly bugging its offices](https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 20:54
+
+#### [Bank of America fined $1.2bn over money laundering failures](https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 20:00
+
+#### [White House asks US envoy to Greece Kimberly Guilfoyle to resign](https://www.ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 16:16
+
+#### [How not to revive Europe’s auto industry](https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 15:03
+
+#### [Ships in Hormuz strait hit by worst spate of attacks since start of war](https://www.ft.com/content/a4ab83d4-81b5-4336-9569-a0708b41e894?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 12:04
+
+#### [How America’s dying coal industry found a lifeline in Trump’s White House](https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 10:00
+
+#### [Business backlash over sweeping halal rules in world’s biggest Muslim nation](https://www.ft.com/content/630328ea-829d-4e5f-a3a8-7ffc33946ef7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-13 10:00
 
 ---
 
