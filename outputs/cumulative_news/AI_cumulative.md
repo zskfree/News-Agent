@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-14 01:39
+**最后更新时间**: 2026-10-14 09:57
+
+---
+
+## 🆕 最新更新 (2026-10-14 09:57)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [AI 短剧日产 1500 部：一场全员狂飙下的 「无人生还」](https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html)
+**发布时间**: 2026-10-14 15:42
+
+#### [爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽](https://www.leiphone.com/category/ai/K1JlUdh4evr88zDa.html)
+**发布时间**: 2026-10-14 15:18
+
+#### [千问办公发布电商版，开启邀测](https://www.leiphone.com/category/industrynews/eg8S5cDorgtGnzPy.html)
+**发布时间**: 2026-10-14 14:31
+
+#### [豆包工作上线新功能，支持跨AI产品一键导入已有配置](https://www.leiphone.com/category/industrynews/x7Ukz8feAE9FBQsy.html)
+**发布时间**: 2026-10-14 14:27
+
+#### [腾讯AI办公再进一步，企业微信与WorkBuddy深度联合](https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html)
+**发布时间**: 2026-10-14 13:57
+
+#### [宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026](https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html)
+**发布时间**: 2026-10-14 10:35
+
+#### [腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点](https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html)
+**发布时间**: 2026-10-14 09:36
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked](https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/)
+**发布时间**: 2026-10-14 08:57
+
+#### [Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents](https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/)
+**发布时间**: 2026-10-14 07:50
+
+#### [Google Releases Gemini 4 Argon API With 1M Token Output Limit](https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/)
+**发布时间**: 2026-10-14 05:03
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行](https://www.qbitai.com/2026/10/503244.html)
+**发布时间**: 2026-10-14 08:01
+
+#### [智能不出彩的「领克」，刚靠一次坠崖事故出圈了](https://www.qbitai.com/2026/10/503231.html)
+**发布时间**: 2026-10-14 07:12
+
+#### [《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了](https://www.qbitai.com/2026/10/503211.html)
+**发布时间**: 2026-10-14 07:03
+
+#### [STEPX首款大模型原生智能体手机STEPX Neo正式发布](https://www.qbitai.com/2026/10/503201.html)
+**发布时间**: 2026-10-14 06:45
+
+#### [MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片](https://www.qbitai.com/2026/10/503198.html)
+**发布时间**: 2026-10-14 06:24
+
+#### [国内最年轻AI教授创业：要让世界模型走向全身全模态](https://www.qbitai.com/2026/10/503172.html)
+**发布时间**: 2026-10-14 04:51
+
+#### [调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地](https://www.qbitai.com/2026/10/503173.html)
+**发布时间**: 2026-10-14 04:09
+
+#### [响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent](https://www.qbitai.com/2026/10/503165.html)
+**发布时间**: 2026-10-14 03:32
+
+#### [告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！](https://www.qbitai.com/2026/10/503157.html)
+**发布时间**: 2026-10-14 02:14
+
+#### [iPhone断网跑35B多模态！国产开源新模型，只占3G内存](https://www.qbitai.com/2026/10/503109.html)
+**发布时间**: 2026-10-13 20:55
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA](https://blogs.nvidia.com/blog/uk-ecosystem-deployment/)
+**发布时间**: 2026-10-14 06:04
+
+#### [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/)
+**发布时间**: 2026-10-14 06:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-14日刊](https://hex2077.dev/docs/2026-10/2026-10-14/)
+**发布时间**: 2026-10-14 02:55
 
 ---
 

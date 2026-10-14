@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 14 Oct 2026 01:39:00 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 01:42:09 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 09:57:00 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:00:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It</title>
-      <link>https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/</link>
-      <description>&lt;![CDATA[Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 22:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/</guid>
+      <title>AI 短剧日产 1500 部：一场全员狂飙下的 「无人生还」</title>
+      <link>https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html</link>
+      <description>&lt;![CDATA[AI 短剧日产 1500 部：一场全员狂飙下的 「无人生还」]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How to Use Meta’s Rebalancer for Task Placement &amp; Optimization</title>
-      <link>https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/</link>
-      <description>&lt;![CDATA[How to Use Meta’s Rebalancer for Task Placement &amp; Optimization]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 22:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/</guid>
+      <title>爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽</title>
+      <link>https://www.leiphone.com/category/ai/K1JlUdh4evr88zDa.html</link>
+      <description>&lt;![CDATA[爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 15:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/K1JlUdh4evr88zDa.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Building agents that transact with Anchor Browser and AgentCore payments</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/</link>
-      <description>&lt;![CDATA[Building agents that transact with Anchor Browser and AgentCore payments]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 20:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/</guid>
+      <title>千问办公发布电商版，开启邀测</title>
+      <link>https://www.leiphone.com/category/industrynews/eg8S5cDorgtGnzPy.html</link>
+      <description>&lt;![CDATA[千问办公发布电商版，开启邀测]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/eg8S5cDorgtGnzPy.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Manage private pricing offers for Amazon Bedrock with managed entitlements</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/</link>
-      <description>&lt;![CDATA[Manage private pricing offers for Amazon Bedrock with managed entitlements]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/</guid>
+      <title>豆包工作上线新功能，支持跨AI产品一键导入已有配置</title>
+      <link>https://www.leiphone.com/category/industrynews/x7Ukz8feAE9FBQsy.html</link>
+      <description>&lt;![CDATA[豆包工作上线新功能，支持跨AI产品一键导入已有配置]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 14:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/x7Ukz8feAE9FBQsy.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Natural language security queries at Orca Security using Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Natural language security queries at Orca Security using Amazon Bedrock]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 16:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/</guid>
+      <title>腾讯AI办公再进一步，企业微信与WorkBuddy深度联合</title>
+      <link>https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html</link>
+      <description>&lt;![CDATA[腾讯AI办公再进一步，企业微信与WorkBuddy深度联合]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/</guid>
+      <title>宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026</title>
+      <link>https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html</link>
+      <description>&lt;![CDATA[宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 10:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build long-horizon agents with Grok 4.7 on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Build long-horizon agents with Grok 4.7 on Amazon Bedrock]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 15:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/</guid>
+      <title>腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点</title>
+      <link>https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html</link>
+      <description>&lt;![CDATA[腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Mixture-of-Experts kernel engineering on Amazon SageMaker AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/</link>
-      <description>&lt;![CDATA[Mixture-of-Experts kernel engineering on Amazon SageMaker AI]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/</guid>
+      <title>9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked</title>
+      <link>https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/</link>
+      <description>&lt;![CDATA[9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 08:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-      <description>&lt;![CDATA[Run fast, private agents on-device with LFM2.5-24B-A2B]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 17:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+      <title>Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents</title>
+      <link>https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/</link>
+      <description>&lt;![CDATA[Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 07:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How artificial neural networks build their own learning machinery</title>
-      <link>https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</link>
-      <description>&lt;![CDATA[How artificial neural networks build their own learning machinery]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</guid>
+      <title>Google Releases Gemini 4 Argon API With 1M Token Output Limit</title>
+      <link>https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/</link>
+      <description>&lt;![CDATA[Google Releases Gemini 4 Argon API With 1M Token Output Limit]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 05:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/</guid>
       <category>Ai</category>
     </item>
   </channel>

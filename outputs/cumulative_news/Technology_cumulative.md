@@ -1,7 +1,97 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-14 01:41
+**最后更新时间**: 2026-10-14 09:59
+
+---
+
+## 🆕 最新更新 (2026-10-14 09:59)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球汽车业百年三次大出清，留下的五条生存法则](https://www.tmtpost.com/8168072.html)
+**发布时间**: 2026-10-14 17:49
+
+#### [800MHz三年三易其主：马斯克买到的不是频谱，是美国电信业下一张桌子的座位](https://www.tmtpost.com/8168210.html)
+**发布时间**: 2026-10-14 17:49
+
+#### [京东不等预售，天猫现货同步：双11 正在失去什么](https://www.tmtpost.com/8168241.html)
+**发布时间**: 2026-10-14 17:49
+
+#### [Robotic Hands Become the Bottleneck for China’s Humanoid Push](https://www.tmtpost.com/8168516.html)
+**发布时间**: 2026-10-14 17:47
+
+#### [一棵白菜合人民币42元，暴露了日本农业的结构性脆弱](https://www.tmtpost.com/8168034.html)
+**发布时间**: 2026-10-14 17:16
+
+#### [中日韩一起锚定2030！固态电池，大决战来了](https://www.tmtpost.com/8168027.html)
+**发布时间**: 2026-10-14 17:16
+
+#### [信仰加速，估值刹车：具身智能最后一道题，王兴兴凭什么交给 GPT-7](https://www.tmtpost.com/8168230.html)
+**发布时间**: 2026-10-14 17:16
+
+#### [账上躺着2000亿现金，腾讯、字节为啥还要借钱？](https://www.tmtpost.com/8168152.html)
+**发布时间**: 2026-10-14 17:16
+
+#### [绳驱具身独角兽星尘智能再融10亿，投后估值150亿](https://www.tmtpost.com/8167619.html)
+**发布时间**: 2026-10-14 17:02
+
+#### [全球销量下滑4.9%，宝马在华销量同比减少超两成](https://www.tmtpost.com/8167795.html)
+**发布时间**: 2026-10-14 17:02
+
+#### [拿下4亿融资，这家深圳公司攻克超声穿颅读脑](https://www.tmtpost.com/8162673.html)
+**发布时间**: 2026-10-14 17:01
+
+#### [80%的世界500强，正在同一块地基上跑AI](https://www.tmtpost.com/8168305.html)
+**发布时间**: 2026-10-14 16:56
+
+#### [亚马逊开出500亿，买这家给算力当“翻译”的公司](https://www.tmtpost.com/8166953.html)
+**发布时间**: 2026-10-14 16:51
+
+#### ["回春三件套"，让中年男人开始服美役](https://www.tmtpost.com/8168050.html)
+**发布时间**: 2026-10-14 16:29
+
+#### [8000张GPU推文删了，账还在：一半收入来自卖电脑，软通动力为什么把AI生意做重了？](https://www.tmtpost.com/8167902.html)
+**发布时间**: 2026-10-14 16:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意](https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 17:48
+
+#### [九成具身智能公司在东部沿海，长沙抢走了另一样东西](https://www.infoq.cn/article/ZqJq0uHBPvvEewkc0ZFC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 17:35
+
+#### [Cloudflare 正式发布 Python Workers，但关于冷启动和上游维护的问题仍待解答](https://www.infoq.cn/article/fycaxN0NvWHBq6B7d3zY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 17:00
+
+#### [Cloudflare Workers支持入站TCP，gRPC成为首个基于此构建的协议](https://www.infoq.cn/article/f4DRCDXjQuOjpK4TXt6K?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 15:41
+
+#### [从大模型到 Agent 落地，这场大会讲透 AI 全链路](https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 14:52
+
+#### [Claude写代码太快，Git扛不住了：Anthropic仅靠7人，5个月重造版本控制系统](https://www.infoq.cn/article/6iRATYfkqF7aITPaFR2R?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 11:46
+
+#### [一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在](https://www.infoq.cn/article/AO4MbiBaYqwwCubevkpD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 11:00
+
+#### [无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践](https://www.infoq.cn/article/EVQ0s2JRvxZyo9f9gSg6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验](https://sspai.com/post/115426)
+**发布时间**: 2026-10-14 15:00
+
+#### [家中、这里、那里——Sonos Play 体验](https://sspai.com/post/115382)
+**发布时间**: 2026-10-14 12:10
+
+#### [众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验](https://sspai.com/post/116109)
+**发布时间**: 2026-10-14 11:57
+
+#### [已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒](https://sspai.com/post/92653)
+**发布时间**: 2026-10-14 10:00
 
 ---
 

@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-14 01:41
+**最后更新时间**: 2026-10-14 09:59
+
+---
+
+## 🆕 最新更新 (2026-10-14 09:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukraine blindsided by Starlink restrictions and intelligence gaps](https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 09:47
+
+#### [Crypto exchange Kraken owner to buy European bank](https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 09:30
+
+#### [Houthis strike Saudi Aramco headquarters](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 09:03
+
+#### [AI demand to exceed supply for 2 more years, says ASML](https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 06:50
+
+#### [Marine Le Pen vows ‘trial of strength’ with EU](https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 04:00
+
+#### [Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal](https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 04:00
+
+#### [The art of living dangerously](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 04:00
+
+#### [How I used AI to become a chess grandmaster at 16](https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94)
+**发布时间**: 2026-10-14 04:00
+
+#### [How Ukraine’s data centre strikes threw Russia into turmoil](https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 04:00
+
+#### [CoreWeave targets ‘unlimited’ insurance money to fund AI build-out](https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?](https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 09:15
+
+#### [‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million](https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 09:03
+
+#### [Chip bellwether ASML says customers are already asking to place orders — for 2030](https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 08:41
 
 ---
 
