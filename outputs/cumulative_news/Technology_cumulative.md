@@ -1,7 +1,123 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-15 01:17
+**最后更新时间**: 2026-10-15 09:41
+
+---
+
+## 🆕 最新更新 (2026-10-15 09:41)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [路畅科技易主：中联重科入主四年终退场，张五堂接盘引转型猜想](https://www.tmtpost.com/8169880.html)
+**发布时间**: 2026-10-15 17:36
+
+#### [腾讯字节阿里，争抢下一个AI入口](https://www.tmtpost.com/8169930.html)
+**发布时间**: 2026-10-15 17:32
+
+#### [宝马第六代动力电池正式量产，中国供应链成为关键变量](https://www.tmtpost.com/8170073.html)
+**发布时间**: 2026-10-15 17:18
+
+#### [App 正在变成一次性用品](https://www.tmtpost.com/8169694.html)
+**发布时间**: 2026-10-15 16:39
+
+#### [资本竞逐硅碳负极，新应用场景催生产业化临界点](https://www.tmtpost.com/8169618.html)
+**发布时间**: 2026-10-15 16:32
+
+#### [155款App向豆包手机说“不”，智能体为什么翻不过互联网的围墙？](https://www.tmtpost.com/8169608.html)
+**发布时间**: 2026-10-15 16:32
+
+#### [AI竞争升级，个人Agent添火](https://www.tmtpost.com/8169607.html)
+**发布时间**: 2026-10-15 16:32
+
+#### [焦虑的印奇，赌上一部手机](https://www.tmtpost.com/8169739.html)
+**发布时间**: 2026-10-15 16:32
+
+#### [2000 万月活也救不活，AI 情感陪伴界“纯元”驾崩](https://www.tmtpost.com/8169896.html)
+**发布时间**: 2026-10-15 16:28
+
+#### [Muse起势、大厂谋变，个人智能体激战前夜](https://www.tmtpost.com/8169751.html)
+**发布时间**: 2026-10-15 16:26
+
+#### [在云南，咖农开始挑买家了](https://www.tmtpost.com/8169837.html)
+**发布时间**: 2026-10-15 16:23
+
+#### [Anthropic新规背后，人类何必为难AI？](https://www.tmtpost.com/8169778.html)
+**发布时间**: 2026-10-15 16:23
+
+#### [武汉天源5亿加码磷化铟，减持窗口同步开启](https://www.tmtpost.com/8169815.html)
+**发布时间**: 2026-10-15 14:20
+
+#### [文石信息：增收不增利叠加经营性现金流持续失血，资金承压仍大额分红｜IPO观察](https://www.tmtpost.com/8168396.html)
+**发布时间**: 2026-10-15 13:38
+
+#### [字节跳动豆包做不了 Muse](https://www.tmtpost.com/8169616.html)
+**发布时间**: 2026-10-15 13:24
+
+#### [辛顿回怼黄仁勋：AI灭绝人类的概率，是10%到20%](https://www.tmtpost.com/8169667.html)
+**发布时间**: 2026-10-15 13:18
+
+#### [Alo首店开张：lululemon的劲敌们抢滩中国市场](https://www.tmtpost.com/8166945.html)
+**发布时间**: 2026-10-15 13:13
+
+#### [今年双11，没人提增长了](https://www.tmtpost.com/8169146.html)
+**发布时间**: 2026-10-15 13:13
+
+#### [LV承认起诉茉莉奶产生负面影响：中国市场需求下滑15%](https://www.tmtpost.com/8169504.html)
+**发布时间**: 2026-10-15 13:12
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Archestra 发布 OpenAPPA，用于防范提示词注入或模型幻觉引发的数据外泄](https://www.infoq.cn/article/LQCqiPUzgZyB3v24rsNO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 17:22
+
+#### [Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud](https://www.infoq.cn/article/JxVNJwhmsB1YYKmgD9KU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 15:07
+
+#### [代码不再稀缺之后，软件工程还剩下什么？](https://www.infoq.cn/article/DTZRRtodmCvpfYwbpWbF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 14:30
+
+#### [亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱](https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 13:00
+
+#### [数据驱动的具身智能：迈向规模化之路｜QCon 上海](https://www.infoq.cn/article/a8LKxyL9AC4PWhB2r0XX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 12:01
+
+#### [算力效率的边界：以体系结构量化与分布式工程破局 AI Infra](https://www.infoq.cn/article/JbzA5yvzl2BkuTpkfdrU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 11:44
+
+#### [从 Harness 到 Loop：Agent 如何走向可靠交付与持续进化？](https://www.infoq.cn/article/xKkEswgSftEcGrkK6oTY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 11:05
+
+#### [一个响应头，就能把同一资源拆成几十份：Cloudflare 出手治理缓存抖动](https://www.infoq.cn/article/APzdAA2AKyWydi04FpTY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 11:05
+
+#### [成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型](https://www.infoq.cn/article/QdPWpubQFmegrsH9UZFC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 10:30
+
+#### [从 App 到 Agent：字节跳动 Supabase 的 Agent-Native 规模化实践｜QCon上海](https://www.infoq.cn/article/kvzkXDXpKOXILlfirftW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 10:00
+
+#### [Atlassian 围绕 OpenTelemetry 构建了大规模的指标管道](https://www.infoq.cn/article/Z1dzWgsvtLgDhqMjkRAv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 09:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [顺应变化，重申标准：《少数派创作手册》修订说明](https://sspai.com/post/116181)
+**发布时间**: 2026-10-15 16:09
+
+#### [学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/116182)
+**发布时间**: 2026-10-15 14:30
+
+#### [App+1｜Mangata：把每次散步当作一次探索旅行](https://sspai.com/post/115238)
+**发布时间**: 2026-10-15 11:00
+
+#### [派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等](https://sspai.com/post/116193)
+**发布时间**: 2026-10-15 08:31
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [卖出去≠全球化成功，中国企业出海究竟还差什么？](http://www.geekpark.net/news/372386)
+**发布时间**: 2026-10-15 12:40
 
 ---
 

@@ -1,7 +1,61 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-15 01:15
+**最后更新时间**: 2026-10-15 09:39
+
+---
+
+## 🆕 最新更新 (2026-10-15 09:39)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [上海AI实验室“书生-S2”大模型进入前沿数学研究流程：助力三维Ghys猜想证明并通过形式化验证](https://www.leiphone.com/category/academic/ChIK9FvwSwlHmfFc.html)
+**发布时间**: 2026-10-15 15:14
+
+#### [破晓智能联合天珑移动发布 SeePhys Hub，推进全身全模态人类数据采集](https://www.leiphone.com/category/robot/HYxX8W4aXp8UgmIO.html)
+**发布时间**: 2026-10-15 15:08
+
+#### [昆仑万维诞生世界上第一款消费级显卡视频大模型游戏，同步开源](https://www.leiphone.com/category/industrynews/OSk0jtFDeBaSizAH.html)
+**发布时间**: 2026-10-15 13:43
+
+#### [百度世界2026五大亮点曝光，企业和开发者值得关注什么？](https://www.leiphone.com/category/industrynews/wFO3YQEoOjeGzHY9.html)
+**发布时间**: 2026-10-15 12:17
+
+#### [短视频、联盟营销与本地化履约，家居卖家如何撑起一场大促增长？](https://www.leiphone.com/category/industrynews/v2QysI05W4eMciQG.html)
+**发布时间**: 2026-10-15 11:07
+
+#### [首款韬定律逻辑折叠芯片量产，麒麟9050让华为旗舰手机玩出什么新花样？](https://www.leiphone.com/category/chips/4EHlprZnXovvP0XD.html)
+**发布时间**: 2026-10-15 10:14
+
+#### [“圳”启“芯”程 智创未来！2026湾芯展盛大启幕](https://www.leiphone.com/category/industrynews/YUu9lNqL930KEzeV.html)
+**发布时间**: 2026-10-15 09:50
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [TypeSafe AI Releases Jev 1.14 With Images, Box Type and 262k Context](https://www.marktechpost.com/2026/10/14/typesafe-ai-jev-1-14-images-box-long-context/)
+**发布时间**: 2026-10-15 05:45
+
+#### [Meet Grok Voice 3.0: SpaceXAI Voice Agent Model Ranks #1 on Artificial Analysis](https://www.marktechpost.com/2026/10/14/meet-grok-voice-3-0-spacexai-voice-agent-model-ranks-1-on-artificial-analysis/)
+**发布时间**: 2026-10-15 05:18
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing](https://blogs.nvidia.com/blog/nordics-technology-ecosystem/)
+**发布时间**: 2026-10-15 05:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-15日刊](https://hex2077.dev/docs/2026-10/2026-10-15/)
+**发布时间**: 2026-10-15 03:21
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [7天几百元开一家店！用千问办公电商版，立省启动资金5万元](https://www.qbitai.com/2026/10/503303.html)
+**发布时间**: 2026-10-15 01:56
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Q&A: The “collision” between AI, your brain, and society](https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015)
+**发布时间**: 2026-10-15 00:00
 
 ---
 

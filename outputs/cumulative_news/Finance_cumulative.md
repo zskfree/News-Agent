@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-15 01:18
+**最后更新时间**: 2026-10-15 09:41
+
+---
+
+## 🆕 最新更新 (2026-10-15 09:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global stocks sell-off deepens as chipmakers tumble](https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 09:23
+
+#### [Ukraine to resume strikes on Russian refineries, Zelenskyy says](https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 09:10
+
+#### [Chipmaker TSMC profits surge amid relentless AI demand](https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 08:54
+
+#### [The man who would lead McKinsey](https://www.ft.com/content/ff917929-c68e-4bf6-b77f-ee1f7d675934?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 04:00
+
+#### [Is the K-shaped economy really more of an E?](https://www.ft.com/content/2feb3013-c01a-4fa6-aa11-67354fb71cc8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 04:00
+
+#### [London’s gold market enjoys the Trump effect](https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 04:00
+
+#### [French debt worries spill into stocks, driving biggest underperformance since 2010](https://www.ft.com/content/69bfdf93-cbba-477c-9fb0-5978d1d4f506?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 04:00
+
+#### [Marsh to pay biggest share of $800mn settlement with Credit Suisse over Greensill collapse](https://www.ft.com/content/43c9d38a-652a-45df-b3be-c3dead3390f1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 04:00
+
+#### [Farmed salmon now being raised on chicken](https://www.ft.com/content/8f1e2cc9-4e2a-48f0-9750-251585e345d3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 04:00
+
+#### [Anthropic tells investors its quarterly revenue jumped 50%](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 00:59
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?](https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 09:15
+
+#### [‘New Girl’ star Jake Johnson lists lush and private Pasadena estate for $3.3 million](https://www.marketwatch.com/story/new-girl-star-jake-johnson-lists-lush-and-private-pasadena-estate-for-3-3-million-b6788838?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 09:01
+
+#### [Why the AI trade is not set up for a rebound like July’s, according to JPMorgan](https://www.marketwatch.com/story/why-the-ai-trade-is-not-set-up-for-a-rebound-like-julys-according-to-jpmorgan-5ae511db?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 08:53
+
+#### [TSMC CEO sees no sign of a slowdown as chip foundry reports record profit](https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 08:42
 
 ---
 
