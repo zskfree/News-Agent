@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-14 09:59
+**最后更新时间**: 2026-10-15 01:17
+
+---
+
+## 🆕 最新更新 (2026-10-15 01:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [全球大厂的“去英伟达”实验](https://www.tmtpost.com/8168677.html)
+**发布时间**: 2026-10-15 09:10
+
+#### [孙颖莎、张伟丽的成绩更好，为什么“赚不过”郑钦文](https://www.tmtpost.com/8168127.html)
+**发布时间**: 2026-10-15 09:10
+
+#### [“中国私募之王”抄底恒大物业，从200亿砍到66亿](https://www.tmtpost.com/8168630.html)
+**发布时间**: 2026-10-15 09:03
+
+#### [300亿魔芋零食突然“刹车”，下一个零食品类之王要换人了？](https://www.tmtpost.com/8168931.html)
+**发布时间**: 2026-10-15 08:57
+
+#### [《赛博朋克2077》终于拍电影了，背后是游戏公司悄悄摸上好莱坞的牌桌](https://www.tmtpost.com/8168927.html)
+**发布时间**: 2026-10-15 08:52
+
+#### [Edge AI Daily 早报（10月15日）](https://www.tmtpost.com/8169016.html)
+**发布时间**: 2026-10-15 08:52
+
+#### [Anthropic尽调后放弃，亚马逊为何还在追Decart？](https://www.tmtpost.com/8168709.html)
+**发布时间**: 2026-10-15 08:44
+
+#### [基金公司开始“死磕”创新药+硬科技？](https://www.tmtpost.com/8168711.html)
+**发布时间**: 2026-10-15 08:38
+
+#### [语料授权这笔生意，为什么定价比想象中难得多？](https://www.tmtpost.com/8168631.html)
+**发布时间**: 2026-10-15 08:26
+
+#### [机器人还没找好工作，小鹏为什么先建工厂？](https://www.tmtpost.com/8168921.html)
+**发布时间**: 2026-10-15 08:22
+
+#### [3800亿自有品牌：超市正在把货架改成自己的柜台](https://www.tmtpost.com/8168922.html)
+**发布时间**: 2026-10-15 08:22
+
+#### [【钛晨报】中国最新金融数据出炉，债券和股票融资在社融增量中占比近半；含DeepSeek、微信等，151款应用拒绝接入豆包手机助手；恒生指数公司出手，茶百道遭多个指数剔除](https://www.tmtpost.com/8168855.html)
+**发布时间**: 2026-10-15 07:20
+
+#### [片仔癀五年四换帅，提价驱动失效，业绩失速](https://www.tmtpost.com/8168643.html)
+**发布时间**: 2026-10-14 19:27
+
+#### [今年双11，告别算数题？](https://www.tmtpost.com/8168500.html)
+**发布时间**: 2026-10-14 18:52
+
+#### [全家桶被大佬0元平替，Adobe霸道不起来了](https://www.tmtpost.com/8168444.html)
+**发布时间**: 2026-10-14 18:30
+
+#### [万元级人形机器人，只是“赛博玩具”？](https://www.tmtpost.com/8168453.html)
+**发布时间**: 2026-10-14 18:30
+
+#### [康方生物折价配股：钱拿到了，股价却砸了](https://www.tmtpost.com/8168521.html)
+**发布时间**: 2026-10-14 18:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉 Roadster 跑车明日发布；豆包工作支持一键导入 GPT、Claude 对话 | 极客早知道](http://www.geekpark.net/news/372366)
+**发布时间**: 2026-10-15 08:29
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [企业真正需要的，不是更聪明的 Agent ？](https://www.infoq.cn/video/Wss036X3C6APXsS41HwC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 18:36
+
+#### [Spring 近期新闻：Boot、Framework、Data、Security 和 Integration 的第二个里程碑版本](https://www.infoq.cn/article/bjowsAJHMwfAzRMqu4qJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-14 18:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [认知心理学背后的播客剪辑技巧](https://sspai.com/post/114861)
+**发布时间**: 2026-10-14 17:33
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [分享一个还挺好玩的 GitHub 开源世界模型，能实时生成可交互世界。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537714&idx=1&sn=fbda944a2de14753068dba37265e6897)
+**发布时间**: 2026-10-14 14:47
 
 ---
 

@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-14 09:57
+**最后更新时间**: 2026-10-15 01:15
+
+---
+
+## 🆕 最新更新 (2026-10-15 01:15)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [茶百道涉IPO欺诈，被暂停交易；字节Seed单独设立大模型安全与对齐部门；华为披露下一代麒麟芯片进展，已进入测试阶段丨雷峰早报](https://www.leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html)
+**发布时间**: 2026-10-14 23:48
+
+#### [医美消费走向专业化、个性化，美团发布2026北极星医美榜](https://www.leiphone.com/category/industrynews/5IL0iXZb9YqAIyLN.html)
+**发布时间**: 2026-10-14 19:21
+
+#### [蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，具身大脑加速进产线](https://www.leiphone.com/category/industrynews/sDAmOLZ58Kpz8ZlD.html)
+**发布时间**: 2026-10-14 17:15
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers](https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/)
+**发布时间**: 2026-10-14 23:37
+
+#### [Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model](https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/)
+**发布时间**: 2026-10-14 22:52
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Build self-improving document processing using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-14 16:24
+
+#### [Generate presentations with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-14 13:58
+
+#### [How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/)
+**发布时间**: 2026-10-14 13:53
+
+#### [Deploy and evaluate models with Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/)
+**发布时间**: 2026-10-14 13:14
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Research@ 2026: 10 ways we're amplifying human ingenuity](https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/)
+**发布时间**: 2026-10-14 16:14
+
+#### [Putting Earth AI to work: Geospatial agents for our planet's biggest challenges](https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/)
+**发布时间**: 2026-10-14 16:14
+
+#### [Analyzing technical documents with Deep Review](https://research.google/blog/analyzing-technical-documents-with-deep-review/)
+**发布时间**: 2026-10-14 16:14
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost](https://huggingface.co/blog/allenai/hiro-acev2)
+**发布时间**: 2026-10-14 16:12
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Researchers improve weather forecasts looking two to six weeks out](https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014)
+**发布时间**: 2026-10-14 11:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！](https://www.qbitai.com/2026/10/503294.html)
+**发布时间**: 2026-10-14 10:41
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Announces New Investments in the UK Startup Ecosystem](https://blogs.nvidia.com/blog/uk-ecosystem-deployment/)
+**发布时间**: 2026-10-14 06:04
 
 ---
 

@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-14 09:59
+**最后更新时间**: 2026-10-15 01:18
+
+---
+
+## 🆕 最新更新 (2026-10-15 01:18)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Anthropic’s slowing growth could be the AI trade’s latest red flag](https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 01:07
+
+#### [Rocket Lab’s stock slides as the company pushes back Neutron’s first launch](https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 00:02
+
+#### [The AI trade is splintering as inflation fears rattle hyped-up tech stocks](https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 23:36
+
+#### [My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?](https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 22:45
+
+#### [‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?](https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 22:30
+
+#### [You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.](https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 22:25
+
+#### [Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?](https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 22:24
+
+#### [Big banks see risks in financing the AI boom, but are happy to keep writing the checks](https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 22:23
+
+#### [CoreWeave’s AI bonds tumble, raising red flags for the wider market](https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 22:03
+
+#### [From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast](https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories)
+**发布时间**: 2026-10-14 21:54
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 00:59
+
+#### [US floats unfreezing some Russian assets to restart Ukraine peace talks](https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 23:09
+
+#### [OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia](https://www.ft.com/content/4d22d333-e51c-4302-991e-444a17fac420?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 22:19
+
+#### [US chip stocks slide as inflation and AI debt fears unsettle investors](https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 20:36
+
+#### [Perella Weinberg and Piper Sandler abandon merger talks](https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 20:16
+
+#### [Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal](https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 15:48
+
+#### [He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper](https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 14:40
+
+#### [The global economy and the art of living dangerously](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-14 04:00
 
 ---
 
