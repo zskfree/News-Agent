@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-16 01:04
+**最后更新时间**: 2026-10-16 09:39
+
+---
+
+## 🆕 最新更新 (2026-10-16 09:39)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [新旧物种交手，机器人小店“吃”掉便利店的黄金周](https://www.tmtpost.com/8171361.html)
+**发布时间**: 2026-10-16 17:35
+
+#### [Muse能带火国内个人AI智能体吗？](https://www.tmtpost.com/8171318.html)
+**发布时间**: 2026-10-16 17:33
+
+#### [硅谷AI杀疯了，DeepSeek们的性价比还剩多少？](https://www.tmtpost.com/8170871.html)
+**发布时间**: 2026-10-16 16:58
+
+#### [被半个互联网拒绝，豆包手机有解吗？](https://www.tmtpost.com/8170908.html)
+**发布时间**: 2026-10-16 16:58
+
+#### [商用机器人公司值得更高估值](https://www.tmtpost.com/8170590.html)
+**发布时间**: 2026-10-16 16:39
+
+#### [茶百道，应该给市场一个交代](https://www.tmtpost.com/8170599.html)
+**发布时间**: 2026-10-16 16:39
+
+#### [字节腾讯阿里扎堆个人Agent：谁先跑出中国版Muse？](https://www.tmtpost.com/8170874.html)
+**发布时间**: 2026-10-16 16:39
+
+#### [特斯拉最后一辆“人开的车”，马斯克给它装上了火箭](https://www.tmtpost.com/8171199.html)
+**发布时间**: 2026-10-16 15:46
+
+#### [Agent落地风电，将带来哪些改变？](https://www.tmtpost.com/8171142.html)
+**发布时间**: 2026-10-16 15:46
+
+#### [日租金跌至几百元，人形机器人的“打工时代”来了](https://www.tmtpost.com/8170280.html)
+**发布时间**: 2026-10-16 15:36
+
+#### [腾讯摊牌了](https://www.tmtpost.com/8170784.html)
+**发布时间**: 2026-10-16 15:36
+
+#### [OpenAI入局，全球具身智能变天，中国企业如何打响资源整合反击战？](https://www.tmtpost.com/8170706.html)
+**发布时间**: 2026-10-16 15:36
+
+#### [耐克中国，“摸着阿迪过河”？](https://www.tmtpost.com/8170113.html)
+**发布时间**: 2026-10-16 15:36
+
+#### [一边破产一边IPO：“老头乐”没有“凉凉”](https://www.tmtpost.com/8170877.html)
+**发布时间**: 2026-10-16 15:36
+
+#### [快手难驯可灵独角兽](https://www.tmtpost.com/8170308.html)
+**发布时间**: 2026-10-16 15:36
+
+#### [每天净赚4亿，阿斯麦仍有烦恼](https://www.tmtpost.com/8170331.html)
+**发布时间**: 2026-10-16 15:36
+
+#### [第18个双11，低价已经不够用了](https://www.tmtpost.com/8170577.html)
+**发布时间**: 2026-10-16 15:36
+
+#### [一口气要卖6架飞机​，川航这是怎么了](https://www.tmtpost.com/8170752.html)
+**发布时间**: 2026-10-16 15:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [生产级大模型平台工程实战手册](https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 17:00
+
+#### [AI 生成的代码，怎么才能进得了工程体系？](https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 16:56
+
+#### [范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”](https://www.infoq.cn/article/VZPlIIdGRg062mgwJe5y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 16:38
+
+#### [Cloudflare 计划推出公共证书颁发机构，用于签发量子安全的 TLS 证书](https://www.infoq.cn/article/CoGZq3xgQhZI4rBH8pjA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 15:41
+
+#### [谷歌的 Android 安全状态库支持组件级安全校验](https://www.infoq.cn/article/yZh3MeRrBa7IbsB1PrUp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 14:17
+
+#### [Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心](https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 11:53
+
+#### [Linus用Claude Code改Linux内核，大神也没兜住代码里的Bug](https://www.infoq.cn/article/hRw4BZQQUW14sqYMo5F6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 11:47
+
+#### [Pizza Bot：开源的后台 AI 智能体收件箱](https://www.infoq.cn/article/aMgWFmwZ2HoZDtw1g0MQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 11:06
+
+#### [AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海](https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 10:00
+
+#### [GitLab 漏洞遭利用，可实现未认证数据外泄](https://www.infoq.cn/article/DfJZA7hp0OhKMpaAIfG0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-16 09:16
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为什么 Anthropic 不做 Personal AI](http://www.geekpark.net/news/372461)
+**发布时间**: 2026-10-16 14:50
+
+#### [是的，特斯拉真造了一辆「飞行汽车」！](http://www.geekpark.net/news/372459)
+**发布时间**: 2026-10-16 14:46
+
+#### [苹果和 Meta 和好了，是 AI 逼的](http://www.geekpark.net/news/372458)
+**发布时间**: 2026-10-16 14:41
+
+#### [巅峰估值 50 亿美元的 AI 独角兽，何以不到 0.1 折贱卖](http://www.geekpark.net/news/372437)
+**发布时间**: 2026-10-16 10:22
+
+#### [第一款 AI 手机，被半个互联网「拒」了](http://www.geekpark.net/news/372436)
+**发布时间**: 2026-10-16 10:18
+
+#### [腾讯盯上了字节的摇钱树](http://www.geekpark.net/news/372435)
+**发布时间**: 2026-10-16 10:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式](https://sspai.com/post/114836)
+**发布时间**: 2026-10-16 14:24
+
+#### [一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验](https://sspai.com/post/115679)
+**发布时间**: 2026-10-16 12:41
+
+#### [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688)
+**发布时间**: 2026-10-16 10:18
+
+#### [派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本](https://sspai.com/post/116355)
+**发布时间**: 2026-10-16 08:23
 
 ---
 

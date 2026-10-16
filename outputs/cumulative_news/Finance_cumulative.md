@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-16 01:04
+**最后更新时间**: 2026-10-16 09:39
+
+---
+
+## 🆕 最新更新 (2026-10-16 09:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night](https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 09:16
+
+#### [‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?](https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 09:15
+
+#### [The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why](https://www.marketwatch.com/story/the-pull-of-nashville-a-dozen-celebrities-who-have-moved-to-tennessee-and-why-68446959?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 09:05
+
+#### [Tesla finally delivers on its promise to create a flying car](https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 02:42
+
+#### [I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?](https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 22:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [G7 economies plan simulated AI attacks on banks as cyber fears rise](https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 07:36
+
+#### [Healey signals tax raid on banks in Budget](https://www.ft.com/content/09e07278-8479-49bb-a145-51e5d93828a2?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 07:08
+
+#### [Bets on Fed rate hold in October strengthen after Warsh comments](https://www.ft.com/content/95a8e05d-fc20-441d-b271-64e87fe41f76?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 06:37
+
+#### [Fight night for Trump’s America](https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 04:00
+
+#### [US business leaders are waking up to the perils of plutopopulism](https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d)
+**发布时间**: 2026-10-16 04:00
+
+#### [The secret fight around financial flows](https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 04:00
+
+#### [UK tried to persuade UBS to move to London](https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 04:00
+
+#### [World’s worst-performing stock market hit by fresh MSCI warning](https://www.ft.com/content/753fa2ed-1763-462b-a4c0-ded9b53baf3c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 03:35
+
+#### [Tesla unveils ‘flying’ sports car with SpaceX rocket thrusters](https://www.ft.com/content/a43a24b7-2127-400e-8b75-fe970931df51?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 02:41
 
 ---
 

@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-16 01:01
+**最后更新时间**: 2026-10-16 09:37
+
+---
+
+## 🆕 最新更新 (2026-10-16 09:37)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [抖省省诞生7个月：引流灌溉、重金猛推，日活2000万后急速降温](https://www.leiphone.com/category/industrynews/14z0WQVo47kzEmxJ.html)
+**发布时间**: 2026-10-16 12:32
+
+#### [医美消费走向专业化、个性化，美团发布2026北极星医美榜](https://www.leiphone.com/category/industrynews/6nUC46T5N52m2W2V.html)
+**发布时间**: 2026-10-16 12:10
+
+#### [Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准](https://www.leiphone.com/category/industrynews/1GERVRJ72xJKmsus.html)
+**发布时间**: 2026-10-16 10:37
+
+#### [阿里千问上车宝马iX3](https://www.leiphone.com/category/industrynews/1zjGZ4srbO3kyVEw.html)
+**发布时间**: 2026-10-16 10:36
+
+#### [无人机表演十年后，大漠大想做「会干活」的机群](https://www.leiphone.com/category/robot/OA7EpCSSkv3D6yMD.html)
+**发布时间**: 2026-10-16 10:31
+
+#### [付费用户占比超 20%，电商商家「涌入」千问办公](https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html)
+**发布时间**: 2026-10-16 10:24
+
+#### [5 年前的机密文档被泄露：Anthropic 的所有胜利，早在 2021 年就写好了](https://www.leiphone.com/category/yanxishe/gO1lTcRqFyRtbiFP.html)
+**发布时间**: 2026-10-16 07:55
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index](https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/)
+**发布时间**: 2026-10-16 06:26
+
+#### [Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context](https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/)
+**发布时间**: 2026-10-16 02:26
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-16日刊](https://hex2077.dev/docs/2026-10/2026-10-16/)
+**发布时间**: 2026-10-16 05:52
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining)
+**发布时间**: 2026-10-16 01:44
 
 ---
 
