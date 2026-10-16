@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-15 09:41
+**最后更新时间**: 2026-10-16 01:04
+
+---
+
+## 🆕 最新更新 (2026-10-16 01:04)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [DeepSeek 出现服务故障，官方补偿 1 周 Token 消耗；库克：苹果智能月底在华发测试版；特斯拉、SpaceX 最快年底合并｜极客早知道](http://www.geekpark.net/news/372430)
+**发布时间**: 2026-10-16 08:15
+
+#### [手机大厂开始做穿戴录音，卷的已经不是转写：OPPO 心力球体验](http://www.geekpark.net/news/372428)
+**发布时间**: 2026-10-16 01:08
+
+#### [人形机器人最尴尬的事：长了一双腿，却只能定住干活](http://www.geekpark.net/news/372420)
+**发布时间**: 2026-10-15 18:20
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】潘功胜：全球失衡不能依靠汇率调节；DeepSeek发布补偿通知：将按账号7日内的消耗金额以赠金形式全额返还；工信部等三部门联合调查有关车辆刹车踏板支架断裂问题](https://www.tmtpost.com/8170437.html)
+**发布时间**: 2026-10-16 07:20
+
+#### [100万+ 内部GPU+免费午饭，盛大想把“超级个体”弹射上天](https://www.tmtpost.com/8170112.html)
+**发布时间**: 2026-10-15 19:01
+
+#### [OPPO决定 把 AI“外包” 给 Manus](https://www.tmtpost.com/8168726.html)
+**发布时间**: 2026-10-15 18:22
+
+#### [“机器人之眼”收入成谜，股东套现7.8亿，奥比中光278倍PE谁在买单？](https://www.tmtpost.com/8168985.html)
+**发布时间**: 2026-10-15 18:21
+
+#### [AI搞科研，到底在替谁打工？](https://www.tmtpost.com/8170092.html)
+**发布时间**: 2026-10-15 18:21
+
+#### [Agent热潮带火端侧AI，“奇点时刻”还有多远？](https://www.tmtpost.com/8170161.html)
+**发布时间**: 2026-10-15 18:12
+
+#### [由盈转亏，云深处IPO依旧全靠机器狗](https://www.tmtpost.com/8168901.html)
+**发布时间**: 2026-10-15 18:09
+
+#### [20家机构，见证中国资本的专业力量](https://www.tmtpost.com/8170191.html)
+**发布时间**: 2026-10-15 18:03
+
+#### [从碳酸锂到纯碱：供需之外，大宗商品为何屡现暴涨暴跌？](https://www.tmtpost.com/8170102.html)
+**发布时间**: 2026-10-15 18:00
+
+#### [AI短剧渗透6亿人，长视频平台终于坐不住了](https://www.tmtpost.com/8170047.html)
+**发布时间**: 2026-10-15 18:00
+
+#### [港股IPO配售调查：43.79亿港元资产限制背后，谁在为IPO托底](https://www.tmtpost.com/8169925.html)
+**发布时间**: 2026-10-15 18:00
+
+#### [1000多万中产追捧的“顶流超市”，一半生意在店外](https://www.tmtpost.com/8170084.html)
+**发布时间**: 2026-10-15 17:57
+
+#### [投资人抢投科学家，量子赛道最新估值TOP 10都有谁？](https://www.tmtpost.com/8170087.html)
+**发布时间**: 2026-10-15 17:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文](https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 23:06
+
+#### [阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统](https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 20:09
+
+#### [蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流](https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 19:33
+
+#### [国产 GPU 越来越多，为什么反而更难用？](https://www.infoq.cn/article/pkyTD9OWfpU7QvIbLX2j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 19:25
+
+#### [黄仁勋谈中国 AI 公司：算力很缺，但他们就是在拼命把事情做成](https://www.infoq.cn/article/HC8SAgaZmHc6sfwp9gc9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 19:19
+
+#### [AI 侦察团集结 QCon 上海：企业一号位，如何把 AI 从试点带进业务？](https://www.infoq.cn/article/GSZMrydgKuejLcCpEGYb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 19:15
+
+#### [微软一口气致谢 23 个漏洞，背后是智谱 GLM 和一位顶级“白帽”](https://www.infoq.cn/article/JZZ6JSvRBq3R579uy8V3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-15 17:50
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 253｜少数派的编辑们最近买了啥？](https://sspai.com/post/116246)
+**发布时间**: 2026-10-15 17:10
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [清华在 GitHub 上开源的 Agent 工作台，最近更新了 2.0 版本。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537716&idx=1&sn=b88d7aec28cf8cc8bbb217813d392f91)
+**发布时间**: 2026-10-15 14:03
 
 ---
 

@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-15 09:39
+**最后更新时间**: 2026-10-16 01:01
+
+---
+
+## 🆕 最新更新 (2026-10-16 01:01)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1)
+**发布时间**: 2026-10-15 20:34
+
+#### [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](https://huggingface.co/blog/meta-muse-spark-open)
+**发布时间**: 2026-10-15 00:00
+
+#### [Welcome FLUX.3 Image Klein in Diffusers](https://huggingface.co/blog/flux-3)
+**发布时间**: 2026-10-15 00:00
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model](https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/)
+**发布时间**: 2026-10-15 19:53
+
+#### [CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data](https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/)
+**发布时间**: 2026-10-15 14:19
+
+#### [openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026](https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/)
+**发布时间**: 2026-10-15 13:23
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [微信、淘宝、美团等151款APP拒绝豆包手机助手GUI自动化代操作；对标字节红果，腾讯上线绿泡泡短剧；OpenAI 一工程师被捕，涉嫌窃听机密](https://www.leiphone.com/category/zaobao/VMod1gHtw3lRoiXd.html)
+**发布时间**: 2026-10-15 18:40
+
+#### [真正的双11于10月20日天猫开卖，100万品牌参与创纪录](https://www.leiphone.com/category/industrynews/XglZmCzDODLD4Ko5.html)
+**发布时间**: 2026-10-15 18:32
+
+#### [全球首发：万拿NOVA21灵巧手，拓展灵巧操作研究边界](https://www.leiphone.com/category/industrynews/ep1fzlxxZTkWwo67.html)
+**发布时间**: 2026-10-15 18:26
+
+#### [基元律动宣布开发者入驻超30万，开启双11预售福利](https://www.leiphone.com/category/industrynews/q4lmqn7eQuS484J7.html)
+**发布时间**: 2026-10-15 18:17
+
+#### [库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本](https://www.leiphone.com/category/industrynews/P1btLjli3z8XoQkz.html)
+**发布时间**: 2026-10-15 17:28
+
+#### [京东采销员工发布谣言诋毁其他平台被起诉，法院已立案](https://www.leiphone.com/category/industrynews/3pF2gUvuBewkORgl.html)
+**发布时间**: 2026-10-15 16:57
+
+#### [海康威视亮相2026中国工博会：物联感知+AI，加速工业场景数字化](https://www.leiphone.com/category/industrynews/1SliUXA2cNsJLwzk.html)
+**发布时间**: 2026-10-15 16:50
+
+#### [超声大模型加持，海康AI超声检测荣获2026中国工博会“工业自动化奖”](https://www.leiphone.com/category/industrynews/ZKD7Fqh34I9b4ujG.html)
+**发布时间**: 2026-10-15 16:45
+
+#### [大模型「土木系」终翻身：AI Infra 年薪冲到 800 万？](https://www.leiphone.com/category/industrynews/azREeBbKSJ84PQTK.html)
+**发布时间**: 2026-10-15 15:46
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/)
+**发布时间**: 2026-10-15 17:43
+
+#### [Trust in Depth: Giving agents more autonomy without losing control](https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/)
+**发布时间**: 2026-10-15 15:05
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind](https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015)
+**发布时间**: 2026-10-15 17:00
+
+#### [AI model decodes the language cells use to communicate](https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015)
+**发布时间**: 2026-10-15 16:50
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/)
+**发布时间**: 2026-10-15 17:00
+
+#### [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/)
+**发布时间**: 2026-10-15 15:00
+
+#### [Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/)
+**发布时间**: 2026-10-15 13:00
+
+#### [NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute](https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/)
+**发布时间**: 2026-10-15 10:00
 
 ---
 

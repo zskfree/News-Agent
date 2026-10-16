@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-15 09:41
+**最后更新时间**: 2026-10-16 01:04
+
+---
+
+## 🆕 最新更新 (2026-10-16 01:04)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Pepsi loses more ground in the soda wars, as KFC switches to Coke](https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 23:29
+
+#### [How a midterm sweep by Democrats could turn this tech selloff into a tech crash](https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 21:56
+
+#### [Nvidia and other chip stocks face renewed pressure as AI fears swell](https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 21:23
+
+#### [Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.](https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 21:21
+
+#### [CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending](https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 21:03
+
+#### [Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.](https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 20:40
+
+#### [Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets](https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 20:29
+
+#### [This one governor’s race could derail the AI trade that’s powered the stock market](https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-15 19:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Netflix replaces chief content officer in effort to arrest declining share price](https://www.ft.com/content/9187726d-0f4c-4f05-b421-b5fc656522b9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 23:18
+
+#### [Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’](https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 21:10
+
+#### [Treasuries rally as investors seek shelter from AI turbulence](https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 20:20
+
+#### [Harvard’s endowment returns surge on back of AI and SpaceX investments](https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 20:06
+
+#### [Investors dump data centre bonds as AI borrowers face ‘Darwin moment’](https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 18:27
+
+#### [Trump cancels Hegseth’s plan to livestream execution after backlash](https://www.ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 17:16
+
+#### [Risk of an AI crunch for stock markets is rising](https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 16:53
+
+#### [Germany’s Merz vows to fight on: ‘We are the firewall’](https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 12:00
+
+#### [Republicans fund midterms ad blitz as Democrats gain in polls](https://www.ft.com/content/481f7865-b6bb-40b8-9ee2-7554f6914007?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 10:00
+
+#### [CoreWeave’s bonds scream financial distress](https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b)
+**发布时间**: 2026-10-15 09:17
+
+#### [How will Big Oil spend its $32bn Iran war windfall?](https://www.ft.com/content/9d70cd3f-abd3-4e40-b644-156444cec446?syn-25a6b1a6=1)
+**发布时间**: 2026-10-15 04:00
 
 ---
 
