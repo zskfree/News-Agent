@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-16 09:39
+**最后更新时间**: 2026-10-17 01:09
+
+---
+
+## 🆕 最新更新 (2026-10-17 01:09)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic offers Blackstone double-digit yield in latest chip financing](https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 00:47
+
+#### [Oil hits five-month high of $110 on new escalation in Middle East](https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 22:57
+
+#### [Apple blames ‘extraordinary’ demand as foldable iPhones sell out](https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 21:03
+
+#### [Big Tech stocks suffer biggest weekly drop since ‘liberation day’](https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 20:42
+
+#### [Trump’s press secretary Katie Zacharia fired after five days](https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 20:14
+
+#### [Israeli settlers attack Palestinians carrying out olive harvest in West Bank](https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 19:42
+
+#### [Alexandr Wang, Meta’s AI wunderkind](https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 16:31
+
+#### [India police detain ‘Cockroach’ leader again to head off new protests](https://www.ft.com/content/15922d6d-421a-4b33-a329-45443491e1be?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 14:39
+
+#### [Republicans turn on Trump’s tariffs in battle for ‘political survival’](https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 10:00
+
+#### [Anthropic assigned highest junk credit rating in June](https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nowhere to hide: Tech selloff hits software and chip stocks alike](https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 21:59
+
+#### [This Senate race where data centers are a crucial issue has more spending than any other midterm clash](https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 21:43
+
+#### [Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.](https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 21:35
+
+#### [The bond market shrugged off two inflation shocks. Why stock investors should pay attention.](https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 21:30
+
+#### [New SEC rules would fleece everyday investors to enrich Wall Street](https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 21:21
+
+#### [I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?](https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 21:15
+
+#### [Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks](https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 20:58
+
+#### [EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says](https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 20:05
+
+#### [Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.](https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories)
+**发布时间**: 2026-10-16 19:46
 
 ---
 

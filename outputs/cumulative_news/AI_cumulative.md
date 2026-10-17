@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-16 09:37
+**最后更新时间**: 2026-10-17 01:07
+
+---
+
+## 🆕 最新更新 (2026-10-17 01:07)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents](https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/)
+**发布时间**: 2026-10-17 00:09
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [抖音电商公布双11首日数据：店播成交额破千万元商家数量同比增长96%](https://www.leiphone.com/category/industrynews/qgqGTqVLQMmIkNdP.html)
+**发布时间**: 2026-10-16 20:50
+
+#### [JAECOO × Momenta完成首个无接管凯旋门智驾挑战，联合征服巴黎“最难魔鬼环岛”](https://www.leiphone.com/category/industrynews/LDt2TEiUf3wgi2Os.html)
+**发布时间**: 2026-10-16 20:17
+
+#### [推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见](https://www.leiphone.com/category/yanxishe/Vr0JmbkUeZV5D9Qz.html)
+**发布时间**: 2026-10-16 19:33
+
+#### [长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报](https://www.leiphone.com/category/zaobao/EReMkZNn9w5H85Tf.html)
+**发布时间**: 2026-10-16 18:39
+
+#### [京东左琦发布诋毁信息被起诉，再发谣言后抖音电商表示将追加起诉](https://www.leiphone.com/category/industrynews/s92jb2hngPJlF9Gj.html)
+**发布时间**: 2026-10-16 17:02
+
+#### [中控技术接入千问办公，打造流程工业领域AI Native标杆企业](https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html)
+**发布时间**: 2026-10-16 15:51
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-16 20:48
+
+#### [Introducing Reflection Beam: an open-weight model for agentic coding on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/)
+**发布时间**: 2026-10-16 15:23
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Grounding AI agents in biological reality: Building blocks for autonomous wet labs](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/)
+**发布时间**: 2026-10-16 18:11
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Fostering community amid Kendall Square’s innovation](https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016)
+**发布时间**: 2026-10-16 12:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam)
+**发布时间**: 2026-10-16 00:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相](https://www.qbitai.com/2026/10/503645.html)
+**发布时间**: 2026-10-15 10:07
+
+#### [库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本](https://www.qbitai.com/2026/10/503640.html)
+**发布时间**: 2026-10-15 09:43
+
+#### [量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架](https://www.qbitai.com/2026/10/503614.html)
+**发布时间**: 2026-10-15 08:48
+
+#### [2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者](https://www.qbitai.com/2026/10/503611.html)
+**发布时间**: 2026-10-15 08:16
+
+#### [这个双十一，百灵新模型干起活来不烧心](https://www.qbitai.com/2026/10/503532.html)
+**发布时间**: 2026-10-15 07:35
+
+#### [AI时代，商学院这样培养未来商业领袖](https://www.qbitai.com/2026/10/503504.html)
+**发布时间**: 2026-10-15 07:22
+
+#### [基元律动宣布开发者入驻超30万，开启双11预售福利](https://www.qbitai.com/2026/10/503501.html)
+**发布时间**: 2026-10-15 06:59
+
+#### [苹果AI国内上线，阿里百度浮出水面](https://www.qbitai.com/2026/10/503497.html)
+**发布时间**: 2026-10-15 06:52
+
+#### [前华为小艺大模型负责人创业，押注“主动式物理AI”](https://www.qbitai.com/2026/10/503446.html)
+**发布时间**: 2026-10-15 06:35
+
+#### [刚刚，苹果正式迈入5万亿美元时代](https://www.qbitai.com/2026/10/503434.html)
+**发布时间**: 2026-10-15 05:36
 
 ---
 
