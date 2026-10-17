@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-17 01:07
+**最后更新时间**: 2026-10-17 09:03
+
+---
+
+## 🆕 最新更新 (2026-10-17 09:03)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [双11 iPhone Duo平台大战，比的就是货源，记者实测：只有苹果官网、天猫可下单](https://www.leiphone.com/category/industrynews/LMBQVV27PkpS0P58.html)
+**发布时间**: 2026-10-17 12:29
+
+#### [抖音商城双11首日数据：消费券带动破千万商家数同比增长74%](https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html)
+**发布时间**: 2026-10-17 12:16
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026](https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/)
+**发布时间**: 2026-10-17 07:26
+
+#### [StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context](https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/)
+**发布时间**: 2026-10-17 06:29
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-17日刊](https://hex2077.dev/docs/2026-10/2026-10-17/)
+**发布时间**: 2026-10-17 04:20
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型](https://www.qbitai.com/2026/10/503880.html)
+**发布时间**: 2026-10-16 12:54
+
+#### [从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？](https://www.qbitai.com/2026/10/503865.html)
+**发布时间**: 2026-10-16 08:12
+
+#### [说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历](https://www.qbitai.com/2026/10/503861.html)
+**发布时间**: 2026-10-16 08:07
+
+#### [霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力](https://www.qbitai.com/2026/10/503843.html)
+**发布时间**: 2026-10-16 08:00
+
+#### [范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”](https://www.qbitai.com/2026/10/503829.html)
+**发布时间**: 2026-10-16 07:16
+
+#### [68岁亚马逊CTO：别让恐惧，替企业做AI决策](https://www.qbitai.com/2026/10/503815.html)
+**发布时间**: 2026-10-16 07:01
+
+#### [超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户](https://www.qbitai.com/2026/10/503782.html)
+**发布时间**: 2026-10-16 06:17
+
+#### [百度世界2026五大亮点曝光，企业和开发者值得关注什么？](https://www.qbitai.com/2026/10/503779.html)
+**发布时间**: 2026-10-16 06:07
+
+#### [中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控](https://www.qbitai.com/2026/10/503756.html)
+**发布时间**: 2026-10-16 05:47
+
+#### [刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价](https://www.qbitai.com/2026/10/503701.html)
+**发布时间**: 2026-10-16 05:04
 
 ---
 

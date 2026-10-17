@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-17 01:09
+**最后更新时间**: 2026-10-17 09:05
+
+---
+
+## 🆕 最新更新 (2026-10-17 09:05)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Kling 4.0发布，可灵AI的估值凭什么反超母体快手？](https://www.tmtpost.com/8171555.html)
+**发布时间**: 2026-10-17 16:20
+
+#### [夹在字节缝隙中的AI融资明星们](https://www.tmtpost.com/8171535.html)
+**发布时间**: 2026-10-17 15:38
+
+#### [小儿推拿馆，熬走了街边所有的店](https://www.tmtpost.com/8171719.html)
+**发布时间**: 2026-10-17 15:38
+
+#### [今年“双11”，从“大促”变“大考”](https://www.tmtpost.com/8171982.html)
+**发布时间**: 2026-10-17 15:36
+
+#### [AI 的下一个前沿在哪里？数百位创业者在上海给出了这些答案](https://www.tmtpost.com/8171952.html)
+**发布时间**: 2026-10-17 14:29
+
+#### [我被AI诈骗盯上了](https://www.tmtpost.com/8171813.html)
+**发布时间**: 2026-10-17 13:36
+
+#### [半年亏损1.91亿！特斯拉供应商冲刺“A+H”，超颖电子现金流亮红灯](https://www.tmtpost.com/8171868.html)
+**发布时间**: 2026-10-17 13:36
+
+#### [“便宜”这门生意，为什么这么难学？](https://www.tmtpost.com/8171924.html)
+**发布时间**: 2026-10-17 13:36
+
+#### [Anthropic 值 2 万亿美元吗？](https://www.tmtpost.com/8171640.html)
+**发布时间**: 2026-10-17 13:36
+
+#### [AI开始接管毛孩子的“终身大事”](https://www.tmtpost.com/8171403.html)
+**发布时间**: 2026-10-17 13:18
+
+#### [投影仪半年少卖70万台，都怪红果短剧太上头](https://www.tmtpost.com/8171548.html)
+**发布时间**: 2026-10-17 12:53
+
+#### [为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天](https://www.tmtpost.com/8171881.html)
+**发布时间**: 2026-10-17 10:42
+
+#### [溢价上万元、首发秒售罄，AI也抢不到iPhone Duo](https://www.tmtpost.com/8171849.html)
+**发布时间**: 2026-10-17 10:36
+
+#### [【数智周报】   英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片；字节跳动Seed单设安全与对齐部门;微软在AI改革中重组Azure云部门](https://www.tmtpost.com/8171854.html)
+**发布时间**: 2026-10-17 10:34
+
+#### [14.8% 的 AI 商品，撑起全球贸易近半增量：买家集中在几家云厂商](https://www.tmtpost.com/8171227.html)
+**发布时间**: 2026-10-17 09:58
+
+#### [5000亿“隐形矿王”，豪掷12亿做LP](https://www.tmtpost.com/8171514.html)
+**发布时间**: 2026-10-17 09:38
+
+#### [论人情世故，腾讯这批闯祸的Agent上大分了](https://www.tmtpost.com/8171428.html)
+**发布时间**: 2026-10-17 09:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Akka 在 65 个开源项目中测试基于规格的 AI 交付](https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-17 15:00
+
+#### [The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海](https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-17 10:00
+
+#### [Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe](https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-17 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相](http://www.geekpark.net/news/372509)
+**发布时间**: 2026-10-17 10:46
 
 ---
 

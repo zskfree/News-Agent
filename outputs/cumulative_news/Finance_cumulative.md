@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-17 01:09
+**最后更新时间**: 2026-10-17 09:05
+
+---
+
+## 🆕 最新更新 (2026-10-17 09:05)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Are we sleepwalking into World War III?](https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 04:00
+
+#### [The Man City theory of politics](https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 04:00
+
+#### [The dress rehearsal for an AI reckoning](https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 04:00
+
+#### [‘Inflation will make people poor’: Airlines brace for years of pain](https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 04:00
+
+#### [Houthis encircle new target in conflict with Saudi-backed forces](https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 04:00
+
+#### [Trump exempts Russia from further sanctions mandated by new law](https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 02:31
+
+#### [Rich make millions by flipping private jets](https://www.ft.com/content/35db7c20-ba9f-4ceb-ba14-5c62ce316028?syn-25a6b1a6=1)
+**发布时间**: 2026-10-16 20:00
 
 ---
 
