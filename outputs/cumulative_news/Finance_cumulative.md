@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-17 09:05
+**最后更新时间**: 2026-10-18 00:43
+
+---
+
+## 🆕 最新更新 (2026-10-18 00:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Protests across France spiral into riots and looting](https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 22:49
+
+#### [Israeli settlers attack European diplomats in the West Bank](https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0)
+**发布时间**: 2026-10-17 17:58
+
+#### [Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’](https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 12:53
+
+#### [Corporate donations flood US attorneys-general election races](https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 10:00
+
+#### [Why have screens replaced socialising?](https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1)
+**发布时间**: 2026-10-17 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.](https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories)
+**发布时间**: 2026-10-17 20:53
+
+#### [Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties](https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories)
+**发布时间**: 2026-10-17 18:52
+
+#### [Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful](https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories)
+**发布时间**: 2026-10-17 18:40
+
+#### [Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.](https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories)
+**发布时间**: 2026-10-17 18:40
+
+#### [Meet the home buyers totally unfazed by 7% mortgage rates](https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-17 13:00
+
+#### [Influencers and biohackers swear by fasting. Here’s what the science says.](https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-17 12:31
+
+#### [Silver’s recent 50% drop from a record high hints that an economic slowdown looms](https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-17 12:30
+
+#### [Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays](https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories)
+**发布时间**: 2026-10-17 12:01
 
 ---
 

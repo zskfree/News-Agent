@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-17 09:03
+**最后更新时间**: 2026-10-18 00:41
+
+---
+
+## 🆕 最新更新 (2026-10-18 00:41)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？](https://www.leiphone.com/category/transportation/F3nQwjeqDO0BtrQ0.html)
+**发布时间**: 2026-10-17 22:42
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/)
+**发布时间**: 2026-10-17 21:00
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation](https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/)
+**发布时间**: 2026-10-17 20:22
+
+#### [DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API](https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/)
+**发布时间**: 2026-10-17 08:53
 
 ---
 
