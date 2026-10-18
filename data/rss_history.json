@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "350cb6318d927712471d23a02150f464a2558ff11f7e7909c0627015ddbc1661": {
-        "title": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
-        "link": "https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 17 Sep 2026 19:29:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522332"
-      },
-      "1f507a83ed43aa2a8661ca369dfcd9040cea6a078ba80e36fb746dc89b44b2b6": {
-        "title": "【钛晨报】金融产品网络营销新规落地在即，上海证监局叫停“大V”合作营销；三大交易所发布中秋、国庆休市安排；宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能",
-        "link": "https://www.tmtpost.com/8144053.html",
-        "published_date": "Fri, 18 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522341"
-      },
-      "b2e3cb03cb067e5c237f7d98b0b74aacd3f683c6853adfbd6fa84b01a5f1214c": {
-        "title": "影视飓风 Tim 称 iPhone Duo「烫到握不住」；赛力斯否认「问界撤出华为门店」；黄仁勋：英伟达 2027 年芯片销量将翻倍",
-        "link": "http://www.geekpark.net/news/370539",
-        "published_date": "Fri, 18 Sep 2026 08:17:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522344"
-      },
-      "9b075adb446e034151d49e35d3553a97048bb6b50fc4e45393146a0b536afb28": {
-        "title": "Edge AI Daily 早报（9月18日）",
-        "link": "https://www.tmtpost.com/8144183.html",
-        "published_date": "Fri, 18 Sep 2026 08:30:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522346"
-      },
-      "4c317d75b69d2a60756ede034a1f2b908e206018ef427ed2bcbae0f192b14bd1": {
-        "title": "一位CIO的自我革命：AI三年，从内部重构到外部生长",
-        "link": "https://www.tmtpost.com/8141973.html",
-        "published_date": "Fri, 18 Sep 2026 08:00:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522348"
-      },
-      "8bcb5b15b4805239181c850a25a6379dc520558348a67ec2f00bb25fa3e7cfc6": {
-        "title": "Agent手机爆发前夜，vivo把答案押在\"个人化智能\"",
-        "link": "https://www.tmtpost.com/8143272.html",
-        "published_date": "Fri, 18 Sep 2026 07:28:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522349"
-      },
-      "19cee0c66cede487e678c34202bb521c2ab6bae3177fac8e958728b2d48ff886": {
-        "title": "从过山车到机器人：金马游乐5.61亿定增的战略转向与风险",
-        "link": "https://www.tmtpost.com/8143448.html",
-        "published_date": "Thu, 17 Sep 2026 23:41:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522351"
-      },
-      "866b814c0fdc4ef212262527a53ab0327e48b53d87540bde9233678b3dfea8e6": {
-        "title": "重资产举债入局，又一老牌药企签下十亿级算力大单丨行业风向标",
-        "link": "https://www.tmtpost.com/8144031.html",
-        "published_date": "Thu, 17 Sep 2026 23:27:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522352"
-      },
-      "ced8afb55f6e7a7e92c36c0f7ac809030d8cdc3ebde34dcd6495061e5894297f": {
-        "title": "万亿市场背后，AI数据基础设施的竞赛已经开始",
-        "link": "https://www.tmtpost.com/8143760.html",
-        "published_date": "Thu, 17 Sep 2026 19:36:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522354"
-      },
-      "fb8439e7fb6244806db64c2b15cf8a348549f59d2127680cc70adf68506684d6": {
-        "title": "机器人企业还没拿到“大结果”",
-        "link": "https://www.tmtpost.com/8143738.html",
-        "published_date": "Thu, 17 Sep 2026 19:36:00 GMT",
-        "first_seen": "2026-09-18T01:08:02.522355"
-      },
       "3c2002d02e7119452b1a5c6e00f2f6656eb1c59944e836ffb87da99a3c3ee163": {
         "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
         "link": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article",
@@ -3511,69 +3451,69 @@
         "link": "https://www.tmtpost.com/8171548.html",
         "published_date": "Sat, 17 Oct 2026 12:53:00 GMT",
         "first_seen": "2026-10-18T00:43:59.472378"
+      },
+      "5317885b6ddff04f39f75c1be429bd3dd05e6396c431c5e71fd8289019bfbe01": {
+        "title": "Cloudflare 修复了容器中的跨租户数据泄露问题",
+        "link": "https://www.infoq.cn/article/YmllSwKbZXY0bcVjjw70?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 18 Oct 2026 16:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588624"
+      },
+      "05f9fd5ec4e6f4025a8d85f0002a0d86af9e1e628981c7dbbfa2789d7ed6472d": {
+        "title": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "link": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 18 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588636"
+      },
+      "1032dbb6c53d7244bc270c79c61d8f03f4d6c09a4402cdeb8f0f08904ed55ef8": {
+        "title": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+        "link": "https://www.infoq.cn/article/4BUR4DmMxSBxyzYh6Fxz?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 18 Oct 2026 09:17:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588638"
+      },
+      "93f4720a684bb26c9d3b531dac65541af60279f9bd6f2369a57e96290a870b73": {
+        "title": "“任丘样本”给行业上了一课：全国首批锂+钠示范落地河北，大电芯为何看远景790Ah？",
+        "link": "https://www.tmtpost.com/8172199.html",
+        "published_date": "Sun, 18 Oct 2026 15:55:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588640"
+      },
+      "2712ea746b9f616a463e7fed72b89b14c9a7772e96a17704914ea4fe042a4786": {
+        "title": "解禁1.7万亿、回购1.7万亿，美股最大的一场对赌在2027",
+        "link": "https://www.tmtpost.com/8172252.html",
+        "published_date": "Sun, 18 Oct 2026 15:55:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588642"
+      },
+      "a78cbbd0442884e2090e7163fb5d97777b122adb8a6def3b8f51009af84b87ab": {
+        "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生",
+        "link": "https://www.tmtpost.com/8172334.html",
+        "published_date": "Sun, 18 Oct 2026 15:55:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588643"
+      },
+      "7399988916806c683b32c98411df030c830ad0c17fab4fee4222289201046fe3": {
+        "title": "4549家店狂奔，必胜客却“栽”在一只蟑螂手里",
+        "link": "https://www.tmtpost.com/8172248.html",
+        "published_date": "Sun, 18 Oct 2026 15:35:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588645"
+      },
+      "6e2f376a1b6ff2570cec160d162f681b4eee314f1db7a7aa1248cd2e3e71d995": {
+        "title": "营收腰斩的煌上煌加盟商，变“孤独守店人”",
+        "link": "https://www.tmtpost.com/8172236.html",
+        "published_date": "Sun, 18 Oct 2026 15:35:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588646"
+      },
+      "baa4b49a264e0635ee44a4fb047634cf37a1db74a3e556b6231ecb19b7915c3a": {
+        "title": "谁更需要这场双 11 ？",
+        "link": "https://www.tmtpost.com/8172264.html",
+        "published_date": "Sun, 18 Oct 2026 15:35:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588646"
+      },
+      "10821833abe84c9aa4aaf210c06279eed2ac6efa68398bb05f939fda1ed90259": {
+        "title": "AI让服饰下单转化率提升近20%，2026天猫双11将开启AI电商元年？",
+        "link": "https://www.tmtpost.com/8172255.html",
+        "published_date": "Sun, 18 Oct 2026 14:06:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.588647"
       }
     },
     "Finance": {
-      "362f5425c03a2acc91ea6cbeb1986bc256f78c860108c17df39e8010b3e342f2": {
-        "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia",
-        "link": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
-        "published_date": "Thu, 17 Sep 2026 22:22:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535063"
-      },
-      "584167a3e91c0c3d662b65589e8931d830c3702462f5aba18c74c6583ca6d508": {
-        "title": "Reform UK’s mega-donor backed a friend’s libel claim. Now he controls her home",
-        "link": "https://www.ft.com/content/21aa563b-2cd1-4f09-b505-fcf579248fe6?syn-25a6b1a6=1",
-        "published_date": "Thu, 17 Sep 2026 17:24:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535071"
-      },
-      "871621bb9624dba9c7d88d1c3ce39a0e65c7baadefbb8a984fdf472d319ed062": {
-        "title": "Hispanic voters feel ‘betrayed’ by Trump, top Republican says",
-        "link": "https://www.ft.com/content/0b3d10cb-a321-429f-879d-86e1bee82efe?syn-25a6b1a6=1",
-        "published_date": "Thu, 17 Sep 2026 17:10:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535073"
-      },
-      "5e0df4538aa7f77263f4b0652dcc7414a7b4d09870229109c50fd5703e655984": {
-        "title": "Has AI broken the old VC model?",
-        "link": "https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1",
-        "published_date": "Thu, 17 Sep 2026 16:46:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535075"
-      },
-      "87a5b20a9f566af37783c45adb984e3141c92fa6ca53134c1c80cee9b9c0f0b3": {
-        "title": "Turkish authorities rush to stem fallout from stock market scandal",
-        "link": "https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e?syn-25a6b1a6=1",
-        "published_date": "Thu, 17 Sep 2026 11:59:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535077"
-      },
-      "0426aedc2d4a2954f1322e185a9c30ce069019573b0df316a988e5f2ca571395": {
-        "title": "China’s AI labs must accelerate development, says Huawei chair",
-        "link": "https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1",
-        "published_date": "Thu, 17 Sep 2026 10:50:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535078"
-      },
-      "58815e768253aedae0444a04b4a595996d493139e3b3ae1bc1db5991cc4f3b4a": {
-        "title": "Wall Street warns trading boom is losing steam",
-        "link": "https://www.ft.com/content/3bb7e0e8-6aef-4b6b-a5f0-f472a2655c1f?syn-25a6b1a6=1",
-        "published_date": "Thu, 17 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535080"
-      },
-      "127649a11bb73c45016229f4d3ed8289ca2a7105811fb76ef89d0103e6774cac": {
-        "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-        "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-        "published_date": "Thu, 17 Sep 2026 21:22:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535081"
-      },
-      "109418af89af17dd7755b0c07979214ddc71c0d18821e96285bf6c2eed5ac71e": {
-        "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-        "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-        "published_date": "Thu, 17 Sep 2026 21:09:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535083"
-      },
-      "0c08d76399e69d03c98d6976ae0cd626fb71f2f32d5a10bb3e07111eda334886": {
-        "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
-        "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-        "published_date": "Thu, 17 Sep 2026 20:23:00 GMT",
-        "first_seen": "2026-09-18T01:08:21.535084"
-      },
       "b67430a0938a97133935fc89cda238c062c0f985ba1b7d9a47fd2f08f0519764": {
         "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term insurance?",
         "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
@@ -6987,69 +6927,63 @@
         "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
         "published_date": "Sat, 17 Oct 2026 12:30:00 GMT",
         "first_seen": "2026-10-18T00:44:08.932489"
+      },
+      "8212d0457603866d9053b40b992faaf94d99524403dfc61cc16a90161d39eb8c": {
+        "title": "America’s $10tn AI infrastructure boom is starting to fray",
+        "link": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622041"
+      },
+      "bcc7fdefdf421c2052a038cc4fc4e4561f6a3e664a60d61411ce929f1487656d": {
+        "title": "Global economy set for AI-driven surge, FT survey suggests",
+        "link": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622049"
+      },
+      "0c4c3fedb84fc8fabe88fba9f2e89768cadfb25332c55a1751e86c84245196e4": {
+        "title": "Anthropic turns to lawyers to help AI agents strike deals",
+        "link": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622051"
+      },
+      "cda927be6c46709520f7fb40e1fbbfa66921381b7bbe3ff7e864d6d1ebc6be7c": {
+        "title": "The world’s fastest-growing cities are not where you think",
+        "link": "https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622052"
+      },
+      "7f23bf606c4df498b0908d69eeb0254259b21e2175f4457331580303b1cb110c": {
+        "title": "The Trump administration has entered its utter shambles era",
+        "link": "https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622053"
+      },
+      "9226fa8de1a82491fb99f5b2cb7dd9dc4fee85a83cbd09bf2c6ac89269db9557": {
+        "title": "Europe must liberate Belgium from its huge Russian assets risk",
+        "link": "https://www.ft.com/content/c3d73770-4d91-4bd0-bf6d-7f9375e2b938?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622054"
+      },
+      "1a6fe0cd62457fc16527d96245c4ca3dd0214f5557bc1b3fa7be902cb781e32a": {
+        "title": "Russian ‘shadow fleet’ fakes locations to appear in two places at once",
+        "link": "https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622055"
+      },
+      "7062fb9998a4eab786257ad5aa4ab244a8a4020bb929425be9a81f62a9d10d96": {
+        "title": "Latvia calls for visa ban on Russians",
+        "link": "https://www.ft.com/content/75a42e7d-1497-4760-bd75-1cbd083fc9a4?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622056"
+      },
+      "7587be96538676f0db2b5d20073058478f0a9a8c6bdf3b2e7961038b75b23390": {
+        "title": "Listings in south-east Asia gain momentum with $1bn IPO",
+        "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 01:00:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.622057"
       }
     },
     "Ai": {
-      "6064472ce99ea58b4882112c5f61e7e531a4c1daebdbf80aae65e33e8c1c44eb": {
-        "title": "华为开创AI时代计算架构：让百万处理器成为一台计算机",
-        "link": "https://www.leiphone.com/category/industrynews/ZAv4gLB8zM5B5PBX.html",
-        "published_date": "Thu, 17 Sep 2026 22:25:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064211"
-      },
-      "db2f2862c2c5d9b2c7d2a9b2751779453ef7f2a96c50655bbea21db87773874e": {
-        "title": "360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
-        "link": "https://www.leiphone.com/category/industrynews/IX9DPt2tjo0E0gDh.html",
-        "published_date": "Thu, 17 Sep 2026 20:31:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064218"
-      },
-      "142b1305d1e1c58dda0185155dd8871fd6c1a58458253720d5a69499491bfc90": {
-        "title": "九识建成首个L4万卡集群，无人驾驶进入多模态大模型新范式",
-        "link": "https://www.leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html",
-        "published_date": "Thu, 17 Sep 2026 18:14:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064220"
-      },
-      "5dfd326c17dd49046639b968b9ebabe0cb609828aab80f00247c7cb5a0788d9e": {
-        "title": "安芯启程｜安芯724北京基地正式投产",
-        "link": "https://www.leiphone.com/category/industrynews/KOCAotOwioun3Los.html",
-        "published_date": "Thu, 17 Sep 2026 17:44:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064222"
-      },
-      "40c8464842b18468fa087585ca2cb2def6c4d5e263339307dcf822ca1fdf60f1": {
-        "title": "蚂蚁集团全员接入千问办公，打造大型企业办公标杆",
-        "link": "https://www.leiphone.com/category/industrynews/U3X9WHILcYX0kh4l.html",
-        "published_date": "Thu, 17 Sep 2026 16:25:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064224"
-      },
-      "12dee23c0ef98beb37b4d597e1c1eb7405f93b423b0a1cbcad7f573b642af4ae": {
-        "title": "AI办公之外，百度智能云为何盯上「产业智能体操作系统」？",
-        "link": "https://www.leiphone.com/category/industrynews/oZjAyDmVEtf8iH76.html",
-        "published_date": "Thu, 17 Sep 2026 16:15:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064226"
-      },
-      "bd429eafbc4dadc514620947f441ea1b8575f3efb40029523f52d9a7616ab23d": {
-        "title": "独家丨BAT 天价挖 Gemini 大牛，可惜都挖错了",
-        "link": "https://www.leiphone.com/category/industrynews/dXtXNwFL1snjR35X.html",
-        "published_date": "Thu, 17 Sep 2026 16:02:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064228"
-      },
-      "370a55b32a01e29728cb57c652af9a8e0048d4db73c9c0f4a7b6bcd0f81a7ed2": {
-        "title": "独家丨前腾讯混元预训练负责人姚星丞，加入Thinking Machines Lab",
-        "link": "https://www.leiphone.com/category/industrynews/xfxXxO3233YuLZEJ.html",
-        "published_date": "Thu, 17 Sep 2026 15:52:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064229"
-      },
-      "ef459a651c6d3455568b585b495aa4613f01ae0e18f6bc04be05e48f7ad65d77": {
-        "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-        "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-        "published_date": "Thu, 17 Sep 2026 20:45:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064230"
-      },
-      "316c545f38fed3cd3ee6e0b331baf9b9a28dad1282ef09a0741c08e14ad68b0f": {
-        "title": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
-        "link": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
-        "published_date": "Thu, 17 Sep 2026 17:55:00 GMT",
-        "first_seen": "2026-09-18T01:08:12.064232"
-      },
       "c83d91ce36ee4f2b03eaab9c0e154aa6832fadf69dd642c0fbbe25539068a4ad": {
         "title": "独家解读丨行业首创之后，极壳Halo的账能算平吗？",
         "link": "https://www.leiphone.com/category/weiwu/V4gtXhVreRgnCmys.html",
@@ -9869,13 +9803,43 @@
         "link": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
         "published_date": "Sat, 17 Oct 2026 20:22:00 GMT",
         "first_seen": "2026-10-18T00:44:09.062130"
+      },
+      "95e79127ed04f8b7c3fe9faffb28072d14a989ac56d7481409b8df9517f8a573": {
+        "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
+        "link": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
+        "published_date": "Sun, 18 Oct 2026 12:47:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.731883"
+      },
+      "0663b328a5124190d61f0df2666c8122d10fb49a83d1ae6a7016fcf2ab452671": {
+        "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+        "link": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+        "published_date": "Sun, 18 Oct 2026 08:15:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.731891"
+      },
+      "2a00539203a7bb34e184a49ae3d87311737de9a25994e2e07ad9462ccfd861e4": {
+        "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+        "link": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+        "published_date": "Sun, 18 Oct 2026 05:56:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.731893"
+      },
+      "61e53a65d8f3f469e325b4c80bc94edf65b9b53a8a111d61226079201265e87f": {
+        "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+        "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+        "published_date": "Sun, 18 Oct 2026 04:06:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.731894"
+      },
+      "85604a89dc2831e1be0e053a810b3548f1771ffadc2319e11b82da54a85a43ad": {
+        "title": "2026-10-18日刊",
+        "link": "https://hex2077.dev/docs/2026-10/2026-10-18/",
+        "published_date": "Sun, 18 Oct 2026 02:58:00 GMT",
+        "first_seen": "2026-10-18T09:24:06.731895"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-18T00:43:59.472380",
-    "Finance": "2026-10-18T00:44:08.932491",
-    "Ai": "2026-10-18T00:44:09.062132"
+    "Technology": "2026-10-18T09:24:06.588649",
+    "Finance": "2026-10-18T09:24:06.622058",
+    "Ai": "2026-10-18T09:24:06.731896"
   }
 }

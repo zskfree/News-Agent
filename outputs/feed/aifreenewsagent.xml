@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 18 Oct 2026 00:41:00 GMT</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 00:44:09 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 09:21:00 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:24:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？</title>
-      <link>https://www.leiphone.com/category/transportation/F3nQwjeqDO0BtrQ0.html</link>
-      <description>&lt;![CDATA[12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？]]&gt;</description>
-      <pubDate>Sat, 17 Oct 2026 22:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/F3nQwjeqDO0BtrQ0.html</guid>
+      <title>2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众</title>
+      <link>https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html</link>
+      <description>&lt;![CDATA[2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众]]&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 12:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>RTX Spark Ignites Global Celebration as New Windows PCs Arrive</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</link>
-      <description>&lt;![CDATA[RTX Spark Ignites Global Celebration as New Windows PCs Arrive]]&gt;</description>
-      <pubDate>Sat, 17 Oct 2026 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</guid>
+      <title>Google Open-Sources Harness2, a Recursive Agent Harnessing Framework</title>
+      <link>https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</link>
+      <description>&lt;![CDATA[Google Open-Sources Harness2, a Recursive Agent Harnessing Framework]]&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 08:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation</title>
-      <link>https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/</link>
-      <description>&lt;![CDATA[Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation]]&gt;</description>
-      <pubDate>Sat, 17 Oct 2026 20:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/</guid>
+      <title>How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models</title>
+      <link>https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/</link>
+      <description>&lt;![CDATA[How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models]]&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 05:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI</title>
+      <link>https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/</link>
+      <description>&lt;![CDATA[Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI]]&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 04:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-10-18日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-18/</link>
+      <description>&lt;![CDATA[2026-10-18日刊]]&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 02:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-18/</guid>
       <category>Ai</category>
     </item>
   </channel>

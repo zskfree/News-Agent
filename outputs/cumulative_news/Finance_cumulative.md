@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-18 00:43
+**最后更新时间**: 2026-10-18 09:23
+
+---
+
+## 🆕 最新更新 (2026-10-18 09:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [America’s $10tn AI infrastructure boom is starting to fray](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+#### [Global economy set for AI-driven surge, FT survey suggests](https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+#### [Anthropic turns to lawyers to help AI agents strike deals](https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+#### [The world’s fastest-growing cities are not where you think](https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+#### [The Trump administration has entered its utter shambles era](https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+#### [Europe must liberate Belgium from its huge Russian assets risk](https://www.ft.com/content/c3d73770-4d91-4bd0-bf6d-7f9375e2b938?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+#### [Russian ‘shadow fleet’ fakes locations to appear in two places at once](https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+#### [Latvia calls for visa ban on Russians](https://www.ft.com/content/75a42e7d-1497-4760-bd75-1cbd083fc9a4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+#### [Listings in south-east Asia gain momentum with $1bn IPO](https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 01:00
 
 ---
 

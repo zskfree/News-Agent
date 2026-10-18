@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-18 00:41
+**最后更新时间**: 2026-10-18 09:21
+
+---
+
+## 🆕 最新更新 (2026-10-18 09:21)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众](https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html)
+**发布时间**: 2026-10-18 12:47
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google Open-Sources Harness2, a Recursive Agent Harnessing Framework](https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/)
+**发布时间**: 2026-10-18 08:15
+
+#### [How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models](https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/)
+**发布时间**: 2026-10-18 05:56
+
+#### [Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI](https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/)
+**发布时间**: 2026-10-18 04:06
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-18日刊](https://hex2077.dev/docs/2026-10/2026-10-18/)
+**发布时间**: 2026-10-18 02:58
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Giving AI a “crystal clear” view of the materials world](https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018)
+**发布时间**: 2026-10-18 00:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [突发！DeepSeek新模型发布，超级性价比斩杀一切](https://www.qbitai.com/2026/10/504067.html)
+**发布时间**: 2026-10-17 12:21
+
+#### [智谱新模型，懂法方面全球第一了](https://www.qbitai.com/2026/10/503965.html)
+**发布时间**: 2026-10-17 12:13
+
+#### [清华开源！智能体操作系统任务成本降83%，AI记忆可查可改](https://www.qbitai.com/2026/10/503935.html)
+**发布时间**: 2026-10-17 12:10
+
+#### [Claude半小时解开密码学悬案，学界集体走偏20年](https://www.qbitai.com/2026/10/503910.html)
+**发布时间**: 2026-10-17 12:06
+
+#### [科技企业出海，为啥我推荐你去迪拜？](https://www.qbitai.com/2026/10/503893.html)
+**发布时间**: 2026-10-17 09:05
+
+#### [端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售](https://www.qbitai.com/2026/10/504116.html)
+**发布时间**: 2026-10-16 13:48
 
 ---
 
