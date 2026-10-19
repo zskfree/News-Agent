@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 19 Oct 2026 00:53:00 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 00:55:51 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 10:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:35:07 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web</title>
-      <link>https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/</link>
-      <description>&lt;![CDATA[TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web]]&gt;</description>
-      <pubDate>Sun, 18 Oct 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/</guid>
+      <title>深企响应！拓竹：APEC期间实行错峰上下班或居家办公</title>
+      <link>https://www.leiphone.com/category/industrynews/gTm0BTVDkkoeSWgH.html</link>
+      <description>&lt;![CDATA[深企响应！拓竹：APEC期间实行错峰上下班或居家办公]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/gTm0BTVDkkoeSWgH.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>光量子计算，距离真正的产业化还有多远？</title>
+      <link>https://www.leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html</link>
+      <description>&lt;![CDATA[光量子计算，距离真正的产业化还有多远？]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>王志宇：拓竹卷C，轻量智造为何押注小B丨未来创新50人</title>
+      <link>https://www.leiphone.com/category/weiwu/LNx9jMPQsgXikqfp.html</link>
+      <description>&lt;![CDATA[王志宇：拓竹卷C，轻量智造为何押注小B丨未来创新50人]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/LNx9jMPQsgXikqfp.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>独家｜前Graphcore总裁卢涛加入铭芯启睿，要把LPU做成「高铁」</title>
+      <link>https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html</link>
+      <description>&lt;![CDATA[独家｜前Graphcore总裁卢涛加入铭芯启睿，要把LPU做成「高铁」]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？</title>
+      <link>https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html</link>
+      <description>&lt;![CDATA[Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 12:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀</title>
+      <link>https://www.leiphone.com/category/ai/jKVjygWUe9Aj0QEd.html</link>
+      <description>&lt;![CDATA[Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 12:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/jKVjygWUe9Aj0QEd.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里速卖通公布未来三年目标：品牌数、品牌滚动GMV每年增长50%</title>
+      <link>https://www.leiphone.com/category/industrynews/PjxlLXJnnCMoa2q3.html</link>
+      <description>&lt;![CDATA[阿里速卖通公布未来三年目标：品牌数、品牌滚动GMV每年增长50%]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 12:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PjxlLXJnnCMoa2q3.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人</title>
+      <link>https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html</link>
+      <description>&lt;![CDATA[复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市；王自如称「想与罗永浩和解」 ；OpenAI透露人形机器人项目进展</title>
+      <link>https://www.leiphone.com/category/zaobao/DlLESyleeLkyq5Dy.html</link>
+      <description>&lt;![CDATA[特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市；王自如称「想与罗永浩和解」 ；OpenAI透露人形机器人项目进展]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 09:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/DlLESyleeLkyq5Dy.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-10-19日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-19/</link>
+      <description>&lt;![CDATA[2026-10-19日刊]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 04:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-19/</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,128 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-19 00:55
+**最后更新时间**: 2026-10-19 10:34
+
+---
+
+## 🆕 最新更新 (2026-10-19 10:34)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”](https://www.infoq.cn/article/AD1M3mJ2SH1dJrTA1r5q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 18:22
+
+#### [Kubernetes多集群项目Karmada完成CNCF毕业](https://www.infoq.cn/article/4t84hFyjYP6gq9KNWE60?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 17:23
+
+#### [DoorDash的Flux在云端智能体上运行130000个工程任务](https://www.infoq.cn/article/4IPptJpXQqX5Lr77uBFZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 15:42
+
+#### [阿里云 7 个样板间，探索 AI 原生研发组织的实践](https://www.infoq.cn/article/2uG3W14THqtLhb5Vou51?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 14:38
+
+#### [随着可观测性模式日趋成熟，OpenTelemetry 将 Kubernetes Attribute Processor 提升为稳定版本](https://www.infoq.cn/article/zBfzQbuxFmP1qrIpZWTG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 14:00
+
+#### [Cloudflare 推出面向 AI 代理的 CLI，并逐步停用 Wrangler](https://www.infoq.cn/article/Ddda0DF68laqfoqa4Lju?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 11:27
+
+#### [Gemini 4 Argon：为您解决最棘手的问题](https://www.infoq.cn/article/LkxBOvOJWmQGMQemUOrX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 11:10
+
+#### [打造生产级的 Agent｜QCon上海](https://www.infoq.cn/article/oZHrjYAsXvjOZXRwLt6T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 10:00
+
+#### [OpenCode 2.0 正式发布：一次“重大改造”，旧插件全部报废](https://www.infoq.cn/article/IK5AWDwovCu5lx3e3mhc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 09:51
+
+#### [谷歌广告如何将一个开源的 macOS 术语误判为恶意内容并予以暂停](https://www.infoq.cn/article/UYJ6OSsb7GlDtXoORLxx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 09:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了](http://www.geekpark.net/news/372578)
+**发布时间**: 2026-10-19 18:10
+
+#### [MemSilicon完成超 4 亿元 A 轮融资，宣布战略升级](http://www.geekpark.net/news/372545)
+**发布时间**: 2026-10-19 12:00
+
+#### [OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道](http://www.geekpark.net/news/372514)
+**发布时间**: 2026-10-19 09:18
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [China’s AI Push Hits the Hard Part: Showing Returns](https://www.tmtpost.com/8173542.html)
+**发布时间**: 2026-10-19 17:38
+
+#### [Hong Kong Freezes Billions in Probe of Artificial IPO Demand](https://www.tmtpost.com/8173540.html)
+**发布时间**: 2026-10-19 17:38
+
+#### [At China’s Industrial Fair, One Simple Motion Explains a Complex Industry](https://www.tmtpost.com/8173538.html)
+**发布时间**: 2026-10-19 17:38
+
+#### [Transsion’s Hong Kong Debut Tests the Limits of Cheap Phones](https://www.tmtpost.com/8173536.html)
+**发布时间**: 2026-10-19 17:38
+
+#### [China’s Double 11 Becomes a Contest of Attention, Not Only Discounts](https://www.tmtpost.com/8173515.html)
+**发布时间**: 2026-10-19 17:18
+
+#### [Tencent Taps Long Bonds as AI Capex Reshapes Its Balance Sheet](https://www.tmtpost.com/8173510.html)
+**发布时间**: 2026-10-19 17:18
+
+#### [Anthropic拿出3208亿，这是为AI灭世论“买单”吗？](https://www.tmtpost.com/8173454.html)
+**发布时间**: 2026-10-19 16:55
+
+#### [城市竞争下半场，胜负在地下](https://www.tmtpost.com/8173141.html)
+**发布时间**: 2026-10-19 16:55
+
+#### [豆包当"主干"的两个月：四条Agent线归队，暴露的不是入口野心](https://www.tmtpost.com/8173176.html)
+**发布时间**: 2026-10-19 16:55
+
+#### [一杯纯茶卖38元？“全国店王”德基广场下场开奶茶店了](https://www.tmtpost.com/8173401.html)
+**发布时间**: 2026-10-19 16:43
+
+#### [95美元，只有2克，迪奥这款润唇膏怎么还卖断货了？](https://www.tmtpost.com/8173374.html)
+**发布时间**: 2026-10-19 16:43
+
+#### [股价下跌、连续融资，壁仞科技在押注什么？](https://www.tmtpost.com/8173367.html)
+**发布时间**: 2026-10-19 16:43
+
+#### [孙正义盯上80万人安保巨头，想让机器人替代人工](https://www.tmtpost.com/8173363.html)
+**发布时间**: 2026-10-19 16:43
+
+#### [博盈特焊拟控股罗克莱，标的筹备北交所IPO之际迎来并购选项](https://www.tmtpost.com/8173305.html)
+**发布时间**: 2026-10-19 16:39
+
+#### [算力基建的“算账时刻”：利息一涨，重资产怎么就成了吞金兽](https://www.tmtpost.com/8173203.html)
+**发布时间**: 2026-10-19 16:30
+
+#### [汇源集团告别“汇源”](https://www.tmtpost.com/8173351.html)
+**发布时间**: 2026-10-19 16:28
+
+#### [【Fintech 周报】本周迎千亿银行红包雨；年内33张保险中介牌照注销](https://www.tmtpost.com/8173301.html)
+**发布时间**: 2026-10-19 16:09
+
+#### [听得见、看得见、在身边：招商银行远程适老服务的温暖实践](https://www.tmtpost.com/8171033.html)
+**发布时间**: 2026-10-19 13:08
+
+#### [220亿机器人明星项目，打五折卖不出去](https://www.tmtpost.com/8173088.html)
+**发布时间**: 2026-10-19 12:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长](https://sspai.com/post/116585)
+**发布时间**: 2026-10-19 16:35
+
+#### [9 月音乐精选：用这 8 张新专辑，激发人生新可能](https://sspai.com/post/116699)
+**发布时间**: 2026-10-19 16:00
+
+#### [开源掌机的文化线索](https://sspai.com/post/115125)
+**发布时间**: 2026-10-19 10:49
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [玩了一天 1.2 万人收藏的开源音乐模型，真的惊艳到我了。。。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537876&idx=1&sn=8ba02c7b1a619f84c1bb1f5ea34c1856)
+**发布时间**: 2026-10-19 14:08
 
 ---
 

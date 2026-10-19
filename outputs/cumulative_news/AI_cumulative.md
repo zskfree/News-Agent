@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-19 00:53
+**最后更新时间**: 2026-10-19 10:33
+
+---
+
+## 🆕 最新更新 (2026-10-19 10:33)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [深企响应！拓竹：APEC期间实行错峰上下班或居家办公](https://www.leiphone.com/category/industrynews/gTm0BTVDkkoeSWgH.html)
+**发布时间**: 2026-10-19 15:49
+
+#### [光量子计算，距离真正的产业化还有多远？](https://www.leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html)
+**发布时间**: 2026-10-19 14:48
+
+#### [王志宇：拓竹卷C，轻量智造为何押注小B丨未来创新50人](https://www.leiphone.com/category/weiwu/LNx9jMPQsgXikqfp.html)
+**发布时间**: 2026-10-19 14:19
+
+#### [独家｜前Graphcore总裁卢涛加入铭芯启睿，要把LPU做成「高铁」](https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html)
+**发布时间**: 2026-10-19 14:02
+
+#### [Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？](https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html)
+**发布时间**: 2026-10-19 12:27
+
+#### [Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀](https://www.leiphone.com/category/ai/jKVjygWUe9Aj0QEd.html)
+**发布时间**: 2026-10-19 12:23
+
+#### [阿里速卖通公布未来三年目标：品牌数、品牌滚动GMV每年增长50%](https://www.leiphone.com/category/industrynews/PjxlLXJnnCMoa2q3.html)
+**发布时间**: 2026-10-19 12:14
+
+#### [复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人](https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html)
+**发布时间**: 2026-10-19 11:06
+
+#### [特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市；王自如称「想与罗永浩和解」 ；OpenAI透露人形机器人项目进展](https://www.leiphone.com/category/zaobao/DlLESyleeLkyq5Dy.html)
+**发布时间**: 2026-10-19 09:40
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-19日刊](https://hex2077.dev/docs/2026-10/2026-10-19/)
+**发布时间**: 2026-10-19 04:36
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration](https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/)
+**发布时间**: 2026-10-19 03:19
+
+#### [Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3](https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/)
+**发布时间**: 2026-10-19 01:18
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS](https://www.qbitai.com/2026/10/504136.html)
+**发布时间**: 2026-10-18 11:49
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Apertus 1.5 Release Notes](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes)
+**发布时间**: 2026-10-15 09:08
 
 ---
 

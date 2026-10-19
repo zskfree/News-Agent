@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-19 00:55
+**最后更新时间**: 2026-10-19 10:34
+
+---
+
+## 🆕 最新更新 (2026-10-19 10:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.](https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 10:23
+
+#### [Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.](https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 09:58
+
+#### [France and the U.S. share the same debt trap. Only one has a global lifeline.](https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 09:30
+
+#### [Kelly Clarkson’s expensive purchases: A multi-million dollar real-estate portfolio that spans the country](https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 09:03
+
+#### [The Beach Boys’ Mike Love goes the extra mile to protect the land around $43 million Lake Tahoe estate](https://www.marketwatch.com/story/the-beach-boys-mike-love-goes-the-extra-mile-to-protect-the-land-around-43-million-lake-tahoe-estate-06c5606e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [PwC revenue growth trails Deloitte and EY](https://www.ft.com/content/0d89ccfd-50ce-4e74-8112-0a8f53b3afff?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 10:00
+
+#### [Macron rejects interior minister’s resignation after French riots](https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 09:48
+
+#### [US stocks set for rebound after AI sell-off](https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 09:16
+
+#### [Americans are unhappy. How will they vote in the midterms?](https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 04:00
+
+#### [Hollywood recasts tech tycoons as bad billionaires](https://www.ft.com/content/5483aa1b-7380-45d6-be0f-1a4b2098c903?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 04:00
+
+#### [Rising interest rates derail property recovery as buyers recut deals](https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 04:00
+
+#### [Anthropic commits 5% of shares to ‘public benefit’ fund](https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 01:31
+
+#### [Private equity finds next Asian frontier](https://www.ft.com/content/0f857d6a-646d-4d19-bcdd-a0f0b4e8585c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 01:30
+
+#### [US threatens European companies over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 16:00
 
 ---
 
