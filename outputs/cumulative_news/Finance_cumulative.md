@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-18 09:23
+**最后更新时间**: 2026-10-19 00:55
+
+---
+
+## 🆕 最新更新 (2026-10-19 00:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump to begin transforming historic golf course despite court order](https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 22:20
+
+#### [Evercore appoints co-presidents for the first time in leadership reshuffle](https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 20:01
+
+#### [Macron faces political firestorm after riots](https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 19:55
+
+#### [France reels after ‘unprecedented’ violence from protesters](https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 19:52
+
+#### [US army chief in Asia calls for show of enhanced military muscle](https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 19:00
+
+#### [St Petersburg endures biggest Ukrainian drone attack](https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 18:30
+
+#### [US threatens Europe over Starlink restrictions](https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 16:00
+
+#### [Trump’s bid to make America cheap again has failed](https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 15:00
+
+#### [Not every billionaire is a policy failure](https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 11:00
+
+#### [Russian ships fake locations to appear in two places at once](https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1)
+**发布时间**: 2026-10-18 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?](https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories)
+**发布时间**: 2026-10-18 17:00
+
+#### [I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?](https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories)
+**发布时间**: 2026-10-18 15:15
+
+#### [These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth](https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories)
+**发布时间**: 2026-10-18 14:00
+
+#### [Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs](https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-18 13:00
+
+#### [There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead](https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories)
+**发布时间**: 2026-10-18 12:00
 
 ---
 

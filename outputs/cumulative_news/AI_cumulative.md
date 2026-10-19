@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-18 09:21
+**最后更新时间**: 2026-10-19 00:53
+
+---
+
+## 🆕 最新更新 (2026-10-19 00:53)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web](https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/)
+**发布时间**: 2026-10-18 18:20
 
 ---
 

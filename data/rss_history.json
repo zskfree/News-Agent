@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3c2002d02e7119452b1a5c6e00f2f6656eb1c59944e836ffb87da99a3c3ee163": {
-        "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
-        "link": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 17:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325689"
-      },
-      "3675d5d6d87d430918518f593cb9470ad2ad2665f51cf6c940e54d0f0c4988d5": {
-        "title": "ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS",
-        "link": "https://www.infoq.cn/article/gDSf7xBmd08H0eB0GG11?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 15:53:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325699"
-      },
-      "f11705df7ed4b7c9316c5fb936372de26438c2c7e50949078ec94c9611fe4a78": {
-        "title": "亚马逊云科技开放 AL2027 预览，开发者最关心的却是：能原地升级吗？",
-        "link": "https://www.infoq.cn/article/tbUQhEqo7etbjfyuyNK0?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 14:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325701"
-      },
-      "ec01b89a044e8ed5713dd256fdc70f908a6260d5a6f20d4ba143019133e138c6": {
-        "title": "联想集团股价再创新高，CFO曾称完全被市场低估",
-        "link": "https://www.tmtpost.com/8144761.html",
-        "published_date": "Fri, 18 Sep 2026 16:25:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325703"
-      },
-      "3f1ff79007d53b2ee1fdbf35e93c972216df940feac2a5b49fdcb1e594caa6cc": {
-        "title": "唐杰、GLM团队长文披露智谱RSI最新进展：GLM-5.3已摸到门槛，“正一步步走向取代我们”",
-        "link": "https://www.infoq.cn/article/O1uIfJx3CF5SZz3ayuaI?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 16:48:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325705"
-      },
-      "6f92689020f20467947e287639126585742aee4c29a40c279e9331cada20fde7": {
-        "title": "微软借助 AI 单月修补超千个安全漏洞",
-        "link": "https://www.infoq.cn/article/eluArohETBhwjjYZRoMG?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 14:48:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325706"
-      },
-      "36a73a14c168c2db701ba1b386f26778f1ba6459a0c3ece9d061ad0875f70e36": {
-        "title": "被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索",
-        "link": "https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 12:35:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325708"
-      },
-      "aa7e58237d866f4fe8ac5b27be446389ff56bfd9221c865486443b3b9a79094c": {
-        "title": "6.5亿美元押注“AI研究AI”：一群顶级研究员想造出“自我进化”的超级智能",
-        "link": "https://www.infoq.cn/article/da8jMox7ikdNmD2vYyTm?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 12:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325709"
-      },
-      "5deb68bfe7285e17b1f69de68af967e07e5c1e6641f8dd320b86d0c45ced309f": {
-        "title": "Agoda 用 DragonflyDB 替换 SQL Server：真正难的不是性能，而是平稳切换",
-        "link": "https://www.infoq.cn/article/2kGlAwpJrK9I5kdDHLGz?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 11:20:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325711"
-      },
-      "0ab7a9522a89999c4f74b73068e3ce321de0422350051395a05c2b9805f57e12": {
-        "title": "让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
-        "link": "https://www.infoq.cn/article/x2FmIeCkeDYUV66BNj3g?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 18 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:04.325712"
-      },
       "d04a3b8e53a197c853a1870f8cfeda708522f1a9446407f8012a9bc86b74748a": {
         "title": "Edge AI Daily 早报（9月19日）",
         "link": "https://www.tmtpost.com/8145335.html",
@@ -3511,63 +3451,69 @@
         "link": "https://www.tmtpost.com/8172255.html",
         "published_date": "Sun, 18 Oct 2026 14:06:00 GMT",
         "first_seen": "2026-10-18T09:24:06.588647"
+      },
+      "b236f4f0dccf56382deb8b98cce251414623bf57917b7cd24456a3533507c9df": {
+        "title": "DeepSeek成立产品部！1.3亿人免费用的AI，变现模式会参考ChatGPT订阅吗？",
+        "link": "https://www.tmtpost.com/8172203.html",
+        "published_date": "Sun, 18 Oct 2026 21:59:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546203"
+      },
+      "6a83dd0e29243835f33f7a4cc48f92687ebe28a287ea3d62ddce5c3fabcba01f": {
+        "title": "Edge AI Daily 早报（10月19日）",
+        "link": "https://www.tmtpost.com/8172585.html",
+        "published_date": "Mon, 19 Oct 2026 08:50:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546213"
+      },
+      "fa5f3498975cd1fe810ad562f670a1950dc01723e5b2606473fd74030ff7400d": {
+        "title": "造车越来越快，监管开始追问时间省在哪里",
+        "link": "https://www.tmtpost.com/8172555.html",
+        "published_date": "Mon, 19 Oct 2026 08:48:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546216"
+      },
+      "a9991070096d7ca4002daf17ea8ee5f296c1871cf90f2e20bcc64354e405c7cd": {
+        "title": "英伟达公关团队进行重组后，其公众形象爆红",
+        "link": "https://www.tmtpost.com/8171905.html",
+        "published_date": "Mon, 19 Oct 2026 08:43:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546218"
+      },
+      "e426113928c193a88504971380cf096b3b76f54772749d9e163c7d71d81c521e": {
+        "title": "中国人将近一半的时间，都献给了字节跳动",
+        "link": "https://www.tmtpost.com/8172462.html",
+        "published_date": "Mon, 19 Oct 2026 08:39:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546220"
+      },
+      "33f8faddaadfd18c7ae16e299e172a398718fb28ed3bf02a89caf891d65bd6ba": {
+        "title": "烧钱已成过去式，AI竞赛方向有变化？",
+        "link": "https://www.tmtpost.com/8172463.html",
+        "published_date": "Mon, 19 Oct 2026 08:30:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546222"
+      },
+      "8a1f6bc21cec5c7d6f9e54b12e4b48cc41765b38db5cfaed2a859ab790af06a5": {
+        "title": "采访过剩时代，为什么视频播客还有人看？",
+        "link": "https://www.tmtpost.com/8172544.html",
+        "published_date": "Mon, 19 Oct 2026 08:30:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546224"
+      },
+      "7bd614d2555318de1564a0a3ca4dc67768e70d32b8d9d9bec00fbd94f9161b6f": {
+        "title": "储能电池贵一点，为什么整个电站反而可能更便宜？",
+        "link": "https://www.tmtpost.com/8172488.html",
+        "published_date": "Mon, 19 Oct 2026 08:27:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546225"
+      },
+      "cf56bf8784f7fe63b057f50b6d233f5e34b35aae2f6f439a052c7810511f0e0f": {
+        "title": "【钛晨报】央行就《银行间债券市场债券发行管理规则》公开征求意见；智界将获独立造车资质，内部人士确认公司计划上市；英伟达辟谣RTX5090停产：只是产能不足，不会断供",
+        "link": "https://www.tmtpost.com/8172465.html",
+        "published_date": "Mon, 19 Oct 2026 07:20:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546227"
+      },
+      "4279d905a64421ac0474ef9259f77ff894b8a308b48eafb7ca5c201bbc011c12": {
+        "title": "济安金信行业分类对养老金投资的价值观察",
+        "link": "https://www.tmtpost.com/8172537.html",
+        "published_date": "Sun, 18 Oct 2026 22:38:00 GMT",
+        "first_seen": "2026-10-19T00:55:41.546228"
       }
     },
     "Finance": {
-      "b67430a0938a97133935fc89cda238c062c0f985ba1b7d9a47fd2f08f0519764": {
-        "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term insurance?",
-        "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-        "published_date": "Fri, 18 Sep 2026 09:15:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887508"
-      },
-      "b8e126b02e7c3524d313cf73eae6398c087f1009fd089e9aa326bc7d534e5752": {
-        "title": "Yen sinks after BoJ raises rates to highest since 1995",
-        "link": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
-        "published_date": "Fri, 18 Sep 2026 08:32:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887516"
-      },
-      "e4ed262da95604a014e2beb956f9c43dfc5fa301a44a75ce809e4be9c10d8184": {
-        "title": "Medical AI has a proof problem",
-        "link": "https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?syn-25a6b1a6=1",
-        "published_date": "Fri, 18 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887518"
-      },
-      "549cc2cd9cce98534f68bbb2c523e632e990a101b3ab20f3b2b43e92c8278b49": {
-        "title": "Liechtenstein royals threaten lawsuit over dynasty reforms",
-        "link": "https://www.ft.com/content/6fd9f78e-f822-4e48-b8e2-968a3e4d2181?syn-25a6b1a6=1",
-        "published_date": "Fri, 18 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887520"
-      },
-      "cde8e8f65d38b97021914b4ac2ad9bb757db9d769f8f83bfa104bf99536f505c": {
-        "title": "Venezuela nears deal to tap disputed $4bn gold reserve",
-        "link": "https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1",
-        "published_date": "Fri, 18 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887521"
-      },
-      "6fbd956b72c3fd7d292bceac159261b0d1b34e6c9eca2a061103c0e22a0e7225": {
-        "title": "Democrats vow to pursue ‘Trump crime family’ after midterm elections",
-        "link": "https://www.ft.com/content/0e64746c-d531-4ceb-a700-e5e47289bfb3?syn-25a6b1a6=1",
-        "published_date": "Fri, 18 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887523"
-      },
-      "b77046bccade14c207b6f82c0b962589475c71d2cbf02091fe5de4962d02543a": {
-        "title": "Iran switches from ships to trucks to evade US blockade",
-        "link": "https://www.ft.com/content/f69943f7-b173-444c-a79e-c9396a0380bd?syn-25a6b1a6=1",
-        "published_date": "Fri, 18 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887524"
-      },
-      "ba21f9a6f269f0e9d390d3d336453910b27acf293c2cca5e89b9526f2354081d": {
-        "title": "OpenAI breached by researchers using Anthropic models",
-        "link": "https://www.ft.com/content/c4aa118e-a258-48bc-b50e-28e453a95db8?syn-25a6b1a6=1",
-        "published_date": "Fri, 18 Sep 2026 03:31:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887526"
-      },
-      "f3f8ad6895e66a54569f2e19dbe503d5180276412dbb08e27f9408ca90ade2f7": {
-        "title": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO",
-        "link": "https://www.ft.com/content/6c467774-9d91-425e-a901-26db055e37ad?syn-25a6b1a6=1",
-        "published_date": "Fri, 18 Sep 2026 03:04:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.887527"
-      },
       "c349324a00bf0cba5801d925a0ce8b74e25e5b9ed489e71bce934fdb5c98fa1e": {
         "title": "Anthropic brings in Accenture for AI safety testing",
         "link": "https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1",
@@ -6981,69 +6927,69 @@
         "link": "https://www.ft.com/content/a2b83aa7-49e0-4735-b115-d406fcb24de8?syn-25a6b1a6=1",
         "published_date": "Sun, 18 Oct 2026 01:00:00 GMT",
         "first_seen": "2026-10-18T09:24:06.622057"
+      },
+      "f1af612954611a8424737eb7f7ecab57413c1b29657376fada1d20e0df9e6069": {
+        "title": "Trump to begin transforming historic golf course despite court order",
+        "link": "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 22:20:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070313"
+      },
+      "302f9c79efbbec9ac46ae518330eb0e2f4208f63f5fc5928d53b3bbd136b851c": {
+        "title": "Evercore appoints co-presidents for the first time in leadership reshuffle",
+        "link": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 20:01:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070322"
+      },
+      "73da7877e575438941d32cbff961dfe4630124087a022c5d8a4ee98ef06b538b": {
+        "title": "Macron faces political firestorm after riots",
+        "link": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 19:55:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070325"
+      },
+      "350356242ad7cba636ad1f6be1576b86a92184bf6af2666257d5dca2a90c4a20": {
+        "title": "France reels after ‘unprecedented’ violence from protesters",
+        "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 19:52:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070327"
+      },
+      "f359b0d2806da7193d5a496251a6b1ddfaed3e54d74a37d1f3108df6a38fc23d": {
+        "title": "US army chief in Asia calls for show of enhanced military muscle",
+        "link": "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 19:00:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070328"
+      },
+      "c2bb7bff7b589c6595e44f437ea5efd3c5539d796431d0b413877723613d2b0f": {
+        "title": "St Petersburg endures biggest Ukrainian drone attack",
+        "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 18:30:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070330"
+      },
+      "eed206a82a718731f47a5ea3d7dfc3489e8ce8c41f4247a07b9dcaa3fad129d7": {
+        "title": "US threatens Europe over Starlink restrictions",
+        "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 16:00:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070332"
+      },
+      "1fed0598ed9820ccffac584713a98df6542079f4b4a67b7e9bc0cde5d16e0a3e": {
+        "title": "Trump’s bid to make America cheap again has failed",
+        "link": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 15:00:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070333"
+      },
+      "0e8b545a98157d1cba8e549e983452538102faa2982eb7db5bbce003eeecf9f1": {
+        "title": "Not every billionaire is a policy failure",
+        "link": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1",
+        "published_date": "Sun, 18 Oct 2026 11:00:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070335"
+      },
+      "72b7cb361655a31cb42e13845bb915013e30692959af3e97e5d53c701145f8d0": {
+        "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+        "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+        "published_date": "Sun, 18 Oct 2026 14:00:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.070336"
       }
     },
     "Ai": {
-      "c83d91ce36ee4f2b03eaab9c0e154aa6832fadf69dd642c0fbbe25539068a4ad": {
-        "title": "独家解读丨行业首创之后，极壳Halo的账能算平吗？",
-        "link": "https://www.leiphone.com/category/weiwu/V4gtXhVreRgnCmys.html",
-        "published_date": "Fri, 18 Sep 2026 15:12:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834461"
-      },
-      "06fd4b5fa5900de60d7424509a239a5b412dfd53564164101e365e5bf7b93031": {
-        "title": "独家丨皓翊星辰融资千万级美金，厚雪孵化，绿洲、砺思投了",
-        "link": "https://www.leiphone.com/category/weiwu/SvTVpNCuYHpbNAxA.html",
-        "published_date": "Fri, 18 Sep 2026 15:00:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834470"
-      },
-      "4fd0a15afd0ef11b46437f3d4241b44fef67498592267c9f61856cdf2d8a29e5": {
-        "title": "深度解读：智谱为什么要在 Infra 层搞 RSI？",
-        "link": "https://www.leiphone.com/category/yanxishe/41rW4mD2vjnpNY2o.html",
-        "published_date": "Fri, 18 Sep 2026 14:48:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834472"
-      },
-      "f6c40d220d8dea1db9a818fbf92bea503de52b3068e701bd987f566e5204254f": {
-        "title": "在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」",
-        "link": "https://www.leiphone.com/category/industrynews/U0Od1SeYkIPA98cI.html",
-        "published_date": "Fri, 18 Sep 2026 14:28:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834473"
-      },
-      "ccff5651249a1ee1b57af92293de9995a2711e821f46bad81f03a31ed5e3516f": {
-        "title": "仅用3天！千问办公协助国家天文台科研团队打造科研级望远镜仿真系统",
-        "link": "https://www.leiphone.com/category/industrynews/HlXq3tJy48q1NubA.html",
-        "published_date": "Fri, 18 Sep 2026 14:24:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834475"
-      },
-      "aa52a7685405e371d10b27207d68eca13e540bbebd0723e1df6a6656aaf30e9e": {
-        "title": "独家丨OpenAI的一款无屏硬件，正在深圳试制",
-        "link": "https://www.leiphone.com/category/weiwu/P2ycl5IbO7iNQKAt.html",
-        "published_date": "Fri, 18 Sep 2026 14:23:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834476"
-      },
-      "36be6a1fbddab9879a26e5ec5aec530ff7e86a8d8204c658c96b6bb141499638": {
-        "title": "OpenAI：为了不被杀死，Agent 竟学会了靠上下文「转世重生」",
-        "link": "https://www.leiphone.com/category/ai/pcucC7ezQ6TRruRM.html",
-        "published_date": "Fri, 18 Sep 2026 14:06:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834477"
-      },
-      "b5c2643ece0569ead40a5c3b605e2163d30af53dbd475b3dc99328ef8921764b": {
-        "title": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？",
-        "link": "https://www.leiphone.com/category/ai/XpCc8XUGypadWNGt.html",
-        "published_date": "Fri, 18 Sep 2026 14:02:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834479"
-      },
-      "890be0e44d0aa579ac48367872d3c8e7d9adce3c5053b299afcccc803432a37e": {
-        "title": "福田汽车汉诺威亮牌，中国商用车出海不再只卖车",
-        "link": "https://www.leiphone.com/category/industrynews/QbZL0Bl37gVKghWM.html",
-        "published_date": "Fri, 18 Sep 2026 13:56:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834481"
-      },
-      "93eb38c4c37cfff3c6ea638d7adc8d73a11d6e2d470f4e9466353996f32ae3f5": {
-        "title": "关于问界专属专营的问答",
-        "link": "https://www.leiphone.com/category/industrynews/DwlZE0y6dWlAWtZq.html",
-        "published_date": "Fri, 18 Sep 2026 13:51:00 GMT",
-        "first_seen": "2026-09-18T09:28:13.834482"
-      },
       "90db12d2a6abbba5288f6062541a08b72bf635275583fb442eae33131b5733fc": {
         "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
@@ -9833,13 +9779,19 @@
         "link": "https://hex2077.dev/docs/2026-10/2026-10-18/",
         "published_date": "Sun, 18 Oct 2026 02:58:00 GMT",
         "first_seen": "2026-10-18T09:24:06.731895"
+      },
+      "3792557be0552d66f7e3ce543b8d9cae95e52492329b6b1558133e1d5cbfc67e": {
+        "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+        "link": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+        "published_date": "Sun, 18 Oct 2026 18:20:00 GMT",
+        "first_seen": "2026-10-19T00:55:51.245953"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-18T09:24:06.588649",
-    "Finance": "2026-10-18T09:24:06.622058",
-    "Ai": "2026-10-18T09:24:06.731896"
+    "Technology": "2026-10-19T00:55:41.546231",
+    "Finance": "2026-10-19T00:55:51.070339",
+    "Ai": "2026-10-19T00:55:51.245962"
   }
 }
