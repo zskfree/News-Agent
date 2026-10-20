@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-19 10:33
+**最后更新时间**: 2026-10-20 01:37
+
+---
+
+## 🆕 最新更新 (2026-10-20 01:37)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59](https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/)
+**发布时间**: 2026-10-20 00:03
+
+#### [MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input](https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/)
+**发布时间**: 2026-10-19 12:37
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [射频计算：探索智能边界｜CNCC 2026](https://www.leiphone.com/category/private/7vTJq8gu376Dldil.html)
+**发布时间**: 2026-10-19 23:36
+
+#### [华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026](https://www.leiphone.com/category/private/QgMWStz8hCPsFf68.html)
+**发布时间**: 2026-10-19 20:47
+
+#### [平台做天使投资：速卖通把品牌争夺战，打到了品牌诞生前](https://www.leiphone.com/category/industrynews/prCErk1x9AsQgxw1.html)
+**发布时间**: 2026-10-19 20:04
+
+#### [AI 引爆 BAT「薪酬倒挂」潮，老员工：人麻了](https://www.leiphone.com/category/industrynews/uCsyLxONvXeV9qXc.html)
+**发布时间**: 2026-10-19 16:51
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Structured outputs for Anthropic Claude models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/)
+**发布时间**: 2026-10-19 23:32
+
+#### [Developers can now access SageMaker Studio through the new AWS experience](https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/)
+**发布时间**: 2026-10-19 22:39
+
+#### [Amazon SageMaker JumpStart: 2026 year-to-date in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/)
+**发布时间**: 2026-10-19 21:14
+
+#### [Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/)
+**发布时间**: 2026-10-19 16:49
+
+#### [How Deepgram optimized voice AI at scale with AWS Trainium](https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/)
+**发布时间**: 2026-10-19 16:23
+
+#### [Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM](https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/)
+**发布时间**: 2026-10-19 16:05
+
+#### [Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM](https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/)
+**发布时间**: 2026-10-19 16:03
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/)
+**发布时间**: 2026-10-19 19:27
+
+#### [NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production](https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/)
+**发布时间**: 2026-10-19 15:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Why teaching AI about symmetry could make prenatal diagnosis more reliable](https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019)
+**发布时间**: 2026-10-19 14:20
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [TorchNeuron: running HF models on AWS Trainium is easier than ever](https://huggingface.co/blog/hf-torchneuron)
+**发布时间**: 2026-10-19 00:00
 
 ---
 

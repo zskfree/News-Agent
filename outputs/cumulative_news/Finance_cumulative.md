@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-19 10:34
+**最后更新时间**: 2026-10-20 01:39
+
+---
+
+## 🆕 最新更新 (2026-10-20 01:39)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China’s villages pay the price for Beijing’s AI ambitions](https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 00:15
+
+#### [Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms](https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 00:14
+
+#### [Anthropic and Nscale in talks for second multibillion-dollar deal](https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 22:27
+
+#### [OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim](https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 21:27
+
+#### [New York pensions chief says private equity firm sought to expense jet use](https://www.ft.com/content/97643fcb-46f8-43dc-b559-c33709f37866?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 21:18
+
+#### [French bond sell-off intensifies after riots and looting](https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 18:31
+
+#### [France’s riots expose the impotence of its political class](https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 17:07
+
+#### [Violent protests multiply across Europe](https://www.ft.com/content/d8df36c2-7e8c-4cfb-ad9e-e6e954fea4b9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 13:50
+
+#### [US defence stocks tumble as investors bet on Democratic election sweep](https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 13:04
+
+#### [CME plans tungsten futures as demand for weapons rises](https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 10:30
+
+#### [‘I still do support him’: US voters weigh in on Trump and the midterms](https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-19 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.](https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:58
+
+#### [When should you dump your target-date funds?](https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:37
+
+#### [Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors](https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:36
+
+#### [‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s I’m still hopeful](https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:30
+
+#### [‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?](https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:15
+
+#### [Micron and other chip stocks spring back to life after bruising selloff](https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:06
+
+#### [SpaceX earnings will be all about AI — for better or for worse](https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:02
+
+#### [Why a former Intel skeptic is giving up his negative call on the stock after four years](https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:00
+
+#### [Why the midterm elections are likely to become a strong tailwind for the stock market](https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 21:00
+
+#### [Retiring abroad? Don’t cut these financial ties to the U.S.](https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-19 20:33
 
 ---
 

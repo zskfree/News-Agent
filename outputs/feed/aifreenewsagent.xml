@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 19 Oct 2026 10:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 10:35:07 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 01:37:00 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:40:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>深企响应！拓竹：APEC期间实行错峰上下班或居家办公</title>
-      <link>https://www.leiphone.com/category/industrynews/gTm0BTVDkkoeSWgH.html</link>
-      <description>&lt;![CDATA[深企响应！拓竹：APEC期间实行错峰上下班或居家办公]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/gTm0BTVDkkoeSWgH.html</guid>
+      <title>Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59</title>
+      <link>https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</link>
+      <description>&lt;![CDATA[Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59]]&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 00:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>光量子计算，距离真正的产业化还有多远？</title>
-      <link>https://www.leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html</link>
-      <description>&lt;![CDATA[光量子计算，距离真正的产业化还有多远？]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html</guid>
+      <title>MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input</title>
+      <link>https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/</link>
+      <description>&lt;![CDATA[MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>王志宇：拓竹卷C，轻量智造为何押注小B丨未来创新50人</title>
-      <link>https://www.leiphone.com/category/weiwu/LNx9jMPQsgXikqfp.html</link>
-      <description>&lt;![CDATA[王志宇：拓竹卷C，轻量智造为何押注小B丨未来创新50人]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 14:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/LNx9jMPQsgXikqfp.html</guid>
+      <title>射频计算：探索智能边界｜CNCC 2026</title>
+      <link>https://www.leiphone.com/category/private/7vTJq8gu376Dldil.html</link>
+      <description>&lt;![CDATA[射频计算：探索智能边界｜CNCC 2026]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 23:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/7vTJq8gu376Dldil.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家｜前Graphcore总裁卢涛加入铭芯启睿，要把LPU做成「高铁」</title>
-      <link>https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html</link>
-      <description>&lt;![CDATA[独家｜前Graphcore总裁卢涛加入铭芯启睿，要把LPU做成「高铁」]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 14:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/56PWzwTNdteGx04q.html</guid>
+      <title>华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026</title>
+      <link>https://www.leiphone.com/category/private/QgMWStz8hCPsFf68.html</link>
+      <description>&lt;![CDATA[华中师大 CoReFuse-Med：先净化再融合，让低质模态不再拖后腿｜ACM MM 2026]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 20:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/QgMWStz8hCPsFf68.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？</title>
-      <link>https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html</link>
-      <description>&lt;![CDATA[Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 12:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html</guid>
+      <title>平台做天使投资：速卖通把品牌争夺战，打到了品牌诞生前</title>
+      <link>https://www.leiphone.com/category/industrynews/prCErk1x9AsQgxw1.html</link>
+      <description>&lt;![CDATA[平台做天使投资：速卖通把品牌争夺战，打到了品牌诞生前]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 20:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/prCErk1x9AsQgxw1.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀</title>
-      <link>https://www.leiphone.com/category/ai/jKVjygWUe9Aj0QEd.html</link>
-      <description>&lt;![CDATA[Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 12:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/jKVjygWUe9Aj0QEd.html</guid>
+      <title>AI 引爆 BAT「薪酬倒挂」潮，老员工：人麻了</title>
+      <link>https://www.leiphone.com/category/industrynews/uCsyLxONvXeV9qXc.html</link>
+      <description>&lt;![CDATA[AI 引爆 BAT「薪酬倒挂」潮，老员工：人麻了]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/uCsyLxONvXeV9qXc.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里速卖通公布未来三年目标：品牌数、品牌滚动GMV每年增长50%</title>
-      <link>https://www.leiphone.com/category/industrynews/PjxlLXJnnCMoa2q3.html</link>
-      <description>&lt;![CDATA[阿里速卖通公布未来三年目标：品牌数、品牌滚动GMV每年增长50%]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PjxlLXJnnCMoa2q3.html</guid>
+      <title>Structured outputs for Anthropic Claude models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Structured outputs for Anthropic Claude models on Amazon Bedrock]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 23:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人</title>
-      <link>https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html</link>
-      <description>&lt;![CDATA[复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html</guid>
+      <title>Developers can now access SageMaker Studio through the new AWS experience</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/</link>
+      <description>&lt;![CDATA[Developers can now access SageMaker Studio through the new AWS experience]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 22:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市；王自如称「想与罗永浩和解」 ；OpenAI透露人形机器人项目进展</title>
-      <link>https://www.leiphone.com/category/zaobao/DlLESyleeLkyq5Dy.html</link>
-      <description>&lt;![CDATA[特斯拉飞行汽车被质疑是噱头！网友：若是国内厂商，分分钟被骂到退市；王自如称「想与罗永浩和解」 ；OpenAI透露人形机器人项目进展]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/DlLESyleeLkyq5Dy.html</guid>
+      <title>Amazon SageMaker JumpStart: 2026 year-to-date in review</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/</link>
+      <description>&lt;![CDATA[Amazon SageMaker JumpStart: 2026 year-to-date in review]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 21:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-10-19日刊</title>
-      <link>https://hex2077.dev/docs/2026-10/2026-10-19/</link>
-      <description>&lt;![CDATA[2026-10-19日刊]]&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 04:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-19/</guid>
+      <title>Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock]]&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
   </channel>

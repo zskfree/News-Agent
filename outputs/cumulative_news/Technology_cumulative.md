@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-19 10:34
+**最后更新时间**: 2026-10-20 01:39
+
+---
+
+## 🆕 最新更新 (2026-10-20 01:39)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相](http://www.geekpark.net/news/372583)
+**发布时间**: 2026-10-20 09:34
+
+#### [DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道](http://www.geekpark.net/news/372568)
+**发布时间**: 2026-10-20 09:01
+
+#### [AI 里没有答案的问题，需要一场「深谈」](http://www.geekpark.net/news/372579)
+**发布时间**: 2026-10-19 21:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator](https://www.infoq.cn/article/pvgeXQQbbt4TsPKeMMEL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 09:06
+
+#### [大批API账户被刷爆！OpenCode遭黑客围攻48小时，官方甩锅“蒸馏攻击”被质疑](https://www.infoq.cn/article/K5J7yb60djWKM6vUZqwq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 21:48
+
+#### [Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”](https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-19 20:33
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：国家网信办开展未成年人用户数量巨大等网络平台服务……](https://sspai.com/post/116758)
+**发布时间**: 2026-10-20 08:39
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/116705)
+**发布时间**: 2026-10-19 17:39
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（10月20日）](https://www.tmtpost.com/8174059.html)
+**发布时间**: 2026-10-20 08:23
+
+#### [【钛晨报】央行将推动出台一系列政策措施，有何作用？马斯克：明年将向美国每一名儿童赠送一股SpaceX股票；医保个人账户跨省共济全国落地](https://www.tmtpost.com/8173939.html)
+**发布时间**: 2026-10-20 07:20
+
+#### [纽娲机器人杨睿刚：无人配送跑了十年，机器人为何还到不了家门？](https://www.tmtpost.com/8171183.html)
+**发布时间**: 2026-10-19 21:02
+
+#### [种草在内、成交在外，开环电商是配菜还是新路？｜ 出海参考](https://www.tmtpost.com/8173893.html)
+**发布时间**: 2026-10-19 21:01
+
+#### [评测的牌坊：如何起高楼，如何楼塌了？](https://www.tmtpost.com/8172866.html)
+**发布时间**: 2026-10-19 19:07
+
+#### [现在的安克，会选择当年的阳萌吗？](https://www.tmtpost.com/8173228.html)
+**发布时间**: 2026-10-19 19:05
+
+#### [万亿级机器人市场，可否成为美的第二增长曲线？](https://www.tmtpost.com/8172784.html)
+**发布时间**: 2026-10-19 19:03
+
+#### [用阿里当基座，腾讯混元实现了“小RSI”](https://www.tmtpost.com/8173087.html)
+**发布时间**: 2026-10-19 19:03
+
+#### [高口碑的《余红旧事》，让东北悬疑终于开始松弛了](https://www.tmtpost.com/8172538.html)
+**发布时间**: 2026-10-19 19:03
+
+#### [Kimi和DeepSeek，差异越来越明显](https://www.tmtpost.com/8172461.html)
+**发布时间**: 2026-10-19 19:03
+
+#### [三季度权益类保险资管产品近八成亏损，险资这笔账怎么算](https://www.tmtpost.com/8173420.html)
+**发布时间**: 2026-10-19 18:57
+
+#### [Cue一周实测：给AI配了身份证，却还做不到“随时可用”](https://www.tmtpost.com/8173445.html)
+**发布时间**: 2026-10-19 18:57
+
+#### [千次5元、搜不到不收钱：DeepSeek给Agent装上自研搜索，价格只有Tavily的零头](https://www.tmtpost.com/8173434.html)
+**发布时间**: 2026-10-19 18:57
+
+#### [绝味食品“摘帽”，两年关店6000家，昔“卤味一哥”还能翻身吗？](https://www.tmtpost.com/8173640.html)
+**发布时间**: 2026-10-19 18:42
+
+#### [让“洋Agent”逛中国互联网，我成了它们的助理](https://www.tmtpost.com/8173460.html)
+**发布时间**: 2026-10-19 18:41
+
+#### [疫苗大退潮：再也回不到那个疯狂的市场了](https://www.tmtpost.com/8173508.html)
+**发布时间**: 2026-10-19 18:36
 
 ---
 
