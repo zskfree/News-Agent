@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-20 01:39
+**最后更新时间**: 2026-10-20 09:51
+
+---
+
+## 🆕 最新更新 (2026-10-20 09:51)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My unmarried partner of 17 years left me his $1.1 million home. His three children are livid. Should I share my inheritance?](https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 09:30
+
+#### [South Korean IPO flop is the latest in a string of disappointments for the global AI trade](https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 09:30
+
+#### [The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld](https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 09:02
+
+#### [It’s a rough housing market, and Goldman Sachs expects it to get worse](https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 08:13
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [France considers new curfews as restrictions quell unrest](https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 08:40
+
+#### [Alberta voters reject separation from Canada, early results show](https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 07:54
+
+#### [South Korean data centre builder tumbles 32% on trading debut](https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 07:03
+
+#### [What has actually battered the bond market?](https://www.ft.com/content/e5585991-c884-4b22-867e-5d70efbb0a87)
+**发布时间**: 2026-10-20 05:00
+
+#### [AI debt worries spark surge in default insurance trading](https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 04:00
+
+#### [Britain’s £100,000 tax trap](https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 04:00
+
+#### [Musk beat Sweden’s unions — but not the Swedish model](https://www.ft.com/content/8a261d23-da1e-4bc9-8b39-4dff8a488d16?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 04:00
+
+#### [Louis Vuitton and Hermès among luxury retailers looted in French riots](https://www.ft.com/content/afaa7a1d-ef43-40ca-a042-4da8de9ff476?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 04:00
+
+#### [Iran war tilts balance of global oil power towards Americas](https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 04:00
 
 ---
 

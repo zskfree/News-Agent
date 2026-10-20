@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-20 01:37
+**最后更新时间**: 2026-10-20 09:50
+
+---
+
+## 🆕 最新更新 (2026-10-20 09:50)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [580天暗战，爱奇艺的AI闯关路](https://www.leiphone.com/category/industrynews/jJI2TPXI1eYWxECq.html)
+**发布时间**: 2026-10-20 14:15
+
+#### [奥斯卡大师加持，「电影精神」怎么造就AI剧场？](https://www.leiphone.com/category/industrynews/6Vycsmo3EhndKZSe.html)
+**发布时间**: 2026-10-20 14:08
+
+#### [抖音电商公布双11开门红数据：消费券带动成交额破亿商家数涨2倍](https://www.leiphone.com/category/industrynews/30w2GXFtLv9CootW.html)
+**发布时间**: 2026-10-20 14:03
+
+#### [新石器完成近4亿美元新一轮融资，加速全球化与规模化商业落地](https://www.leiphone.com/category/industrynews/eSrgjx3nGEGMMePm.html)
+**发布时间**: 2026-10-20 12:22
+
+#### [好价正当时！双11华为平板这样买，15%国补再叠教育优惠超值入手](https://www.leiphone.com/category/industrynews/lG1dWd9RNAK2bEb7.html)
+**发布时间**: 2026-10-20 12:12
+
+#### [启元机器人新进展：北大董豪团队推出 HIL-UMI，让后训练摆脱「真机依赖」](https://www.leiphone.com/category/ai/XgCxObsqu8pc44px.html)
+**发布时间**: 2026-10-20 12:06
+
+#### [抖音商城双11开门红数据发布：消费券带动成交额破亿商家数同比增长200%](https://www.leiphone.com/category/industrynews/VSFOVaL9SbtiAsJX.html)
+**发布时间**: 2026-10-20 11:06
+
+#### [全年最优惠！真正的双11今晚8点天猫开卖](https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html)
+**发布时间**: 2026-10-20 10:23
+
+#### [京东左琦的惊艳出道：最强公关，竟在采销](https://www.leiphone.com/category/industrynews/1qas4lUYu8NA19Ki.html)
+**发布时间**: 2026-10-20 09:47
+
+#### [中科通量亮相2026 RISC-V中国峰会，全栈RISC-V智能覆盖视频+智算全场景](https://www.leiphone.com/category/industrynews/2KBJmyhuJeiRQ7Op.html)
+**发布时间**: 2026-10-20 09:38
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks](https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/)
+**发布时间**: 2026-10-20 08:12
+
+#### [Cloudflare Releases Clairic, a System One Extraction Model on Workers AI](https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/)
+**发布时间**: 2026-10-20 07:45
+
+#### [Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second](https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/)
+**发布时间**: 2026-10-20 03:32
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/)
+**发布时间**: 2026-10-20 05:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-20日刊](https://hex2077.dev/docs/2026-10/2026-10-20/)
+**发布时间**: 2026-10-20 02:24
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Claude新模型曝光！能跳出思维定势，修Bug治标又治本](https://www.qbitai.com/2026/10/504314.html)
+**发布时间**: 2026-10-20 01:09
+
+#### [从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务](https://www.qbitai.com/2026/10/504277.html)
+**发布时间**: 2026-10-19 14:33
+
+#### [通研院孵化的团队，也盯上了RSI](https://www.qbitai.com/2026/10/504294.html)
+**发布时间**: 2026-10-19 14:31
+
+#### [2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行](https://www.qbitai.com/2026/10/504266.html)
+**发布时间**: 2026-10-19 10:27
+
+#### [全栈自研！国产高端互连芯片，稳了!](https://www.qbitai.com/2026/10/504225.html)
+**发布时间**: 2026-10-19 10:15
+
+#### [AI 开始挑战最复杂的系统：生命](https://www.qbitai.com/2026/10/504242.html)
+**发布时间**: 2026-10-19 10:04
+
+#### [达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图](https://www.qbitai.com/2026/10/504238.html)
+**发布时间**: 2026-10-19 09:56
+
+#### [赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕](https://www.qbitai.com/2026/10/504199.html)
+**发布时间**: 2026-10-19 08:12
+
+#### [日均6万亿Token服务背后，商汤大装置如何提升推理效能？](https://www.qbitai.com/2026/10/504188.html)
+**发布时间**: 2026-10-19 05:22
+
+#### [谷歌开源RSI新成果！华人浓度爆表](https://www.qbitai.com/2026/10/504184.html)
+**发布时间**: 2026-10-19 03:11
 
 ---
 

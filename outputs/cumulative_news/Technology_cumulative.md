@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-20 01:39
+**最后更新时间**: 2026-10-20 09:51
+
+---
+
+## 🆕 最新更新 (2026-10-20 09:51)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [OpenCode陷入“密钥泄露”风波，AI时代如何守住安全红线？](https://www.tmtpost.com/8174735.html)
+**发布时间**: 2026-10-20 17:29
+
+#### [瓶装饮料集体涨价，2026年或成饮料行业最难一年？](https://www.tmtpost.com/8174439.html)
+**发布时间**: 2026-10-20 17:18
+
+#### [做了10年影视制片人，现在我每天陪老板搓“AI玩具”](https://www.tmtpost.com/8174207.html)
+**发布时间**: 2026-10-20 16:40
+
+#### [会飞的Roadster：特斯拉给电车圈上了一堂“航天课”](https://www.tmtpost.com/8174196.html)
+**发布时间**: 2026-10-20 16:39
+
+#### [山东黄金：金矿储量国内第二，为什么只值紫金的六分之一？](https://www.tmtpost.com/8174237.html)
+**发布时间**: 2026-10-20 16:39
+
+#### [这届年轻人，花钱“手搓”AI人设](https://www.tmtpost.com/8174252.html)
+**发布时间**: 2026-10-20 16:39
+
+#### [昨天还在互撕的产品经理，今天全被REA逼成了战友](https://www.tmtpost.com/8174357.html)
+**发布时间**: 2026-10-20 16:39
+
+#### [对话Dyna Robotics：被部署教训了300天后，找到机器人Scaling Law](https://www.tmtpost.com/8174365.html)
+**发布时间**: 2026-10-20 16:39
+
+#### [具身智能，卡在哪——王兴兴的"一两年"到底承诺了什么](https://www.tmtpost.com/8174435.html)
+**发布时间**: 2026-10-20 16:39
+
+#### [把造船的标准，立到风机上：中船科技在CWP2026交出一份新周期答卷](https://www.tmtpost.com/8174593.html)
+**发布时间**: 2026-10-20 16:24
+
+#### [China’s EV Market Is No Longer About Winning Converts](https://www.tmtpost.com/8174619.html)
+**发布时间**: 2026-10-20 16:21
+
+#### [募资两度缩水仍押注越南，富佳股份意在守住大客户订单](https://www.tmtpost.com/8174540.html)
+**发布时间**: 2026-10-20 16:07
+
+#### [智驾芯片龙头的新战场：3亿元订单背后，黑芝麻智能瞄准万亿级AI计算市场](https://www.tmtpost.com/8174083.html)
+**发布时间**: 2026-10-20 15:11
+
+#### [迦智科技：九年累计亏损超6亿，股权转让多档定价引争议｜IPO观察](https://www.tmtpost.com/8171049.html)
+**发布时间**: 2026-10-20 14:28
+
+#### [广晟大宝山：单一矿区承压，控股股东身兼大客户与核心供应商，不差钱仍募资补流｜IPO观察](https://www.tmtpost.com/8171054.html)
+**发布时间**: 2026-10-20 13:40
+
+#### [机器人进厂第一课：不当人](https://www.tmtpost.com/8168146.html)
+**发布时间**: 2026-10-20 12:30
+
+#### [字节Seed大重组：吴永辉的“大兵团”作战，与出走的联合创始人](https://www.tmtpost.com/8173652.html)
+**发布时间**: 2026-10-20 11:59
+
+#### [DeepSeek学霸的降维打击：没刷榜，在工位打游戏，模型能力却控制不住地涨](https://www.tmtpost.com/8173268.html)
+**发布时间**: 2026-10-20 11:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计](https://www.infoq.cn/article/HoUf1pHD3WcZCK3YMe7m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 17:00
+
+#### [Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统](https://www.infoq.cn/article/tTpKSzciXEpXuZduywdg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 15:22
+
+#### [突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍](https://www.infoq.cn/article/mJ5udryLFwjov1pk4Dsq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 15:07
+
+#### [AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则](https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 15:05
+
+#### [AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势](https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 14:55
+
+#### [Linux 异步多进程基础已稳固，但仍需进一步测试](https://www.infoq.cn/article/cioICj3URrN6Txq2hNjq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 13:47
+
+#### [调查发现：AI 生成代码会提升调试难度与故障发生率，并造成代码理解鸿沟](https://www.infoq.cn/article/ywvgVDVLsSU7r47Jk6lq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 11:00
+
+#### [RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相](https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 10:51
+
+#### [失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海](https://www.infoq.cn/article/ZyjObqGawfurPFLBQONd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面](https://sspai.com/post/116661)
+**发布时间**: 2026-10-20 15:07
+
+#### [App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法](https://sspai.com/post/116430)
+**发布时间**: 2026-10-20 10:34
+
+#### [派早报：MiniMax 发布 M3.1 Flash 模型等](https://sspai.com/post/116758)
+**发布时间**: 2026-10-20 08:39
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了](http://www.geekpark.net/news/372612)
+**发布时间**: 2026-10-20 13:46
 
 ---
 
