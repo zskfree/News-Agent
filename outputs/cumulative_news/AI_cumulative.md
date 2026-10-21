@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-20 09:50
+**最后更新时间**: 2026-10-21 01:21
+
+---
+
+## 🆕 最新更新 (2026-10-21 01:21)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [王友清教授团队论文被ACM MM 2026录用｜ACM MM 2026](https://www.leiphone.com/category/private/JI8CBnLPkIokurs6.html)
+**发布时间**: 2026-10-20 23:37
+
+#### [停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票](https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html)
+**发布时间**: 2026-10-20 18:39
+
+#### [喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？](https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html)
+**发布时间**: 2026-10-20 18:27
+
+#### [双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？](https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html)
+**发布时间**: 2026-10-20 18:04
+
+#### [亚太唯一！阿里云连续4年获评 Gartner 容器管理领导者象限](https://www.leiphone.com/category/industrynews/z75kiSSlXYqfCza6.html)
+**发布时间**: 2026-10-20 17:54
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch](https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/)
+**发布时间**: 2026-10-20 21:14
+
+#### [Work management context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/)
+**发布时间**: 2026-10-20 17:59
+
+#### [From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-20 17:52
+
+#### [Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/)
+**发布时间**: 2026-10-20 17:48
+
+#### [How Octave built a secure multi-tenant AI foundation on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/)
+**发布时间**: 2026-10-20 17:34
+
+#### [Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference](https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/)
+**发布时间**: 2026-10-20 16:42
+
+#### [Discover tools at runtime with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/)
+**发布时间**: 2026-10-20 16:22
+
+#### [Securing AI agent identity with X.509 PKI on AWS](https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/)
+**发布时间**: 2026-10-20 16:03
+
+#### [How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-20 15:57
+
+#### [Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-20 15:39
+
+#### [Build a semantic layer for agentic AI on AWS with Strategy Mosaic and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-strategy-mosaic-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-20 15:36
+
+#### [Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-atscale-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-20 15:33
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams)
+**发布时间**: 2026-10-20 18:17
+
+#### [FairStress: A deeper evaluation of fairness in LLM decision-making](https://huggingface.co/blog/allenai/fairstress)
+**发布时间**: 2026-10-20 16:09
+
+#### [ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model](https://huggingface.co/blog/ibm-research/altk-evolve-bc)
+**发布时间**: 2026-10-20 15:19
+
+#### [Hugging Face ❤️ TorchTPU: TPUs, Natively](https://huggingface.co/blog/hf-torchtpu)
+**发布时间**: 2026-10-20 00:00
+
+#### [AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms](https://huggingface.co/blog/anylanguagemodel-1-0)
+**发布时间**: 2026-10-20 00:00
+
+#### [MPS in PyTorch 2.15](https://huggingface.co/blog/mps-pytorch-2-15)
+**发布时间**: 2026-10-20 00:00
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google Open-Sources TorchTPU, a Native PyTorch Backend for Cloud TPUs](https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/)
+**发布时间**: 2026-10-20 15:22
+
+#### [DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash](https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/)
+**发布时间**: 2026-10-20 14:31
 
 ---
 

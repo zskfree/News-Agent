@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-20 09:51
+**最后更新时间**: 2026-10-21 01:22
+
+---
+
+## 🆕 最新更新 (2026-10-21 01:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next](https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 00:24
+
+#### [Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally](https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 00:15
+
+#### [Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger](https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 00:14
+
+#### [Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock](https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 00:12
+
+#### [Why SpaceX’s stock is surging — and lifting the broader AI universe along with it](https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 23:10
+
+#### [‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful](https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 22:45
+
+#### [My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?](https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 22:27
+
+#### [Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?](https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 21:47
+
+#### [It’s no secret what the best financial advice for retirement is — but most people ignore it anyway](https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 20:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SpaceX and Tesla boards explore potential merger](https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 21:56
+
+#### [Finnish president hails progress in talks about ending Russia’s war in Ukraine](https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 21:30
+
+#### [Boeing wins approval for Max 10 jet in boost for turnaround efforts](https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 20:43
+
+#### [Netflix gives downbeat outlook as streaming hits dry up](https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 20:32
+
+#### [UAE official emerges as late contender to lead UN](https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 18:32
+
+#### [Who are the Black Bloc?](https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 18:15
+
+#### [Putin’s American friends](https://www.ft.com/content/f2261796-20d1-4c90-ab3e-246d4aff504f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 10:26
+
+#### [The unlikely winners from Trump’s Iran war](https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-20 04:00
 
 ---
 

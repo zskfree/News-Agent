@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-20 09:51
+**最后更新时间**: 2026-10-21 01:22
+
+---
+
+## 🆕 最新更新 (2026-10-21 01:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [当机器狗学会自己挣钱，芯片才是真正的赢家](https://www.tmtpost.com/8175041.html)
+**发布时间**: 2026-10-21 08:51
+
+#### [Edge AI Daily 早报（10月21日）](https://www.tmtpost.com/8175309.html)
+**发布时间**: 2026-10-21 08:51
+
+#### [番茄小说决定杀死AI](https://www.tmtpost.com/8175060.html)
+**发布时间**: 2026-10-21 08:51
+
+#### [广汇物流：单季利润修复，全年跌近七成，红淖铁路涨价仍未“止痛”](https://www.tmtpost.com/8174960.html)
+**发布时间**: 2026-10-21 08:38
+
+#### [瑞鹄模具三季报增收不增利，牛散林仁平持续减仓｜看财报](https://www.tmtpost.com/8175247.html)
+**发布时间**: 2026-10-21 08:36
+
+#### [【钛晨报】工信部：正研究起草新一代智能制造政策，推动“AI+制造”；新央企国家数据集团成立，董事长、总经理亮相；DeepSeek宣布全面开源内部推理框架](https://www.tmtpost.com/8175144.html)
+**发布时间**: 2026-10-21 07:20
+
+#### [AI短剧里的“彩票工厂”不再赚钱](https://www.tmtpost.com/8174771.html)
+**发布时间**: 2026-10-20 18:29
+
+#### [9700万判决之后，汇源决定“不要这个名字了”](https://www.tmtpost.com/8174668.html)
+**发布时间**: 2026-10-20 18:17
+
+#### [乐事玩转“开袋有奖”，品牌为什么越来越在意消费者的体验感？](https://www.tmtpost.com/8171080.html)
+**发布时间**: 2026-10-20 17:51
+
+#### [田柯宇错了，但他付出的代价太小了](https://www.tmtpost.com/8174442.html)
+**发布时间**: 2026-10-20 17:42
+
+#### [挣真钱：中国 AI 独角兽的成人礼](https://www.tmtpost.com/8173526.html)
+**发布时间**: 2026-10-20 17:40
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具](http://www.geekpark.net/news/372650)
+**发布时间**: 2026-10-21 08:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等](https://sspai.com/post/116887)
+**发布时间**: 2026-10-21 08:07
+
+#### [具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁](https://sspai.com/prime/story/inside-release-notes-261020)
+**发布时间**: 2026-10-20 18:01
+
+#### [TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验](https://sspai.com/post/115475)
+**发布时间**: 2026-10-20 17:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业](https://www.infoq.cn/article/Xkjg7bLE3o6l9qCidVX0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 00:35
+
+#### [比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个  Agent 国模第一](https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 00:26
+
+#### [主题征文 ｜ 让鸿蒙应用，玩出新可能！](https://www.infoq.cn/article/D8uCYSG2Sf29ybwp4i2g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-20 18:36
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [我用 Codex 破解了家里这个设备，还能语音遥控。。。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537902&idx=1&sn=bab85f388e137fed4534ec70fc77f18b)
+**发布时间**: 2026-10-20 10:10
 
 ---
 
