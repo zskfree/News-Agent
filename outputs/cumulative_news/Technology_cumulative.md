@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-21 01:22
+**最后更新时间**: 2026-10-21 09:54
+
+---
+
+## 🆕 最新更新 (2026-10-21 09:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [骑手还没被替代，无人车们已经“内卷”麻了](https://www.tmtpost.com/8174936.html)
+**发布时间**: 2026-10-21 17:50
+
+#### [星巴克的沙发不养闲人](https://www.tmtpost.com/8176482.html)
+**发布时间**: 2026-10-21 17:49
+
+#### [AI 泡沫监测·之一：债务层已经先动了](https://www.tmtpost.com/8175985.html)
+**发布时间**: 2026-10-21 17:49
+
+#### [数字造星时代来临，流水线式AI艺人能挣到谁的钱？](https://www.tmtpost.com/8176501.html)
+**发布时间**: 2026-10-21 17:36
+
+#### [智能体手机加速爆发？换机困境、端侧AI与下一代入口之争](https://www.tmtpost.com/8176382.html)
+**发布时间**: 2026-10-21 17:36
+
+#### [电商巨头的AI战略分野：阿里抢算力，京东抢扳手](https://www.tmtpost.com/8176414.html)
+**发布时间**: 2026-10-21 17:36
+
+#### [萝卜快跑周单25万，开始跟网约车抢生意了？](https://www.tmtpost.com/8175998.html)
+**发布时间**: 2026-10-21 17:29
+
+#### [泰奶背后的操盘手，又盯上了港奶](https://www.tmtpost.com/8176478.html)
+**发布时间**: 2026-10-21 17:28
+
+#### [五年股价跌逾85%，“东北药茅”究竟经历了什么？](https://www.tmtpost.com/8176479.html)
+**发布时间**: 2026-10-21 17:28
+
+#### [五羊星座首颗卫星发射成功，填补商业航天低纬度高频观测空白](https://www.tmtpost.com/8176418.html)
+**发布时间**: 2026-10-21 16:48
+
+#### [康佳退市，新飞冰箱重回十字路口](https://www.tmtpost.com/8174917.html)
+**发布时间**: 2026-10-21 16:00
+
+#### [逆周期出化妆品牛股，国内为什么是例外？](https://www.tmtpost.com/8175062.html)
+**发布时间**: 2026-10-21 15:55
+
+#### [从“口水仗”到切割品牌，一山容不下俩“汇源”？](https://www.tmtpost.com/8175141.html)
+**发布时间**: 2026-10-21 15:55
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流](https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 17:12
+
+#### [金融智能分析本体：四大核心要素与五条建设路线](https://www.infoq.cn/article/Be94YQbRtbWj3pzZ9rSh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 16:13
+
+#### [欧洲专家：追求 100% 技术主权，是一种天真的想法](https://www.infoq.cn/article/6L1Bqr8iNdVT6Cgq22QH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 16:00
+
+#### [推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势](https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 15:19
+
+#### [代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？](https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 15:00
+
+#### [PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录](https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 14:52
+
+#### [17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值](https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 14:39
+
+#### [Cloudflare 开源面向 AI 智能体的决策模型 Clef](https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 13:47
+
+#### [Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？](https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 12:10
+
+#### [DeepSeek开源最新推理框架：单集群日吞吐155万亿Token，KVCache可保存7天](https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 12:06
+
+#### [Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍](https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 12:01
+
+#### [AI 能否取代渗透测试？Cloudflare 的答案是：必须套上测试框架](https://www.infoq.cn/article/R2z2kCkRHhXwGqDZeMKN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 11:00
+
+#### [720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技](https://www.infoq.cn/article/2wtRouOh1O69dLA8f4Vm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 10:24
+
+#### [美团企业级 Agent 的平台化应用实践｜QCon上海](https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 10:00
+
+#### [Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%](https://www.infoq.cn/article/39xM9CkCb4jcZ9yra6o6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 09:21
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [当车企要说为「人类自由」奋斗时，它在说什么](http://www.geekpark.net/news/372698)
+**发布时间**: 2026-10-21 17:10
+
+#### [亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点](http://www.geekpark.net/news/372671)
+**发布时间**: 2026-10-21 12:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
+**发布时间**: 2026-10-21 15:00
+
+#### [怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？](https://sspai.com/post/115107)
+**发布时间**: 2026-10-21 10:23
 
 ---
 

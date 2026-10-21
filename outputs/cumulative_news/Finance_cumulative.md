@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-21 01:22
+**最后更新时间**: 2026-10-21 09:54
+
+---
+
+## 🆕 最新更新 (2026-10-21 09:54)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?](https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 09:15
+
+#### [George Foreman’s lavish Texas estate with 50-car garage is listed for $6 million](https://www.marketwatch.com/story/george-foremans-lavish-texas-estate-with-50-car-garage-is-listed-for-6-million-d464b764?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 09:04
+
+#### [AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin](https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 08:50
+
+#### [‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?](https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories)
+**发布时间**: 2026-10-20 22:45
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [France’s borrowing costs hit 5% for first time since 2002](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 09:07
+
+#### [Australian data centre group falls 44% on profit warning](https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 06:33
+
+#### [To replace Starlink, Europe will have to reawaken its animal spirits](https://www.ft.com/content/dcf3d157-de7d-4b3a-ab6a-115558d6a47b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 04:00
+
+#### [Britain cannot build its future by returning to the 1970s](https://www.ft.com/content/8c0ea73d-dc44-455a-b319-148c09f68e0a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 04:00
+
+#### [Netanyahu made plans to restart Iran strikes earlier this month](https://www.ft.com/content/eb4d1101-45ed-4d03-9beb-42f7c87a58ea)
+**发布时间**: 2026-10-21 04:00
+
+#### [China’s nightmare: becoming the next Japan](https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 03:00
+
+#### [OpenAI ‘agents’ disabled their own monitoring systems](https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 01:56
 
 ---
 
