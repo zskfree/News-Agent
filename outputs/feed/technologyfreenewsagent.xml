@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 22 Oct 2026 01:20:00 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 01:20:21 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 09:54:00 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:54:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】推动科技创新和产业创新深度融合，中办、国办最新部署；比亚迪回应L3车辆落地时间；证监会：促进北交所新股合理定价，稳步推出北证50ETF</title>
-      <link>https://www.tmtpost.com/8176877.html</link>
-      <description>&lt;![CDATA[【钛晨报】推动科技创新和产业创新深度融合，中办、国办最新部署；比亚迪回应L3车辆落地时间；证监会：促进北交所新股合理定价，稳步推出北证50ETF]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8176877.html</guid>
+      <title>从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等</title>
+      <link>https://sspai.com/post/116953</link>
+      <description>&lt;![CDATA[派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 08:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/116953</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位</title>
-      <link>https://www.tmtpost.com/8176585.html</link>
-      <description>&lt;![CDATA[从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 08:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8176585.html</guid>
+      <title>面向 Qwen 系列模型线性注意力的高性能优化实践</title>
+      <link>https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[面向 Qwen 系列模型线性注意力的高性能优化实践]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“乌镇峰会观众预约平台”，正式上线！</title>
-      <link>https://www.tmtpost.com/8176791.html</link>
-      <description>&lt;![CDATA[“乌镇峰会观众预约平台”，正式上线！]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 19:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8176791.html</guid>
+      <title>Cloudflare 两个月两改追踪定价，开发者该如何控制成本？</title>
+      <link>https://www.infoq.cn/article/hy9SMIBOjwjdZ4JduMzL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 两个月两改追踪定价，开发者该如何控制成本？]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hy9SMIBOjwjdZ4JduMzL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AWS Lambda推动无服务器向长时间运行的工作负载发展</title>
-      <link>https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AWS Lambda推动无服务器向长时间运行的工作负载发展]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 09:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？</title>
+      <link>https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 16:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨</title>
-      <link>http://www.geekpark.net/news/372711</link>
-      <description>&lt;![CDATA[微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 08:48:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372711</guid>
+      <title>AI把整个软件生态打成筛子，全栈开发者的至暗时刻</title>
+      <link>https://www.infoq.cn/article/glAvFT7PWdZ53mbgPbgC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI把整个软件生态打成筛子，全栈开发者的至暗时刻]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/glAvFT7PWdZ53mbgPbgC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」</title>
-      <link>http://www.geekpark.net/news/372710</link>
-      <description>&lt;![CDATA[我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 08:14:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372710</guid>
+      <title>与 Redis 分道扬镳两年后，Valkey 不只要做缓存：单进程吞吐破百万，Rust 统一客户端底座</title>
+      <link>https://www.infoq.cn/article/ud4r6jvkmuKNAu9NTHxF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[与 Redis 分道扬镳两年后，Valkey 不只要做缓存：单进程吞吐破百万，Rust 统一客户端底座]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ud4r6jvkmuKNAu9NTHxF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>奇瑞说，中国家庭的下一台车是摩托</title>
-      <link>http://www.geekpark.net/news/372692</link>
-      <description>&lt;![CDATA[奇瑞说，中国家庭的下一台车是摩托]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 22:26:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372692</guid>
+      <title>GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust</title>
+      <link>https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 13:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（10月22日）</title>
-      <link>https://www.tmtpost.com/8177010.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（10月22日）]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8177010.html</guid>
+      <title>Shopify 将 Checkout Blocks 升级为 Polaris Web 组件，包体积最高缩减 85%</title>
+      <link>https://www.infoq.cn/article/40B7RzB3uez5MvM1mCqW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Shopify 将 Checkout Blocks 升级为 Polaris Web 组件，包体积最高缩减 85%]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 11:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/40B7RzB3uez5MvM1mCqW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美国最大车企，做成小而美了</title>
-      <link>https://www.tmtpost.com/8176888.html</link>
-      <description>&lt;![CDATA[美国最大车企，做成小而美了]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8176888.html</guid>
+      <title>豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创</title>
+      <link>https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创]]&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

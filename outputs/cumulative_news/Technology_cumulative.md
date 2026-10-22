@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-22 01:20
+**最后更新时间**: 2026-10-22 09:54
+
+---
+
+## 🆕 最新更新 (2026-10-22 09:54)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [面向 Qwen 系列模型线性注意力的高性能优化实践](https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 17:08
+
+#### [Cloudflare 两个月两改追踪定价，开发者该如何控制成本？](https://www.infoq.cn/article/hy9SMIBOjwjdZ4JduMzL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 17:00
+
+#### [企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？](https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 16:24
+
+#### [AI把整个软件生态打成筛子，全栈开发者的至暗时刻](https://www.infoq.cn/article/glAvFT7PWdZ53mbgPbgC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 15:30
+
+#### [与 Redis 分道扬镳两年后，Valkey 不只要做缓存：单进程吞吐破百万，Rust 统一客户端底座](https://www.infoq.cn/article/ud4r6jvkmuKNAu9NTHxF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 15:00
+
+#### [GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust](https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 13:17
+
+#### [Shopify 将 Checkout Blocks 升级为 Polaris Web 组件，包体积最高缩减 85%](https://www.infoq.cn/article/40B7RzB3uez5MvM1mCqW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 11:17
+
+#### [从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势](https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 10:00
+
+#### [豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创](https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [黄仁勋押注新一轮“PC革命”，Agent找到了“最佳宿主”吗？](https://www.tmtpost.com/8177566.html)
+**发布时间**: 2026-10-22 17:04
+
+#### [In Brazil, Keeta Is Expanding Around the Incumbent](https://www.tmtpost.com/8177738.html)
+**发布时间**: 2026-10-22 17:04
+
+#### [China’s Shopping Festival Turns Into a Conversation](https://www.tmtpost.com/8177736.html)
+**发布时间**: 2026-10-22 17:04
+
+#### [天银机电Q3由盈转亏，商业航天高增长仍难撑起大盘｜看财报](https://www.tmtpost.com/8177567.html)
+**发布时间**: 2026-10-22 16:47
+
+#### [奇瑞造了一个“大脑”，想改变的不只是汽车](https://www.tmtpost.com/8177247.html)
+**发布时间**: 2026-10-22 16:32
+
+#### [中层不会消失，只是换成了Agent](https://www.tmtpost.com/8177643.html)
+**发布时间**: 2026-10-22 16:17
+
+#### [宁德时代，被「错杀」了？](https://www.tmtpost.com/8177484.html)
+**发布时间**: 2026-10-22 16:04
+
+#### [万播收益低至5元，AI短剧的生意为何越做越亏？](https://www.tmtpost.com/8177437.html)
+**发布时间**: 2026-10-22 16:04
+
+#### [母猪少了，猪价却创八年新低：猪周期"见底"的三个错位](https://www.tmtpost.com/8176911.html)
+**发布时间**: 2026-10-22 16:04
+
+#### [哈利·波特能吃老本，LABUBU为什么不行？](https://www.tmtpost.com/8177378.html)
+**发布时间**: 2026-10-22 16:03
+
+#### [谁在养活 Anthropic？](https://www.tmtpost.com/8177367.html)
+**发布时间**: 2026-10-22 16:03
+
+#### [爆红的中国摩托车，苦熬了20年](https://www.tmtpost.com/8177158.html)
+**发布时间**: 2026-10-22 16:03
+
+#### [腾讯姚顺宇的 AI “加班论”](https://www.tmtpost.com/8177215.html)
+**发布时间**: 2026-10-22 16:03
+
+#### [宁德时代，AI时代卖铲人的卖铲人](https://www.tmtpost.com/8177328.html)
+**发布时间**: 2026-10-22 16:03
+
+#### [600亿元国家AI基金投向了谁](https://www.tmtpost.com/8177374.html)
+**发布时间**: 2026-10-22 16:03
+
+#### [星巴克全国推行消费入座，一场业绩承压下的转型试验](https://www.tmtpost.com/8177555.html)
+**发布时间**: 2026-10-22 15:48
+
+#### [打通Dots与核心Infra团队，慢一步的小红书会加快AI进程吗？](https://www.tmtpost.com/8177297.html)
+**发布时间**: 2026-10-22 15:48
+
+#### [字节正在构建一套完整的AI视频工具生态](https://www.tmtpost.com/8176915.html)
+**发布时间**: 2026-10-22 15:31
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 漫剧越做越快，赚钱却没那么容易了](http://www.geekpark.net/news/372746)
+**发布时间**: 2026-10-22 16:20
+
+#### [大模型内卷之后，AI 竞争进入搜索基础设施时代](http://www.geekpark.net/news/372743)
+**发布时间**: 2026-10-22 16:15
+
+#### [被迫下场，Anthropic 推出个人 AI 助理 Claude Duet](http://www.geekpark.net/news/372740)
+**发布时间**: 2026-10-22 15:23
+
+#### [AI 到处挖漏洞一整年，终于给人类爆了个大的](http://www.geekpark.net/news/372731)
+**发布时间**: 2026-10-22 14:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本](https://sspai.com/post/116923)
+**发布时间**: 2026-10-22 15:00
+
+#### [终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记](https://sspai.com/post/115090)
+**发布时间**: 2026-10-22 11:36
+
+#### [派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等](https://sspai.com/post/116953)
+**发布时间**: 2026-10-22 08:29
 
 ---
 

@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-22 01:20
+**最后更新时间**: 2026-10-22 09:54
+
+---
+
+## 🆕 最新更新 (2026-10-22 09:54)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A top strategist has a warning for retail investors chasing the AI rally](https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 09:07
+
+#### [Why a JPMorgan strategist says the stock market’s tailspin might have run its course](https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 09:04
+
+#### [Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes](https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 09:03
+
+#### [Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers](https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 08:47
+
+#### [My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?](https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 03:15
+
+#### [The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.](https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 01:50
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global stocks tumble as oil prices rise](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 08:46
+
+#### [Ukraine to buy military supplies via Nato agency](https://www.ft.com/content/991ac37c-289b-40e5-b2e6-220ee2aebe5d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 07:49
+
+#### [Websites taken offline in race to patch PHP security flaw](https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 07:06
+
+#### [Russian missiles bombard Kyiv after Witkoff-Putin talks](https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 06:15
+
+#### [Highland Spring billionaire’s property empire hit by loan defaults and creditor action](https://www.ft.com/content/7f93f4b4-beca-4566-ad60-900910d31320?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 04:00
+
+#### [Which G7 economy is the profligacy poster child?](https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 04:00
+
+#### [The battle for Israel’s future](https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 04:00
+
+#### [Politico and Telegraph owner pitched deal to buy European arm of TikTok](https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 04:00
 
 ---
 

@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-22 01:18
+**最后更新时间**: 2026-10-22 09:52
+
+---
+
+## 🆕 最新更新 (2026-10-22 09:52)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [火山引擎启动Seedance 2.5 4K模型首批企业试用，定向供应全球20家工作室和导演](https://www.leiphone.com/category/industrynews/mqvYMpYMxjNyoBAJ.html)
+**发布时间**: 2026-10-22 12:47
+
+#### [靳玉志：自动驾驶将重构新的出行方式](https://www.leiphone.com/category/industrynews/PlEsyIhjrOGsxbYo.html)
+**发布时间**: 2026-10-22 10:27
+
+#### [具身记忆赛道持续升温，长记忆迎来新 SOTA](https://www.leiphone.com/category/ai/jvyFCFgqJxJtOvjo.html)
+**发布时间**: 2026-10-22 10:19
+
+#### [全球算力价格指数启动 九章云极核心共建算力定价基准](https://www.leiphone.com/category/industrynews/NV7ccFeqrbG1oHSS.html)
+**发布时间**: 2026-10-22 10:13
+
+#### [10-50万级全覆盖，千里智驾量产进入放量期](https://www.leiphone.com/category/transportation/yM0HZ6Vj1HWAptLb.html)
+**发布时间**: 2026-10-22 10:12
+
+#### [好逛又好买！抖音商城双11热卖商品榜发布](https://www.leiphone.com/category/industrynews/9TqjQQrteJeqc2IN.html)
+**发布时间**: 2026-10-22 09:51
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1)
+**发布时间**: 2026-10-22 07:51
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先](https://www.qbitai.com/2026/10/504841.html)
+**发布时间**: 2026-10-22 07:14
+
+#### [既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布](https://www.qbitai.com/2026/10/504832.html)
+**发布时间**: 2026-10-22 07:11
+
+#### [谁在给OpenAI供应具身数据？](https://www.qbitai.com/2026/10/504800.html)
+**发布时间**: 2026-10-22 07:05
+
+#### [多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院](https://www.qbitai.com/2026/10/504734.html)
+**发布时间**: 2026-10-21 11:30
+
+#### [生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月](https://www.qbitai.com/2026/10/504730.html)
+**发布时间**: 2026-10-21 09:45
+
+#### [LeCun押注的世界模型，中国一家清华系公司已经做进了机器人](https://www.qbitai.com/2026/10/504653.html)
+**发布时间**: 2026-10-21 07:15
+
+#### [量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板](https://www.qbitai.com/2026/10/504638.html)
+**发布时间**: 2026-10-21 06:40
+
+#### [实探宁德时代总部：“去宁化”是喊太大声了](https://www.qbitai.com/2026/10/504618.html)
+**发布时间**: 2026-10-21 04:35
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation](https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/)
+**发布时间**: 2026-10-22 07:00
+
+#### [Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method](https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/)
+**发布时间**: 2026-10-22 04:56
+
+#### [A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU](https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/)
+**发布时间**: 2026-10-22 04:17
+
+#### [NVIDIA Nsight Python Tutorial: How to Profile GPU Kernels](https://www.marktechpost.com/2026/10/21/nvidia-nsight-python-tutorial-how-to-profile-gpu-kernels/)
+**发布时间**: 2026-10-22 03:59
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence](https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/)
+**发布时间**: 2026-10-22 05:00
+
+#### [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/)
+**发布时间**: 2026-10-22 05:00
+
+#### [How Companies Are Using NVIDIA DSX to Break the Power Bottleneck](https://blogs.nvidia.com/blog/dsx-power/)
+**发布时间**: 2026-10-22 05:00
+
+#### [NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations](https://blogs.nvidia.com/blog/european-retail-open-models-robotics/)
+**发布时间**: 2026-10-22 05:00
+
+#### [Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction](https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/)
+**发布时间**: 2026-10-22 05:00
+
+#### [NVIDIA Open Models Power a New Wave of European Public Sector Projects](https://blogs.nvidia.com/blog/european-public-sector-open-models/)
+**发布时间**: 2026-10-22 05:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-22日刊](https://hex2077.dev/docs/2026-10/2026-10-22/)
+**发布时间**: 2026-10-22 02:47
 
 ---
 
