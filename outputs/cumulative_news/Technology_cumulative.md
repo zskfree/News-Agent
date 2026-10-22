@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-21 09:54
+**最后更新时间**: 2026-10-22 01:20
+
+---
+
+## 🆕 最新更新 (2026-10-22 01:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AWS Lambda推动无服务器向长时间运行的工作负载发展](https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 09:11
+
+#### [对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型](https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 21:18
+
+#### [从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势](https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-21 18:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨](http://www.geekpark.net/news/372711)
+**发布时间**: 2026-10-22 08:48
+
+#### [我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」](http://www.geekpark.net/news/372710)
+**发布时间**: 2026-10-22 08:14
+
+#### [奇瑞说，中国家庭的下一台车是摩托](http://www.geekpark.net/news/372692)
+**发布时间**: 2026-10-21 22:26
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（10月22日）](https://www.tmtpost.com/8177010.html)
+**发布时间**: 2026-10-22 08:44
+
+#### [从“卖分子”到“卖平台”：这单BD改了中国AI制药的站位](https://www.tmtpost.com/8176585.html)
+**发布时间**: 2026-10-22 08:41
+
+#### [美国最大车企，做成小而美了](https://www.tmtpost.com/8176888.html)
+**发布时间**: 2026-10-22 08:39
+
+#### [朱华荣卸任，赵非接棒，长安汽车要重新找回增长](https://www.tmtpost.com/8176445.html)
+**发布时间**: 2026-10-22 08:07
+
+#### [200人的中国团队，正在改变雷诺的造车方式](https://www.tmtpost.com/8172051.html)
+**发布时间**: 2026-10-22 08:06
+
+#### [【钛晨报】推动科技创新和产业创新深度融合，中办、国办最新部署；比亚迪回应L3车辆落地时间；证监会：促进北交所新股合理定价，稳步推出北证50ETF](https://www.tmtpost.com/8176877.html)
+**发布时间**: 2026-10-22 07:20
+
+#### [首都在线：账面扭亏，AI算力持续投入｜看财报](https://www.tmtpost.com/8176619.html)
+**发布时间**: 2026-10-21 21:11
+
+#### [昔日4倍妖股三季报又大亏，QFII和北上资金逆市加仓｜看财报](https://www.tmtpost.com/8176769.html)
+**发布时间**: 2026-10-21 21:09
+
+#### [Chinese Sellers Learn Latin America the Hard Way](https://www.tmtpost.com/8176844.html)
+**发布时间**: 2026-10-21 20:38
+
+#### [电竞手机比拼逻辑变了，荣耀WIN2选择“用价换量”](https://www.tmtpost.com/8176772.html)
+**发布时间**: 2026-10-21 19:34
+
+#### [“乌镇峰会观众预约平台”，正式上线！](https://www.tmtpost.com/8176791.html)
+**发布时间**: 2026-10-21 19:31
+
+#### [Open Inference Code Narrows the Gap Between Rival AI Chips](https://www.tmtpost.com/8176740.html)
+**发布时间**: 2026-10-21 18:29
+
+#### [短剧，在诞生一种很新的职业剧](https://www.tmtpost.com/8176607.html)
+**发布时间**: 2026-10-21 18:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备](https://sspai.com/post/116820)
+**发布时间**: 2026-10-21 17:00
+
+#### [Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用](https://sspai.com/post/116445)
+**发布时间**: 2026-10-21 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [盘点本周 11 个 Star 攀升最多的 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537903&idx=1&sn=69b07453177c4c06c464245954d7e217)
+**发布时间**: 2026-10-21 13:38
 
 ---
 

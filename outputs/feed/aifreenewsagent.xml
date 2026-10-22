@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 21 Oct 2026 09:52:00 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2026 09:54:48 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 01:18:00 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:20:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？</title>
-      <link>https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html</link>
-      <description>&lt;![CDATA[真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html</guid>
+      <title>Securing Quick access from corporate networks with AWS PrivateLink</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/</link>
+      <description>&lt;![CDATA[Securing Quick access from corporate networks with AWS PrivateLink]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 23:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？</title>
-      <link>https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html</link>
-      <description>&lt;![CDATA[一次抓取背后：读懂智能的“计量”，Token经济学如何聚合“算力、模型、语料”？]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 14:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/me3CuOBHyOqL14Pd.html</guid>
+      <title>5 production challenges in multi-agent systems and how Deep Insight solved them</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/</link>
+      <description>&lt;![CDATA[5 production challenges in multi-agent systems and how Deep Insight solved them]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 23:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？</title>
-      <link>https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html</link>
-      <description>&lt;![CDATA[当Agent“有工号”：从一人一工具到一人一团队，组织如何做好AI时代的分工与协作？]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 14:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/wiMNbdfLr54ciVBE.html</guid>
+      <title>Adaptive agentic intelligence framework using Strands Agents</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/</link>
+      <description>&lt;![CDATA[Adaptive agentic intelligence framework using Strands Agents]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 21:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>双11大促火热开局，千川多重产品助力生意爆发</title>
-      <link>https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html</link>
-      <description>&lt;![CDATA[双11大促火热开局，千川多重产品助力生意爆发]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 13:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/WA7ddFac1GqlW4Hi.html</guid>
+      <title>Train Qwen3 on AWS Trainium with torchtitan</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/</link>
+      <description>&lt;![CDATA[Train Qwen3 on AWS Trainium with torchtitan]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了</title>
-      <link>https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html</link>
-      <description>&lt;![CDATA[大肥鱼遇劲敌：MiniMax M3.1 Flash 拿下 Agent 任务第一，我们实测了]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html</guid>
+      <title>How U.S. Hunger connects leaders and data using Amazon Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/</link>
+      <description>&lt;![CDATA[How U.S. Hunger connects leaders and data using Amazon Quick]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 19:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」</title>
-      <link>https://www.leiphone.com/category/weiwu/2pumQSfiTnvcy26r.html</link>
-      <description>&lt;![CDATA[不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/2pumQSfiTnvcy26r.html</guid>
+      <title>Vercel Open-Sources durable-harness for Crash-Proof Coding Agents</title>
+      <link>https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/</link>
+      <description>&lt;![CDATA[Vercel Open-Sources durable-harness for Crash-Proof Coding Agents]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从安防到工业，海康威视底气从何而来</title>
-      <link>https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html</link>
-      <description>&lt;![CDATA[从安防到工业，海康威视底气从何而来]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/5G/4rvebFOnbOPic02a.html</guid>
+      <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
+      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
+      <description>&lt;![CDATA[How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote</title>
-      <link>https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</link>
-      <description>&lt;![CDATA[GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</guid>
+      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+      <description>&lt;![CDATA[Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK</title>
-      <link>https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</link>
-      <description>&lt;![CDATA[Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 06:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/</guid>
+      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+      <description>&lt;![CDATA[Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets</title>
-      <link>https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/</link>
-      <description>&lt;![CDATA[Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets]]&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 04:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/</guid>
+      <title>海信获“2026福布斯中国最佳雇主”称号</title>
+      <link>https://www.leiphone.com/category/industrynews/O80fSJbgn1ciXTl3.html</link>
+      <description>&lt;![CDATA[海信获“2026福布斯中国最佳雇主”称号]]&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/O80fSJbgn1ciXTl3.html</guid>
       <category>Ai</category>
     </item>
   </channel>

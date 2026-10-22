@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-21 09:54
+**最后更新时间**: 2026-10-22 01:20
+
+---
+
+## 🆕 最新更新 (2026-10-22 01:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax](https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 00:48
+
+#### [Tesla’s stock falls as Elon Musk leaves investors wanting more](https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 23:29
+
+#### [Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business](https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 23:07
+
+#### [Why investors should be skeptical of a potential Tesla-SpaceX merger](https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 21:44
+
+#### [Trump says data centers should generate their own electricity — but experts say only states can mandate that](https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 21:31
+
+#### [Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.](https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 21:14
+
+#### [7 healthcare stocks that stand out as investors pay up for the sector](https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 20:59
+
+#### [Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.](https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-21 20:18
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US orders some personnel to leave Saudi Arabia after Houthi attacks](https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 00:19
+
+#### [Musk sets lower sales target for Tesla as it explores SpaceX merger](https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 23:30
+
+#### [Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’](https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 23:20
+
+#### [Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal](https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 22:58
+
+#### [Republicans head into midterms with huge spending advantage](https://www.ft.com/content/637bb10e-b5b4-4db2-ac7c-b42348595c4c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 20:26
+
+#### [Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference](https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 18:46
+
+#### [Vivek Ramaswamy’s campaign engulfed by controversy over attack ad](https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 17:09
+
+#### [Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX](https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 13:38
+
+#### [The ‘adults in the room’ won’t save you](https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1)
+**发布时间**: 2026-10-21 11:32
+
+#### [Iran’s foreign minister: The false assumptions about us are dangerous](https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa)
+**发布时间**: 2026-10-21 10:22
 
 ---
 

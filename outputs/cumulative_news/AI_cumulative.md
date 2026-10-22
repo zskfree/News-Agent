@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-21 09:52
+**最后更新时间**: 2026-10-22 01:18
+
+---
+
+## 🆕 最新更新 (2026-10-22 01:18)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Securing Quick access from corporate networks with AWS PrivateLink](https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/)
+**发布时间**: 2026-10-21 23:38
+
+#### [5 production challenges in multi-agent systems and how Deep Insight solved them](https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/)
+**发布时间**: 2026-10-21 23:36
+
+#### [Adaptive agentic intelligence framework using Strands Agents](https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/)
+**发布时间**: 2026-10-21 21:23
+
+#### [Train Qwen3 on AWS Trainium with torchtitan](https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/)
+**发布时间**: 2026-10-21 20:00
+
+#### [How U.S. Hunger connects leaders and data using Amazon Quick](https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/)
+**发布时间**: 2026-10-21 19:19
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params](https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/)
+**发布时间**: 2026-10-21 22:39
+
+#### [Vercel Open-Sources durable-harness for Crash-Proof Coding Agents](https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/)
+**发布时间**: 2026-10-21 22:15
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational)
+**发布时间**: 2026-10-21 18:26
+
+#### [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization)
+**发布时间**: 2026-10-21 17:35
+
+#### [Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.](https://huggingface.co/blog/amazon/profiling-torchneuron-part-1)
+**发布时间**: 2026-10-21 16:04
+
+#### [Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster](https://huggingface.co/blog/ibm-granite/granite-speech-5)
+**发布时间**: 2026-10-21 14:58
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [海信获“2026福布斯中国最佳雇主”称号](https://www.leiphone.com/category/industrynews/O80fSJbgn1ciXTl3.html)
+**发布时间**: 2026-10-21 18:20
+
+#### [生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月](https://www.leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html)
+**发布时间**: 2026-10-21 18:00
+
+#### [双11首日：天猫稳居品牌成交主阵地，124个品牌成交破亿](https://www.leiphone.com/category/industrynews/mWw7HXg39Lb4DSa1.html)
+**发布时间**: 2026-10-21 17:32
+
+#### [IDC最新报告：阿里云占中国汽车公共云市场份额超45%](https://www.leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html)
+**发布时间**: 2026-10-21 17:28
+
+#### [混合办公催生新赛道：专业视讯终端为何被企业重新审视](https://www.leiphone.com/category/industrynews/PKwYyRhgChvd69xK.html)
+**发布时间**: 2026-10-21 17:11
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Empowering frontline maternal care with AI-assisted ultrasound](https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/)
+**发布时间**: 2026-10-21 16:23
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/)
+**发布时间**: 2026-10-21 10:50
+
+#### [Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure](https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/)
+**发布时间**: 2026-10-21 10:45
+
+#### [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/)
+**发布时间**: 2026-10-21 10:30
+
+#### [Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA](https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/)
+**发布时间**: 2026-10-21 10:30
+
+#### [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/)
+**发布时间**: 2026-10-21 10:30
+
+#### [NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure](https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/)
+**发布时间**: 2026-10-21 10:30
+
+#### [NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data](https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/)
+**发布时间**: 2026-10-21 10:10
+
+#### [NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries](https://blogs.nvidia.com/blog/open-models-europe-industry/)
+**发布时间**: 2026-10-21 10:00
+
+#### [European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure](https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/)
+**发布时间**: 2026-10-20 10:30
 
 ---
 
