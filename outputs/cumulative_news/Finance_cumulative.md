@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-22 09:54
+**最后更新时间**: 2026-10-23 01:18
+
+---
+
+## 🆕 最新更新 (2026-10-23 01:18)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military](https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 23:29
+
+#### [US Treasury proposes tighter rules on investing in sensitive Chinese tech](https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 23:13
+
+#### [OpenAI trims valuation target to $1.25tn after pitching higher price](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 21:50
+
+#### [Moderna shares sink after leaked cancer data missed expectations](https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 21:37
+
+#### [Airfares will not return to pre-Iran war levels, American Airlines warns](https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 20:08
+
+#### [Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 20:05
+
+#### [Trump ordered to face BBC questioning in $10bn defamation lawsuit](https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 18:36
+
+#### [‘Know Your Agent’ will be the new rule of the AI age](https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 14:38
+
+#### [Europe’s moderates must stop treating politics as a spectator sport](https://www.ft.com/content/b97d2ce4-43b0-4551-8ad8-059abb9d3f3e)
+**发布时间**: 2026-10-22 12:22
+
+#### [Europe’s bracing reality on US bond yields](https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1)
+**发布时间**: 2026-10-22 10:07
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?](https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 23:15
+
+#### [CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature](https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 22:54
+
+#### [The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash](https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 22:17
+
+#### [Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.](https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 22:07
+
+#### [Americans are having fewer babies — and pampering them with luxury diapers](https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 21:28
+
+#### [3 big reasons Micron and other chip stocks fell hard on Thursday](https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 21:19
+
+#### [Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze](https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 20:46
+
+#### [Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled](https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 20:14
+
+#### [Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.](https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-22 19:25
 
 ---
 

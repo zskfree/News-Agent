@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-22 09:54
+**最后更新时间**: 2026-10-23 01:18
+
+---
+
+## 🆕 最新更新 (2026-10-23 01:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [上下文语言模型：通过自主管理上下文提升性能、降低计算成本](https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 09:05
+
+#### [DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能](https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 08:46
+
+#### [又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV](https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 19:16
+
+#### [企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势](https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-22 18:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道](http://www.geekpark.net/news/372767)
+**发布时间**: 2026-10-23 08:49
+
+#### [欧洲 AI，等来了黄仁勋](http://www.geekpark.net/news/372763)
+**发布时间**: 2026-10-23 06:41
+
+#### [Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺](http://www.geekpark.net/news/372762)
+**发布时间**: 2026-10-22 21:20
+
+#### [宇树 10 周年，王兴兴：我劝你相信 AI](http://www.geekpark.net/news/372759)
+**发布时间**: 2026-10-22 19:56
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（10月23日）](https://www.tmtpost.com/8178206.html)
+**发布时间**: 2026-10-23 08:44
+
+#### [Unitree Shortens Its Embodied-AI Clock—and Opens a Global Contest](https://www.tmtpost.com/8178216.html)
+**发布时间**: 2026-10-23 07:24
+
+#### [【钛晨报】《对外投资管理办法》12月1日起施行，投资者范围明确含居民个人；DeepSeek据称完成1000亿元融资，宁德时代和腾讯参投；宁德时代董秘被打？知情人士回应](https://www.tmtpost.com/8178065.html)
+**发布时间**: 2026-10-23 07:20
+
+#### [前次并购3.27亿商誉全额减值，新亚制程又要买电子特气 | 并购一线](https://www.tmtpost.com/8178057.html)
+**发布时间**: 2026-10-22 21:40
+
+#### [亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身](https://www.tmtpost.com/8177096.html)
+**发布时间**: 2026-10-22 20:06
+
+#### [独家｜阿维塔副总裁孙百功即将离职，未来将投身AI与出海领域](https://www.tmtpost.com/8177799.html)
+**发布时间**: 2026-10-22 18:32
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长](https://sspai.com/post/115437)
+**发布时间**: 2026-10-22 17:10
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [又盘点了 4 个稀奇古怪的 GitHub 项目，第一个很抽象。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537904&idx=1&sn=f91d24d988863606f9abb5445ef79296)
+**发布时间**: 2026-10-22 15:43
 
 ---
 

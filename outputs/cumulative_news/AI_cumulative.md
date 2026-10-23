@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-22 09:52
+**最后更新时间**: 2026-10-23 01:17
+
+---
+
+## 🆕 最新更新 (2026-10-23 01:17)
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training)
+**发布时间**: 2026-10-22 22:24
+
+#### [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3)
+**发布时间**: 2026-10-22 16:11
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [当车企抢着自研电池，智己为什么反着来？](https://www.leiphone.com/category/transportation/tlrld8EmPpRuUKDa.html)
+**发布时间**: 2026-10-22 20:29
+
+#### [百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径](https://www.leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html)
+**发布时间**: 2026-10-22 20:03
+
+#### [深度解读全球 72 小时安全风暴：PHP 事件只是第一枪](https://www.leiphone.com/category/yanxishe/tvPJIsotGRQWkdwV.html)
+**发布时间**: 2026-10-22 19:14
+
+#### [超智深融 算力圳浓——第二十二届CCF全国高性能计算学术大会在深圳成功举办](https://www.leiphone.com/category/chips/ZciUaXjdyyGRgNRl.html)
+**发布时间**: 2026-10-22 19:08
+
+#### [又一国产决策模型发布！准确率超过微软和Jev等决策模型](https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html)
+**发布时间**: 2026-10-22 18:54
+
+#### [《2026千川乘方投放宝典》出炉！助力商家迎战双11](https://www.leiphone.com/category/industrynews/P3ZLYakqA47kD3S2.html)
+**发布时间**: 2026-10-22 18:34
+
+#### [独家丨灵钜创新完成数千万元天使轮，南山战新投、龙华资本联合投资](https://www.leiphone.com/category/weiwu/ofJthQTqIHVZaF0M.html)
+**发布时间**: 2026-10-22 18:06
+
+#### [Flowtica Rian：硬件的旧规律没变，新机会是做好Memory丨未来创新50人](https://www.leiphone.com/category/weiwu/Sni49oUOM9rbTR7h.html)
+**发布时间**: 2026-10-22 17:31
+
+#### [独家丨徕芬副总联手苹果核心研发，创业移动出行咖啡智能硬件](https://www.leiphone.com/category/weiwu/kcT0Gob16vBuSwSl.html)
+**发布时间**: 2026-10-22 17:24
+
+#### [Accio成双11商家生意加速器：蓄水期缩短半个月、15分钟全网爆款调优](https://www.leiphone.com/category/industrynews/wZadstkZcVlLudqv.html)
+**发布时间**: 2026-10-22 17:00
+
+#### [千问AI硬件：一副眼镜的「越界」，与一个Agent的野心](https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html)
+**发布时间**: 2026-10-22 16:14
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Amazon Polly delivers a major upgrade to its Generative engine](https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/)
+**发布时间**: 2026-10-22 18:06
+
+#### [How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/)
+**发布时间**: 2026-10-22 18:01
+
+#### [Announcing new ways to customize models with SageMaker AI, without managing GPUs](https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/)
+**发布时间**: 2026-10-22 18:00
+
+#### [Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs](https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/)
+**发布时间**: 2026-10-22 18:00
+
+#### [Deploy AI in a HIPAA-eligible environment with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/)
+**发布时间**: 2026-10-22 17:48
+
+#### [Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-10-22 17:45
+
+#### [Stop guessing auto scaling targets for TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/)
+**发布时间**: 2026-10-22 16:30
+
+#### [How Rescale built an AI triage agent with Strands Agents and AI-DLC](https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/)
+**发布时间**: 2026-10-22 16:25
+
+#### [Workflow context for AI agents with Smartsheet MCP on AWS](https://aws.amazon.com/blogs/machine-learning/workflow-context-for-ai-agents-with-smartsheet-mcp-on-aws/)
+**发布时间**: 2026-10-20 17:59
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs](https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/)
+**发布时间**: 2026-10-22 17:33
+
+#### [Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0](https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/)
+**发布时间**: 2026-10-22 16:56
+
+#### [Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores](https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/)
+**发布时间**: 2026-10-22 16:31
+
+#### [A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing](https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/)
+**发布时间**: 2026-10-22 16:11
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [This design software reimagines everyday objects as self-aware devices](https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022)
+**发布时间**: 2026-10-22 16:45
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories](https://blogs.nvidia.com/blog/minerva-platform-infrastructure/)
+**发布时间**: 2026-10-22 15:00
+
+#### [Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/)
+**发布时间**: 2026-10-22 13:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [又一国产决策模型发布！准确率超过微软和Jev等决策模型](https://www.qbitai.com/2026/10/504879.html)
+**发布时间**: 2026-10-22 09:07
 
 ---
 
