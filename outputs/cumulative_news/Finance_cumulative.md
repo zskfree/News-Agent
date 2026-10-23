@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-23 01:18
+**最后更新时间**: 2026-10-23 09:48
+
+---
+
+## 🆕 最新更新 (2026-10-23 09:48)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This market signal just occurred for only the second time since 1999. Here’s what happened and what it means.](https://www.marketwatch.com/story/this-market-signal-just-occurred-for-only-the-second-time-since-1999-heres-what-happened-and-what-it-means-a126cf31?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 09:35
+
+#### [France is getting its credit rating reviewed by Moody’s. What to expect as French debt turmoil spills overseas.](https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 09:28
+
+#### [This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.](https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 09:19
+
+#### [My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?](https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 09:15
+
+#### [The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.](https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 09:01
+
+#### [NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower](https://www.marketwatch.com/story/nba-star-precious-achiuwa-signs-on-for-1-8-million-condo-in-luxury-miami-tower-95d899c2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 08:59
+
+#### [My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?](https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 07:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil hits $114 for first time since May as global stocks knocked by AI fears](https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 09:14
+
+#### [Anthropic strikes deal to launch European consultancy](https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 09:04
+
+#### [Winter arrives in markets](https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 05:30
+
+#### [Calpers retreats from Big Tech as AI rally falters](https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 04:00
+
+#### [The limits of Trump’s trade war](https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 04:00
+
+#### [AI oversight needs a different model to banking](https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585)
+**发布时间**: 2026-10-23 04:00
+
+#### [Beware Bessent’s tilt towards short-term debt](https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 04:00
+
+#### [Europe’s largest landlord exposed to €8bn hit from Berlin apartment plans](https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 04:00
+
+#### [How a transatlantic mega-merger fell apart over a leadership tug of war](https://www.ft.com/content/e114059c-308d-4d8e-8127-f88b0faca879?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 04:00
+
+#### [US is prepared for long stand-off with Iran, says Trump envoy](https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 04:00
 
 ---
 

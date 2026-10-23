@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 23 Oct 2026 01:18:00 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 01:18:40 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 09:48:00 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:48:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身</title>
-      <link>https://www.tmtpost.com/8177096.html</link>
-      <description>&lt;![CDATA[亚马逊云科技Ozgur Tohumcu：决定物理AI规模化落地速度的，往往不是技术本身]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 20:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8177096.html</guid>
+      <title>千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进</title>
+      <link>https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV</title>
-      <link>https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 19:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制</title>
+      <link>https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 15:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力</title>
+      <link>https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 11:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>上下文语言模型：通过自主管理上下文提升性能、降低计算成本</title>
-      <link>https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[上下文语言模型：通过自主管理上下文提升性能、降低计算成本]]&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 09:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>信得科技：增收不增利叠加偿债风险，多笔股权转让引争议｜IPO观察</title>
+      <link>https://www.tmtpost.com/8174474.html</link>
+      <description>&lt;![CDATA[信得科技：增收不增利叠加偿债风险，多笔股权转让引争议｜IPO观察]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8174474.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能</title>
-      <link>https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能]]&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等</title>
+      <link>https://sspai.com/post/117104</link>
+      <description>&lt;![CDATA[派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/117104</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道</title>
-      <link>http://www.geekpark.net/news/372767</link>
-      <description>&lt;![CDATA[DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道]]&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 08:49:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372767</guid>
+      <title>奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚</title>
+      <link>https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>欧洲 AI，等来了黄仁勋</title>
-      <link>http://www.geekpark.net/news/372763</link>
-      <description>&lt;![CDATA[欧洲 AI，等来了黄仁勋]]&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 06:41:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372763</guid>
+      <title>全球学术期刊评价迎来新变化：从单一指标走向多元标准，中国评价体系加入国际版图</title>
+      <link>https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[全球学术期刊评价迎来新变化：从单一指标走向多元标准，中国评价体系加入国际版图]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺</title>
-      <link>http://www.geekpark.net/news/372762</link>
-      <description>&lt;![CDATA[Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 21:20:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372762</guid>
+      <title>AI 赋能开发，Spotify 月代码变更量翻倍</title>
+      <link>https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 赋能开发，Spotify 月代码变更量翻倍]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>宇树 10 周年，王兴兴：我劝你相信 AI</title>
-      <link>http://www.geekpark.net/news/372759</link>
-      <description>&lt;![CDATA[宇树 10 周年，王兴兴：我劝你相信 AI]]&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 19:56:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372759</guid>
+      <title>Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式</title>
+      <link>https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（10月23日）</title>
-      <link>https://www.tmtpost.com/8178206.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（10月23日）]]&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8178206.html</guid>
+      <title>实测小艺 Work：从全媒体运营到深度研究的完整体验</title>
+      <link>https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[实测小艺 Work：从全媒体运营到深度研究的完整体验]]&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 12:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

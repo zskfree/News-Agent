@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-23 01:18
+**最后更新时间**: 2026-10-23 09:48
+
+---
+
+## 🆕 最新更新 (2026-10-23 09:48)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚](https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 17:35
+
+#### [全球学术期刊评价迎来新变化：从单一指标走向多元标准，中国评价体系加入国际版图](https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 17:13
+
+#### [AI 赋能开发，Spotify 月代码变更量翻倍](https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 16:27
+
+#### [千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进](https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 15:45
+
+#### [GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制](https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 15:11
+
+#### [Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式](https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 13:00
+
+#### [实测小艺 Work：从全媒体运营到深度研究的完整体验](https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 12:12
+
+#### [决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍](https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 12:03
+
+#### [讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力](https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 11:39
+
+#### [Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程](https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 11:15
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [银行股的三年长牛，可能快到头了](https://www.tmtpost.com/8179334.html)
+**发布时间**: 2026-10-23 17:34
+
+#### [虚拟电厂的“规模化元年”：项目上马忙，干活躲一旁](https://www.tmtpost.com/8179169.html)
+**发布时间**: 2026-10-23 17:15
+
+#### [Europe Is Sorting China’s Car Brands by Showroom, Not by Factory](https://www.tmtpost.com/8179206.html)
+**发布时间**: 2026-10-23 16:13
+
+#### [今年双十一，最大的变量是什么？](https://www.tmtpost.com/8179020.html)
+**发布时间**: 2026-10-23 15:53
+
+#### [中国富豪补税潮下，“校园贷鼻祖”掏出7.9亿](https://www.tmtpost.com/8178940.html)
+**发布时间**: 2026-10-23 15:46
+
+#### [量贩多卖5410万、梅干收入却在下降，溜溜梅为何还要投1.1亿港元建厂？](https://www.tmtpost.com/8178937.html)
+**发布时间**: 2026-10-23 15:40
+
+#### [一撤一补，字节腾讯反向操作背后，短剧赛道正在分叉](https://www.tmtpost.com/8179037.html)
+**发布时间**: 2026-10-23 15:36
+
+#### [从数据缺失到风险量化：机器人保险定价难在哪？](https://www.tmtpost.com/8178174.html)
+**发布时间**: 2026-10-23 15:35
+
+#### [AI艺人扎堆出道，赚钱的却没几个？](https://www.tmtpost.com/8178914.html)
+**发布时间**: 2026-10-23 15:32
+
+#### [马斯克把 SpaceX 做成了收租生意](https://www.tmtpost.com/8178913.html)
+**发布时间**: 2026-10-23 15:32
+
+#### [中国车企在欧洲，为什么有人卖得动，有人卖不动](https://www.tmtpost.com/8178939.html)
+**发布时间**: 2026-10-23 15:27
+
+#### [苹果把"家"搬上墙，中国把"家"写进国标：智能家居不会统一](https://www.tmtpost.com/8178969.html)
+**发布时间**: 2026-10-23 15:23
+
+#### [手机大洗牌：华为苹果守住了，小米OV在失血](https://www.tmtpost.com/8178999.html)
+**发布时间**: 2026-10-23 15:22
+
+#### [大人糖快成社交货币了，“男人糖”为什么还上不了桌？](https://www.tmtpost.com/8179000.html)
+**发布时间**: 2026-10-23 15:22
+
+#### [普莱医药：累计亏损近9亿，巨额赎回负债如影随形｜IPO观察](https://www.tmtpost.com/8173243.html)
+**发布时间**: 2026-10-23 13:46
+
+#### [信得科技：增收不增利叠加偿债风险，多笔股权转让引争议｜IPO观察](https://www.tmtpost.com/8174474.html)
+**发布时间**: 2026-10-23 13:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验](https://sspai.com/post/116398)
+**发布时间**: 2026-10-23 15:00
+
+#### [破与立：设计视角下的 iPhone Duo](https://sspai.com/post/116979)
+**发布时间**: 2026-10-23 11:07
+
+#### [派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等](https://sspai.com/post/117104)
+**发布时间**: 2026-10-23 08:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [中国 AI 硬件的下一个爆款，可能生在「网球场」](http://www.geekpark.net/news/372807)
+**发布时间**: 2026-10-23 14:15
+
+#### [硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天](http://www.geekpark.net/news/372805)
+**发布时间**: 2026-10-23 14:10
+
+#### [造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具](http://www.geekpark.net/news/372803)
+**发布时间**: 2026-10-23 14:03
+
+#### [今年双 11，天猫想卖的不只是货，还有 Token](http://www.geekpark.net/news/372801)
+**发布时间**: 2026-10-23 13:56
 
 ---
 

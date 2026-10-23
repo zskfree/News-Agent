@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-23 01:17
+**最后更新时间**: 2026-10-23 09:46
+
+---
+
+## 🆕 最新更新 (2026-10-23 09:46)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进](https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html)
+**发布时间**: 2026-10-23 15:38
+
+#### [融资10亿+元，亿铸科技加速通用存算一体产业化](https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html)
+**发布时间**: 2026-10-23 15:16
+
+#### [剧中角色“喊你休息” 红果短剧上线防沉迷提醒视频](https://www.leiphone.com/category/industrynews/GmXZhkN2aewwJOXM.html)
+**发布时间**: 2026-10-23 15:12
+
+#### [“PHP2Shell”敲响企业漏洞警钟，奇安信天戟提供一键速查方案](https://www.leiphone.com/category/industrynews/9DeJmHEbinuBUT49.html)
+**发布时间**: 2026-10-23 11:03
+
+#### [擦窗机器人有了首个行业标准，你敢把窗户交给它吗？](https://www.leiphone.com/category/smarthome/iDkOEQuhDC14QfOE.html)
+**发布时间**: 2026-10-23 10:57
+
+#### [「千问Go!」上线“我的应用”，支持搭建长期、可分享的专属应用](https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html)
+**发布时间**: 2026-10-23 10:55
+
+#### [iPhone Duo开售，美团闪购：最早一单20分钟送达](https://www.leiphone.com/category/industrynews/JaLr33yTu2JXaEb7.html)
+**发布时间**: 2026-10-23 10:45
+
+#### [“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家](https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html)
+**发布时间**: 2026-10-23 10:43
+
+#### [72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量；雷军：汽车产业没有安全，其他都是零；iPhone Duo全球限购，每人限购2台](https://www.leiphone.com/category/zaobao/3jq4Bj4E3zJhjVBp.html)
+**发布时间**: 2026-10-23 08:49
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [TinyFish Breaks Down Agentic Search Architecture for Production AI Agents](https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/)
+**发布时间**: 2026-10-23 08:58
+
+#### [Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent](https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/)
+**发布时间**: 2026-10-23 06:05
+
+#### [You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA](https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/)
+**发布时间**: 2026-10-23 05:28
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径](https://www.qbitai.com/2026/10/504901.html)
+**发布时间**: 2026-10-23 07:35
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-23日刊](https://hex2077.dev/docs/2026-10/2026-10-23/)
+**发布时间**: 2026-10-23 02:54
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Kazakhstan Expands Compute for Its AI Future](https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/)
+**发布时间**: 2026-10-23 02:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Q&A: How AI came to model the “messy” human mind](https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023)
+**发布时间**: 2026-10-23 00:00
 
 ---
 
