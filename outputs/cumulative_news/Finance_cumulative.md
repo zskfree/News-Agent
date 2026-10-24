@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-24 01:26
+**最后更新时间**: 2026-10-24 09:20
+
+---
+
+## 🆕 最新更新 (2026-10-24 09:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?](https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories)
+**发布时间**: 2026-10-24 08:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [France is looking ungovernable. And it’s going to get worse](https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb)
+**发布时间**: 2026-10-24 04:00
+
+#### [The young are conformists in denial](https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 04:00
+
+#### [Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu](https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 04:00
+
+#### [Pegasus spyware founder urges governments to trust his tech and ditch US AI](https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 04:00
+
+#### [France prepares for more protests with big police deployment](https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 04:00
+
+#### [Intelligence memo warns Iran plotting to kill Americans in Middle East](https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 02:47
+
+#### [Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky](https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 21:11
 
 ---
 
