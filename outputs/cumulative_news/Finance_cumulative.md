@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-23 09:48
+**最后更新时间**: 2026-10-24 01:26
+
+---
+
+## 🆕 最新更新 (2026-10-24 01:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US executives quit $25bn gas venture over claims of secret Russian control](https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 00:22
+
+#### [Trump moves to block certification of Alaska Senate election if Republican loses](https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 23:06
+
+#### [Trump to cut Canadian tariffs after pressure from Republicans](https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 22:29
+
+#### [France avoids downgrade from Moody’s in boost for Macron’s government](https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 22:28
+
+#### [Xi gathers China’s top cadres with focus on discipline](https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 21:00
+
+#### [Oil hits $117 for first time since April on fears of flare-up in Iran hostilities](https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 20:13
+
+#### [Zuckerberg’s deal to stay in California cheered by wealth tax campaign](https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-23 18:49
+
+#### [A half-time scorecard for Trump-world](https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6)
+**发布时间**: 2026-10-23 13:32
+
+#### [How nervous are bond markets about France?](https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9)
+**发布时间**: 2026-10-23 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Will Anthropic pull off a November IPO? Time is running out to file key paperwork.](https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 22:00
+
+#### [Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.](https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 21:46
+
+#### [The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.](https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 21:11
+
+#### [The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.](https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 21:06
+
+#### [Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.](https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 20:50
+
+#### [The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?](https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 20:19
+
+#### [Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted](https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 20:19
+
+#### [I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?](https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories)
+**发布时间**: 2026-10-23 20:02
 
 ---
 

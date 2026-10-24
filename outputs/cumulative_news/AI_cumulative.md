@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-23 09:46
+**最后更新时间**: 2026-10-24 01:24
+
+---
+
+## 🆕 最新更新 (2026-10-24 01:24)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms](https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/)
+**发布时间**: 2026-10-23 23:26
+
+#### [Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context](https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/)
+**发布时间**: 2026-10-23 22:52
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投](https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html)
+**发布时间**: 2026-10-23 19:16
+
+#### [Kimi K3.1 泄露：3D 成本仅有 GPT-6 Astra 的 1/14！横扫海外视觉三巨头](https://www.leiphone.com/category/yanxishe/PZo9w14YeFSo4jmf.html)
+**发布时间**: 2026-10-23 18:57
+
+#### [从技术首创到规模上车，华为乾崑车载激光投影以金辑奖印证技术领先](https://www.leiphone.com/category/industrynews/nBef7qz74xPmuw5X.html)
+**发布时间**: 2026-10-23 18:43
+
+#### [覆盖存、拣、运全场景，海康机器人2026移动机器人新品发布会举行](https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html)
+**发布时间**: 2026-10-23 18:15
+
+#### [当超算走出实验室：一场从”算得快”到”算得值”的产业迁徙](https://www.leiphone.com/category/chips/weZAv8C0bQZltLxn.html)
+**发布时间**: 2026-10-23 16:52
+
+#### [从“算力”到“Token 生产力”，硅基流动助力央国企大模型规模化落地](https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html)
+**发布时间**: 2026-10-23 16:32
+
+#### [为什么说奇瑞是一家AI公司？](https://www.leiphone.com/category/transportation/j8cK1UDhub9VuCpu.html)
+**发布时间**: 2026-10-23 16:31
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Bringing foundational models to the front lines of TB screening](https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/)
+**发布时间**: 2026-10-23 18:51
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/)
+**发布时间**: 2026-10-23 17:48
+
+#### [Orchestrating SageMaker AI endpoint auto scaling with AWS CDK](https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/)
+**发布时间**: 2026-10-23 16:30
+
+#### [Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps](https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/)
+**发布时间**: 2026-10-23 16:24
+
+#### [How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations](https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/)
+**发布时间**: 2026-10-23 16:21
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI](https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023)
+**发布时间**: 2026-10-23 17:00
+
+#### [Reinforcing the value of human understanding at MIT](https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023)
+**发布时间**: 2026-10-23 15:35
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
+**发布时间**: 2026-10-23 16:15
+
+#### [Does Your Model Run on AWS Trainium? Look It Up](https://huggingface.co/blog/torch-neuronx-model-support)
+**发布时间**: 2026-10-23 00:00
 
 ---
 

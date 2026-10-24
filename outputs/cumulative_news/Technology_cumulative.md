@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-23 09:48
+**最后更新时间**: 2026-10-24 01:26
+
+---
+
+## 🆕 最新更新 (2026-10-24 01:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [机器人领域的OpenAI，来了？](https://www.tmtpost.com/8179875.html)
+**发布时间**: 2026-10-24 09:15
+
+#### [押宝IP，正在“惯坏”晨光们](https://www.tmtpost.com/8179854.html)
+**发布时间**: 2026-10-24 09:08
+
+#### [擎天柱的手，到底有多难造？](https://www.tmtpost.com/8179850.html)
+**发布时间**: 2026-10-24 09:01
+
+#### [未建立领先优势，也入不了华，中国市场留给特斯拉FSD的时间不多了？](https://www.tmtpost.com/8179796.html)
+**发布时间**: 2026-10-24 08:54
+
+#### [美女投资人违规被罚，26岁掌舵百亿PE，曾押中GPU四小龙](https://www.tmtpost.com/8179715.html)
+**发布时间**: 2026-10-24 08:31
+
+#### [188天就退场，大厂AI 产品正在加速洗牌](https://www.tmtpost.com/8179714.html)
+**发布时间**: 2026-10-24 08:26
+
+#### [华人天才，霸榜硅谷科技圈](https://www.tmtpost.com/8179706.html)
+**发布时间**: 2026-10-24 08:20
+
+#### [Agent、机器人与制药，谁先被GPT-6 Astra改写？](https://www.tmtpost.com/8179692.html)
+**发布时间**: 2026-10-24 08:14
+
+#### [三年连亏、投资为零，“PE第一股”为何熄火了？](https://www.tmtpost.com/8179691.html)
+**发布时间**: 2026-10-24 08:09
+
+#### [SK海力士取消其存储子公司赴美IPO，股价反弹](https://www.tmtpost.com/8179887.html)
+**发布时间**: 2026-10-23 21:51
+
+#### [苏泊尔“中年危机”未解除，前三季度盈利续降｜看财报](https://www.tmtpost.com/8179848.html)
+**发布时间**: 2026-10-23 21:33
+
+#### [波司登1/2世纪展于上海西岸梦中心启幕；可隆携手觅蓝共建囊谦自然服务中心；丁少翔出任亚玛芬公司董事；乐刻门店突破2500家｜消研所周报](https://www.tmtpost.com/8179495.html)
+**发布时间**: 2026-10-23 18:47
+
+#### [AI 智能体疯狂入侵人类系统：十几起漏洞依次排开，AI真正攻破了哪一层?](https://www.tmtpost.com/8179406.html)
+**发布时间**: 2026-10-23 18:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道](http://www.geekpark.net/news/372858)
+**发布时间**: 2026-10-24 08:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进](https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 19:40
+
+#### [刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？](https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 17:54
+
+#### [AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU](https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 17:53
+
+#### [PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了](https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 17:48
+
+#### [“让Token不空转”，讯飞如何把Agent推进企业核心流程](https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-23 17:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/117169)
+**发布时间**: 2026-10-23 18:09
 
 ---
 
