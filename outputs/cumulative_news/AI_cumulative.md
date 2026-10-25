@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-24 09:20
+**最后更新时间**: 2026-10-25 00:53
+
+---
+
+## 🆕 最新更新 (2026-10-25 00:53)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意](https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html)
+**发布时间**: 2026-10-24 16:49
+
+#### [“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务](https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html)
+**发布时间**: 2026-10-24 16:43
+
+#### [行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机](https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html)
+**发布时间**: 2026-10-24 16:37
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers](https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/)
+**发布时间**: 2026-10-24 11:12
+
+#### [Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows](https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/)
+**发布时间**: 2026-10-24 10:29
 
 ---
 

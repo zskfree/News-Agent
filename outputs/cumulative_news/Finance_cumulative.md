@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-24 09:20
+**最后更新时间**: 2026-10-25 00:55
+
+---
+
+## 🆕 最新更新 (2026-10-25 00:55)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hundreds of thousands protest in France in second weekend of mass demonstrations](https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 23:23
+
+#### [Ukraine military says Starlink service restrictions have been lifted](https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8)
+**发布时间**: 2026-10-24 21:30
+
+#### [Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions](https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 19:19
+
+#### [Intelligence memo warns Iran is plotting to kill Americans in Middle East](https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 15:09
+
+#### [Tucker Carlson: ‘I so overstated my power it was embarrassing’](https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-24 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.](https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories)
+**发布时间**: 2026-10-24 19:45
+
+#### [Young Americans are giving up on car ownership. It’s a path to financial freedom for some.](https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-24 18:45
+
+#### [I’m 58 and hate annuities. How can I get dependable income in retirement?](https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories)
+**发布时间**: 2026-10-24 18:03
+
+#### [Over 40% of Americans are heading toward retirement ‘blind’ — with no plan](https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-24 17:23
+
+#### [Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath](https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories)
+**发布时间**: 2026-10-24 16:59
+
+#### [Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.](https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories)
+**发布时间**: 2026-10-24 16:18
 
 ---
 

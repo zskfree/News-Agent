@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 24 Oct 2026 09:20:00 GMT</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2026 09:20:36 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 00:55:00 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:56:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?</title>
-      <link>https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>France is looking ungovernable. And it’s going to get worse</title>
-      <link>https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb</link>
-      <description>&lt;![CDATA[France is looking ungovernable. And it’s going to get worse]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The young are conformists in denial</title>
-      <link>https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[The young are conformists in denial]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu</title>
-      <link>https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Pegasus spyware founder urges governments to trust his tech and ditch US AI</title>
-      <link>https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Pegasus spyware founder urges governments to trust his tech and ditch US AI]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>France prepares for more protests with big police deployment</title>
+      <title>Hundreds of thousands protest in France in second weekend of mass demonstrations</title>
       <link>https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[France prepares for more protests with big police deployment]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 04:00:00 GMT</pubDate>
+      <description>&lt;![CDATA[Hundreds of thousands protest in France in second weekend of mass demonstrations]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 23:23:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Intelligence memo warns Iran plotting to kill Americans in Middle East</title>
+      <title>Ukraine military says Starlink service restrictions have been lifted</title>
+      <link>https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8</link>
+      <description>&lt;![CDATA[Ukraine military says Starlink service restrictions have been lifted]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 21:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions</title>
+      <link>https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 19:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Intelligence memo warns Iran is plotting to kill Americans in Middle East</title>
       <link>https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Intelligence memo warns Iran plotting to kill Americans in Middle East]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 02:47:00 GMT</pubDate>
+      <description>&lt;![CDATA[Intelligence memo warns Iran is plotting to kill Americans in Middle East]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 15:09:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.</title>
+      <link>https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Young Americans are giving up on car ownership. It’s a path to financial freedom for some.</title>
+      <link>https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Young Americans are giving up on car ownership. It’s a path to financial freedom for some.]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 18:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>I’m 58 and hate annuities. How can I get dependable income in retirement?</title>
+      <link>https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[I’m 58 and hate annuities. How can I get dependable income in retirement?]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Over 40% of Americans are heading toward retirement ‘blind’ — with no plan</title>
+      <link>https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Over 40% of Americans are heading toward retirement ‘blind’ — with no plan]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath</title>
+      <link>https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.</title>
+      <link>https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.]]&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
