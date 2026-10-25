@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-25 00:55
+**最后更新时间**: 2026-10-25 09:38
+
+---
+
+## 🆕 最新更新 (2026-10-25 09:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Luxury groups’ value drops by €250bn as Chinese consumer demand fades](https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 05:00
+
+#### [The right’s obsession with ‘civil war’ in Britain](https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 05:00
+
+#### [Bolsonaro and Lula face off in knife-edge Brazil election](https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 05:00
+
+#### [The Black Sea is now the world’s deadliest shipping route](https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 05:00
+
+#### [More than 1mn antiquities returned to countries of origin](https://www.ft.com/content/82f2922f-8c73-4e00-9a71-7682a2c9af1a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 05:00
+
+#### [Why 17 is not the magic number in industrial policy](https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 01:00
 
 ---
 

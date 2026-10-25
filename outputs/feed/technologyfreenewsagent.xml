@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Oct 2026 00:55:00 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 00:56:01 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 09:38:00 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:39:02 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>最近又刷到 4 个黑科技 GitHub 项目，第 3 个重点看看。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537991&amp;idx=1&amp;sn=69fafc227ed7436bf409e5cd3dd1a43d</link>
-      <description>&lt;![CDATA[最近又刷到 4 个黑科技 GitHub 项目，第 3 个重点看看。]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 11:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537991&amp;idx=1&amp;sn=69fafc227ed7436bf409e5cd3dd1a43d</guid>
+      <title>四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了</title>
+      <link>https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机</title>
-      <link>http://www.geekpark.net/news/372860</link>
-      <description>&lt;![CDATA[苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372860</guid>
+      <title>【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……</title>
+      <link>https://www.tmtpost.com/8181051.html</link>
+      <description>&lt;![CDATA[【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 17:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8181051.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在硅谷，遇见个人计算机历史</title>
-      <link>https://sspai.com/post/116128</link>
-      <description>&lt;![CDATA[在硅谷，遇见个人计算机历史]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/116128</guid>
+      <title>单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？</title>
+      <link>https://www.tmtpost.com/8179663.html</link>
+      <description>&lt;![CDATA[单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8179663.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>告别“高级打工仔”：硅谷AI牌桌上，挤满了中国留学生</title>
-      <link>https://www.tmtpost.com/8180412.html</link>
-      <description>&lt;![CDATA[告别“高级打工仔”：硅谷AI牌桌上，挤满了中国留学生]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 16:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8180412.html</guid>
+      <title>阿宽食品拟新三板摘牌，头号客户麻六记回应“欠款”传闻</title>
+      <link>https://www.tmtpost.com/8180790.html</link>
+      <description>&lt;![CDATA[阿宽食品拟新三板摘牌，头号客户麻六记回应“欠款”传闻]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8180790.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI审计者的显微镜，是被告造的</title>
-      <link>https://www.tmtpost.com/8180386.html</link>
-      <description>&lt;![CDATA[AI审计者的显微镜，是被告造的]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8180386.html</guid>
+      <title>拉上英伟达硬刚苹果，微软的高端AI PC赌局</title>
+      <link>https://www.tmtpost.com/8180842.html</link>
+      <description>&lt;![CDATA[拉上英伟达硬刚苹果，微软的高端AI PC赌局]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8180842.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>线下消费，再次把“希望”寄托在猫狗身上</title>
-      <link>https://www.tmtpost.com/8180362.html</link>
-      <description>&lt;![CDATA[线下消费，再次把“希望”寄托在猫狗身上]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8180362.html</guid>
+      <title>电动化转型有了起色，沃尔沃却越来越难赚钱了</title>
+      <link>https://www.tmtpost.com/8180823.html</link>
+      <description>&lt;![CDATA[电动化转型有了起色，沃尔沃却越来越难赚钱了]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 09:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8180823.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>陶哲轩尴尬了，哈佛研究显示AI审稿比专家强</title>
-      <link>https://www.tmtpost.com/8180368.html</link>
-      <description>&lt;![CDATA[陶哲轩尴尬了，哈佛研究显示AI审稿比专家强]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8180368.html</guid>
+      <title>新石器再获近4亿美元融资，无人配送进入规模化竞争</title>
+      <link>https://www.tmtpost.com/8179257.html</link>
+      <description>&lt;![CDATA[新石器再获近4亿美元融资，无人配送进入规模化竞争]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 09:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8179257.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>数采会成为具身智能的“牺牲品”吗？</title>
-      <link>https://www.tmtpost.com/8180292.html</link>
-      <description>&lt;![CDATA[数采会成为具身智能的“牺牲品”吗？]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 12:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8180292.html</guid>
+      <title>日本加入数据中心热潮，这些股票可能从中受益</title>
+      <link>https://www.tmtpost.com/8180930.html</link>
+      <description>&lt;![CDATA[日本加入数据中心热潮，这些股票可能从中受益]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 09:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8180930.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全线扩产仍供不应求，光刻机被抢疯了</title>
-      <link>https://www.tmtpost.com/8180287.html</link>
-      <description>&lt;![CDATA[全线扩产仍供不应求，光刻机被抢疯了]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8180287.html</guid>
+      <title>腾讯有阅文，微信却去公众号找剧本</title>
+      <link>https://www.tmtpost.com/8180817.html</link>
+      <description>&lt;![CDATA[腾讯有阅文，微信却去公众号找剧本]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8180817.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>打工人，开始“表演”AI提效</title>
-      <link>https://www.tmtpost.com/8180279.html</link>
-      <description>&lt;![CDATA[打工人，开始“表演”AI提效]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 12:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8180279.html</guid>
+      <title>眼油GMV一年破3亿，雏菊的天空难突围</title>
+      <link>https://www.tmtpost.com/8180814.html</link>
+      <description>&lt;![CDATA[眼油GMV一年破3亿，雏菊的天空难突围]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 09:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8180814.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-25 00:53
+**最后更新时间**: 2026-10-25 09:36
+
+---
+
+## 🆕 最新更新 (2026-10-25 09:36)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents](https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/)
+**发布时间**: 2026-10-25 03:32
+
+#### [Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats](https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/)
+**发布时间**: 2026-10-25 02:59
+
+#### [How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide](https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/)
+**发布时间**: 2026-10-25 02:30
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-25日刊](https://hex2077.dev/docs/2026-10/2026-10-25/)
+**发布时间**: 2026-10-25 02:33
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会](https://www.leiphone.com/category/industrynews/sf7R7WgzGyvZwKLa.html)
+**发布时间**: 2026-10-23 20:20
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Oct 2026 00:53:00 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 00:56:01 GMT</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 09:36:00 GMT</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:39:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意</title>
-      <link>https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html</link>
-      <description>&lt;![CDATA[支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html</guid>
+      <title>Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents</title>
+      <link>https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</link>
+      <description>&lt;![CDATA[Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 03:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务</title>
-      <link>https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html</link>
-      <description>&lt;![CDATA[“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html</guid>
+      <title>Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats</title>
+      <link>https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/</link>
+      <description>&lt;![CDATA[Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 02:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机</title>
-      <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
-      <description>&lt;![CDATA[行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</guid>
+      <title>How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide</title>
+      <link>https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/</link>
+      <description>&lt;![CDATA[How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 02:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers</title>
-      <link>https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/</link>
-      <description>&lt;![CDATA[Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows</title>
-      <link>https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/</link>
-      <description>&lt;![CDATA[Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows]]&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/</guid>
+      <title>2026-10-25日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-25/</link>
+      <description>&lt;![CDATA[2026-10-25日刊]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 02:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-25/</guid>
       <category>Ai</category>
     </item>
   </channel>

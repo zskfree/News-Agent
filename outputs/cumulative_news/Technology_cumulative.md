@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-25 00:55
+**最后更新时间**: 2026-10-25 09:38
+
+---
+
+## 🆕 最新更新 (2026-10-25 09:38)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……](https://www.tmtpost.com/8181051.html)
+**发布时间**: 2026-10-25 17:29
+
+#### [单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？](https://www.tmtpost.com/8179663.html)
+**发布时间**: 2026-10-25 11:10
+
+#### [阿宽食品拟新三板摘牌，头号客户麻六记回应“欠款”传闻](https://www.tmtpost.com/8180790.html)
+**发布时间**: 2026-10-25 10:03
+
+#### [拉上英伟达硬刚苹果，微软的高端AI PC赌局](https://www.tmtpost.com/8180842.html)
+**发布时间**: 2026-10-25 09:54
+
+#### [电动化转型有了起色，沃尔沃却越来越难赚钱了](https://www.tmtpost.com/8180823.html)
+**发布时间**: 2026-10-25 09:52
+
+#### [新石器再获近4亿美元融资，无人配送进入规模化竞争](https://www.tmtpost.com/8179257.html)
+**发布时间**: 2026-10-25 09:52
+
+#### [日本加入数据中心热潮，这些股票可能从中受益](https://www.tmtpost.com/8180930.html)
+**发布时间**: 2026-10-25 09:49
+
+#### [腾讯有阅文，微信却去公众号找剧本](https://www.tmtpost.com/8180817.html)
+**发布时间**: 2026-10-25 09:46
+
+#### [眼油GMV一年破3亿，雏菊的天空难突围](https://www.tmtpost.com/8180814.html)
+**发布时间**: 2026-10-25 09:42
+
+#### [mRNA肿瘤疫苗大分歧](https://www.tmtpost.com/8180784.html)
+**发布时间**: 2026-10-25 09:37
+
+#### [海外网红，被国产工厂集体“收编”？](https://www.tmtpost.com/8180843.html)
+**发布时间**: 2026-10-25 09:29
+
+#### [2027 —— 人形机器人“电影宣发”大撞车之年](https://www.tmtpost.com/8180836.html)
+**发布时间**: 2026-10-25 09:27
+
+#### [宗馥莉心腹被曝辞职，娃哈哈董事长成“烫手山芋”？](https://www.tmtpost.com/8180794.html)
+**发布时间**: 2026-10-25 09:24
+
+#### [红杉中国，悄悄投了泡泡玛特前设计师](https://www.tmtpost.com/8180837.html)
+**发布时间**: 2026-10-25 09:24
+
+#### [Edge AI Daily 早报（10月25日）](https://www.tmtpost.com/8180840.html)
+**发布时间**: 2026-10-25 08:55
+
+#### [祭出 Kosmo，禾赛要成为机器人的博世？](https://www.tmtpost.com/8179870.html)
+**发布时间**: 2026-10-24 18:08
+
+#### [手握10亿资金，分红不手软，百普赛斯为何执意二闯港交所？](https://www.tmtpost.com/8180266.html)
+**发布时间**: 2026-10-24 18:08
+
+#### [月活3.68亿的红果，不再需要“羊毛用户”？](https://www.tmtpost.com/8179804.html)
+**发布时间**: 2026-10-24 18:07
+
+#### [百度搭子的阶段性大考来了](https://www.tmtpost.com/8179558.html)
+**发布时间**: 2026-10-24 18:07
+
+#### [年轻人还在买金，只是不再为“牌子”付费](https://www.tmtpost.com/8180486.html)
+**发布时间**: 2026-10-24 18:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro](https://sspai.com/post/114741)
+**发布时间**: 2026-10-25 14:30
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求](https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-25 14:00
+
+#### [四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了](https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-25 10:30
+
+#### [Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock](https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-25 09:06
 
 ---
 
