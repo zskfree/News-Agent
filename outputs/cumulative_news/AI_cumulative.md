@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-25 09:36
+**最后更新时间**: 2026-10-26 01:01
+
+---
+
+## 🆕 最新更新 (2026-10-26 01:01)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model](https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/)
+**发布时间**: 2026-10-25 21:15
+
+#### [Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time](https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/)
+**发布时间**: 2026-10-25 16:53
+
+#### [Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster](https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/)
+**发布时间**: 2026-10-25 12:12
+
+#### [Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner](https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/)
+**发布时间**: 2026-10-25 11:32
 
 ---
 

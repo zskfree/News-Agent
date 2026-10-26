@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Oct 2026 09:36:00 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 09:39:03 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 01:01:00 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 01:04:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents</title>
-      <link>https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</link>
-      <description>&lt;![CDATA[Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 03:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/</guid>
+      <title>Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</title>
+      <link>https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</link>
+      <description>&lt;![CDATA[Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 21:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats</title>
-      <link>https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/</link>
-      <description>&lt;![CDATA[Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 02:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/</guid>
+      <title>Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time</title>
+      <link>https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/</link>
+      <description>&lt;![CDATA[Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide</title>
-      <link>https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/</link>
-      <description>&lt;![CDATA[How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 02:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/</guid>
+      <title>Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster</title>
+      <link>https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/</link>
+      <description>&lt;![CDATA[Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 12:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-10-25日刊</title>
-      <link>https://hex2077.dev/docs/2026-10/2026-10-25/</link>
-      <description>&lt;![CDATA[2026-10-25日刊]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 02:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-25/</guid>
+      <title>Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner</title>
+      <link>https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</link>
+      <description>&lt;![CDATA[Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner]]&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 11:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</guid>
       <category>Ai</category>
     </item>
   </channel>

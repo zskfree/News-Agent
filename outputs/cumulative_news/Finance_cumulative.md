@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-25 09:38
+**最后更新时间**: 2026-10-26 01:04
+
+---
+
+## 🆕 最新更新 (2026-10-26 01:04)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Lula re-elected Brazil’s president in knife-edge election](https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 00:56
+
+#### [Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll](https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 00:38
+
+#### [After Hungary, Serbia takes its turn to show the power of the people](https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 23:54
+
+#### [Weil’s incoming leader to walk away from top job as law firm faces talent crisis](https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 23:19
+
+#### [Venezuelan opposition leader Machado returns from exile](https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 21:55
+
+#### [France’s Le Pen vows national ‘renewal’ in campaign launch](https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 18:37
+
+#### [Enough golfers commit to LIV 2.0 to keep hopes of new league alive](https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 17:56
+
+#### [Marco Rubio still owes Europe answers about America’s intentions](https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd)
+**发布时间**: 2026-10-25 16:00
+
+#### [London’s most famous shopping street bans cars in bid to revive its fortunes](https://www.ft.com/content/73a2ca6f-29b7-49e5-b8c7-0bde6c4e945b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-25 12:26
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?](https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories)
+**发布时间**: 2026-10-25 19:30
+
+#### [My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?](https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-25 17:00
+
+#### [More than a third of S&P 500 companies are about to report earnings as market confidence cracks](https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-25 14:00
+
+#### [Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.](https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories)
+**发布时间**: 2026-10-25 13:00
 
 ---
 
