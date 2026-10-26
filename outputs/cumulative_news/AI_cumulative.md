@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-26 01:01
+**最后更新时间**: 2026-10-26 10:48
+
+---
+
+## 🆕 最新更新 (2026-10-26 10:48)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [DeepSeek 开源看家算子的同一周，AI 超过了它](https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html)
+**发布时间**: 2026-10-26 14:58
+
+#### [趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付](https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html)
+**发布时间**: 2026-10-26 10:37
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang](https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/)
+**发布时间**: 2026-10-26 07:56
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-26日刊](https://hex2077.dev/docs/2026-10/2026-10-26/)
+**发布时间**: 2026-10-26 03:11
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力](https://www.qbitai.com/2026/10/505083.html)
+**发布时间**: 2026-10-23 09:21
+
+#### [企业AI需要两个世界模型](https://www.qbitai.com/2026/10/505032.html)
+**发布时间**: 2026-10-23 09:07
+
+#### [一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！](https://www.qbitai.com/2026/10/504931.html)
+**发布时间**: 2026-10-23 09:03
+
+#### [国产5B生图模型海外突然爆火，4天超百万下载](https://www.qbitai.com/2026/10/504930.html)
+**发布时间**: 2026-10-23 08:50
+
+#### [南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相](https://www.qbitai.com/2026/10/504915.html)
+**发布时间**: 2026-10-23 08:45
+
+#### [iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代](https://www.qbitai.com/2026/10/504913.html)
+**发布时间**: 2026-10-23 08:45
+
+#### [高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”](https://www.qbitai.com/2026/10/504905.html)
+**发布时间**: 2026-10-23 08:40
 
 ---
 

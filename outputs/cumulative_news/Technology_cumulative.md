@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-26 01:04
+**最后更新时间**: 2026-10-26 10:50
+
+---
+
+## 🆕 最新更新 (2026-10-26 10:50)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [武汉和长江存储等了二十年，A股却散席了](https://www.tmtpost.com/8181223.html)
+**发布时间**: 2026-10-26 18:33
+
+#### [与火山合并后，飞书首席战略官史志隽将卸任](https://www.tmtpost.com/8182111.html)
+**发布时间**: 2026-10-26 18:33
+
+#### [网经社这波操作，快被媒体锤烂了？](https://www.tmtpost.com/8181309.html)
+**发布时间**: 2026-10-26 18:32
+
+#### [一人投出四家上市公司，“教父”李泽湘的投资方法论](https://www.tmtpost.com/8182335.html)
+**发布时间**: 2026-10-26 18:30
+
+#### [任富佳接班后的第一笔大买卖：老板电器买什么](https://www.tmtpost.com/8182206.html)
+**发布时间**: 2026-10-26 18:25
+
+#### [寒武纪的「英伟达平替」叙事，还能讲多久？](https://www.tmtpost.com/8182159.html)
+**发布时间**: 2026-10-26 18:25
+
+#### [罗普斯金2.07亿收购盟萤科技，盈利持续承压再靠跨界补利润 ｜并购一线](https://www.tmtpost.com/8182038.html)
+**发布时间**: 2026-10-26 17:47
+
+#### [头部连锁药房都在主动做“减法”](https://www.tmtpost.com/8182215.html)
+**发布时间**: 2026-10-26 17:40
+
+#### [宁德时代和车企，还能回到从前吗](https://www.tmtpost.com/8182100.html)
+**发布时间**: 2026-10-26 17:39
+
+#### [LME周风向突变？铝或过剩200万吨，锡价却看至7万美元](https://www.tmtpost.com/8182275.html)
+**发布时间**: 2026-10-26 17:39
+
+#### [前福建首富被批捕，千亿LED龙头陷困局](https://www.tmtpost.com/8182207.html)
+**发布时间**: 2026-10-26 17:39
+
+#### [小鹏老登事件：被误解是表达者的宿命，回应与否是企业的选择？](https://www.tmtpost.com/8182160.html)
+**发布时间**: 2026-10-26 17:39
+
+#### [一张“小纸片”卖了1个亿，潮汕“纸牌大王”盯上新社交硬通货，年入26亿](https://www.tmtpost.com/8182099.html)
+**发布时间**: 2026-10-26 17:33
+
+#### [高层集体离职后，凯宾斯基该押注什么？](https://www.tmtpost.com/8182005.html)
+**发布时间**: 2026-10-26 17:30
+
+#### [【Fintech 周报】多所高校将通过数字人民币发工资；第三季度银行理财少赚375亿](https://www.tmtpost.com/8182179.html)
+**发布时间**: 2026-10-26 17:18
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付](https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 18:30
+
+#### [让 AI 从需求一路干到上线，软件开发组织要变了？](https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 18:08
+
+#### [Backstage 1.55 新增脚手架任务恢复功能，并移除已废弃的目录 API](https://www.infoq.cn/article/hilBQCk7QcvclfrgZbSf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 17:17
+
+#### [中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样](https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 15:18
+
+#### [30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？](https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 15:05
+
+#### [AWS 重构 EventBridge 自定义事件总线，面向企业级事件驱动架构](https://www.infoq.cn/article/GG9rXsevpPV9SK3uPxpq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 15:00
+
+#### [模型好选，搜索难做：一个投研Agent的两年开发历程](https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 14:57
+
+#### [Terraform Google Cloud 8.0 发布：告别“永久 Diff”，代价是破坏性升级](https://www.infoq.cn/article/qJB2DapLThovtxzyOtKW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 13:21
+
+#### [从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官](https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 11:53
+
+#### [Android Bench 2 新增对长周期任务、智能评估和连续评分的支持](https://www.infoq.cn/article/6XMtxZevN1488WVGXdR1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 11:07
+
+#### [CircleCI 正式发布 Machine Runner Orchestrator](https://www.infoq.cn/article/y7YQmP1p42Uj69H1C6uf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-26 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [今年的 1024，可能是最后一个程序员节](http://www.geekpark.net/news/372944)
+**发布时间**: 2026-10-26 18:16
+
+#### [Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5](http://www.geekpark.net/news/372943)
+**发布时间**: 2026-10-26 18:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [秋冬换季护肤买什么，双 11 选购推荐](https://sspai.com/post/117414)
+**发布时间**: 2026-10-26 15:00
+
+#### [曲高和寡、终成绝唱：傲腾 P5800X 测试报告](https://sspai.com/post/115074)
+**发布时间**: 2026-10-26 11:26
+
+#### [少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地](https://sspai.com/post/117180)
+**发布时间**: 2026-10-26 11:00
 
 ---
 

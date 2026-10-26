@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 26 Oct 2026 01:01:00 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 01:04:58 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 10:48:00 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:50:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model</title>
-      <link>https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</link>
-      <description>&lt;![CDATA[Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 21:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/</guid>
+      <title>DeepSeek 开源看家算子的同一周，AI 超过了它</title>
+      <link>https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html</link>
+      <description>&lt;![CDATA[DeepSeek 开源看家算子的同一周，AI 超过了它]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time</title>
-      <link>https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/</link>
-      <description>&lt;![CDATA[Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/</guid>
+      <title>趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付</title>
+      <link>https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html</link>
+      <description>&lt;![CDATA[趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster</title>
-      <link>https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/</link>
-      <description>&lt;![CDATA[Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 12:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/</guid>
+      <title>Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang</title>
+      <link>https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/</link>
+      <description>&lt;![CDATA[Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 07:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner</title>
-      <link>https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</link>
-      <description>&lt;![CDATA[Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner]]&gt;</description>
-      <pubDate>Sun, 25 Oct 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/</guid>
+      <title>2026-10-26日刊</title>
+      <link>https://hex2077.dev/docs/2026-10/2026-10-26/</link>
+      <description>&lt;![CDATA[2026-10-26日刊]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 03:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-26/</guid>
       <category>Ai</category>
     </item>
   </channel>

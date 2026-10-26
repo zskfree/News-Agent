@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-26 01:04
+**最后更新时间**: 2026-10-26 10:50
+
+---
+
+## 🆕 最新更新 (2026-10-26 10:50)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The Kospi index is the leading indicator for the global AI trade — and Goldman just slashed its forecast by 25%](https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 10:43
+
+#### [My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?](https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 10:15
+
+#### [Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around.](https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 10:04
+
+#### [Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami](https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 09:04
+
+#### [Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley](https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 09:02
+
+#### [Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home](https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 09:01
+
+#### [Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals](https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 01:50
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran hosts regional powers for talks to prevent renewed escalation](https://www.ft.com/content/7f6943d3-b089-49a7-a0bc-a6f677c09802?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 09:33
+
+#### [Lula is re-elected Brazil’s president in knife-edge vote](https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 08:25
+
+#### [Oil price falls back as traders remain focused on Middle East conflict](https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 07:28
+
+#### [How Lula turned his election fortunes around in three weeks](https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 06:14
+
+#### [The reclusive quant billionaire coming into the light](https://www.ft.com/content/bc6bba42-0b33-4825-a2c5-cff9b8f5c591?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 05:00
+
+#### [A day in Benjamin Netanyahu’s heartland](https://www.ft.com/content/470fbc3a-fd2e-4ad3-8999-25d71e53d173)
+**发布时间**: 2026-10-26 05:00
+
+#### [Oxford Street’s pedestrian revolution is finally here](https://www.ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 05:00
+
+#### [Guernsey, Jersey and other havens rake in revenues from global minimum tax](https://www.ft.com/content/4c3bf863-b21b-4626-83dd-26c6da3f0d8d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 05:00
+
+#### [Germany to tap Ukrainian tech with missile purchase](https://www.ft.com/content/f9476b15-c2b6-4b8b-86fc-58ae5795fb87?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 05:00
+
+#### [After stunning victory, Lula will face a deep hangover](https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 01:15
 
 ---
 
