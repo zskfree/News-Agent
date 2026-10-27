@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 26 Oct 2026 10:50:00 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 10:50:39 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 01:53:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:53:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>罗普斯金2.07亿收购盟萤科技，盈利持续承压再靠跨界补利润 ｜并购一线</title>
-      <link>https://www.tmtpost.com/8182038.html</link>
-      <description>&lt;![CDATA[罗普斯金2.07亿收购盟萤科技，盈利持续承压再靠跨界补利润 ｜并购一线]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 17:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182038.html</guid>
+      <title>Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet</title>
+      <link>https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 09:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样</title>
-      <link>https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 15:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：Apple 发布 iPad mini (A20 Pro) 等</title>
+      <link>https://sspai.com/post/117600</link>
+      <description>&lt;![CDATA[派早报：Apple 发布 iPad mini (A20 Pro) 等]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/117600</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Terraform Google Cloud 8.0 发布：告别“永久 Diff”，代价是破坏性升级</title>
-      <link>https://www.infoq.cn/article/qJB2DapLThovtxzyOtKW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Terraform Google Cloud 8.0 发布：告别“永久 Diff”，代价是破坏性升级]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 13:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qJB2DapLThovtxzyOtKW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Edge AI Daily 早报（10月27日）</title>
+      <link>https://www.tmtpost.com/8182929.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（10月27日）]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8182929.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CircleCI 正式发布 Machine Runner Orchestrator</title>
-      <link>https://www.infoq.cn/article/y7YQmP1p42Uj69H1C6uf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[CircleCI 正式发布 Machine Runner Orchestrator]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/y7YQmP1p42Uj69H1C6uf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them</title>
+      <link>https://www.tmtpost.com/8182953.html</link>
+      <description>&lt;![CDATA[China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 07:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8182953.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5</title>
-      <link>http://www.geekpark.net/news/372943</link>
-      <description>&lt;![CDATA[Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372943</guid>
+      <title>【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通</title>
+      <link>https://www.tmtpost.com/8182711.html</link>
+      <description>&lt;![CDATA[【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8182711.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>武汉和长江存储等了二十年，A股却散席了</title>
-      <link>https://www.tmtpost.com/8181223.html</link>
-      <description>&lt;![CDATA[武汉和长江存储等了二十年，A股却散席了]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 18:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8181223.html</guid>
+      <title>“金针菇第一股”旺季巨亏封死跌停！众兴菌业周期回摆业绩变脸 | 看财报</title>
+      <link>https://www.tmtpost.com/8182754.html</link>
+      <description>&lt;![CDATA[“金针菇第一股”旺季巨亏封死跌停！众兴菌业周期回摆业绩变脸 | 看财报]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 22:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8182754.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>与火山合并后，飞书首席战略官史志隽将卸任</title>
-      <link>https://www.tmtpost.com/8182111.html</link>
-      <description>&lt;![CDATA[与火山合并后，飞书首席战略官史志隽将卸任]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 18:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182111.html</guid>
+      <title>半年亏掉807亿美元，Anthropic公开递交招股书：它凭什么值2万亿？</title>
+      <link>https://www.tmtpost.com/8182734.html</link>
+      <description>&lt;![CDATA[半年亏掉807亿美元，Anthropic公开递交招股书：它凭什么值2万亿？]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 22:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8182734.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>网经社这波操作，快被媒体锤烂了？</title>
-      <link>https://www.tmtpost.com/8181309.html</link>
-      <description>&lt;![CDATA[网经社这波操作，快被媒体锤烂了？]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8181309.html</guid>
+      <title>万丰奥威Q3盈利降46%：高毛利通航业务承压，低空赛道烧钱不止｜看财报</title>
+      <link>https://www.tmtpost.com/8182585.html</link>
+      <description>&lt;![CDATA[万丰奥威Q3盈利降46%：高毛利通航业务承压，低空赛道烧钱不止｜看财报]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 19:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8182585.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一人投出四家上市公司，“教父”李泽湘的投资方法论</title>
-      <link>https://www.tmtpost.com/8182335.html</link>
-      <description>&lt;![CDATA[一人投出四家上市公司，“教父”李泽湘的投资方法论]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182335.html</guid>
+      <title>小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding</title>
+      <link>https://www.tmtpost.com/8182406.html</link>
+      <description>&lt;![CDATA[小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 19:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8182406.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>任富佳接班后的第一笔大买卖：老板电器买什么</title>
-      <link>https://www.tmtpost.com/8182206.html</link>
-      <description>&lt;![CDATA[任富佳接班后的第一笔大买卖：老板电器买什么]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182206.html</guid>
+      <title>派评 | 近期值得关注的 App</title>
+      <link>https://sspai.com/post/117529</link>
+      <description>&lt;![CDATA[派评 | 近期值得关注的 App]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 18:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/117529</guid>
       <category>Technology</category>
     </item>
   </channel>

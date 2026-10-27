@@ -1,7 +1,54 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-26 10:50
+**最后更新时间**: 2026-10-27 01:53
+
+---
+
+## 🆕 最新更新 (2026-10-27 01:53)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet](https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-27 09:14
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（10月27日）](https://www.tmtpost.com/8182929.html)
+**发布时间**: 2026-10-27 09:04
+
+#### [China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them](https://www.tmtpost.com/8182953.html)
+**发布时间**: 2026-10-27 07:23
+
+#### [【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通](https://www.tmtpost.com/8182711.html)
+**发布时间**: 2026-10-27 07:20
+
+#### [“金针菇第一股”旺季巨亏封死跌停！众兴菌业周期回摆业绩变脸 | 看财报](https://www.tmtpost.com/8182754.html)
+**发布时间**: 2026-10-26 22:25
+
+#### [半年亏掉807亿美元，Anthropic公开递交招股书：它凭什么值2万亿？](https://www.tmtpost.com/8182734.html)
+**发布时间**: 2026-10-26 22:24
+
+#### [端到端推理时延降低 15%：京东广告联合鲲鹏超节点，探索生成式广告行业新路径](https://www.tmtpost.com/8181692.html)
+**发布时间**: 2026-10-26 20:19
+
+#### [万丰奥威Q3盈利降46%：高毛利通航业务承压，低空赛道烧钱不止｜看财报](https://www.tmtpost.com/8182585.html)
+**发布时间**: 2026-10-26 19:54
+
+#### [小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding](https://www.tmtpost.com/8182406.html)
+**发布时间**: 2026-10-26 19:29
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Apple 发布 iPad mini (A20 Pro) 等](https://sspai.com/post/117600)
+**发布时间**: 2026-10-27 08:27
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/117529)
+**发布时间**: 2026-10-26 18:17
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道](http://www.geekpark.net/news/372952)
+**发布时间**: 2026-10-27 08:26
 
 ---
 

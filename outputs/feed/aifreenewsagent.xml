@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 26 Oct 2026 10:48:00 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 10:50:48 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 01:51:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:54:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek 开源看家算子的同一周，AI 超过了它</title>
-      <link>https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html</link>
-      <description>&lt;![CDATA[DeepSeek 开源看家算子的同一周，AI 超过了它]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html</guid>
+      <title>腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%</title>
+      <link>https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html</link>
+      <description>&lt;![CDATA[腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 19:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付</title>
-      <link>https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html</link>
-      <description>&lt;![CDATA[趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 10:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html</guid>
+      <title>即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台</title>
+      <link>https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html</link>
+      <description>&lt;![CDATA[即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang</title>
-      <link>https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/</link>
-      <description>&lt;![CDATA[Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 07:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/</guid>
+      <title>Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</link>
+      <description>&lt;![CDATA[Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-10-26日刊</title>
-      <link>https://hex2077.dev/docs/2026-10/2026-10-26/</link>
-      <description>&lt;![CDATA[2026-10-26日刊]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 03:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-10/2026-10-26/</guid>
+      <title>Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</link>
+      <description>&lt;![CDATA[Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls</title>
+      <link>https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/</link>
+      <description>&lt;![CDATA[Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 16:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>At New York Climate Week 2026, MIT connects with a global network</title>
+      <link>https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</link>
+      <description>&lt;![CDATA[At New York Climate Week 2026, MIT connects with a global network]]&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</guid>
       <category>Ai</category>
     </item>
   </channel>

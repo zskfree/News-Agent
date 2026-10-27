@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-26 10:48
+**最后更新时间**: 2026-10-27 01:51
+
+---
+
+## 🆕 最新更新 (2026-10-27 01:51)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%](https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html)
+**发布时间**: 2026-10-26 19:26
+
+#### [即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
+**发布时间**: 2026-10-26 18:25
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3](https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/)
+**发布时间**: 2026-10-26 17:56
+
+#### [Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/)
+**发布时间**: 2026-10-26 17:27
+
+#### [Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK](https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/)
+**发布时间**: 2026-10-26 17:15
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls](https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/)
+**发布时间**: 2026-10-26 16:46
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [At New York Climate Week 2026, MIT connects with a global network](https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026)
+**发布时间**: 2026-10-26 15:00
 
 ---
 

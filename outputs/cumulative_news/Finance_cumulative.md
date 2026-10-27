@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-26 10:50
+**最后更新时间**: 2026-10-27 01:53
+
+---
+
+## 🆕 最新更新 (2026-10-27 01:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’](https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 00:54
+
+#### [US charges ex-FBI chief James Comey for third time](https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 22:56
+
+#### [Trump offers $1mn reward for tips leading to election fraud conviction](https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 21:50
+
+#### [Trump accused of ‘manipulating’ Catholic bishops for political gain](https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 21:13
+
+#### [Brazil’s currency plunges most since 1999 after Lula’s election victory](https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 21:08
+
+#### [Meta plans $95bn stock offering to bankroll AI expansion](https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 20:49
+
+#### [Microsoft offers buyouts to 60,000 staff](https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 20:22
+
+#### [Lula’s stunning comeback meets fiscal reality](https://www.ft.com/content/79785581-88c2-49a9-a109-9d5ccafc3c7d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 18:14
+
+#### [Trump administration illegally fired Maurene Comey, judge rules](https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 18:05
+
+#### [‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing](https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 17:45
+
+#### [Who are the students set to govern Serbia?](https://www.ft.com/content/c3f29989-747e-4734-a29b-568b3c5e488a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 14:06
+
+#### [Trump, Netanyahu and the politics of escalation against Iran](https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-26 11:37
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?](https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 22:30
+
+#### [Dividend stocks are having an excellent October as tech sector struggles](https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 22:10
+
+#### [Options traders are seizing control of the S&P 500](https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 22:03
+
+#### [TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.](https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 22:00
+
+#### [A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say](https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 21:46
+
+#### [Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering](https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 21:44
+
+#### [Why Lumentum’s stock led the S&P 500 higher on Monday](https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 21:04
+
+#### [With the Anthropic IPO, the devil is in the details](https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-26 20:50
 
 ---
 

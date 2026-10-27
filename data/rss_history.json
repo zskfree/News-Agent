@@ -2,48 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f77e6542213d7d4389aa7d7417aaac6cf7278ff1e30fb6369c399d622e946ea8": {
-        "title": "接连发生 AI 失控，OpenAI 暂停最强模型训练；腾讯推出云端小龙虾：已接入微信 QQ；王兴兴回应造 390 万元变形机甲",
-        "link": "http://www.geekpark.net/news/371039",
-        "published_date": "Sun, 27 Sep 2026 08:38:00 GMT",
-        "first_seen": "2026-09-27T01:09:53.816125"
-      },
-      "724a09b0c995e5e377a4742ca5f8cf1d12ed4d18f7515a61c396838b7ab24b23": {
-        "title": "特斯拉，是Robotaxi的救星吗？",
-        "link": "https://www.tmtpost.com/8153223.html",
-        "published_date": "Sun, 27 Sep 2026 08:24:00 GMT",
-        "first_seen": "2026-09-27T01:09:53.816135"
-      },
-      "d4d40aff33393339200884db0a5b7a186da806ee5943494df42cc435563fef54": {
-        "title": "从“价格战”到“品质战”，餐饮品牌下半场拼什么？",
-        "link": "https://www.tmtpost.com/8152641.html",
-        "published_date": "Sun, 27 Sep 2026 08:23:00 GMT",
-        "first_seen": "2026-09-27T01:09:53.816138"
-      },
-      "4ccd71502a180158dbe5ba921aa457a403c234a3d41879f75b706043e0d6891d": {
-        "title": "Edge AI Daily 早报（9月27日）",
-        "link": "https://www.tmtpost.com/8153235.html",
-        "published_date": "Sun, 27 Sep 2026 07:58:00 GMT",
-        "first_seen": "2026-09-27T01:09:53.816140"
-      },
-      "2afda10f5b80aba2e6d29e04b9133598f137114f9771434c337be83e19c2329e": {
-        "title": "外国人来华科技游，看见了什么？",
-        "link": "https://www.tmtpost.com/8153087.html",
-        "published_date": "Sat, 26 Sep 2026 17:55:00 GMT",
-        "first_seen": "2026-09-27T01:09:53.816141"
-      },
-      "6a82825238af8ee8ea6076b6f591d526560b82b2be4ea94e8a86d4f20b29c3ed": {
-        "title": "谷歌，准备升空",
-        "link": "https://www.tmtpost.com/8153088.html",
-        "published_date": "Sat, 26 Sep 2026 17:55:00 GMT",
-        "first_seen": "2026-09-27T01:09:53.816142"
-      },
-      "b307047892fb49e2f4c8897c29601c6c006e4aea4cfe93d614779625ad7a5f61": {
-        "title": "一周就收割 2 万 Star，这个 GitHub 项目把近期爆火的 Jev 模型开源了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537349&idx=1&sn=bfedd504e5736caa5c5e3ce449cc15b7",
-        "published_date": "Sat, 26 Sep 2026 11:18:00 GMT",
-        "first_seen": "2026-09-27T01:09:53.816144"
-      },
       "41658738ae8eddb7d17cffc0c4cf292154f87659000203659c74b50e64febd48": {
         "title": "国产旗舰手机又被苹果搅局？",
         "link": "https://www.tmtpost.com/8153270.html",
@@ -3451,69 +3409,69 @@
         "link": "https://www.tmtpost.com/8182206.html",
         "published_date": "Mon, 26 Oct 2026 18:25:00 GMT",
         "first_seen": "2026-10-26T10:50:39.344054"
+      },
+      "72ea7d005279843f7b8f7f4836d111b3a7cc589d8148b5156ec3dd3e8699a337": {
+        "title": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "link": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Oct 2026 09:14:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229334"
+      },
+      "7133d0961d646876f9b24fbf8391651f5414e66b68d57d99a47c71395c9b2788": {
+        "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+        "link": "https://sspai.com/post/117600",
+        "published_date": "Tue, 27 Oct 2026 08:27:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229346"
+      },
+      "dd05a4e377d7777e5e94dd78187f6349c81abada43a7c9e21f9cb34cab62ef2c": {
+        "title": "Edge AI Daily 早报（10月27日）",
+        "link": "https://www.tmtpost.com/8182929.html",
+        "published_date": "Tue, 27 Oct 2026 09:04:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229349"
+      },
+      "98493926f9d8c01f8f3b32396d29b1eac5acca0caaeefb633a425e409ec6d958": {
+        "title": "China’s Big Tech Is Folding AI Experiments Faster Than It Launches Them",
+        "link": "https://www.tmtpost.com/8182953.html",
+        "published_date": "Tue, 27 Oct 2026 07:23:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229351"
+      },
+      "5e3ff26bbf965ba9e7a86c5570c5397537dbbb90d7bbe7bf35536437ecf4e287": {
+        "title": "【钛晨报】应对非银机构大额赎回，中国央行稳债市新工具落地；奥迪在华官宣：四环归一汽，字母标给上汽；中金公司“三合一”完成交割，部分新增股份10月29日上市流通",
+        "link": "https://www.tmtpost.com/8182711.html",
+        "published_date": "Tue, 27 Oct 2026 07:20:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229352"
+      },
+      "31501de77cc6e38b8fc223c2351a40794f8d9c44500cd401e9d0da379789b9b6": {
+        "title": "“金针菇第一股”旺季巨亏封死跌停！众兴菌业周期回摆业绩变脸 | 看财报",
+        "link": "https://www.tmtpost.com/8182754.html",
+        "published_date": "Mon, 26 Oct 2026 22:25:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229353"
+      },
+      "660a7b068603b2d0ade608a1ca9fb61687c81fcc931ff84496dc114419014645": {
+        "title": "半年亏掉807亿美元，Anthropic公开递交招股书：它凭什么值2万亿？",
+        "link": "https://www.tmtpost.com/8182734.html",
+        "published_date": "Mon, 26 Oct 2026 22:24:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229354"
+      },
+      "baedea95dcf9242ff89111c9de15c634a7f29e6f7204c4eb13b30e240af3e3d5": {
+        "title": "万丰奥威Q3盈利降46%：高毛利通航业务承压，低空赛道烧钱不止｜看财报",
+        "link": "https://www.tmtpost.com/8182585.html",
+        "published_date": "Mon, 26 Oct 2026 19:54:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229355"
+      },
+      "d5116bd662d90c09ce27bf3af928dedbda0e8321d87682a4fb635456c7dee096": {
+        "title": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding",
+        "link": "https://www.tmtpost.com/8182406.html",
+        "published_date": "Mon, 26 Oct 2026 19:29:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229357"
+      },
+      "26d535ba998c5ded2e8725e5f17e6fe6334eb335be7b59ebc4742a639e915586": {
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/117529",
+        "published_date": "Mon, 26 Oct 2026 18:17:00 GMT",
+        "first_seen": "2026-10-27T01:53:54.229358"
       }
     },
     "Finance": {
-      "efc476905708644d3373483ce8d8123ebb94bf90b699f7ae40221e5a92da8181": {
-        "title": "Appeals court overturns ban on contentious Northern Ireland parade",
-        "link": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
-        "published_date": "Sun, 27 Sep 2026 00:13:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476921"
-      },
-      "9f7623d39efd7ee9dedd9b0d023a94f80076d9a05fcbd433a8ab336296de5205": {
-        "title": "German and Russian foreign ministers meet for first time in over four years",
-        "link": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
-        "published_date": "Sat, 26 Sep 2026 19:01:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476929"
-      },
-      "4e3e4118d6d262ab3a9a547d15c34c8cd41edaadb04af615981b9b130b4ad4d5": {
-        "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
-        "link": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
-        "published_date": "Sat, 26 Sep 2026 18:42:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476931"
-      },
-      "4d2203379b8f7aa0392ad3f38a84711d53f5374a4c4389078c10788e31beaee0": {
-        "title": "Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz",
-        "link": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1",
-        "published_date": "Sat, 26 Sep 2026 17:01:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476933"
-      },
-      "ce7636771fe5a30b66fa8d2e9b5ca797319a66c8cdc1cded9301ff35a6e2d2e7": {
-        "title": "Foreign capital flows into US stocks hit record as appetite for debt fades",
-        "link": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1",
-        "published_date": "Sat, 26 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476934"
-      },
-      "0148b422d61168ab0b4f1a530f5d5af46b0bd2d2c0ff8831eb1839dd4812e7cb": {
-        "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-        "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-        "published_date": "Sat, 26 Sep 2026 17:54:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476936"
-      },
-      "97bb11a5a8eb72ee82d1e59fa64e86e6dad51557242906231b8d74c3da27a23f": {
-        "title": "Social Security checks are projected to be cut by $540 a month in just six years",
-        "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-        "published_date": "Sat, 26 Sep 2026 17:15:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476937"
-      },
-      "29adeeff30f5aa0843c0ef79f26b6316d9b807b47344cc932ab4612535b9f543": {
-        "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-        "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-        "published_date": "Sat, 26 Sep 2026 16:22:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476939"
-      },
-      "cc5fccf64bbc8ad98fa85695d3f38280c0b15227d81d92384184b1ab01449af7": {
-        "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-        "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-        "published_date": "Sat, 26 Sep 2026 15:48:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476940"
-      },
-      "51a97ba9fb75f825b1bff3b90856818d618145717b5588e4e2ddd949cb709e5a": {
-        "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-        "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-        "published_date": "Sat, 26 Sep 2026 15:30:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.476942"
-      },
       "bb255432d97af4cc0e2582b2f4834894379e3bc790fac6d12003339c17b7af84": {
         "title": "US housing crunch puts private equity in midterm campaign crosshairs",
         "link": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
@@ -6891,15 +6849,69 @@
         "link": "https://www.ft.com/content/e14c2beb-cbcd-4e47-9f30-604b766f88e1?syn-25a6b1a6=1",
         "published_date": "Mon, 26 Oct 2026 05:00:00 GMT",
         "first_seen": "2026-10-26T10:50:48.784526"
+      },
+      "13b61910b7cfb1b03d0cabce4191bf4ad6bb2c9184ffb6925b99cbc1571baa01": {
+        "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
+        "link": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
+        "published_date": "Mon, 26 Oct 2026 17:45:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602581"
+      },
+      "279a946a8445b6d06520140bb59b5ab32ed38b52172e4f6d690aa0c14b5acd5f": {
+        "title": "With the Anthropic IPO, the devil is in the details",
+        "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+        "published_date": "Mon, 26 Oct 2026 20:50:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602592"
+      },
+      "4e51f34e58f04351ba6ed64a73e6e4a705a904716c0a17a9fdd81a28d06f352b": {
+        "title": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’",
+        "link": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
+        "published_date": "Tue, 27 Oct 2026 00:54:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602594"
+      },
+      "f1e81c49eb3225e04c9e906108d4e9892aa1c539b5f7ceb692e9220a7711ff15": {
+        "title": "US charges ex-FBI chief James Comey for third time",
+        "link": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1",
+        "published_date": "Mon, 26 Oct 2026 22:56:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602595"
+      },
+      "c987ffd76d39fd48a99faa436fcd5b079cc41dd089550b5a9279d6a5be57e6dc": {
+        "title": "Trump offers $1mn reward for tips leading to election fraud conviction",
+        "link": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
+        "published_date": "Mon, 26 Oct 2026 21:50:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602597"
+      },
+      "d310657263e434aa9d3af757f143c99c73d9646da8ad65afe912f1123a11e9fe": {
+        "title": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+        "link": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1",
+        "published_date": "Mon, 26 Oct 2026 21:13:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602598"
+      },
+      "1cbc642c5dbac9ec90e285cd4d25152e9e9efcad413934e89d21fb4a3ad35126": {
+        "title": "Brazil’s currency plunges most since 1999 after Lula’s election victory",
+        "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+        "published_date": "Mon, 26 Oct 2026 21:08:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602600"
+      },
+      "73816ef07f38378547065cf1c1fe2734fcfbd2aed62927cf601d3c090a258f9c": {
+        "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+        "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+        "published_date": "Mon, 26 Oct 2026 20:49:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602601"
+      },
+      "cb2b4d59612a5d0e6a8b778c650dcaf60b7c5a831e62b17ac4ec4e8c744d6e68": {
+        "title": "Microsoft offers buyouts to 60,000 staff",
+        "link": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?syn-25a6b1a6=1",
+        "published_date": "Mon, 26 Oct 2026 20:22:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602603"
+      },
+      "5d963ba07cb1637c7f6bd95da7454269fceae8909d8488d02a01c9db8bbf1970": {
+        "title": "Lula’s stunning comeback meets fiscal reality",
+        "link": "https://www.ft.com/content/79785581-88c2-49a9-a109-9d5ccafc3c7d?syn-25a6b1a6=1",
+        "published_date": "Mon, 26 Oct 2026 18:14:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.602604"
       }
     },
     "Ai": {
-      "bf2f9c72582e87b686af5bf9728730a669dd98e02fa2edc0d381c3184bf54591": {
-        "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-        "link": "https://www.qbitai.com/2026/09/498478.html",
-        "published_date": "Sat, 26 Sep 2026 11:49:00 GMT",
-        "first_seen": "2026-09-27T01:10:03.625426"
-      },
       "15dfbe83ccbd2403a4541bb48ef58e969ece6638c677b0a4fc9bad608e1bd39f": {
         "title": "遇见AI未来：中科通量SmarCo系列产品亮相全球数字贸易博览会",
         "link": "https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html",
@@ -9605,13 +9617,55 @@
         "link": "https://hex2077.dev/docs/2026-10/2026-10-26/",
         "published_date": "Mon, 26 Oct 2026 03:11:00 GMT",
         "first_seen": "2026-10-26T10:50:48.883446"
+      },
+      "787440c3931b373028722ad53635183d421f9e22bfe8019256e3dee2d45e4ac8": {
+        "title": "腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%",
+        "link": "https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html",
+        "published_date": "Mon, 26 Oct 2026 19:26:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.730948"
+      },
+      "fe44ca2eb834023b9d6887374d6e823c28ef8df966d0d6ef51fbf08385a83403": {
+        "title": "即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台",
+        "link": "https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html",
+        "published_date": "Mon, 26 Oct 2026 18:25:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.730956"
+      },
+      "0552ad6ddf3fafb029e803e8aa142f69dbb661e08d530396a290d0ffc3a8b91c": {
+        "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+        "link": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
+        "published_date": "Mon, 26 Oct 2026 17:56:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.730958"
+      },
+      "f774c51825b36e047445fbc0ad3c7445fc6d908711e6cc7bb0376f0e94d516bc": {
+        "title": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
+        "published_date": "Mon, 26 Oct 2026 17:27:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.730959"
+      },
+      "9b0d466016dbc2374e73c9790fd4e2841d2fc6437012c2c3165c25240922e90d": {
+        "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
+        "published_date": "Mon, 26 Oct 2026 17:15:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.730960"
+      },
+      "9b09a95e7ff5a5828dab1b15e0f131bb069c0b7a387529311905d102ff30055a": {
+        "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
+        "link": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
+        "published_date": "Mon, 26 Oct 2026 16:46:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.730961"
+      },
+      "3c326b932d4fd0f70a783774c816254454fe7ca6e533240cc9c18e8f5574a3ea": {
+        "title": "At New York Climate Week 2026, MIT connects with a global network",
+        "link": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+        "published_date": "Mon, 26 Oct 2026 15:00:00 GMT",
+        "first_seen": "2026-10-27T01:54:03.730963"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-26T10:50:39.344056",
-    "Finance": "2026-10-26T10:50:48.784529",
-    "Ai": "2026-10-26T10:50:48.883447"
+    "Technology": "2026-10-27T01:53:54.229360",
+    "Finance": "2026-10-27T01:54:03.602606",
+    "Ai": "2026-10-27T01:54:03.730964"
   }
 }
