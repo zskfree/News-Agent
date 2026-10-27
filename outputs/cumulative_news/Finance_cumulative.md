@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-27 01:53
+**最后更新时间**: 2026-10-27 10:17
+
+---
+
+## 🆕 最新更新 (2026-10-27 10:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Customers are chasing higher-rate products, and that’s bad news for banks like HSBC](https://www.marketwatch.com/story/customers-are-chasing-higher-rate-products-and-thats-bad-news-for-banks-like-hsbc-3a6ec793?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 10:02
+
+#### [Designer Betsey Johnson takes $7 million SoCal home off the market](https://www.marketwatch.com/story/designer-betsey-johnson-takes-7-million-socal-home-off-the-market-1f027f0e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 09:02
+
+#### [The impressive real estate portfolio of sitcom producer Chuck Lorre of ‘Big Bang Theory’ and ‘Two and a Half Men’ fame](https://www.marketwatch.com/story/the-impressive-real-estate-portfolio-of-sitcom-producer-chuck-lorre-of-big-bang-theory-and-two-and-a-half-men-fame-f8e43ed4?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 08:58
+
+#### [What gave this city its ‘best place to retire’ crown? You can actually afford to live there.](https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 04:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tech stocks rise as AI trade regains steam](https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 08:50
+
+#### [HSBC shares fall as results disappoint](https://www.ft.com/content/fd23db26-a45b-4a98-b771-4234a30b7937?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 08:00
+
+#### [Lula faces a fiscal reckoning after Brazil’s market rout](https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 05:00
+
+#### [Inside Trump Jr’s Mongolian hunting trip with a Kremlin-linked oligarch](https://www.ft.com/content/f41fc704-c9e6-42de-b800-d43cabe61947?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 05:00
+
+#### [The winners and losers of the weight-loss economy](https://www.ft.com/content/2f1667a8-ef1b-46a0-bc95-6061ec85fb8e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 05:00
+
+#### [How long can lawyers keep squeezing their clients?](https://www.ft.com/content/cf954c9f-48dc-4e30-a03a-6fb2ec4dafa6?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 05:00
+
+#### [Israelis go to the polls in historic election](https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 05:00
+
+#### [France must appease protesters without extra spending, says finance minister](https://www.ft.com/content/167fd08f-2f01-46ee-a419-074e22ffd1a8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 05:00
 
 ---
 

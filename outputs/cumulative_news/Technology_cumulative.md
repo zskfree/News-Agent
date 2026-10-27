@@ -1,7 +1,116 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-27 01:53
+**最后更新时间**: 2026-10-27 10:17
+
+---
+
+## 🆕 最新更新 (2026-10-27 10:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [科大讯飞刘庆峰：讯飞星火X2.6全国产算力训练，押注端侧模型"绕开"封锁](https://www.tmtpost.com/8183533.html)
+**发布时间**: 2026-10-27 17:29
+
+#### [Selling AI Tokens Gets Harder as the Discount Trade Unravels](https://www.tmtpost.com/8183560.html)
+**发布时间**: 2026-10-27 17:21
+
+#### [算力最多，进展最慢：字节大模型困于赛马制](https://www.tmtpost.com/8182141.html)
+**发布时间**: 2026-10-27 17:19
+
+#### [SpaceX借来400亿美元，押注GPU的未来五年](https://www.tmtpost.com/8182988.html)
+**发布时间**: 2026-10-27 17:19
+
+#### [富人从来不缺给自己洗碗的人](https://www.tmtpost.com/8182851.html)
+**发布时间**: 2026-10-27 16:50
+
+#### [Anthropic还得继续“狂奔”](https://www.tmtpost.com/8182889.html)
+**发布时间**: 2026-10-27 16:48
+
+#### [老马又融了400亿买卡 ，“光”要回来了吗？](https://www.tmtpost.com/8182670.html)
+**发布时间**: 2026-10-27 16:35
+
+#### [迟到七年的苹果，还能后来居上吗](https://www.tmtpost.com/8182740.html)
+**发布时间**: 2026-10-27 16:34
+
+#### [工资只有中国几分之一，为什么非洲制造并不便宜？](https://www.tmtpost.com/8182876.html)
+**发布时间**: 2026-10-27 16:34
+
+#### [苹果第一次在供应链里排队](https://www.tmtpost.com/8182888.html)
+**发布时间**: 2026-10-27 16:34
+
+#### [大模型时代，谁会成为那部不肯换掉的“iPhone”？](https://www.tmtpost.com/8182615.html)
+**发布时间**: 2026-10-27 16:21
+
+#### [MiniMax的低价攻势，撞上“背题”疑云](https://www.tmtpost.com/8182527.html)
+**发布时间**: 2026-10-27 16:17
+
+#### [倒卖Token暴利终结，AI中转站还剩几种活法？](https://www.tmtpost.com/8183251.html)
+**发布时间**: 2026-10-27 16:17
+
+#### [花600天做一道菜，年轻人为什么蹲在抖音追“手搓”](https://www.tmtpost.com/8182561.html)
+**发布时间**: 2026-10-27 16:17
+
+#### [气候危机愈发急迫，AI是福还是祸？](https://www.tmtpost.com/8183389.html)
+**发布时间**: 2026-10-27 15:59
+
+#### [从卖车到造车，零跑在欧洲换了种打法](https://www.tmtpost.com/8178750.html)
+**发布时间**: 2026-10-27 12:25
+
+#### [按周结算生活费，这届大学生成了家里的"临时工"](https://www.tmtpost.com/8183176.html)
+**发布时间**: 2026-10-27 12:22
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」](http://www.geekpark.net/news/373008)
+**发布时间**: 2026-10-27 17:24
+
+#### [看了招股书，我终于知道为什么 Anthropic 不在乎用户了](http://www.geekpark.net/news/373006)
+**发布时间**: 2026-10-27 16:55
+
+#### [Manus，刚刚悄悄发布了自己的 2.0 宣言](http://www.geekpark.net/news/373004)
+**发布时间**: 2026-10-27 16:49
+
+#### [启元机器人第 5000 台下线，从规模化量产迈向商业化验证](http://www.geekpark.net/news/373003)
+**发布时间**: 2026-10-27 16:46
+
+#### [帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状](http://www.geekpark.net/news/373002)
+**发布时间**: 2026-10-27 16:42
+
+#### [左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场](http://www.geekpark.net/news/372939)
+**发布时间**: 2026-10-27 15:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Azure Container Apps Express在新的通用沙箱层上正式发布](https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-27 17:17
+
+#### [TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型](https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-27 15:22
+
+#### [Docker Cloud Sandboxes在笔记本和云端之间提供一致的沙箱抽象](https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-27 13:00
+
+#### [Grafana将Cypress测试结果转化为持久化的可观测性数据](https://www.infoq.cn/article/tcY6W55WowheH1SklVJK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-27 11:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 163 | 金豪 59 调整版与九月派友剁手清单](https://sspai.com/post/117633)
+**发布时间**: 2026-10-27 17:02
+
+#### [Apple Sports：不看新闻、不聊球，只看我关心的比赛](https://sspai.com/post/117557)
+**发布时间**: 2026-10-27 15:27
+
+#### [一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机](https://sspai.com/post/115855)
+**发布时间**: 2026-10-27 11:02
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [在电脑和手机上玩 Switch 游戏？这 5 个GitHub 项目值得看看。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538101&idx=1&sn=9586777b5d22d5b3dbfbc0693fda1098)
+**发布时间**: 2026-10-27 10:03
+
+#### [盘点 3 个安全相关的开源 Skill，都是最近登上热榜的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538101&idx=2&sn=078856eda8d5566656a5ef45fdd0f971)
+**发布时间**: 2026-10-27 10:03
 
 ---
 

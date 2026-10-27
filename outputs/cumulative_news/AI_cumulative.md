@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-27 01:51
+**最后更新时间**: 2026-10-27 10:15
+
+---
+
+## 🆕 最新更新 (2026-10-27 10:15)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [乔布斯的皮克斯，狂赞中国物理AI数据终端](https://www.qbitai.com/2026/10/505830.html)
+**发布时间**: 2026-10-27 09:54
+
+#### [Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了](https://www.qbitai.com/2026/10/505799.html)
+**发布时间**: 2026-10-27 08:46
+
+#### [KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%](https://www.qbitai.com/2026/10/505773.html)
+**发布时间**: 2026-10-27 08:35
+
+#### [GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力](https://www.qbitai.com/2026/10/505719.html)
+**发布时间**: 2026-10-27 08:27
+
+#### [国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6](https://www.qbitai.com/2026/10/505694.html)
+**发布时间**: 2026-10-27 08:18
+
+#### [做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026](https://www.qbitai.com/2026/10/505687.html)
+**发布时间**: 2026-10-27 07:44
+
+#### [OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度](https://www.qbitai.com/2026/10/505635.html)
+**发布时间**: 2026-10-27 07:41
+
+#### [2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕](https://www.qbitai.com/2026/10/505615.html)
+**发布时间**: 2026-10-27 07:25
+
+#### [小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手](https://www.qbitai.com/2026/10/505600.html)
+**发布时间**: 2026-10-27 07:09
+
+#### [钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会](https://www.qbitai.com/2026/10/505580.html)
+**发布时间**: 2026-10-27 03:23
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model](https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/)
+**发布时间**: 2026-10-27 05:50
+
+#### [Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing](https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/)
+**发布时间**: 2026-10-27 05:26
+
+#### [OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work](https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/)
+**发布时间**: 2026-10-27 02:45
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-27日刊](https://hex2077.dev/docs/2026-10/2026-10-27/)
+**发布时间**: 2026-10-27 02:38
 
 ---
 

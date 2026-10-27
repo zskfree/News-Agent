@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Oct 2026 01:51:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 01:54:03 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 10:15:00 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:17:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%</title>
-      <link>https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html</link>
-      <description>&lt;![CDATA[腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html</guid>
+      <title>乔布斯的皮克斯，狂赞中国物理AI数据终端</title>
+      <link>https://www.qbitai.com/2026/10/505830.html</link>
+      <description>&lt;![CDATA[乔布斯的皮克斯，狂赞中国物理AI数据终端]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505830.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台</title>
-      <link>https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html</link>
-      <description>&lt;![CDATA[即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html</guid>
+      <title>Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了</title>
+      <link>https://www.qbitai.com/2026/10/505799.html</link>
+      <description>&lt;![CDATA[Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505799.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</link>
-      <description>&lt;![CDATA[Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/</guid>
+      <title>KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%</title>
+      <link>https://www.qbitai.com/2026/10/505773.html</link>
+      <description>&lt;![CDATA[KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505773.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 17:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/</guid>
+      <title>GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力</title>
+      <link>https://www.qbitai.com/2026/10/505719.html</link>
+      <description>&lt;![CDATA[GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505719.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</link>
-      <description>&lt;![CDATA[Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/</guid>
+      <title>国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6</title>
+      <link>https://www.qbitai.com/2026/10/505694.html</link>
+      <description>&lt;![CDATA[国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505694.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls</title>
-      <link>https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/</link>
-      <description>&lt;![CDATA[Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 16:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/</guid>
+      <title>做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026</title>
+      <link>https://www.qbitai.com/2026/10/505687.html</link>
+      <description>&lt;![CDATA[做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 07:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505687.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>At New York Climate Week 2026, MIT connects with a global network</title>
-      <link>https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</link>
-      <description>&lt;![CDATA[At New York Climate Week 2026, MIT connects with a global network]]&gt;</description>
-      <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</guid>
+      <title>OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度</title>
+      <link>https://www.qbitai.com/2026/10/505635.html</link>
+      <description>&lt;![CDATA[OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 07:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505635.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕</title>
+      <link>https://www.qbitai.com/2026/10/505615.html</link>
+      <description>&lt;![CDATA[2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 07:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505615.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手</title>
+      <link>https://www.qbitai.com/2026/10/505600.html</link>
+      <description>&lt;![CDATA[小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 07:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505600.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会</title>
+      <link>https://www.qbitai.com/2026/10/505580.html</link>
+      <description>&lt;![CDATA[钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 03:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505580.html</guid>
       <category>Ai</category>
     </item>
   </channel>
