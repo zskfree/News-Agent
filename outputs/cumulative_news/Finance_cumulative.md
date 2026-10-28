@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-27 10:17
+**最后更新时间**: 2026-10-28 02:05
+
+---
+
+## 🆕 最新更新 (2026-10-28 02:05)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SK Hynix profits soar amid roaring AI chip demand](https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be)
+**发布时间**: 2026-10-28 01:15
+
+#### [No clear winner in Israeli parliamentary election, exit polls suggest](https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 23:50
+
+#### [Washington to issue Flávio Bolsonaro US visa after election loss](https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 21:41
+
+#### [Washington discusses Russian deals for US oil majors in Ukraine peace talks](https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 19:06
+
+#### [Putin lectures Nordic leaders on Russian history](https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 18:50
+
+#### [Law firm Weil prepares for possible wind-down as crisis deepens](https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 18:06
+
+#### [Apple hit by ‘Crackgate’ outcry over iPhone Duo screen problems](https://www.ft.com/content/324875fb-8631-4339-8516-6057de9ac085?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 17:55
+
+#### [The limits of hedging the AI boom](https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 17:07
+
+#### [US voters and Trump’s overflowing swamp](https://www.ft.com/content/51dbeefc-442b-4aac-b48b-042a0d6862a0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-27 10:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market](https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 22:51
+
+#### [CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending](https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 21:41
+
+#### [As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever](https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 21:29
+
+#### [The rest of the market is leaving Big Tech behind after a historic comeback](https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 21:28
+
+#### [My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.](https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 21:00
+
+#### [The big reason Boeing’s stock is falling so hard after earnings](https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 20:43
+
+#### [How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’](https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 20:40
+
+#### [JetBlue has been losing money for years. It just charted a path to profitability.](https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-27 20:38
 
 ---
 

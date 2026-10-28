@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Oct 2026 10:17:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 10:17:39 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 02:05:00 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:05:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Manus，刚刚悄悄发布了自己的 2.0 宣言</title>
-      <link>http://www.geekpark.net/news/373004</link>
-      <description>&lt;![CDATA[Manus，刚刚悄悄发布了自己的 2.0 宣言]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373004</guid>
+      <title>【钛晨报】多项智能出行国际标准发布；Anthropic降价引爆调用量，知名投资人：1000亿美元级年终ARR再成可能；东山精密：最终发售价为每股86.8港元，国际发售获3.17倍认购</title>
+      <link>https://www.tmtpost.com/8183890.html</link>
+      <description>&lt;![CDATA[【钛晨报】多项智能出行国际标准发布；Anthropic降价引爆调用量，知名投资人：1000亿美元级年终ARR再成可能；东山精密：最终发售价为每股86.8港元，国际发售获3.17倍认购]]&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8183890.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Azure Container Apps Express在新的通用沙箱层上正式发布</title>
-      <link>https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Azure Container Apps Express在新的通用沙箱层上正式发布]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>海柔创新：9年“烧”52亿元，巨额赎回负债风险待解｜IPO观察</title>
+      <link>https://www.tmtpost.com/8176201.html</link>
+      <description>&lt;![CDATA[海柔创新：9年“烧”52亿元，巨额赎回负债风险待解｜IPO观察]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 21:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8176201.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型</title>
-      <link>https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 15:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>佛塑科技Q3净利增逾14倍后再推扩产，面临新一轮供给竞争｜看财报</title>
+      <link>https://www.tmtpost.com/8183790.html</link>
+      <description>&lt;![CDATA[佛塑科技Q3净利增逾14倍后再推扩产，面临新一轮供给竞争｜看财报]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8183790.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科大讯飞刘庆峰：讯飞星火X2.6全国产算力训练，押注端侧模型&quot;绕开&quot;封锁</title>
-      <link>https://www.tmtpost.com/8183533.html</link>
-      <description>&lt;![CDATA[科大讯飞刘庆峰：讯飞星火X2.6全国产算力训练，押注端侧模型&quot;绕开&quot;封锁]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8183533.html</guid>
+      <title>乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案</title>
+      <link>https://www.tmtpost.com/8183616.html</link>
+      <description>&lt;![CDATA[乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8183616.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Selling AI Tokens Gets Harder as the Discount Trade Unravels</title>
-      <link>https://www.tmtpost.com/8183560.html</link>
-      <description>&lt;![CDATA[Selling AI Tokens Gets Harder as the Discount Trade Unravels]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 17:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8183560.html</guid>
+      <title>派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等</title>
+      <link>https://sspai.com/post/117684</link>
+      <description>&lt;![CDATA[派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等]]&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 08:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/117684</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力最多，进展最慢：字节大模型困于赛马制</title>
-      <link>https://www.tmtpost.com/8182141.html</link>
-      <description>&lt;![CDATA[算力最多，进展最慢：字节大模型困于赛马制]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182141.html</guid>
+      <title>基层演员，AI刀下第一鬼</title>
+      <link>https://www.tmtpost.com/8184110.html</link>
+      <description>&lt;![CDATA[基层演员，AI刀下第一鬼]]&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 09:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8184110.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SpaceX借来400亿美元，押注GPU的未来五年</title>
-      <link>https://www.tmtpost.com/8182988.html</link>
-      <description>&lt;![CDATA[SpaceX借来400亿美元，押注GPU的未来五年]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182988.html</guid>
+      <title>AI Floods China’s Ad Feeds—and Platforms Fight Back With AI</title>
+      <link>https://www.tmtpost.com/8184159.html</link>
+      <description>&lt;![CDATA[AI Floods China’s Ad Feeds—and Platforms Fight Back With AI]]&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8184159.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>富人从来不缺给自己洗碗的人</title>
-      <link>https://www.tmtpost.com/8182851.html</link>
-      <description>&lt;![CDATA[富人从来不缺给自己洗碗的人]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182851.html</guid>
+      <title>小微灰度的第130天：小程序正在被拆成零件，交给微信的AI</title>
+      <link>https://www.tmtpost.com/8183962.html</link>
+      <description>&lt;![CDATA[小微灰度的第130天：小程序正在被拆成零件，交给微信的AI]]&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 09:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8183962.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic还得继续“狂奔”</title>
-      <link>https://www.tmtpost.com/8182889.html</link>
-      <description>&lt;![CDATA[Anthropic还得继续“狂奔”]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 16:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182889.html</guid>
+      <title>Edge AI Daily 早报（10月28日）</title>
+      <link>https://www.tmtpost.com/8184055.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（10月28日）]]&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8184055.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>老马又融了400亿买卡 ，“光”要回来了吗？</title>
-      <link>https://www.tmtpost.com/8182670.html</link>
-      <description>&lt;![CDATA[老马又融了400亿买卡 ，“光”要回来了吗？]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8182670.html</guid>
+      <title>前三季4.88亿减值、H股筹谋，天通股份的光伏包袱与铌酸锂故事|看财报</title>
+      <link>https://www.tmtpost.com/8183921.html</link>
+      <description>&lt;![CDATA[前三季4.88亿减值、H股筹谋，天通股份的光伏包袱与铌酸锂故事|看财报]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 21:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8183921.html</guid>
       <category>Technology</category>
     </item>
   </channel>

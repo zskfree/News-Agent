@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Oct 2026 10:15:00 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 10:17:59 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 02:03:00 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:05:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>乔布斯的皮克斯，狂赞中国物理AI数据终端</title>
-      <link>https://www.qbitai.com/2026/10/505830.html</link>
-      <description>&lt;![CDATA[乔布斯的皮克斯，狂赞中国物理AI数据终端]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505830.html</guid>
+      <title>Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB</title>
+      <link>https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/</link>
+      <description>&lt;![CDATA[Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 21:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了</title>
-      <link>https://www.qbitai.com/2026/10/505799.html</link>
-      <description>&lt;![CDATA[Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 08:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505799.html</guid>
+      <title>Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models</title>
+      <link>https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/</link>
+      <description>&lt;![CDATA[Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%</title>
-      <link>https://www.qbitai.com/2026/10/505773.html</link>
-      <description>&lt;![CDATA[KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 08:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505773.html</guid>
+      <title>Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context</title>
+      <link>https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/</link>
+      <description>&lt;![CDATA[Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 12:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力</title>
-      <link>https://www.qbitai.com/2026/10/505719.html</link>
-      <description>&lt;![CDATA[GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 08:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505719.html</guid>
+      <title>AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/</link>
+      <description>&lt;![CDATA[AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6</title>
-      <link>https://www.qbitai.com/2026/10/505694.html</link>
-      <description>&lt;![CDATA[国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 08:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505694.html</guid>
+      <title>Announcing SOCI-indexed images for faster SageMaker AI jobs</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</link>
+      <description>&lt;![CDATA[Announcing SOCI-indexed images for faster SageMaker AI jobs]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026</title>
-      <link>https://www.qbitai.com/2026/10/505687.html</link>
-      <description>&lt;![CDATA[做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 07:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505687.html</guid>
+      <title>Fix evaluation bias to unlock better models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Fix evaluation bias to unlock better models on Amazon Bedrock]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度</title>
-      <link>https://www.qbitai.com/2026/10/505635.html</link>
-      <description>&lt;![CDATA[OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 07:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505635.html</guid>
+      <title>Exowatt beats frontier models on accuracy with SageMaker serverless model customization</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/</link>
+      <description>&lt;![CDATA[Exowatt beats frontier models on accuracy with SageMaker serverless model customization]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕</title>
-      <link>https://www.qbitai.com/2026/10/505615.html</link>
-      <description>&lt;![CDATA[2026全球开发者先锋大会暨国际具身智能技能大赛圆满落幕]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 07:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505615.html</guid>
+      <title>Muse之后，灵光2.0让Personal Agent接手中国式日常</title>
+      <link>https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html</link>
+      <description>&lt;![CDATA[Muse之后，灵光2.0让Personal Agent接手中国式日常]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/PubkEap5yOtdT59V.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手</title>
-      <link>https://www.qbitai.com/2026/10/505600.html</link>
-      <description>&lt;![CDATA[小米披露灵巧手最新技术探索成果：基于1827个工厂SOP验证，升级21自由度仿生灵巧手]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 07:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505600.html</guid>
+      <title>长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应</title>
+      <link>https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html</link>
+      <description>&lt;![CDATA[长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会</title>
-      <link>https://www.qbitai.com/2026/10/505580.html</link>
-      <description>&lt;![CDATA[钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会]]&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 03:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/505580.html</guid>
+      <title>千问办公接入乐奇AI眼镜，一句话发起任务</title>
+      <link>https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html</link>
+      <description>&lt;![CDATA[千问办公接入乐奇AI眼镜，一句话发起任务]]&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html</guid>
       <category>Ai</category>
     </item>
   </channel>
