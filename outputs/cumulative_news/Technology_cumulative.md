@@ -1,7 +1,140 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-28 02:05
+**最后更新时间**: 2026-10-28 11:04
+
+---
+
+## 🆕 最新更新 (2026-10-28 11:04)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Meta 利用私有处理技术将机密计算扩展至 AI 眼镜](https://www.infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 19:00
+
+#### [大客户直接打1折、模型四个月降价80%：大模型价格战没有退路](https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 18:14
+
+#### [全网恐慌48小时，拯救互联网的却是一个“无名之辈”](https://www.infoq.cn/article/3HgfVzt6tQpQjrdE2x9J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 18:08
+
+#### [可组合商品套餐：Shipt Kits 平台内部解析](https://www.infoq.cn/article/xBgiKNRRaMe5ORxXy16Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 18:00
+
+#### [Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问](https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 17:54
+
+#### [Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”](https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 17:45
+
+#### [带出Transformer一作、前ACL顶会主席来华分享：人类正在把“思考”全盘外包](https://www.infoq.cn/article/SZuklTgjFS7o8BaZ8TJh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 17:42
+
+#### [通过 SNMP 处理程序进行 ZCS 命令注入，实现未经身份验证的远程代码执行](https://www.infoq.cn/article/UZHyp2ZTvI59sQWEtNSG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 17:00
+
+#### [模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官](https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 16:57
+
+#### [HarmonyOS 开发助手实测：从空工程开发到既有工程改造](https://www.infoq.cn/article/rhTqlNxzHsQZKafzi5df?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 16:39
+
+#### [全国最大规模机器人App黑客松落幕：36小时跑通16款真机应用](https://www.infoq.cn/article/sS5NxwrgaGGueVSLxvxM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 16:26
+
+#### [尤雨溪团队推出 Vite+ 1.0：JavaScript 工具链迎来“大一统”？](https://www.infoq.cn/article/i9tPNHSGoArJ7m08pJ3h?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 13:39
+
+#### [智能指数得分创新高！蚂蚁百灵开源Ling-3.1-flash-1019：让Personal Agent走向真实业务](https://www.infoq.cn/article/wIuu0NSaLSaqJJpXVExD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 12:13
+
+#### [轻量化异构双臂 × VLA/世界模型：家庭服务具身机器人的落地实践](https://www.infoq.cn/article/7yOK6Ri9Dt4VfITmA7Vb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 12:05
+
+#### [GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%](https://www.infoq.cn/article/28VVsANi9FBYRKfUz8vA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 10:37
+
+#### [亚马逊云科技要给欧洲主权云“拔网线”，IAM 和 DNS 怎么办？](https://www.infoq.cn/article/2jjIKte1WiTC0PyovkIJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-27 16:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [第六届数字经济投融资机构川渝行在蓉举行，释放融资需求超10亿元](https://www.tmtpost.com/8185010.html)
+**发布时间**: 2026-10-28 18:42
+
+#### [山姆、奥乐齐、盒马掘金“县级”市场](https://www.tmtpost.com/8184538.html)
+**发布时间**: 2026-10-28 18:26
+
+#### [别人还在抽卡，米哈游已经开始抽芯片了](https://www.tmtpost.com/8184518.html)
+**发布时间**: 2026-10-28 18:26
+
+#### [锂周期再摇摆：锂企前三季度业绩炸裂，Q3环比转弱｜行业风向标](https://www.tmtpost.com/8184851.html)
+**发布时间**: 2026-10-28 17:53
+
+#### [当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座](https://www.tmtpost.com/8184285.html)
+**发布时间**: 2026-10-28 17:28
+
+#### [短剧的通胀危机：为何AI没有让内容生意更好赚钱？](https://www.tmtpost.com/8184741.html)
+**发布时间**: 2026-10-28 17:22
+
+#### [恒辉安防8亿再押UHMWPE，未来价格战成隐患](https://www.tmtpost.com/8184721.html)
+**发布时间**: 2026-10-28 16:51
+
+#### [Bankruptcies Join the Fundraising Boom in China’s Robotics Market](https://www.tmtpost.com/8184697.html)
+**发布时间**: 2026-10-28 16:12
+
+#### [跑代码易，做任务难：AI编程迎来交付能力大考](https://www.tmtpost.com/8184564.html)
+**发布时间**: 2026-10-28 14:46
+
+#### [涌进中小学的机器人草台班子](https://www.tmtpost.com/8184425.html)
+**发布时间**: 2026-10-28 14:13
+
+#### [“AI之王”Anthropic，给马斯克、黄仁勋们打工](https://www.tmtpost.com/8184181.html)
+**发布时间**: 2026-10-28 14:11
+
+#### [顶刊给“AI医生”正名：会诊准确率高出人类一大截](https://www.tmtpost.com/8183576.html)
+**发布时间**: 2026-10-28 14:11
+
+#### [红果、Seedance 与字节：短剧观察札记](https://www.tmtpost.com/8184264.html)
+**发布时间**: 2026-10-28 14:11
+
+#### [超9成收入绑定五大客户，羲禾科技营收暴涨背后，经营现金流起伏](https://www.tmtpost.com/8184324.html)
+**发布时间**: 2026-10-28 14:11
+
+#### [史上最大IPO临门，腾讯、阿里、字节抢卡：Anthropic和中国大厂一起为算力上头](https://www.tmtpost.com/8184064.html)
+**发布时间**: 2026-10-28 14:11
+
+#### [干掉有线电视的Netflix，正在变成另一种有线电视](https://www.tmtpost.com/8184023.html)
+**发布时间**: 2026-10-28 13:55
+
+#### [身家2800亿，梁文锋还在北京租房](https://www.tmtpost.com/8184033.html)
+**发布时间**: 2026-10-28 13:55
+
+#### [马斯克最新访谈：人类未来还能控制 AI 吗？](https://www.tmtpost.com/8184044.html)
+**发布时间**: 2026-10-28 13:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [备受期待的国产 3A 游戏新作：《影之刃零》游玩体验](https://sspai.com/post/117725)
+**发布时间**: 2026-10-28 17:37
+
+#### [断舍离只是起点：打造能长期经营的实用主义衣柜](https://sspai.com/post/116990)
+**发布时间**: 2026-10-28 15:00
+
+#### [怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？](https://sspai.com/post/115533)
+**发布时间**: 2026-10-28 10:22
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步](http://www.geekpark.net/news/373066)
+**发布时间**: 2026-10-28 16:04
+
+#### [斯坦福的研究，红海的珊瑚，与一个中国模型](http://www.geekpark.net/news/373059)
+**发布时间**: 2026-10-28 15:37
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [看这 11 个外网爆火的案例，AI 做游戏真的越来越顶了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538126&idx=1&sn=adf428f2a574155f3cfd0fb2adb1f5d4)
+**发布时间**: 2026-10-28 14:50
 
 ---
 

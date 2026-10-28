@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-28 02:03
+**最后更新时间**: 2026-10-28 11:02
+
+---
+
+## 🆕 最新更新 (2026-10-28 11:02)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [华为群英传之刘睿：AI助手要告别聊天框，从“被动响应”走向“主动服务”](https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html)
+**发布时间**: 2026-10-28 16:43
+
+#### [模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026](https://www.leiphone.com/category/private/L0riZpWS688dpXnN.html)
+**发布时间**: 2026-10-28 15:58
+
+#### [抖音副总裁李亮回应秦朔：关于中国互联网“字节时间”的分析存在常识性错误](https://www.leiphone.com/category/industrynews/Rq9ScWtg3Hg7Y3xU.html)
+**发布时间**: 2026-10-28 15:11
+
+#### [豆包工作能力升级：操作电脑可录制成技能，锁屏后也能继续任务](https://www.leiphone.com/category/industrynews/MYDTBZqQkhfVtkte.html)
+**发布时间**: 2026-10-28 15:00
+
+#### [华为无线发布全系列创新成果，领启新一代通信网](https://www.leiphone.com/category/industrynews/AenD5N0wKBYyfCch.html)
+**发布时间**: 2026-10-28 14:03
+
+#### [云鲸十年：技术承担繁琐，洁净回归日常](https://www.leiphone.com/category/smarthome/NHOI9tpUsgkSX4BY.html)
+**发布时间**: 2026-10-28 11:30
+
+#### [AI做中学 创未来｜智源SoulAgent持续拓展教育应用](https://www.leiphone.com/category/ai/TKr0YQ085uv1ME7X.html)
+**发布时间**: 2026-10-28 11:19
+
+#### [微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检](https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html)
+**发布时间**: 2026-10-28 09:11
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding](https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/)
+**发布时间**: 2026-10-28 08:18
+
+#### [Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio](https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/)
+**发布时间**: 2026-10-28 07:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019](https://www.qbitai.com/2026/10/505928.html)
+**发布时间**: 2026-10-28 04:04
+
+#### [不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法](https://www.qbitai.com/2026/10/505865.html)
+**发布时间**: 2026-10-27 12:57
+
+#### [印奇把4D雷达也端到端了](https://www.qbitai.com/2026/10/505852.html)
+**发布时间**: 2026-10-27 10:40
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-28日刊](https://hex2077.dev/docs/2026-10/2026-10-28/)
+**发布时间**: 2026-10-28 03:07
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Making machines that can listen](https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028)
+**发布时间**: 2026-10-28 00:00
 
 ---
 

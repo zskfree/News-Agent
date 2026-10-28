@@ -3469,6 +3469,66 @@
         "link": "https://www.tmtpost.com/8183921.html",
         "published_date": "Tue, 27 Oct 2026 21:51:00 GMT",
         "first_seen": "2026-10-28T02:05:36.209776"
+      },
+      "cbc8265a78bd80ad4a56f374fc2e77138116f9acad9daf304dde6c16d1b18c3b": {
+        "title": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
+        "link": "https://www.infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Oct 2026 19:00:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855938"
+      },
+      "7d6877fe5b0803b9758400932adad338f21a24c2f48c1b01cc4b2c3cd8dbc51b": {
+        "title": "可组合商品套餐：Shipt Kits 平台内部解析",
+        "link": "https://www.infoq.cn/article/xBgiKNRRaMe5ORxXy16Q?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Oct 2026 18:00:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855952"
+      },
+      "5223e454ffc809be0d91674725b21da6d2f5acb50380d04a04e29d5f73ab0f52": {
+        "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+        "link": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Oct 2026 17:54:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855956"
+      },
+      "1c9bda254a34640473712f3a17d6d4b72f9f739bd99dd8a65341d9a9bdb4352b": {
+        "title": "智能指数得分创新高！蚂蚁百灵开源Ling-3.1-flash-1019：让Personal Agent走向真实业务",
+        "link": "https://www.infoq.cn/article/wIuu0NSaLSaqJJpXVExD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Oct 2026 12:13:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855958"
+      },
+      "ade8fddc939c101c7aeff772c044a484e28d1003098b8c186fc286214487bd28": {
+        "title": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+        "link": "https://www.infoq.cn/article/28VVsANi9FBYRKfUz8vA?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Oct 2026 10:37:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855961"
+      },
+      "9ec1f483e401ffaf73c733032eb84fa2e217fa4821430afea9374214e7cb6d20": {
+        "title": "别人还在抽卡，米哈游已经开始抽芯片了",
+        "link": "https://www.tmtpost.com/8184518.html",
+        "published_date": "Wed, 28 Oct 2026 18:26:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855964"
+      },
+      "328c43c2097a27bd3c942b3e3b6cf9adf9e6636efb590626fd7b766b6bcb3c38": {
+        "title": "超9成收入绑定五大客户，羲禾科技营收暴涨背后，经营现金流起伏",
+        "link": "https://www.tmtpost.com/8184324.html",
+        "published_date": "Wed, 28 Oct 2026 14:11:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855966"
+      },
+      "bc1d86a0237b6146ec80a2a3482e11974c745deec6e60bf86183b4594f66aca0": {
+        "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+        "link": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Oct 2026 18:14:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855967"
+      },
+      "3e81299359bf2afb3f2bbcd7c2721b38b2b4b797d13bdb58cfdc8ab1bf7f0aed": {
+        "title": "全网恐慌48小时，拯救互联网的却是一个“无名之辈”",
+        "link": "https://www.infoq.cn/article/3HgfVzt6tQpQjrdE2x9J?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Oct 2026 18:08:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855969"
+      },
+      "5e7bbd0705755e1c30af01f3f14a24652f0193cb5126c7ff5850a1b1517af64d": {
+        "title": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
+        "link": "https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 28 Oct 2026 17:45:00 GMT",
+        "first_seen": "2026-10-28T11:04:37.855971"
       }
     },
     "Finance": {
@@ -6927,6 +6987,66 @@
         "link": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
         "published_date": "Tue, 27 Oct 2026 21:41:00 GMT",
         "first_seen": "2026-10-28T02:05:45.715303"
+      },
+      "4c13ec2d2094415e24339118531e8bb6db12c80409ebca817993701fefa1db13": {
+        "title": "Anthropic’s seven founders tighten grip ahead of blockbuster IPO",
+        "link": "https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1",
+        "published_date": "Wed, 28 Oct 2026 05:00:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288061"
+      },
+      "2cee6a15e58477c44e10154533c8ce5312e1e65761e5fa8990f83a4f990c0578": {
+        "title": "The real way to tell if Amazon’s AI spending is paying off",
+        "link": "https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Oct 2026 10:30:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288070"
+      },
+      "79379fb7832c6ba0cd02d6fa256a4ffb2e6ebd502bf2ce1eca65d5796567ebcb": {
+        "title": "Four reasons to start worrying about inflation — including the end of tariff refunds",
+        "link": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Oct 2026 10:21:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288073"
+      },
+      "22e4ee9f43c238a45ae2439d7a0750da799f3162be870a816d0de864678b8cda": {
+        "title": "Bill Ackman owns only a handful of stocks. Here is his rule for picking a winner.",
+        "link": "https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Oct 2026 10:11:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288075"
+      },
+      "737e167ae12fd921ea44c911f1deccd93775d95a2b5d0483dd00e6bac0ff085d": {
+        "title": "We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?",
+        "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Oct 2026 09:15:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288077"
+      },
+      "c53483b2e2f39fbeef6fc39b6bc3b5aae03e003c5d21853cf5b023a324f421ea": {
+        "title": "TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million",
+        "link": "https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Oct 2026 09:01:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288078"
+      },
+      "853316068966e20cf986f381e90b5c1cf67db6bf96ad0acef6f9e18586da2567": {
+        "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+        "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+        "published_date": "Wed, 28 Oct 2026 02:15:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288080"
+      },
+      "3e1c98f61f318e11699a10844f43e0c66466ffe568efcb8c11a6e84ea8d67511": {
+        "title": "At least 10 killed in collision of high-speed trains in Spain",
+        "link": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
+        "published_date": "Wed, 28 Oct 2026 10:06:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288082"
+      },
+      "01f876b11e8f359060efdf52335651ac87915b3cabe586af8f0e50f21725732a": {
+        "title": "Why even America’s ‘haves’ are feeling the squeeze",
+        "link": "https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1",
+        "published_date": "Wed, 28 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288083"
+      },
+      "09b0a4446b877e2beb4487fc052bf84f42925cfd9b9136d40fb13b2eb2c6b451": {
+        "title": "Zelenskyy opens door to security guarantees for Russia",
+        "link": "https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63?syn-25a6b1a6=1",
+        "published_date": "Wed, 28 Oct 2026 09:58:00 GMT",
+        "first_seen": "2026-10-28T11:04:47.288084"
       }
     },
     "Ai": {
@@ -9761,13 +9881,73 @@
         "link": "https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
         "published_date": "Tue, 27 Oct 2026 17:03:00 GMT",
         "first_seen": "2026-10-28T02:05:55.323224"
+      },
+      "c90063ea31e4759ff0bcfcb681fcfcf0a3aa217b9a3c859e62ffbe0a9939ba3d": {
+        "title": "华为群英传之刘睿：AI助手要告别聊天框，从“被动响应”走向“主动服务”",
+        "link": "https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html",
+        "published_date": "Wed, 28 Oct 2026 16:43:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804821"
+      },
+      "a9f93384f92c306ea1c1ad9c612907925f0dbeeca4d897d044fe1f69ac594d98": {
+        "title": "模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026",
+        "link": "https://www.leiphone.com/category/private/L0riZpWS688dpXnN.html",
+        "published_date": "Wed, 28 Oct 2026 15:58:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804830"
+      },
+      "0d901ff15d63ff98fc9e83b0ca75f32e5a07e326045d6ee91f0a4c265dc0caac": {
+        "title": "抖音副总裁李亮回应秦朔：关于中国互联网“字节时间”的分析存在常识性错误",
+        "link": "https://www.leiphone.com/category/industrynews/Rq9ScWtg3Hg7Y3xU.html",
+        "published_date": "Wed, 28 Oct 2026 15:11:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804832"
+      },
+      "52d76f08d69c44588fcfeb2b70929bccc2ddc69ac2b8c1b124a8831035e35116": {
+        "title": "豆包工作能力升级：操作电脑可录制成技能，锁屏后也能继续任务",
+        "link": "https://www.leiphone.com/category/industrynews/MYDTBZqQkhfVtkte.html",
+        "published_date": "Wed, 28 Oct 2026 15:00:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804834"
+      },
+      "342a7ec516c02a0ca53e63394a45d65800f0e46b3e08e691593270902054226c": {
+        "title": "华为无线发布全系列创新成果，领启新一代通信网",
+        "link": "https://www.leiphone.com/category/industrynews/AenD5N0wKBYyfCch.html",
+        "published_date": "Wed, 28 Oct 2026 14:03:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804836"
+      },
+      "e2791694978cf4a9e75d45086fd3b9144de032a8f22f2135982305c566ce0668": {
+        "title": "云鲸十年：技术承担繁琐，洁净回归日常",
+        "link": "https://www.leiphone.com/category/smarthome/NHOI9tpUsgkSX4BY.html",
+        "published_date": "Wed, 28 Oct 2026 11:30:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804838"
+      },
+      "27d5a81577228172aab66a29b4d5b40918f1c12e3288442c847b85ff87e12f0a": {
+        "title": "AI做中学 创未来｜智源SoulAgent持续拓展教育应用",
+        "link": "https://www.leiphone.com/category/ai/TKr0YQ085uv1ME7X.html",
+        "published_date": "Wed, 28 Oct 2026 11:19:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804839"
+      },
+      "2242b9c3dc0699a60866a1b449baaea698ae54f5dcf2d495c3997ded0cb01bcc": {
+        "title": "微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检",
+        "link": "https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html",
+        "published_date": "Wed, 28 Oct 2026 09:11:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804841"
+      },
+      "5b398c9b2670b68b5fd0b5824818b66401df42a566c5eee7f1f4a3b0affb485e": {
+        "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
+        "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+        "published_date": "Wed, 28 Oct 2026 07:34:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804843"
+      },
+      "d8c47d031bb973b1176d7586b94df09b279c432ba84afb33a045cb8c5708db1b": {
+        "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+        "link": "https://www.qbitai.com/2026/10/505928.html",
+        "published_date": "Wed, 28 Oct 2026 04:04:00 GMT",
+        "first_seen": "2026-10-28T11:04:56.804844"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-28T02:05:36.209779",
-    "Finance": "2026-10-28T02:05:45.715306",
-    "Ai": "2026-10-28T02:05:55.323225"
+    "Technology": "2026-10-28T11:04:37.855973",
+    "Finance": "2026-10-28T11:04:47.288087",
+    "Ai": "2026-10-28T11:04:56.804846"
   }
 }

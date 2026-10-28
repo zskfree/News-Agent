@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-28 02:05
+**最后更新时间**: 2026-10-28 11:04
+
+---
+
+## 🆕 最新更新 (2026-10-28 11:04)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The real way to tell if Amazon’s AI spending is paying off](https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 10:30
+
+#### [Four reasons to start worrying about inflation — including the end of tariff refunds](https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 10:21
+
+#### [Bill Ackman owns only a handful of stocks. Here is his rule for picking a winner.](https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 10:11
+
+#### [SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade](https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 09:25
+
+#### [We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?](https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 09:15
+
+#### [TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million](https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 09:01
+
+#### [A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble](https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 02:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [At least 10 killed in collision of high-speed trains in Spain](https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 10:06
+
+#### [Why even America’s ‘haves’ are feeling the squeeze](https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 10:00
+
+#### [Zelenskyy opens door to security guarantees for Russia](https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 09:58
+
+#### [Netanyahu ahead but no clear winner in Israeli election](https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 09:48
+
+#### [Bolsonaro lands in US after fleeing Brazil following election defeat](https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 08:42
+
+#### [Israel’s election: what happens next?](https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15)
+**发布时间**: 2026-10-28 08:18
+
+#### [The globetrotting Trump brothers](https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 05:00
+
+#### [Anthropic’s seven founders tighten grip ahead of blockbuster IPO](https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 05:00
+
+#### [Polymarket’s top trader is sports gambler ‘Swiss Tony’](https://www.ft.com/content/06c5ed21-d06d-4582-ac21-160d1047b008?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 05:00
 
 ---
 
