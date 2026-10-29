@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-29 02:10
+**最后更新时间**: 2026-10-29 11:22
+
+---
+
+## 🆕 最新更新 (2026-10-29 11:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [钛媒体「2026 EDGE AWARDS 全球创新评选」正式启动，AI 进入下一阶段，价值该如何衡量？](https://www.tmtpost.com/8185865.html)
+**发布时间**: 2026-10-29 18:49
+
+#### [高端旗舰的深水区，vivo的长赛道跑出了加速度](https://www.tmtpost.com/8186422.html)
+**发布时间**: 2026-10-29 18:47
+
+#### [Agentic Cloud，阿里云如何接住模型之后的生意](https://www.tmtpost.com/8182516.html)
+**发布时间**: 2026-10-29 18:45
+
+#### [珀莱雅前三季度营收超76亿元，第三季度单季同比增长29.76%；蜜雪集团与悦鲜活达成战略合作；滔搏与NBA战略合作升级｜消研所周报](https://www.tmtpost.com/8186458.html)
+**发布时间**: 2026-10-29 18:27
+
+#### [国内的基金经理，越来越像同一个人](https://www.tmtpost.com/8186451.html)
+**发布时间**: 2026-10-29 18:16
+
+#### [泡泡玛特收入腰斩，是阵痛还是真崩了？](https://www.tmtpost.com/8185216.html)
+**发布时间**: 2026-10-29 18:16
+
+#### [字节跳动招人，入局具身智能](https://www.tmtpost.com/8185152.html)
+**发布时间**: 2026-10-29 18:15
+
+#### [流量按GMV分配，中小商家被算法挤下双11牌桌](https://www.tmtpost.com/8186432.html)
+**发布时间**: 2026-10-29 18:15
+
+#### [AI引发影视大迁徙：李世民下山、马景涛飞天、张艺兴远赴美国](https://www.tmtpost.com/8186403.html)
+**发布时间**: 2026-10-29 18:15
+
+#### [一级市场的时间刻度与耐心之问](https://www.tmtpost.com/8186320.html)
+**发布时间**: 2026-10-29 18:15
+
+#### [中国台湾新首富：身家1350亿，公司毛利赶超英伟达、台积电](https://www.tmtpost.com/8186251.html)
+**发布时间**: 2026-10-29 18:15
+
+#### [云厂商“三兄弟”业绩放榜，AI吞金兽继续发威](https://www.tmtpost.com/8186340.html)
+**发布时间**: 2026-10-29 18:10
+
+#### [2026年，哪些大宗商品跌到了周期底部？](https://www.tmtpost.com/8186418.html)
+**发布时间**: 2026-10-29 18:10
+
+#### [百度AI云重整阵型：阮瑜轮岗负责小度，阵型收缩为“两层”](https://www.tmtpost.com/8185155.html)
+**发布时间**: 2026-10-29 17:08
+
+#### [技术至上的kimi，遇到了全球化难题](https://www.tmtpost.com/8185022.html)
+**发布时间**: 2026-10-29 17:07
+
+#### [靠卖液冷零部件撑起IPO，新富科技闯注册关，2026年业绩为何变脸？](https://www.tmtpost.com/8185300.html)
+**发布时间**: 2026-10-29 17:02
+
+#### [君乐宝联手蜜雪：意在沛公](https://www.tmtpost.com/8185471.html)
+**发布时间**: 2026-10-29 17:02
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [概率、插座与5000个爱因斯坦：专访阿里云研发副总裁周琦](https://www.infoq.cn/article/5xCWuR8CMGosWrEuNbix?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 18:37
+
+#### [AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享](https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 18:00
+
+#### [Uber 实现服务网格依赖关系分析自动化](https://www.infoq.cn/article/YtQqxxRqoy38Fj2qpsDv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 17:15
+
+#### [Anthropic 取消编程面试：新人第一次有机会直接和资深工程师竞争](https://www.infoq.cn/article/EQTckj5GQQymiQES22Bo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 16:44
+
+#### [天数智芯公布天垓300实测数据：部分推理场景达到H200水平，端侧对标Thor T5000](https://www.infoq.cn/article/tFaOHgBe8ENwteobTsLV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 16:38
+
+#### [生产级 AI：隐性故障、工程落地与智能体治理](https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 15:21
+
+#### [HarmonyOS 多端自适应实战：一张详情页如何同时适配手机、折叠屏与平板](https://www.infoq.cn/article/tbBFLLjYd0eYqrIMowWt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 14:28
+
+#### [微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑](https://www.infoq.cn/article/Lg6RgMudjiWIVQllmz8a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 13:00
+
+#### [Zod 突然“会编译”了：速度快 9 倍、内存少近 90%，代价是 new Function？](https://www.infoq.cn/article/q4B85RXx0G9J3d4Bkqd3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 12:00
+
+#### [Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标](https://www.infoq.cn/article/YVwtY6Jwdu0IB84tDC9m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 11:00
+
+#### [AI 用起来了，业务价值谁来打分？](https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 10:37
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 254｜少数派的编辑们最近买了啥？](https://sspai.com/post/117791)
+**发布时间**: 2026-10-29 17:26
+
+#### [如何成为不吃压力的「大心脏」？](https://sspai.com/post/117244)
+**发布时间**: 2026-10-29 17:05
+
+#### [让 Agent 读懂你的身体：数据处理篇](https://sspai.com/prime/story/how-to-analyze-health-data-with-agent)
+**发布时间**: 2026-10-29 11:29
+
+#### [一日一技｜iPhone 恶意被锁，线上移除流程拆招](https://sspai.com/post/116686)
+**发布时间**: 2026-10-29 11:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [大众把三年在中国攒的家底，打包成了一颗「星」](http://www.geekpark.net/news/373086)
+**发布时间**: 2026-10-29 15:09
 
 ---
 

@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-29 02:10
+**最后更新时间**: 2026-10-29 11:22
+
+---
+
+## 🆕 最新更新 (2026-10-29 11:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Lilly raises outlook for third time this year as Zepbound sales soar](https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 11:19
+
+#### [We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?](https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 11:15
+
+#### [The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.](https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 11:11
+
+#### [Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.](https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 11:09
+
+#### [Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services](https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 11:00
+
+#### [‘There may be better investment options’: My church received $1.5 million from a parishioner. Is 3.75% interest enough?](https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 10:15
+
+#### [ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a bright spot.](https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 09:52
+
+#### [‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?](https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 09:15
+
+#### [NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets](https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 09:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Christine Lagarde to step down as ECB president in February](https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 10:16
+
+#### [US tech stocks set to fall after earnings fuel AI spending concerns](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 08:37
+
+#### [How Flávio Bolsonaro fled Brazil](https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 05:00
+
+#### [Israel vote leaves door open to Iran attack](https://www.ft.com/content/53278449-6a8e-493b-8a9e-c44d2a981306?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 05:00
+
+#### [Private equity’s growing pains](https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 05:00
+
+#### [Israel’s ‘Houdini’ and his latest escape](https://www.ft.com/content/5c95fc2e-4019-462f-99cd-aefb8005b9e4?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 05:00
+
+#### [European office deals fall to lowest since financial crisis as debt costs bite](https://www.ft.com/content/b63e7df7-b135-42ed-98ce-417802cd935f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 00:01
 
 ---
 

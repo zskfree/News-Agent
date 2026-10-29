@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-29 02:10
+**最后更新时间**: 2026-10-29 11:20
+
+---
+
+## 🆕 最新更新 (2026-10-29 11:20)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [抖音李亮发文：希望同行在阳光下竞争，专家自媒体要遵守基本道德规范](https://www.leiphone.com/category/industrynews/poaG1T65huOcWV91.html)
+**发布时间**: 2026-10-29 17:18
+
+#### [国家超算互联网调价：降低AI研发、调试成本](https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html)
+**发布时间**: 2026-10-29 17:03
+
+#### [豆包工作向企业客户开放配置三方模型](https://www.leiphone.com/category/industrynews/bMidAUlVn5zmruyD.html)
+**发布时间**: 2026-10-29 17:01
+
+#### [蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，加速走向“能管事”](https://www.leiphone.com/category/industrynews/eigNbrwrLkMYpiwN.html)
+**发布时间**: 2026-10-29 16:54
+
+#### [大语言模型“收入榜”出炉，阿里云以46.6%份额居首](https://www.leiphone.com/category/industrynews/VsFzLhOgbV95UM6v.html)
+**发布时间**: 2026-10-29 15:13
+
+#### [百望股份：企业AI最大的误区，是把所有流程都用AI重做一遍](https://www.leiphone.com/category/ai/wmSBFfeSyB0dOjqO.html)
+**发布时间**: 2026-10-29 14:54
+
+#### [20人9个月，《不问凡尘》用AI搓出26万玩家买单的超写实互动作品](https://www.leiphone.com/category/industrynews/fk4nWrM8On84S6FB.html)
+**发布时间**: 2026-10-29 14:01
+
+#### [TRAE上线开发者个人助理“TRAE宝”](https://www.leiphone.com/category/industrynews/VtaDCTK8rnfs2sSX.html)
+**发布时间**: 2026-10-29 13:16
+
+#### [商场的黄金铺位，为什么换成了3D打印机？](https://www.leiphone.com/category/industrynews/QUCX94lmPkS6scqb.html)
+**发布时间**: 2026-10-29 11:23
+
+#### [瞄准高性能硬件需求，3C卖家如何切入东南亚细分市场？](https://www.leiphone.com/category/industrynews/EErFYCDINUus7sOF.html)
+**发布时间**: 2026-10-29 10:27
+
+#### [抢跑双11开门红，这些品牌如何凭“好货与好策略”率先突围？](https://www.leiphone.com/category/industrynews/7vvYw1kiPRTCA8w0.html)
+**发布时间**: 2026-10-29 10:13
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents](https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/)
+**发布时间**: 2026-10-29 08:24
+
+#### [Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech](https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/)
+**发布时间**: 2026-10-29 07:50
+
+#### [AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents](https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/)
+**发布时间**: 2026-10-29 07:28
+
+#### [NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters](https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/)
+**发布时间**: 2026-10-29 04:41
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-29日刊](https://hex2077.dev/docs/2026-10/2026-10-29/)
+**发布时间**: 2026-10-29 03:37
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [文远知行001号员工带队，景烁科技首轮融资数千万美元](https://www.qbitai.com/2026/10/506281.html)
+**发布时间**: 2026-10-29 03:27
+
+#### [小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实](https://www.qbitai.com/2026/10/506273.html)
+**发布时间**: 2026-10-29 02:51
+
+#### [刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍](https://www.qbitai.com/2026/10/505934.html)
+**发布时间**: 2026-10-29 02:18
+
+#### [24万开卖！理想重造i6，李想：目标全球畅销](https://www.qbitai.com/2026/10/506246.html)
+**发布时间**: 2026-10-29 00:59
+
+#### [刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价](https://www.qbitai.com/2026/10/506227.html)
+**发布时间**: 2026-10-29 00:03
+
+#### [【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告](https://www.qbitai.com/2026/10/506194.html)
+**发布时间**: 2026-10-28 11:09
+
+#### [工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告](https://www.qbitai.com/2026/10/506098.html)
+**发布时间**: 2026-10-28 10:32
+
+#### [威卡：用数据集链接具身智能和工程机械](https://www.qbitai.com/2026/10/506063.html)
+**发布时间**: 2026-10-28 09:01
+
+#### [19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板](https://www.qbitai.com/2026/10/506055.html)
+**发布时间**: 2026-10-28 08:59
+
+#### [0营收估值200亿美元，具身版OpenAI又融10亿美元](https://www.qbitai.com/2026/10/506042.html)
+**发布时间**: 2026-10-28 08:55
 
 ---
 

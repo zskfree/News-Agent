@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 Oct 2026 02:10:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 02:11:19 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 11:20:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:23:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Building an Agentic AI Platform on Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Building an Agentic AI Platform on Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 18:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/</guid>
+      <title>抖音李亮发文：希望同行在阳光下竞争，专家自媒体要遵守基本道德规范</title>
+      <link>https://www.leiphone.com/category/industrynews/poaG1T65huOcWV91.html</link>
+      <description>&lt;![CDATA[抖音李亮发文：希望同行在阳光下竞争，专家自媒体要遵守基本道德规范]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/poaG1T65huOcWV91.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Distributed training with Ray Train DLCs and EFA on EKS</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/</link>
-      <description>&lt;![CDATA[Distributed training with Ray Train DLCs and EFA on EKS]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/</guid>
+      <title>国家超算互联网调价：降低AI研发、调试成本</title>
+      <link>https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html</link>
+      <description>&lt;![CDATA[国家超算互联网调价：降低AI研发、调试成本]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/</link>
-      <description>&lt;![CDATA[Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/</guid>
+      <title>豆包工作向企业客户开放配置三方模型</title>
+      <link>https://www.leiphone.com/category/industrynews/bMidAUlVn5zmruyD.html</link>
+      <description>&lt;![CDATA[豆包工作向企业客户开放配置三方模型]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bMidAUlVn5zmruyD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>具身智能军备竞赛，胜负手在工程生态</title>
-      <link>https://www.leiphone.com/category/ai/D4SlkV6zQ4ill9MG.html</link>
-      <description>&lt;![CDATA[具身智能军备竞赛，胜负手在工程生态]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 18:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/D4SlkV6zQ4ill9MG.html</guid>
+      <title>蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，加速走向“能管事”</title>
+      <link>https://www.leiphone.com/category/industrynews/eigNbrwrLkMYpiwN.html</link>
+      <description>&lt;![CDATA[蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，加速走向“能管事”]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 16:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/eigNbrwrLkMYpiwN.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>字节辟谣&quot;群演数据喂大模型&quot;：严重失实！</title>
-      <link>https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html</link>
-      <description>&lt;![CDATA[字节辟谣&quot;群演数据喂大模型&quot;：严重失实！]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html</guid>
+      <title>大语言模型“收入榜”出炉，阿里云以46.6%份额居首</title>
+      <link>https://www.leiphone.com/category/industrynews/VsFzLhOgbV95UM6v.html</link>
+      <description>&lt;![CDATA[大语言模型“收入榜”出炉，阿里云以46.6%份额居首]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/VsFzLhOgbV95UM6v.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding</title>
-      <link>https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/</link>
-      <description>&lt;![CDATA[Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/</guid>
+      <title>百望股份：企业AI最大的误区，是把所有流程都用AI重做一遍</title>
+      <link>https://www.leiphone.com/category/ai/wmSBFfeSyB0dOjqO.html</link>
+      <description>&lt;![CDATA[百望股份：企业AI最大的误区，是把所有流程都用AI重做一遍]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/wmSBFfeSyB0dOjqO.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily</title>
-      <link>https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/</link>
-      <description>&lt;![CDATA[MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/</guid>
+      <title>20人9个月，《不问凡尘》用AI搓出26万玩家买单的超写实互动作品</title>
+      <link>https://www.leiphone.com/category/industrynews/fk4nWrM8On84S6FB.html</link>
+      <description>&lt;![CDATA[20人9个月，《不问凡尘》用AI搓出26万玩家买单的超写实互动作品]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 14:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/fk4nWrM8On84S6FB.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</link>
-      <description>&lt;![CDATA[Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</guid>
+      <title>TRAE上线开发者个人助理“TRAE宝”</title>
+      <link>https://www.leiphone.com/category/industrynews/VtaDCTK8rnfs2sSX.html</link>
+      <description>&lt;![CDATA[TRAE上线开发者个人助理“TRAE宝”]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/VtaDCTK8rnfs2sSX.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
-      <description>&lt;![CDATA[NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
+      <title>商场的黄金铺位，为什么换成了3D打印机？</title>
+      <link>https://www.leiphone.com/category/industrynews/QUCX94lmPkS6scqb.html</link>
+      <description>&lt;![CDATA[商场的黄金铺位，为什么换成了3D打印机？]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/QUCX94lmPkS6scqb.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>3 Questions: Why infrastructure is entering a defining era</title>
-      <link>https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028</link>
-      <description>&lt;![CDATA[3 Questions: Why infrastructure is entering a defining era]]&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028</guid>
+      <title>瞄准高性能硬件需求，3C卖家如何切入东南亚细分市场？</title>
+      <link>https://www.leiphone.com/category/industrynews/EErFYCDINUus7sOF.html</link>
+      <description>&lt;![CDATA[瞄准高性能硬件需求，3C卖家如何切入东南亚细分市场？]]&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/EErFYCDINUus7sOF.html</guid>
       <category>Ai</category>
     </item>
   </channel>
