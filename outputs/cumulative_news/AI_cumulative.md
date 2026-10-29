@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-28 11:02
+**最后更新时间**: 2026-10-29 02:10
+
+---
+
+## 🆕 最新更新 (2026-10-29 02:10)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Building an Agentic AI Platform on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-10-28 18:28
+
+#### [Distributed training with Ray Train DLCs and EFA on EKS](https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/)
+**发布时间**: 2026-10-28 18:19
+
+#### [Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/)
+**发布时间**: 2026-10-28 18:12
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [具身智能军备竞赛，胜负手在工程生态](https://www.leiphone.com/category/ai/D4SlkV6zQ4ill9MG.html)
+**发布时间**: 2026-10-28 18:17
+
+#### [字节辟谣"群演数据喂大模型"：严重失实！](https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html)
+**发布时间**: 2026-10-28 17:16
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding](https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/)
+**发布时间**: 2026-10-28 17:48
+
+#### [MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily](https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/)
+**发布时间**: 2026-10-28 17:20
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/)
+**发布时间**: 2026-10-28 15:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary)
+**发布时间**: 2026-10-28 14:58
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [3 Questions: Why infrastructure is entering a defining era](https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028)
+**发布时间**: 2026-10-28 12:00
 
 ---
 

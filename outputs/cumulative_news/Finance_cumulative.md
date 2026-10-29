@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-28 11:04
+**最后更新时间**: 2026-10-29 02:10
+
+---
+
+## 🆕 最新更新 (2026-10-29 02:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why Alphabet’s stock could see its worst drop in years after the latest results](https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 01:58
+
+#### [Lumentum’s stock pops as investors cheer a possible sale to Marvell](https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 00:20
+
+#### [‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?](https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 00:15
+
+#### [The major reason Microsoft’s stock is heading higher after earnings](https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 00:10
+
+#### [Fortinet’s stock is taking a dive after earnings. Here’s why.](https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 23:18
+
+#### [ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook](https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 23:02
+
+#### [Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.](https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 22:41
+
+#### [Chipotle now has more demand from lower-income diners than higher-income ones](https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 22:25
+
+#### [My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?](https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories)
+**发布时间**: 2026-10-28 21:45
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Flávio Bolsonaro claims fraud in Brazil’s presidential election](https://www.ft.com/content/040c71ac-cef9-46b6-9ca1-aeaa01420d64?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 00:21
+
+#### [Google shares tumble 10% after $51bn AI outlay deepens cash burn](https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 23:27
+
+#### [Microsoft blames data centre delays for lower capital expenditure](https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 23:20
+
+#### [Trump calls for Alaska Democratic candidate to be banned from Senate race](https://www.ft.com/content/7526e915-2590-4b42-85df-20bb89040db8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 22:28
+
+#### [Fed holds fire on interest rates despite intensifying inflation](https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 21:32
+
+#### [Weil leadership tells partners firm should be dissolved](https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 20:28
+
+#### [Republicans seek to deflect Epstein anger on to Democrats](https://www.ft.com/content/5835eefc-acb2-4e4e-9693-60f5c2467977?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 20:20
+
+#### [How Israel’s opposition fell short against Netanyahu](https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3)
+**发布时间**: 2026-10-28 17:45
+
+#### [Israel’s Arabs seek a slice of power](https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 17:40
+
+#### [Bolsonaro lands in US after fleeing Brazil](https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-28 14:47
 
 ---
 

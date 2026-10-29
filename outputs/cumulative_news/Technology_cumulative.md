@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-28 11:04
+**最后更新时间**: 2026-10-29 02:10
+
+---
+
+## 🆕 最新更新 (2026-10-29 02:10)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践](https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 09:58
+
+#### [活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？](https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 09:55
+
+#### [告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践](https://www.infoq.cn/article/ii1qFkWaDFZudHSL1lIM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 09:30
+
+#### [优化软件工作流：探索技术带来的根本性影响](https://www.infoq.cn/article/QDQLUs4cCqLqC9WlvAyY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 09:11
+
+#### [亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决](https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 08:00
+
+#### [不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程](https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 22:53
+
+#### [别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践](https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 22:05
+
+#### [当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势](https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 21:39
+
+#### [Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%](https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 21:00
+
+#### [谷歌 Antigravity SDK 新增本地模型支持，提升 Token 效率和代码隐私性](https://www.infoq.cn/article/TusFJkx6F151otgzliu2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-28 20:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [百合网创始人朋友圈“化缘”，曾喊话新晋首富张一鸣“退休”](https://www.tmtpost.com/8185148.html)
+**发布时间**: 2026-10-29 09:58
+
+#### [苹果开始全面拥抱OLED，Mini LED还有多少时间？](https://www.tmtpost.com/8185348.html)
+**发布时间**: 2026-10-29 09:53
+
+#### [影石创新距离百亿营收，只差最后一步](https://www.tmtpost.com/8185210.html)
+**发布时间**: 2026-10-29 09:48
+
+#### [一线小细胞肺癌之争：安进刷新OS记录，再鼎抛出新命题](https://www.tmtpost.com/8185124.html)
+**发布时间**: 2026-10-29 09:42
+
+#### [AI要拆掉美国互联网的收费站？](https://www.tmtpost.com/8185095.html)
+**发布时间**: 2026-10-29 09:38
+
+#### [“老登”企业，得学会夹起尾巴用AI](https://www.tmtpost.com/8185052.html)
+**发布时间**: 2026-10-29 09:38
+
+#### [Netflix下调全年广告收入预期，问题出在哪？](https://www.tmtpost.com/8185228.html)
+**发布时间**: 2026-10-29 09:22
+
+#### [韩国的GDP，写在别人的预算表上](https://www.tmtpost.com/8185140.html)
+**发布时间**: 2026-10-29 09:20
+
+#### [基金市场概况与资产配置观点 （10.19—10.25）](https://www.tmtpost.com/8185393.html)
+**发布时间**: 2026-10-29 08:41
+
+#### [不到1%的负净资产样本，如何扭曲A股行业PB均值？](https://www.tmtpost.com/8185378.html)
+**发布时间**: 2026-10-29 08:32
+
+#### [价值判断：跌停板的投资机会和风险提示（10月27日）｜上市公司观察](https://www.tmtpost.com/8185373.html)
+**发布时间**: 2026-10-29 08:32
+
+#### [价值判断：涨停板的投资机会和风险提示（10月27日）｜上市公司观察](https://www.tmtpost.com/8185367.html)
+**发布时间**: 2026-10-29 08:31
+
+#### [Edge AI Daily 早报（10月29日）](https://www.tmtpost.com/8185314.html)
+**发布时间**: 2026-10-29 08:16
+
+#### [【钛晨报】北京“十五五”能源蓝图出炉：构建“1+3+6”体系；8000亿元新型政策性金融工具投放完成；字节辟谣“15万群演数据喂大模型”：传言严重失实](https://www.tmtpost.com/8185179.html)
+**发布时间**: 2026-10-29 07:20
+
+#### [ByteDance Pushes Back on Talk of a “ByteDance Era”](https://www.tmtpost.com/8185315.html)
+**发布时间**: 2026-10-29 07:08
+
+#### [Anthropic巨亏背后，藏着行业什么秘密？](https://www.tmtpost.com/8183803.html)
+**发布时间**: 2026-10-28 21:21
+
+#### [逸飞激光4亿“追光”：拟用2.24亿超募资金“买单”，标的增值率达532%｜并购一线](https://www.tmtpost.com/8185098.html)
+**发布时间**: 2026-10-28 20:51
+
+#### [DSH测试文件“泄密”，DeepSeek V5就要来了？](https://www.tmtpost.com/8184852.html)
+**发布时间**: 2026-10-28 20:19
+
+#### [腾讯AI压力来到微信小微](https://www.tmtpost.com/8184625.html)
+**发布时间**: 2026-10-28 20:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等](https://sspai.com/post/117750)
+**发布时间**: 2026-10-29 08:26
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%](http://www.geekpark.net/news/373085)
+**发布时间**: 2026-10-29 08:05
+
+#### [「推翻」乔布斯的触屏 MacBook 来了，22999 元起](http://www.geekpark.net/news/373084)
+**发布时间**: 2026-10-29 02:27
 
 ---
 
