@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-30 02:26
+**最后更新时间**: 2026-10-30 11:12
+
+---
+
+## 🆕 最新更新 (2026-10-30 11:12)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [天数智芯天垓300实测对标H200，国产GPU接下来拼什么？](https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html)
+**发布时间**: 2026-10-30 17:02
+
+#### [不设限的年轻科学家：三年200万、不设考核，何享健基金在赌什么](https://www.leiphone.com/category/smarthome/H5tRYv4Yf8t41mqJ.html)
+**发布时间**: 2026-10-30 16:48
+
+#### [科大讯飞董事长与总裁主动降薪，两人均少领超2000万；阿维塔回应会议视频被吐槽「演的太尬」：是摆拍，但事是真的；百度副总裁吴甜已离职](https://www.leiphone.com/category/zaobao/zRRabO7xif7QiyjK.html)
+**发布时间**: 2026-10-30 16:42
+
+#### [让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026](https://www.leiphone.com/category/robot/sRmmVes4DwBoIeRm.html)
+**发布时间**: 2026-10-30 16:13
+
+#### [百度 APP 发布四大 AI 升级，搜索已实现递归自我进化](https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html)
+**发布时间**: 2026-10-30 15:30
+
+#### [IROS 2026 观察：从 Demo 到生产力工具，灵巧手还要跨过几道坎？](https://www.leiphone.com/category/robot/jv4zJUmQr2wkoN0i.html)
+**发布时间**: 2026-10-30 15:23
+
+#### [伯牙智能刘欣：GPT-6 之后，轮到硬件拖机器人后腿了 | 物理AI 50人](https://www.leiphone.com/category/robot/EnKFLg1RRmN9SaHJ.html)
+**发布时间**: 2026-10-30 15:13
+
+#### [具身的数据管线，到底应该怎么做？](https://www.leiphone.com/category/robot/espiC5FlGhRbSj1b.html)
+**发布时间**: 2026-10-30 15:11
+
+#### [宇树最新财报：重金投入研发，上市后的考题变了](https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html)
+**发布时间**: 2026-10-30 15:10
+
+#### [解读丨Misa 的全彩豪赌：卖不到千万台，Rokid 就输了](https://www.leiphone.com/category/weiwu/FrjosYobsoHysRCW.html)
+**发布时间**: 2026-10-30 15:07
+
+#### [MiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案](https://www.leiphone.com/category/industrynews/eJ3swacisd2iTByo.html)
+**发布时间**: 2026-10-30 15:06
+
+#### [豆包再送免费福利：累计签到30天可得8800额度，新用户免费领一个月订阅](https://www.leiphone.com/category/industrynews/zUR47PS79V5yRTMq.html)
+**发布时间**: 2026-10-30 14:58
+
+#### [一加 Ace 7 Pro 火爆热销：首销销量同比上涨 225%](https://www.leiphone.com/category/industrynews/J2nk3KJCQ7qxQP05.html)
+**发布时间**: 2026-10-30 14:35
+
+#### [脑景中心启幕、四款新品齐发！熵基科技加码非侵入式脑机接口全栈技术与应用平台](https://www.leiphone.com/category/industrynews/aRWuqU4d3JN0qMP6.html)
+**发布时间**: 2026-10-30 14:00
+
+#### [阿里用速卖通把双11带到韩国，还豪送4辆特斯拉！](https://www.leiphone.com/category/industrynews/pTCNnUnvfLfUtt27.html)
+**发布时间**: 2026-10-30 12:20
+
+#### [阿里云发布新版飞天企业版，支持海外客户升级企业级AI能力](https://www.leiphone.com/category/industrynews/52mMRkhA2aqlY1FL.html)
+**发布时间**: 2026-10-30 12:18
+
+#### [卓驭发布“磐行”智驾解决方案：切入商用车市场，一年可回本](https://www.leiphone.com/category/transportation/rwe6sLir6r3aYzeu.html)
+**发布时间**: 2026-10-30 12:04
+
+#### [瞬恒智能自研灵巧操作人形机器人SynDexy C1首次实现小批量交付](https://www.leiphone.com/category/industrynews/CLO1sIKJzw59DmrI.html)
+**发布时间**: 2026-10-30 10:43
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成](https://www.qbitai.com/2026/10/506743.html)
+**发布时间**: 2026-10-30 07:31
+
+#### [RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR](https://www.qbitai.com/2026/10/506686.html)
+**发布时间**: 2026-10-30 05:52
+
+#### [Claude新模型曝光：新Fable，新Opus…](https://www.qbitai.com/2026/10/506674.html)
+**发布时间**: 2026-10-30 05:50
+
+#### [从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径](https://www.qbitai.com/2026/10/506662.html)
+**发布时间**: 2026-10-30 03:48
+
+#### [前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位](https://www.qbitai.com/2026/10/506609.html)
+**发布时间**: 2026-10-30 03:40
+
+#### [买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配](https://www.qbitai.com/2026/10/506569.html)
+**发布时间**: 2026-10-30 00:19
+
+#### [STEPX Neo 发布两周即迎首次升级，智能体能力持续释放](https://www.qbitai.com/2026/10/506554.html)
+**发布时间**: 2026-10-29 09:58
+
+#### [中国MaaS市场TOP2，商汤大装置再度蝉联](https://www.qbitai.com/2026/10/506550.html)
+**发布时间**: 2026-10-29 09:52
+
+#### [AI安全是AI规模化应用“加速器”](https://www.qbitai.com/2026/10/506544.html)
+**发布时间**: 2026-10-29 08:50
+
+#### [奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧](https://www.qbitai.com/2026/10/506478.html)
+**发布时间**: 2026-10-29 06:53
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost](https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/)
+**发布时间**: 2026-10-30 07:26
+
+#### [Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model](https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/)
+**发布时间**: 2026-10-30 05:02
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-10-30日刊](https://hex2077.dev/docs/2026-10/2026-10-30/)
+**发布时间**: 2026-10-30 03:31
 
 ---
 

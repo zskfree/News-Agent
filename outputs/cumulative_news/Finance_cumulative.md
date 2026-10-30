@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-30 02:27
+**最后更新时间**: 2026-10-30 11:15
+
+---
+
+## 🆕 最新更新 (2026-10-30 11:15)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [AI could hit consumers’ ability to manage their debt. Here’s the trade.](https://www.marketwatch.com/story/ai-could-hit-consumers-ability-to-manage-their-debt-heres-the-trade-43d1787e?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 11:09
+
+#### [Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses](https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 10:34
+
+#### [‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?](https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 10:15
+
+#### [Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack](https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 09:50
+
+#### [My father has early Alzheimer’s and his caregiver is using his debit card for DoorDash. What can I do?](https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 09:15
+
+#### [Solidcore founder Anne Mahlum plans enormous 10-bedroom ‘dream home’](https://www.marketwatch.com/story/solidcore-founder-anne-mahlum-plans-enormous-10-bedroom-dream-home-032e0444?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Binance’s $6.3bn heist is the biggest . . . but not the first](https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 10:50
+
+#### [ExxonMobil and Chevron post bumper profits and warn on diesel supplies](https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 10:37
+
+#### [French economy shrinks 0.1% in third quarter](https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 10:07
+
+#### [Big Tech sheds nearly $900bn in rout over soaring AI spending](https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 10:00
+
+#### [Global tech rout deepens as US earnings stoke AI spending fears](https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 08:36
+
+#### [Binance halts withdrawals after record $6.3bn heist](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 08:14
+
+#### [BP’s profits surge to record on high fuel prices](https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 07:20
+
+#### [‘A pile of muscle’: Trump closes midterm pitch with surreal messaging](https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 05:00
+
+#### [Why Trump’s tech dreams are quietly crumbling](https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 05:00
+
+#### [Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO](https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 05:00
 
 ---
 

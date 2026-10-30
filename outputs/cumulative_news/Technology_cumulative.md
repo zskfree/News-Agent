@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-30 02:27
+**最后更新时间**: 2026-10-30 11:15
+
+---
+
+## 🆕 最新更新 (2026-10-30 11:15)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [DeepSeek千亿融资曝光：估值达6155亿元](https://www.tmtpost.com/8187857.html)
+**发布时间**: 2026-10-30 18:56
+
+#### [百度搜索实现递归自我进化，百度App的价值正在被重新定义](https://www.tmtpost.com/8187710.html)
+**发布时间**: 2026-10-30 18:21
+
+#### [告别买房收租，这届年轻人转向攒股收息](https://www.tmtpost.com/8187740.html)
+**发布时间**: 2026-10-30 18:19
+
+#### [南方电网与华为重磅签约，电网设备商的日子要换一种过法](https://www.tmtpost.com/8187348.html)
+**发布时间**: 2026-10-30 17:34
+
+#### [Anthropic会成为人类历史上最值钱的公司吗？](https://www.tmtpost.com/8187623.html)
+**发布时间**: 2026-10-30 17:34
+
+#### [出海非洲：铁矿石与铝土矿如何影响中国原料供应链？](https://www.tmtpost.com/8187673.html)
+**发布时间**: 2026-10-30 17:34
+
+#### [河北女首富给字节做“算力”包租公，AIDC收入暴涨126%，股价却跌没了一半？](https://www.tmtpost.com/8186907.html)
+**发布时间**: 2026-10-30 17:12
+
+#### [应对成本上涨，消费品巨头上演“八仙过海”](https://www.tmtpost.com/8187186.html)
+**发布时间**: 2026-10-30 16:50
+
+#### [米哈游三兄弟，身价暴涨1000亿](https://www.tmtpost.com/8187363.html)
+**发布时间**: 2026-10-30 16:50
+
+#### [XHEART的炼芯术士](https://www.tmtpost.com/8187542.html)
+**发布时间**: 2026-10-30 16:50
+
+#### [观察｜金融街论坛上最被低估的成果：数字人民币换了“户口本”](https://www.tmtpost.com/8184665.html)
+**发布时间**: 2026-10-30 16:50
+
+#### [AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？](https://www.tmtpost.com/8184634.html)
+**发布时间**: 2026-10-30 16:50
+
+#### [联想的“算力”重估：ISG狂飙与PC失速之间](https://www.tmtpost.com/8187174.html)
+**发布时间**: 2026-10-30 16:50
+
+#### [直播退烧，品牌迎来梦醒时分](https://www.tmtpost.com/8187185.html)
+**发布时间**: 2026-10-30 16:50
+
+#### [Alibaba Cloud’s Qoder Passes $100 Million in Recurring Revenue as Product Lines Split](https://www.tmtpost.com/8187644.html)
+**发布时间**: 2026-10-30 16:42
+
+#### [小红书全资拿下圆周旅迹，AI行程工具能补全种草闭环吗？](https://www.tmtpost.com/8186386.html)
+**发布时间**: 2026-10-30 15:54
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享](https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 18:53
+
+#### [EmbeddingGemma 2：Google 把五种模态塞进同一个向量空间](https://www.infoq.cn/article/O6mtiB7FVd0VSDHJe348?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 17:00
+
+#### [超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写](https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 15:45
+
+#### [.NET 11 第 2 个候选版本发布，带来生产环境部署许可以及针对库、F#、MAUI 和 WinForms 的更新](https://www.infoq.cn/article/A8YgLsG4VOhoJkUVq9Jq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 15:09
+
+#### [2026年AI技术演进与2027年趋势前瞻报告](https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 14:41
+
+#### [NestJS 12：ESM 包、标准模式验证和原生可观测性](https://www.infoq.cn/article/cyfZ34rycDPzIrzohosZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 13:00
+
+#### [谷歌推出 EnvHarness，支持自进化智能体动态环境学习](https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 11:22
+
+#### [4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践](https://www.infoq.cn/article/5EaQcXCgMWaZaRvFBeoh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 11:07
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/117867)
+**发布时间**: 2026-10-30 17:57
+
+#### [App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣](https://sspai.com/post/116047)
+**发布时间**: 2026-10-30 14:59
+
+#### [《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？](https://sspai.com/prime/story/zhuanglesha-261030)
+**发布时间**: 2026-10-30 11:30
+
+#### [精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践](https://sspai.com/post/116435)
+**发布时间**: 2026-10-30 11:13
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [TRAE 开发者个人助理，打响 AI Coding 的下半场](http://www.geekpark.net/news/373190)
+**发布时间**: 2026-10-30 13:49
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 6 个 GitHub 项目是刚开源，但是 Star 攀升很快的几个。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538171&idx=1&sn=cd8f63d5332497b649d72590298e1a05)
+**发布时间**: 2026-10-30 12:11
 
 ---
 
