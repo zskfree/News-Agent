@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-29 11:22
+**最后更新时间**: 2026-10-30 02:27
+
+---
+
+## 🆕 最新更新 (2026-10-30 02:27)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Binance temporarily suspends withdrawals after apparent hack](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 01:02
+
+#### [Has Australia’s push for lower house prices gone too far?](https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 00:21
+
+#### [Intel shares fall 22% as weak sales outlook dents turnaround](https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 23:45
+
+#### [Amazon shares slide on lower Christmas sales forecast](https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 22:44
+
+#### [Uproar in Alaska sparks Democratic fears for Senate majority](https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 22:06
+
+#### [Starbucks to resume share buybacks but China shift clouds growth outlook](https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 21:54
+
+#### [What killed Weil Gotshal?](https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 21:17
+
+#### [Google is eating itself — but it could still eat everyone else too](https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 18:00
+
+#### [Xi Jinping elevates general who led purge of China’s military](https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 16:10
+
+#### [Two fears will decide the fate of Anthropic’s giant IPO](https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-29 14:41
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon’s stock drops — even in the face of a bold new cloud forecast](https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 00:15
+
+#### [A Starbucks turnaround is brewing — but perhaps not quickly enough for investors](https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 00:14
+
+#### [Sandisk sees revenue nearly quintuple — and a stock split is on the way](https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 00:06
+
+#### [Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?](https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 00:05
+
+#### [Why Intel’s stock is sinking toward its worst drop in two years](https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 23:21
+
+#### [My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?](https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 22:45
+
+#### [The midterms are crucial to the future of Social Security — no matter how old you are](https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 22:01
+
+#### [‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?](https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories)
+**发布时间**: 2026-10-29 21:31
 
 ---
 

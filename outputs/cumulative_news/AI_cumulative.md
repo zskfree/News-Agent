@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-29 11:20
+**最后更新时间**: 2026-10-30 02:26
+
+---
+
+## 🆕 最新更新 (2026-10-30 02:26)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [别再盯着 800 亿美元亏损了，Anthropic 的 AI 造 AI 已推进到 26%！](https://www.leiphone.com/category/ai/t2cIBqBZVfpYPhPg.html)
+**发布时间**: 2026-10-29 22:23
+
+#### [拉爆游戏引擎？深度拆解 Genie 4，从视频生成到世界控制，Google 要跨越什么？](https://www.leiphone.com/category/yanxishe/F3FpQlhpT7u7ekyU.html)
+**发布时间**: 2026-10-29 22:22
+
+#### [DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？](https://www.leiphone.com/category/ai/HecXToP0EHbPjPd0.html)
+**发布时间**: 2026-10-29 22:14
+
+#### [31岁女工程师猝死，其生前按ChatGPT指示减药，还被告知「完全没必要担心」；美国一公司招人遛机器狗：时薪20美元，不用铲屎但得扛狗回来](https://www.leiphone.com/category/zaobao/ZWf8n2mgF0X5Rkfj.html)
+**发布时间**: 2026-10-29 19:38
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens](https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/)
+**发布时间**: 2026-10-29 21:20
+
+#### [Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass](https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/)
+**发布时间**: 2026-10-29 18:28
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [How the UK Amazon Quick User Group grew in 2026](https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/)
+**发布时间**: 2026-10-29 20:16
+
+#### [Building intent-driven UI testing with Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/)
+**发布时间**: 2026-10-29 18:20
+
+#### [Build a repeatable PHP-to-Java migration engine with Kiro](https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/)
+**发布时间**: 2026-10-29 18:14
+
+#### [Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs](https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/)
+**发布时间**: 2026-10-29 16:58
+
+#### [How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/)
+**发布时间**: 2026-10-29 16:54
+
+#### [Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/)
+**发布时间**: 2026-10-29 16:11
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
+**发布时间**: 2026-10-29 13:37
+
+#### [Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready](https://huggingface.co/blog/announcing-project-protostar)
+**发布时间**: 2026-10-29 00:00
+
+#### [Welcome Le Chonk: Mistral Large 4 on Hugging Face](https://huggingface.co/blog/mistral-large4)
+**发布时间**: 2026-10-29 00:00
+
+#### [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
+**发布时间**: 2026-10-29 00:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/)
+**发布时间**: 2026-10-29 13:00
 
 ---
 

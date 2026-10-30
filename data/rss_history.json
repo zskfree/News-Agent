@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "809f2a6122f23059278efe233f9350857c31d8d94f3b9421ad1af4b391a11cf4": {
-        "title": "【钛晨报】重大利好！央行“四箭齐发”，房贷贴息政策落地；中行回应万事达信用卡遭盗刷；英伟达欲拉保险公司入场，为AI芯片融资风险兜底",
-        "link": "https://www.tmtpost.com/8156446.html",
-        "published_date": "Wed, 30 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684474"
-      },
-      "4c0d90c5b6470726571cec8fc465b9e34efb6e426cd50b7207bf26e0a02079b6": {
-        "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
-        "link": "http://www.geekpark.net/news/372005",
-        "published_date": "Wed, 30 Sep 2026 08:25:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684486"
-      },
-      "3d1875df51a140ec531e93b146a33d2b4c3ead77b64f0e807a1c3a5d0a456e3d": {
-        "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-        "link": "https://sspai.com/post/115197",
-        "published_date": "Wed, 30 Sep 2026 07:39:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684489"
-      },
-      "609675bba55c87a3da7177e5986fb5d6de2e0bdb149807e5c020d0e0bb98892b": {
-        "title": "南北丰田格局生变，一汽和广汽开始跨区域组队",
-        "link": "https://www.tmtpost.com/8156661.html",
-        "published_date": "Wed, 30 Sep 2026 09:38:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684491"
-      },
-      "bbb752fbcc3979708b9585e5af870462790774a8f0a8842a6aee71e541046c3d": {
-        "title": "当“AI饲料”，我都被AI嫌弃了？",
-        "link": "https://www.tmtpost.com/8155815.html",
-        "published_date": "Wed, 30 Sep 2026 09:34:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684493"
-      },
-      "3a643da17d420305686d4d3f9e1a790876705658e09875e0d362f3f4cebd4ec9": {
-        "title": "Edge AI Daily 早报（9月30日）",
-        "link": "https://www.tmtpost.com/8156593.html",
-        "published_date": "Wed, 30 Sep 2026 08:23:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684495"
-      },
-      "1e2a6811bfab72dacd369c7c5ad92d1cee6184cf65888801b5a934796aec876a": {
-        "title": "删除储能相关，川润股份大幅下调定增募资额，“瘦身”过冬押注液冷",
-        "link": "https://www.tmtpost.com/8156522.html",
-        "published_date": "Tue, 29 Sep 2026 23:24:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684496"
-      },
-      "f3c83cbf58fd85c9b9594e1c214363d5eef1b6cb836f6d5a443d5d61ebf0f4c1": {
-        "title": "8.25亿增资、8.26亿转让：迈威生物TCE管线分拆至新公司联威创元",
-        "link": "https://www.tmtpost.com/8156362.html",
-        "published_date": "Tue, 29 Sep 2026 21:49:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684498"
-      },
-      "8078c9aadd0df01b442e130c3d99ebdb0ee901e87e0c2514d6065c83fbe46ffb": {
-        "title": "押注固态电池设备“三年后”：金银河15亿定增卡位",
-        "link": "https://www.tmtpost.com/8156391.html",
-        "published_date": "Tue, 29 Sep 2026 21:43:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684499"
-      },
-      "d5351b9894e7a85049fe1b4b42cec7aa41e7d56d3d2ab27d01b3cdae7647d13b": {
-        "title": "跨界医疗梦碎，永和智控持续甩卖资产",
-        "link": "https://www.tmtpost.com/8156335.html",
-        "published_date": "Tue, 29 Sep 2026 20:32:00 GMT",
-        "first_seen": "2026-09-30T01:55:08.684501"
-      },
       "63b40eddc388f9a2ddc653b2c2be75739b7abc2faf4c74be0a086a0b9db0897b": {
         "title": "从9.15亿卖医疗到5亿买液冷，科森科技资产腾挪收两封监管函 | 并购一线",
         "link": "https://www.tmtpost.com/8157193.html",
@@ -3469,69 +3409,69 @@
         "link": "https://www.tmtpost.com/8185152.html",
         "published_date": "Thu, 29 Oct 2026 18:15:00 GMT",
         "first_seen": "2026-10-29T11:22:41.329397"
+      },
+      "62a082091484776a0155338817703bce05e4237e3ebef9aed9430ad91f3d25b2": {
+        "title": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
+        "link": "https://www.tmtpost.com/8186683.html",
+        "published_date": "Thu, 29 Oct 2026 19:19:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559026"
+      },
+      "667a30b373799e06618167cde62358896aa9e3b859d16342b7f441c307153ed0": {
+        "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "link": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Oct 2026 10:04:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559036"
+      },
+      "a68816faffe8bb2408e09d3f39cce29fd77084d2a3ff6050ec91e788c3be3415": {
+        "title": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+        "link": "https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559038"
+      },
+      "3c9d725066e7af848229b42caa79b8d7d147c37df7ccd0d41467dee08532a74d": {
+        "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "link": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Oct 2026 09:23:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559040"
+      },
+      "6fc1513c570ecef4ac5918da1b0ae08fced883431db6d03b3593243669c4efaa": {
+        "title": "Java 近期资讯：JDK 28 JEP、Azul Payara、Gatherers4j、Google ADK、Yupiik 与 Apache Camel CVE",
+        "link": "https://www.infoq.cn/article/dfj1fLfP8iVLKFtEfr69?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 30 Oct 2026 08:00:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559042"
+      },
+      "6e46db17bae4fcd37b3c1c2b190a3dfdab716ed90bc1de2c1e77310a19e8dc98": {
+        "title": "启元 CEO 田华：启元机器人接入WorkBuddy，不仅看见你的世界，还能走得到你身边",
+        "link": "https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Oct 2026 20:22:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559043"
+      },
+      "0474a2d0ac1ce093040c09f1d8a04d707e58c3004021c894c470db551cfe1481": {
+        "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+        "link": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 29 Oct 2026 20:13:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559044"
+      },
+      "05e2f0fa401229ae03843a69a73e0c83907fb2faf7cb6f98b9c17141fdac6e1f": {
+        "title": "从汽车后市场的数智路网，看开思的生态棋局与增长新局",
+        "link": "https://www.tmtpost.com/8185821.html",
+        "published_date": "Fri, 30 Oct 2026 10:04:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559046"
+      },
+      "6711af6ace6845d8266773f4b4e1836879f1ec8ee46da662b3add7be00e3dfbf": {
+        "title": "沐曦股份做LP了，3600万牵手上海国资",
+        "link": "https://www.tmtpost.com/8186617.html",
+        "published_date": "Fri, 30 Oct 2026 09:40:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559047"
+      },
+      "3cf3c8667a7b9444d55d6619c35014c0be091c5e29f77adb2821085954b8820c": {
+        "title": "百万辆老电车脱保，到期的是厂家义务与售后责任？",
+        "link": "https://www.tmtpost.com/8186457.html",
+        "published_date": "Fri, 30 Oct 2026 09:40:00 GMT",
+        "first_seen": "2026-10-30T02:27:27.559048"
       }
     },
     "Finance": {
-      "70d42c51e7a6da14442910696c1ded48a117ebdf7133480bd3adb0e68813bc8c": {
-        "title": "Altman says OpenAI will delay its IPO until it overcomes safety concerns",
-        "link": "https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1",
-        "published_date": "Tue, 29 Sep 2026 21:56:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287967"
-      },
-      "4374d174ba8388638c7620767339c50bf7272be0b3331d8d6281cf5b60446460": {
-        "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
-        "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
-        "published_date": "Tue, 29 Sep 2026 21:56:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287978"
-      },
-      "04e8eba8b17ab5810d9e59e6fbac0756beca06638527f50f09f4effed4418154": {
-        "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-        "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
-        "published_date": "Tue, 29 Sep 2026 21:53:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287980"
-      },
-      "f033d1d2fe246e2b37ef31beab6a23352b7e7690453b2cfc9f198ed04ddaf145": {
-        "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
-        "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
-        "published_date": "Tue, 29 Sep 2026 21:52:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287982"
-      },
-      "09cdacc5eaf9deb093c0146a5a70ff1d08ca5e807cb2b489947819ad9e718132": {
-        "title": "Target’s price cuts are a sign of strength, some analysts say. Investors disagree.",
-        "link": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
-        "published_date": "Tue, 29 Sep 2026 21:33:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287983"
-      },
-      "ea1d539210e923a4cc3fdd3b942e03c43014c0416a0c67d41f29572193fb276e": {
-        "title": "Pentagon awards Boeing $20bn contract for Navy stealth fighter jet",
-        "link": "https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1",
-        "published_date": "Wed, 30 Sep 2026 00:31:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287985"
-      },
-      "96fb37fed7ebcd1abde26b1da8d6064792570cf140d0eae4ff1631ed011039f1": {
-        "title": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
-        "link": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
-        "published_date": "Tue, 29 Sep 2026 23:13:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287986"
-      },
-      "0c73c361edb2b8ae373d2c9fa9dcf367d019aac5e2170cb5773daef3954c566c": {
-        "title": "Australia battles black market for cigarettes after decade of tax rises",
-        "link": "https://www.ft.com/content/d2916f8b-c53b-4c64-a9f8-37807bf5383f?syn-25a6b1a6=1",
-        "published_date": "Tue, 29 Sep 2026 21:00:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287988"
-      },
-      "54b14fefbb47323b668ab0b8a146a511a56b1fc12e03797e46652a704ff1513f": {
-        "title": "Hegseth to slash top US military officer roles by 20%",
-        "link": "https://www.ft.com/content/1199468e-dbe5-4581-b039-3d57985291ac?syn-25a6b1a6=1",
-        "published_date": "Tue, 29 Sep 2026 20:56:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287989"
-      },
-      "d056fcc800f83d3bba16a698253e98b7b6beb5de4cc6e8d53bc3f31d8cabecea": {
-        "title": "Suspect in RAF Fairford incident called 999 shortly before arrest",
-        "link": "https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0?syn-25a6b1a6=1",
-        "published_date": "Tue, 29 Sep 2026 20:19:00 GMT",
-        "first_seen": "2026-09-30T01:55:18.287990"
-      },
       "8d477bba14f77d94eee210ef4e161b4975f33b0c8c141d36c3c33c9cba811758": {
         "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
         "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
@@ -6927,69 +6867,69 @@
         "link": "https://www.ft.com/content/5c95fc2e-4019-462f-99cd-aefb8005b9e4?syn-25a6b1a6=1",
         "published_date": "Thu, 29 Oct 2026 05:00:00 GMT",
         "first_seen": "2026-10-29T11:22:50.824136"
+      },
+      "f55e56d4d8de705f50bf8d8c324b76c48ac237ce07e68ef315265aea84ffc83a": {
+        "title": "Two fears will decide the fate of Anthropic’s giant IPO",
+        "link": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
+        "published_date": "Thu, 29 Oct 2026 14:41:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267498"
+      },
+      "da37c26cf8aa0ceb6c26c7d381ea6bd57f9015109fc746eedfe97a1568cf04cc": {
+        "title": "Binance temporarily suspends withdrawals after apparent hack",
+        "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 01:02:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267507"
+      },
+      "561ad710588fef1ffb2f8ff1b48ba30997e2b1dceed11f8064eef70c362f6a48": {
+        "title": "Has Australia’s push for lower house prices gone too far?",
+        "link": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 00:21:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267509"
+      },
+      "62f71326051b08e6c621c86850e864b007aba7df1f2e2e9e72a89e43a0f8d55c": {
+        "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
+        "link": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+        "published_date": "Thu, 29 Oct 2026 23:45:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267510"
+      },
+      "cc20b2d969e74baa5aa3b424522852d7b20bc7f395e368b0f92f7721a8a5ee26": {
+        "title": "Amazon shares slide on lower Christmas sales forecast",
+        "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
+        "published_date": "Thu, 29 Oct 2026 22:44:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267512"
+      },
+      "db890ff1ef2159eff0c07b0cc5fdeb5440a54d5c00561055a71d1e48d183a034": {
+        "title": "Uproar in Alaska sparks Democratic fears for Senate majority",
+        "link": "https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9?syn-25a6b1a6=1",
+        "published_date": "Thu, 29 Oct 2026 22:06:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267513"
+      },
+      "550586006ddbc38f9e53599064108f005beabc288c29d528276c59c6f2348266": {
+        "title": "Starbucks to resume share buybacks but China shift clouds growth outlook",
+        "link": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1",
+        "published_date": "Thu, 29 Oct 2026 21:54:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267515"
+      },
+      "5fafa31e4aa1b7fc5dc258d6a3c0ca71e1aea012ebb4f46b915b9248191e9833": {
+        "title": "What killed Weil Gotshal?",
+        "link": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1",
+        "published_date": "Thu, 29 Oct 2026 21:17:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267517"
+      },
+      "61518ad61bb95d44aff6fab783d527feda941c2e25528f007db389b40ea57a9e": {
+        "title": "Google is eating itself — but it could still eat everyone else too",
+        "link": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
+        "published_date": "Thu, 29 Oct 2026 18:00:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267518"
+      },
+      "7a7a6424ca1e46c9fb3856577c4dbd40e2c6ab819f1cadd1c0c83822673ac6c1": {
+        "title": "Xi Jinping elevates general who led purge of China’s military",
+        "link": "https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1",
+        "published_date": "Thu, 29 Oct 2026 16:10:00 GMT",
+        "first_seen": "2026-10-30T02:27:46.267519"
       }
     },
     "Ai": {
-      "96d5b0a46eb0b8c2f8108cf457ef091d01c4e57eb18fb47129f890beb7d12511": {
-        "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
-        "published_date": "Wed, 30 Sep 2026 01:13:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902248"
-      },
-      "e735b6d40100761f17dbc4d354dd66f0ffe6170b3c361ddd6be08861de0f60b5": {
-        "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
-        "published_date": "Wed, 30 Sep 2026 01:13:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902257"
-      },
-      "e20773cc3d07a23e6222aafafed295cc434843adacee3fcc4ec02fb9b0638e55": {
-        "title": "Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/",
-        "published_date": "Tue, 29 Sep 2026 19:34:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902260"
-      },
-      "08fbca88dbca8b470a11ddec2d1b16e988d5f38ca76ba5db512da29caf05ebd5": {
-        "title": "Prompt engineering fundamentals for Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
-        "published_date": "Tue, 29 Sep 2026 16:27:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902262"
-      },
-      "cd16c4bb42a4b16335f47e5d193adbbed044727a2dddb8d2b10fc5f8c33a9a98": {
-        "title": "Prompt engineering by Quick component: Patterns and pitfalls",
-        "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
-        "published_date": "Tue, 29 Sep 2026 16:27:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902264"
-      },
-      "2a1e8b51b360c293b1e8a6352b1603bb87626fdc12504765ddad41cd56eaf5a6": {
-        "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/",
-        "published_date": "Tue, 29 Sep 2026 16:14:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902266"
-      },
-      "3bbb2f32dd358523c8668e44bf8a7b776245944aaf1a667157422a62852e0daa": {
-        "title": "How Condé Nast built multimodal video discovery with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
-        "published_date": "Tue, 29 Sep 2026 15:55:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902267"
-      },
-      "700d34189eaa31fbc1f0acf237b31c03b4e9ec74524e06a47701261bd36954b4": {
-        "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-        "link": "https://www.qbitai.com/2026/09/499246.html",
-        "published_date": "Tue, 29 Sep 2026 23:01:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902269"
-      },
-      "195bf520f63d35df0b36c545606a4331e817713cd0d2814ca5f98ebbe8f4a402": {
-        "title": "1000台售罄后又被做成\"韩立同款\"，元点机器人如何把具身智能做进家庭？",
-        "link": "https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html",
-        "published_date": "Tue, 29 Sep 2026 19:22:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902271"
-      },
-      "9ae82cfe6e4e462300b323c179edfc8813b257b08aded3366ac48b1dfc2fb17b": {
-        "title": "重新定义一款FPS的上限",
-        "link": "https://www.leiphone.com/category/industrynews/Fp19xlyxYGVG1o6r.html",
-        "published_date": "Tue, 29 Sep 2026 18:36:00 GMT",
-        "first_seen": "2026-09-30T01:55:27.902273"
-      },
       "7daf5185051e33ce56f9ea56b1226496b86ffccc8586e4fb1927363276a9938e": {
         "title": "Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口",
         "link": "https://www.leiphone.com/category/yanxishe/Zqcw9XvSO2Ht6FIQ.html",
@@ -9761,13 +9701,73 @@
         "link": "https://www.leiphone.com/category/industrynews/EErFYCDINUus7sOF.html",
         "published_date": "Thu, 29 Oct 2026 10:27:00 GMT",
         "first_seen": "2026-10-29T11:23:00.490308"
+      },
+      "b178bd364ae7cd339e435d350aa02fcf48a086d88c811c0a5f28b66c207e02be": {
+        "title": "别再盯着 800 亿美元亏损了，Anthropic 的 AI 造 AI 已推进到 26%！",
+        "link": "https://www.leiphone.com/category/ai/t2cIBqBZVfpYPhPg.html",
+        "published_date": "Thu, 29 Oct 2026 22:23:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956587"
+      },
+      "1f57accaeeb654f12e9e58982744fe4dd645af2f6ece05b85e425b6b7e5452c5": {
+        "title": "拉爆游戏引擎？深度拆解 Genie 4，从视频生成到世界控制，Google 要跨越什么？",
+        "link": "https://www.leiphone.com/category/yanxishe/F3FpQlhpT7u7ekyU.html",
+        "published_date": "Thu, 29 Oct 2026 22:22:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956595"
+      },
+      "27c4f9d7fbb0f40a99b42b8d63703e2dda26b10bb903418021fa8ed21355f7f7": {
+        "title": "DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？",
+        "link": "https://www.leiphone.com/category/ai/HecXToP0EHbPjPd0.html",
+        "published_date": "Thu, 29 Oct 2026 22:14:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956597"
+      },
+      "95cd20991812a9054b594d7321f8c13f2b2c18d9abc0c6573aea8c837f6a538c": {
+        "title": "31岁女工程师猝死，其生前按ChatGPT指示减药，还被告知「完全没必要担心」；美国一公司招人遛机器狗：时薪20美元，不用铲屎但得扛狗回来",
+        "link": "https://www.leiphone.com/category/zaobao/ZWf8n2mgF0X5Rkfj.html",
+        "published_date": "Thu, 29 Oct 2026 19:38:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956599"
+      },
+      "5b2b8e8168a7b159dcaf771180573c227459272205b860245d9203a7a6a42cbe": {
+        "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+        "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+        "published_date": "Thu, 29 Oct 2026 21:20:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956601"
+      },
+      "4be50e26e92a8b6b5ac569b344d8648380c2a9ce1eba61d75c479ad25b772a68": {
+        "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
+        "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
+        "published_date": "Thu, 29 Oct 2026 18:28:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956602"
+      },
+      "029d5d394bd04151bffd9cd5a6d038e122ec93e1c6baf6c99136a005669ab6f1": {
+        "title": "How the UK Amazon Quick User Group grew in 2026",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+        "published_date": "Thu, 29 Oct 2026 20:16:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956603"
+      },
+      "bee4fe2dd6f030028884d60fd97ef538b8454898ba264c4f0a905c4364108375": {
+        "title": "Building intent-driven UI testing with Amazon Nova Act",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+        "published_date": "Thu, 29 Oct 2026 18:20:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956604"
+      },
+      "a0fb1401b9717e67368ad5bbaf5eb37e560d244b6da4c3e1b5770b2bcdd0cddd": {
+        "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
+        "published_date": "Thu, 29 Oct 2026 18:14:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956606"
+      },
+      "392bba5f517acaa7ac910fed34ef65244d9c995e148c738e67a76b917b3daac1": {
+        "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
+        "published_date": "Thu, 29 Oct 2026 16:58:00 GMT",
+        "first_seen": "2026-10-30T02:27:36.956607"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-29T11:22:41.329399",
-    "Finance": "2026-10-29T11:22:50.824140",
-    "Ai": "2026-10-29T11:23:00.490311"
+    "Technology": "2026-10-30T02:27:27.559050",
+    "Finance": "2026-10-30T02:27:46.267520",
+    "Ai": "2026-10-30T02:27:36.956609"
   }
 }

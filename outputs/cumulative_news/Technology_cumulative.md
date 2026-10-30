@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-29 11:22
+**最后更新时间**: 2026-10-30 02:27
+
+---
+
+## 🆕 最新更新 (2026-10-30 02:27)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed](https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 10:04
+
+#### [希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕](https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 10:00
+
+#### [Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力](https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 09:23
+
+#### [Java 近期资讯：JDK 28 JEP、Azul Payara、Gatherers4j、Google ADK、Yupiik 与 Apache Camel CVE](https://www.infoq.cn/article/dfj1fLfP8iVLKFtEfr69?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 08:00
+
+#### [启元 CEO 田华：启元机器人接入WorkBuddy，不仅看见你的世界，还能走得到你身边](https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 20:22
+
+#### [谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价](https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-29 20:13
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从汽车后市场的数智路网，看开思的生态棋局与增长新局](https://www.tmtpost.com/8185821.html)
+**发布时间**: 2026-10-30 10:04
+
+#### [沐曦股份做LP了，3600万牵手上海国资](https://www.tmtpost.com/8186617.html)
+**发布时间**: 2026-10-30 09:40
+
+#### [百万辆老电车脱保，到期的是厂家义务与售后责任？](https://www.tmtpost.com/8186457.html)
+**发布时间**: 2026-10-30 09:40
+
+#### [只有一个人的制药公司，被Anthropic在IPO前收购了](https://www.tmtpost.com/8186498.html)
+**发布时间**: 2026-10-30 09:25
+
+#### [Equinox Gold看起来就像一颗尚未打磨的钻石](https://www.tmtpost.com/8187092.html)
+**发布时间**: 2026-10-30 08:52
+
+#### [Edge AI Daily 早报（10月30日）](https://www.tmtpost.com/8187034.html)
+**发布时间**: 2026-10-30 08:28
+
+#### [China’s "Double 11" Still Runs—Small Sellers Say the Rules No Longer Fit Them](https://www.tmtpost.com/8187064.html)
+**发布时间**: 2026-10-30 07:59
+
+#### [【钛晨报】光模块三巨头“易中天”业绩出炉，前三季度净赚超350亿元；国家队最新调仓：国新进联通，诚通买黄金；联讯仪器、普冉股份，第三季度净利暴增超30倍](https://www.tmtpost.com/8186866.html)
+**发布时间**: 2026-10-30 07:20
+
+#### [3只即将走热的家装类股票](https://www.tmtpost.com/8186904.html)
+**发布时间**: 2026-10-29 22:02
+
+#### [单季亏近亿，悦康药业把10亿筹码推向核酸赛道丨看财报](https://www.tmtpost.com/8186831.html)
+**发布时间**: 2026-10-29 21:35
+
+#### [Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单](https://www.tmtpost.com/8186405.html)
+**发布时间**: 2026-10-29 20:46
+
+#### [银行股日子不好过，这位分析师押注两只股票](https://www.tmtpost.com/8186837.html)
+**发布时间**: 2026-10-29 20:45
+
+#### [礼鼎半导体：累计亏超14亿，控股股东身兼大客户与供应商｜IPO观察](https://www.tmtpost.com/8177496.html)
+**发布时间**: 2026-10-29 19:54
+
+#### [长盈精密前三季度转亏0.66亿元，具身智能收入大增532%仍未撑起利润 | 看财报](https://www.tmtpost.com/8186722.html)
+**发布时间**: 2026-10-29 19:53
+
+#### [玉柴船电：控股股东身兼大客户与供应商，大额分红后募资补流引争议｜IPO观察](https://www.tmtpost.com/8177512.html)
+**发布时间**: 2026-10-29 19:51
+
+#### [深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker](https://www.tmtpost.com/8186683.html)
+**发布时间**: 2026-10-29 19:19
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道](http://www.geekpark.net/news/373154)
+**发布时间**: 2026-10-30 08:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等](https://sspai.com/post/117827)
+**发布时间**: 2026-10-30 08:13
 
 ---
 
