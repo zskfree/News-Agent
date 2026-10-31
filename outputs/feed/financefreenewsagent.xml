@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 Oct 2026 02:06:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 02:06:51 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 10:47:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:47:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic may not secure investment-grade rating after IPO, Blackstone says</title>
-      <link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Anthropic may not secure investment-grade rating after IPO, Blackstone says]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1</guid>
+      <title>Rating agency Fitch hits France with surprise outlook downgrade</title>
+      <link>https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Rating agency Fitch hits France with surprise outlook downgrade]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>OpenAI slashes funding target by $10bn as tech anxieties mount</title>
-      <link>https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[OpenAI slashes funding target by $10bn as tech anxieties mount]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 00:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>$6.3bn in 30 minutes: how the world’s biggest heist unfolded</title>
-      <link>https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[$6.3bn in 30 minutes: how the world’s biggest heist unfolded]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 22:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US greenlights $2.1bn sale of Patriot interceptors to Ukraine</title>
+      <title>US approves $2.1bn sale of Patriot interceptors to Ukraine</title>
       <link>https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US greenlights $2.1bn sale of Patriot interceptors to Ukraine]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 21:28:00 GMT</pubDate>
+      <description>&lt;![CDATA[US approves $2.1bn sale of Patriot interceptors to Ukraine]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 07:04:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>US tech stocks tumble as concerns over AI spending intensify</title>
-      <link>https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US tech stocks tumble as concerns over AI spending intensify]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 21:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1</guid>
+      <title>The right to be apolitical</title>
+      <link>https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[The right to be apolitical]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>CD&amp;R pursues buyout of $40bn card processor Global Payments</title>
-      <link>https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[CD&amp;R pursues buyout of $40bn card processor Global Payments]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1</guid>
+      <title>Donald Trump’s endgame</title>
+      <link>https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Donald Trump’s endgame]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town</title>
-      <link>https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1</guid>
+      <title>US midterms loom over jittery investors</title>
+      <link>https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US midterms loom over jittery investors]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Russia observes rare Ukraine ceasefire to allow evacuations</title>
-      <link>https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024</link>
-      <description>&lt;![CDATA[Russia observes rare Ukraine ceasefire to allow evacuations]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024</guid>
+      <title>French banks’ rising profits fail to reverse sell-off as political fears bite</title>
+      <link>https://www.ft.com/content/d1c2c34b-7bfb-470a-a51d-bbada1c6ccef?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[French banks’ rising profits fail to reverse sell-off as political fears bite]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d1c2c34b-7bfb-470a-a51d-bbada1c6ccef?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Weil’s Ramona Nee in talks to join Kirkland &amp; Ellis</title>
-      <link>https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Weil’s Ramona Nee in talks to join Kirkland &amp; Ellis]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How North Korea became a hacking superpower</title>
-      <link>https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[How North Korea became a hacking superpower]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 11:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1</guid>
+      <title>Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore</title>
+      <link>https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 04:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

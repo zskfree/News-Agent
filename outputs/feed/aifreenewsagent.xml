@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 Oct 2026 02:04:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 02:06:41 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 10:45:00 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:47:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能</title>
-      <link>https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html</link>
-      <description>&lt;![CDATA[阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 06:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html</guid>
+      <title>智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断</title>
+      <link>https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html</link>
+      <description>&lt;![CDATA[智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”</title>
-      <link>https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html</link>
-      <description>&lt;![CDATA[游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 22:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html</guid>
+      <title>Vercel Labs Open-Sources agent-desktop for Agent Computer Use</title>
+      <link>https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/</link>
+      <description>&lt;![CDATA[Vercel Labs Open-Sources agent-desktop for Agent Computer Use]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 10:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？</title>
-      <link>https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html</link>
-      <description>&lt;![CDATA[一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html</guid>
+      <title>你的8G iPad里有12G内存！库克走了但他的刀法追着我砍</title>
+      <link>https://www.qbitai.com/2026/10/506884.html</link>
+      <description>&lt;![CDATA[你的8G iPad里有12G内存！库克走了但他的刀法追着我砍]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506884.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？</title>
-      <link>https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html</link>
-      <description>&lt;![CDATA[李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html</guid>
+      <title>世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用</title>
+      <link>https://www.qbitai.com/2026/10/506866.html</link>
+      <description>&lt;![CDATA[世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506866.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>进击中的影石：攻击性强，血条太脆 ？</title>
-      <link>https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</link>
-      <description>&lt;![CDATA[进击中的影石：攻击性强，血条太脆 ？]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州</title>
-      <link>https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html</link>
-      <description>&lt;![CDATA[全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 19:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>沙钢接入千问办公，已将Agent落地核心业务场景</title>
-      <link>https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html</link>
-      <description>&lt;![CDATA[沙钢接入千问办公，已将Agent落地核心业务场景]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>盖伦奖提名一年后，希格生科的边界、验证与野心</title>
-      <link>https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html</link>
-      <description>&lt;![CDATA[盖伦奖提名一年后，希格生科的边界、验证与野心]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>在代谢酶网络里，默达生物找到了一个让坏细胞「吃不饱饭」的开关</title>
-      <link>https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html</link>
-      <description>&lt;![CDATA[在代谢酶网络里，默达生物找到了一个让坏细胞「吃不饱饭」的开关]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>欣旺达前三季度营收634.62亿元，终止H股上市计划</title>
-      <link>https://www.leiphone.com/category/industrynews/STPEobhiyi9XOsmj.html</link>
-      <description>&lt;![CDATA[欣旺达前三季度营收634.62亿元，终止H股上市计划]]&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 17:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/STPEobhiyi9XOsmj.html</guid>
+      <title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
+      <link>https://www.qbitai.com/2026/10/506855.html</link>
+      <description>&lt;![CDATA[刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 05:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506855.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-31 02:04
+**最后更新时间**: 2026-10-31 10:45
+
+---
+
+## 🆕 最新更新 (2026-10-31 10:45)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断](https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html)
+**发布时间**: 2026-10-31 11:31
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Vercel Labs Open-Sources agent-desktop for Agent Computer Use](https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/)
+**发布时间**: 2026-10-31 10:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [你的8G iPad里有12G内存！库克走了但他的刀法追着我砍](https://www.qbitai.com/2026/10/506884.html)
+**发布时间**: 2026-10-31 05:17
+
+#### [世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用](https://www.qbitai.com/2026/10/506866.html)
+**发布时间**: 2026-10-31 05:11
+
+#### [刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」](https://www.qbitai.com/2026/10/506855.html)
+**发布时间**: 2026-10-31 05:05
+
+#### [榜一，拿来吧你！智元这波双模型杀穿多榜榜单](https://www.qbitai.com/2026/10/506819.html)
+**发布时间**: 2026-10-30 12:58
+
+#### [AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！](https://www.qbitai.com/2026/10/506785.html)
+**发布时间**: 2026-10-30 11:05
+
+#### [“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”](https://www.qbitai.com/2026/10/506779.html)
+**发布时间**: 2026-10-30 10:44
+
+#### [百度 APP 发布四大 AI 升级，搜索已实现递归自我进化](https://www.qbitai.com/2026/10/506771.html)
+**发布时间**: 2026-10-30 08:50
+
+#### [好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单](https://www.qbitai.com/2026/10/506747.html)
+**发布时间**: 2026-10-30 08:12
 
 ---
 

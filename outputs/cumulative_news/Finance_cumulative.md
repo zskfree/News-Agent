@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-31 02:06
+**最后更新时间**: 2026-10-31 10:47
+
+---
+
+## 🆕 最新更新 (2026-10-31 10:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Rating agency Fitch hits France with surprise outlook downgrade](https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 09:36
+
+#### [US approves $2.1bn sale of Patriot interceptors to Ukraine](https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 07:04
+
+#### [The right to be apolitical](https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 05:01
+
+#### [Donald Trump’s endgame](https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 05:00
+
+#### [US midterms loom over jittery investors](https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 05:00
+
+#### [French banks’ rising profits fail to reverse sell-off as political fears bite](https://www.ft.com/content/d1c2c34b-7bfb-470a-a51d-bbada1c6ccef?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 05:00
+
+#### [Poland suspends top judges as battle over rule of law escalates](https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 23:32
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore](https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories)
+**发布时间**: 2026-10-31 04:30
 
 ---
 

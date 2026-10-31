@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-31 02:06
+**最后更新时间**: 2026-10-31 10:47
+
+---
+
+## 🆕 最新更新 (2026-10-31 10:47)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [押注睡着的8小时，前小米王腾闯入千亿AI睡眠赛道](https://www.tmtpost.com/8188399.html)
+**发布时间**: 2026-10-31 17:09
+
+#### [“开源才是护城河”：制造老炮把品胜的AI交给了00后](https://www.tmtpost.com/8188454.html)
+**发布时间**: 2026-10-31 13:17
+
+#### [大厂减市场预算，加AI预算](https://www.tmtpost.com/8188331.html)
+**发布时间**: 2026-10-31 11:53
+
+#### [初代选秀，一地鸡毛](https://www.tmtpost.com/8187453.html)
+**发布时间**: 2026-10-31 11:53
+
+#### [汇源丢了商标之后，还能再造一个国民品牌吗？](https://www.tmtpost.com/8188303.html)
+**发布时间**: 2026-10-31 11:53
+
+#### [奥迪中国正式“分家”，一汽和上汽谁能赢？](https://www.tmtpost.com/8188009.html)
+**发布时间**: 2026-10-31 11:39
+
+#### [济安金信基金季报点评（2026Q3）](https://www.tmtpost.com/8188395.html)
+**发布时间**: 2026-10-31 11:14
+
+#### [摩尔线程2026年三季报点评｜公司点评](https://www.tmtpost.com/8188359.html)
+**发布时间**: 2026-10-31 11:11
+
+#### [美国军事霸权：非常规手段能化解巨额债务危机吗？](https://www.tmtpost.com/8188356.html)
+**发布时间**: 2026-10-31 11:11
+
+#### [价值判断：涨停板的投资机会和风险提示（10月30日）｜上市公司观察](https://www.tmtpost.com/8188354.html)
+**发布时间**: 2026-10-31 11:07
+
+#### [A股行业估值不能只看大类：细分赛道的冷热为何错位？](https://www.tmtpost.com/8188348.html)
+**发布时间**: 2026-10-31 11:06
+
+#### [价值判断：跌停板的投资机会和风险提示（10月30日）｜上市公司观察](https://www.tmtpost.com/8188342.html)
+**发布时间**: 2026-10-31 11:03
+
+#### [市值回升1180亿后，王兴兴杀入VC](https://www.tmtpost.com/8187851.html)
+**发布时间**: 2026-10-31 10:55
+
+#### [财富一年暴涨730亿，苏州富豪家族港股首秀却被“泼冷水”](https://www.tmtpost.com/8187990.html)
+**发布时间**: 2026-10-31 10:48
+
+#### [阿迪达斯重新做户外，便宜得不像它自己](https://www.tmtpost.com/8187847.html)
+**发布时间**: 2026-10-31 10:42
+
+#### [00后不过双十一](https://www.tmtpost.com/8187917.html)
+**发布时间**: 2026-10-31 10:37
+
+#### [Q3增收不增利，智能锁战略降级，好太太还是回归晾衣架？](https://www.tmtpost.com/8188170.html)
+**发布时间**: 2026-10-31 10:34
+
+#### [银行系险企也扛不住波动，农银人寿三季度亏了16亿](https://www.tmtpost.com/8188073.html)
+**发布时间**: 2026-10-31 10:25
+
+#### [中国稀土拟收购中稀凉山，牦牛坪千万吨资源受关注](https://www.tmtpost.com/8188135.html)
+**发布时间**: 2026-10-31 10:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？](https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-31 16:15
+
+#### [一边拥抱 JDK 27，一边保留 JDK 21：Helidon 开启双轨发布](https://www.infoq.cn/article/qRZCxTQbL1CwAUy28Zm8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-31 15:00
+
+#### [当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座](https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-31 14:49
+
+#### [Flink 负责时间，Iceberg 负责记忆：Pinterest 如何最终确认数据分区？](https://www.infoq.cn/article/9OhgYkwYlPYgTbAvWlGz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-31 13:00
+
+#### [GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性](https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-31 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本月玩什么｜影之刃零、战争机器：事变日等](https://sspai.com/post/117960)
+**发布时间**: 2026-10-31 13:29
+
+#### [一图流 | 一张图看懂中国版 Apple 智能](https://sspai.com/post/117953)
+**发布时间**: 2026-10-31 12:10
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [我在 GitHub 上搜罗了 6 个高质量数据集，看看哪些会用到。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538180&idx=1&sn=f8f37078438b90a2815051c5012a8acc)
+**发布时间**: 2026-10-31 08:21
+
+#### [6 个刚开源 Star 攀升很快的 GitHub 项目](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538179&idx=1&sn=a55028266ff48e165c7669f341c85bb2)
+**发布时间**: 2026-10-31 00:01
 
 ---
 
