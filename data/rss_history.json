@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8dfdba178cbd7ab7670fe813c00cc23a923375f00c6635318c4b99039bf748f6": {
-        "title": "007的忧思：人类永远恐惧科技之恶",
-        "link": "https://www.tmtpost.com/8157557.html",
-        "published_date": "Thu, 01 Oct 2026 09:09:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180566"
-      },
-      "7bd053b387c2b44fecfb5c9d4b1ba5cd8cc1768195c1457f36b06038110b6669": {
-        "title": "Sharpa最新发布的三大新品，把机器人进场景的门槛打了下来",
-        "link": "https://www.tmtpost.com/8157219.html",
-        "published_date": "Wed, 30 Sep 2026 20:50:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180578"
-      },
-      "43b7f3864ce9d68f927fb071edc5486b47bcf6048ad47b41a8e38dd935f7d533": {
-        "title": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
-        "link": "https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 30 Sep 2026 19:40:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180581"
-      },
-      "0dc540b6b2f415375b0e8d4de0b34dacfac4f06e0c4e2d51311e3617bd96b44f": {
-        "title": "“宁王”座下，车企的三次大撤退",
-        "link": "https://www.tmtpost.com/8157559.html",
-        "published_date": "Thu, 01 Oct 2026 09:22:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180583"
-      },
-      "82ea4d939f01531753e1897c7d300d775350153ac9f7787f7b184a0e0bc73087": {
-        "title": "从宁夏到新疆，中国葡萄酒好起来了？",
-        "link": "https://www.tmtpost.com/8157627.html",
-        "published_date": "Thu, 01 Oct 2026 09:21:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180585"
-      },
-      "c323264887993569c58a83295a0d8bb3d416fec7bef9653485575d53707929c2": {
-        "title": "MCN大佬王傲延资本玩法复刻，“白兔系”入局龙大美食重整",
-        "link": "https://www.tmtpost.com/8157558.html",
-        "published_date": "Thu, 01 Oct 2026 09:15:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180586"
-      },
-      "9cc860c9cebb44a2ba98ff5329cabf8c63d9165c77377c174d2d4a0ffb8dd548": {
-        "title": "5年亏超700亿后，“环京地产一哥”等来“白衣骑士”",
-        "link": "https://www.tmtpost.com/8157462.html",
-        "published_date": "Thu, 01 Oct 2026 08:53:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180588"
-      },
-      "8040a2deb745b73022079d38cd769d3200e5a35bcbbafc4f87157c7fb76d3b24": {
-        "title": "销量增长、收入缩水：斯坦德机器人的“第二曲线”，怎么越卖越亏？",
-        "link": "https://www.tmtpost.com/8157612.html",
-        "published_date": "Thu, 01 Oct 2026 08:46:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180589"
-      },
-      "8c6c81c023aadca07be2274e350b323e8d64023f1455b2521b6027a8e1d64a30": {
-        "title": "实测ChatGPT dot后，我明白了大厂为什么必须做个人智能体",
-        "link": "https://www.tmtpost.com/8157453.html",
-        "published_date": "Thu, 01 Oct 2026 08:46:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180591"
-      },
-      "e59d857837c0c104a2831f7c1bb3d217d34147a24028c838730f99abb0f3e320": {
-        "title": "8200个项目在排队，AI基建卡在了最后一道关口",
-        "link": "https://www.tmtpost.com/8157619.html",
-        "published_date": "Thu, 01 Oct 2026 08:43:00 GMT",
-        "first_seen": "2026-10-01T01:52:53.180592"
-      },
       "14304db9337f62980df473ae8ddf4c2bb916f75e54b8daf50af984f209574c82": {
         "title": "传音手机利润腰斩，储能营收却两年暴涨825%，非洲手机之王转战储能，靠渠道能跑赢技术壁垒吗？",
         "link": "https://www.tmtpost.com/8157851.html",
@@ -3469,69 +3409,69 @@
         "link": "https://www.tmtpost.com/8187673.html",
         "published_date": "Fri, 30 Oct 2026 17:34:00 GMT",
         "first_seen": "2026-10-30T11:15:13.069514"
+      },
+      "47db2007ea511fefe571278818ccc6c3b3094d0f7888dc0689f574a4f6e138b8": {
+        "title": "代谢创新药进入“中国时间”：从产品出海到能力出海的行业跃迁丨行业风向标",
+        "link": "https://www.tmtpost.com/8187920.html",
+        "published_date": "Fri, 30 Oct 2026 23:18:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095975"
+      },
+      "3c1b10c28d2e0740eaa17b74d662264739e7dc353b64b9776f4085fbf1071d19": {
+        "title": "人类距离乙肝“治愈”究竟还有多远？",
+        "link": "https://www.tmtpost.com/8188049.html",
+        "published_date": "Sat, 31 Oct 2026 09:52:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095986"
+      },
+      "bec2ea4c3de0a3c4e487e15d05adf6e72aa085b55fa8bc2a3a561dcfc1078d59": {
+        "title": "绿泡泡狂飙、AI剧起量：短剧竞争，早已越过App排行榜",
+        "link": "https://www.tmtpost.com/8187968.html",
+        "published_date": "Sat, 31 Oct 2026 09:52:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095989"
+      },
+      "794f6faf134b7ed6703e2271739f6a57d6a3c2172d77ff08b63c6a2e86ed0902": {
+        "title": "Edge AI Daily 早报（10月31日）",
+        "link": "https://www.tmtpost.com/8188149.html",
+        "published_date": "Sat, 31 Oct 2026 09:36:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095991"
+      },
+      "e33789998b161ccb86336902b8a47da2fd36909126e4809e974ae71a931f5b92": {
+        "title": "具身智能患上了焦虑症",
+        "link": "https://www.tmtpost.com/8187761.html",
+        "published_date": "Fri, 30 Oct 2026 19:01:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095993"
+      },
+      "a6d0e6d7e991db43ee96e98a6cdc5df29686ea88dffc0aba83d5fac25a8463db": {
+        "title": "跨境电商的AI真相：进入更易，胜出更难",
+        "link": "https://www.tmtpost.com/8187749.html",
+        "published_date": "Fri, 30 Oct 2026 19:00:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095994"
+      },
+      "5ee787f70c17f46ad791ebbe5b2ab2d254b088561b25781630e89a3dc23fcaf8": {
+        "title": "OpenAI又出数学大结果，陶哲轩：数学不该被AI“掠夺式开采”",
+        "link": "https://www.tmtpost.com/8187753.html",
+        "published_date": "Fri, 30 Oct 2026 19:00:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095996"
+      },
+      "de09fd8db41e3d68655c7c4e0963bcda91cab9bc6881c42a75b62edf894f36d6": {
+        "title": "一条由LABUBU拽动的业绩曲线：泡泡玛特复购率两连降后，三季度收益直接“腰斩”",
+        "link": "https://www.tmtpost.com/8187764.html",
+        "published_date": "Fri, 30 Oct 2026 19:00:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095997"
+      },
+      "c5fb18fe1ede8da03eea9f8c452a9dbb65437ef9ecb4c8021fe3b44db2aa3f46": {
+        "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
+        "link": "http://www.geekpark.net/news/373220",
+        "published_date": "Sat, 31 Oct 2026 08:03:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.095999"
+      },
+      "2ccce5ef9c976f5c6e929fa577f7071390dd78e6693a54c1d94ae1a03c71cf85": {
+        "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
+        "link": "http://www.geekpark.net/news/373238",
+        "published_date": "Sat, 31 Oct 2026 06:26:00 GMT",
+        "first_seen": "2026-10-31T02:06:32.096000"
       }
     },
     "Finance": {
-      "94363d1f4b1628891498c557b68193d50e951c120c76959612c884a0550c6821": {
-        "title": "Google shows it’s not out of the AI race just yet",
-        "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Sep 2026 22:51:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605170"
-      },
-      "dce874ac202f54318d544b9e88fefa1324bf38664765767a0dd997b7b877f622": {
-        "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-        "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Sep 2026 21:22:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605181"
-      },
-      "1939077f92dc153dd3117a64fedc6859cd8855d1573871ac63e3201a29468d2d": {
-        "title": "How the ‘AI put’ has become the only thing that matters for stocks",
-        "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Sep 2026 20:59:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605184"
-      },
-      "8b87effa23677c927595b19d6f6a50257d8f6868655e72d2a3f82804228476de": {
-        "title": "A brutal September for bonds points to an even darker October",
-        "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Sep 2026 20:56:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605185"
-      },
-      "93a3d121bba6eb64b7629b6b3d203ed6aeb0558178aefc33830a4ae1380943ee": {
-        "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-        "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Sep 2026 20:32:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605187"
-      },
-      "faf286630b84a7c761c6ebeb1b3196cf52fa63831b46c17fb75099336321d009": {
-        "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
-        "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
-        "published_date": "Wed, 30 Sep 2026 19:42:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605188"
-      },
-      "0a1b8eac055e09cc6a8dec58668a91418ba1b4a937fc154f4640366c96e18114": {
-        "title": "Trump says South Korea will invest $200bn in US energy projects",
-        "link": "https://www.ft.com/content/f0cdc5bc-c07a-47cf-9602-064006176aef?syn-25a6b1a6=1",
-        "published_date": "Wed, 30 Sep 2026 22:41:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605189"
-      },
-      "20e6808e44b7fb10acce7acf32de6cb541b48837313d865fa1af30e2fa001287": {
-        "title": "Paramount names Mattel boss co-CEO as it looks to close Warner Bros deal",
-        "link": "https://www.ft.com/content/baa261b7-681d-41b7-b41a-d704858cd0b2?syn-25a6b1a6=1",
-        "published_date": "Wed, 30 Sep 2026 22:28:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605191"
-      },
-      "4cca59722f73c208c2c8c145d5c959b9e387825fa45f6f9c97c65eb7285e3786": {
-        "title": "Hegseth extols overhaul of US military in ‘state of the force’ speech",
-        "link": "https://www.ft.com/content/b5b79e91-37d6-45c1-9907-cd3ea957cb5d?syn-25a6b1a6=1",
-        "published_date": "Wed, 30 Sep 2026 22:28:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605193"
-      },
-      "0f8057092b7f64c37ad2339233c03cd8fdc4df0b469908d858fb26746d7ea46d": {
-        "title": "US competition watchdog expands investigation of Anthropic and OpenAI",
-        "link": "https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1",
-        "published_date": "Wed, 30 Sep 2026 21:39:00 GMT",
-        "first_seen": "2026-10-01T01:53:02.605194"
-      },
       "58454ae7381ad181d7c8b935264015012856616f7310f67c1e2959ed250fd737": {
         "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
         "link": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
@@ -6927,69 +6867,69 @@
         "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
         "published_date": "Fri, 30 Oct 2026 08:36:00 GMT",
         "first_seen": "2026-10-30T11:15:32.102546"
+      },
+      "ea45da1a461ac3416b9a3d721aae43f114e4e88f717f20cb1bb439c436b7503f": {
+        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+        "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 18:19:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320025"
+      },
+      "1ba1d241773476cca5a9b82852f1edf74f250b8b72dd4a897e5066d7bf4661e1": {
+        "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+        "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+        "published_date": "Sat, 31 Oct 2026 00:05:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320033"
+      },
+      "2d7e907690c9d7c38b07789ad9eeab09703e7a48fa5626e08d3bd251a0d4d045": {
+        "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+        "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 22:17:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320035"
+      },
+      "936d903a8bc5e9a5cda37bd01cb8f7411bf03e813324553df64f9d83e2aa6b60": {
+        "title": "US greenlights $2.1bn sale of Patriot interceptors to Ukraine",
+        "link": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 21:28:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320037"
+      },
+      "9840b2c753229ed8f6c6367aa2c2c9a705a41a79f9579075b0dcf1bbea6a5b97": {
+        "title": "US tech stocks tumble as concerns over AI spending intensify",
+        "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 21:13:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320039"
+      },
+      "0dd56a34c9cc13a5a3120c9547fbf860eab384b6a4850c5e9cde67333d857a6d": {
+        "title": "CD&R pursues buyout of $40bn card processor Global Payments",
+        "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 17:10:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320040"
+      },
+      "f75e02cbb75660f810938853aeaee8fb66a08c74708a911db53ff74d407c68bd": {
+        "title": "Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town",
+        "link": "https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 16:37:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320042"
+      },
+      "05d3c9fbee89c80694f57d047fc7bdd81fe69cf78544f1b8dd3bb6778d6e630a": {
+        "title": "Russia observes rare Ukraine ceasefire to allow evacuations",
+        "link": "https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024",
+        "published_date": "Fri, 30 Oct 2026 16:13:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320044"
+      },
+      "27a7c7aea5005f7efaf7ffe0a1b81ca0bad91fc2c3288f4ccb9d66e3df80ab52": {
+        "title": "Weil’s Ramona Nee in talks to join Kirkland & Ellis",
+        "link": "https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 12:42:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320045"
+      },
+      "ccb6189b8edad65cbec8b95a91e5088f41659d2026a8e1245bb0a1c5f6a0ae64": {
+        "title": "How North Korea became a hacking superpower",
+        "link": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
+        "published_date": "Fri, 30 Oct 2026 11:20:00 GMT",
+        "first_seen": "2026-10-31T02:06:51.320047"
       }
     },
     "Ai": {
-      "d5c38e789fc1f094ff4357eb7d23a818847704882b2a382a80f7e0ed24c778d0": {
-        "title": "昉擎科技创始人被强制执行 寒武纪股权激励争议尘埃落定",
-        "link": "https://www.leiphone.com/category/chips/6z6p5tEXgSyeu1lf.html",
-        "published_date": "Wed, 30 Sep 2026 22:00:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127364"
-      },
-      "b3878b6009258a0f8aef9e47f76e688f5186601440b82171103ef99c7b0cc7d3": {
-        "title": "AI办公进入「上下文战争」，百度如何出牌？",
-        "link": "https://www.leiphone.com/category/industrynews/7q7ZyMuKeWjc1uGz.html",
-        "published_date": "Wed, 30 Sep 2026 19:50:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127373"
-      },
-      "a5a985161cfb8b18fc84dd946baa46a0734be53f4b4fa3a8b87735d192f02f5e": {
-        "title": "DeepSeek 开源算子工具大礼包，联手华为昇腾，手撕 CUDA 绑定！",
-        "link": "https://www.leiphone.com/category/yanxishe/UUIfK7eeFE9Ws1JI.html",
-        "published_date": "Wed, 30 Sep 2026 18:58:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127375"
-      },
-      "1ada21e460fa9bb95f757b1287ff44a7c11097c6c159c7e81a867211025a7789": {
-        "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-        "link": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-        "published_date": "Wed, 30 Sep 2026 17:00:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127377"
-      },
-      "3cf5b396671e260b035c65f2a6d9c87aaff7663e08a5666db1b65c0c438e8fda": {
-        "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-        "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-        "published_date": "Wed, 30 Sep 2026 15:00:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127378"
-      },
-      "8d2793645aa95748575984b4ec87da9eb382146ca0fe14afcae917eed2118ba9": {
-        "title": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
-        "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
-        "published_date": "Wed, 30 Sep 2026 15:37:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127380"
-      },
-      "071bf312843dc69465d2f6b5f253051002ea06db111f798a27b5a9a73617bcb2": {
-        "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
-        "published_date": "Wed, 30 Sep 2026 15:21:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127382"
-      },
-      "8b62262fd2b47305c0803c2b48ecd7983392a49a5a049fa4ef5ec7fd12016aa6": {
-        "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-        "link": "https://www.qbitai.com/2026/09/499654.html",
-        "published_date": "Wed, 30 Sep 2026 14:03:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127384"
-      },
-      "1cd34ef965a51479e7d73f531b10f3c96b6184cce132408e856dcd5d36226c04": {
-        "title": "直播回顾：工业AI的下一个机会在哪？",
-        "link": "https://www.qbitai.com/2026/09/499605.html",
-        "published_date": "Wed, 30 Sep 2026 12:11:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127388"
-      },
-      "c58f2adab93b140dff7fa31b4103f921da9a24ce0a460159aaa2e89289fa2ddd": {
-        "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
-        "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
-        "published_date": "Wed, 30 Sep 2026 11:15:00 GMT",
-        "first_seen": "2026-10-01T01:53:12.127390"
-      },
       "940c5f7b77c03f8d0c1305e56a874ef6c23a08628103923e168f4b79da5ee4f0": {
         "title": "连败6场遭强制执行 寒武纪前高管无端再提天价索赔 谁最受伤？",
         "link": "https://www.leiphone.com/category/industrynews/kf23Cq1EQJfpwbcX.html",
@@ -9761,13 +9701,73 @@
         "link": "https://www.leiphone.com/category/weiwu/FrjosYobsoHysRCW.html",
         "published_date": "Fri, 30 Oct 2026 15:07:00 GMT",
         "first_seen": "2026-10-30T11:15:22.626616"
+      },
+      "b516da1d557b580c692c9237d4f6f0f34e055bb88b1c778bef2372969347c4a1": {
+        "title": "阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能",
+        "link": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
+        "published_date": "Sat, 31 Oct 2026 06:52:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855343"
+      },
+      "d27ad8dd7b5e90b0630f726fb405ee79ba99b7be15227492adf3e1361e3e2401": {
+        "title": "游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”",
+        "link": "https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html",
+        "published_date": "Fri, 30 Oct 2026 22:20:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855353"
+      },
+      "b2bb07309419af4261910950b6445d3d14b553e8f8b39eaaf70fbf75d1c529d5": {
+        "title": "一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？",
+        "link": "https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html",
+        "published_date": "Fri, 30 Oct 2026 19:32:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855355"
+      },
+      "3dc10d6b40771a1da54b336b374247a3237a6146b7210ed36cfc92aeaf49be96": {
+        "title": "李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？",
+        "link": "https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html",
+        "published_date": "Fri, 30 Oct 2026 19:12:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855357"
+      },
+      "25a5a4c63c0d9d8d3f78e4f997c871ddfdda7177ba788c60f86308822bcb9f6f": {
+        "title": "进击中的影石：攻击性强，血条太脆 ？",
+        "link": "https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html",
+        "published_date": "Fri, 30 Oct 2026 19:12:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855358"
+      },
+      "3acaef05e9844ab304b264d98590809a61ec1f35c18a515a83353d8b0c33b54f": {
+        "title": "全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州",
+        "link": "https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html",
+        "published_date": "Fri, 30 Oct 2026 19:08:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855362"
+      },
+      "d9d9490205e158a199890df6aec6042901b8d216778f67153d5bf05c81650722": {
+        "title": "沙钢接入千问办公，已将Agent落地核心业务场景",
+        "link": "https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html",
+        "published_date": "Fri, 30 Oct 2026 18:38:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855363"
+      },
+      "5e28cfd59df8fdd171079f477a223d24400b56befb0972fecb1d548563a17210": {
+        "title": "盖伦奖提名一年后，希格生科的边界、验证与野心",
+        "link": "https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html",
+        "published_date": "Fri, 30 Oct 2026 18:03:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855367"
+      },
+      "efb5f8cbe68fe214b24cd8788d396bfa6683b3c1d943dc4464dda85f5524bdf3": {
+        "title": "在代谢酶网络里，默达生物找到了一个让坏细胞「吃不饱饭」的开关",
+        "link": "https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html",
+        "published_date": "Fri, 30 Oct 2026 17:51:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855370"
+      },
+      "b6aa1a2a7a8677368e8ab866e7c179e0535f00292c4f505e57431a27b25a616c": {
+        "title": "欣旺达前三季度营收634.62亿元，终止H股上市计划",
+        "link": "https://www.leiphone.com/category/industrynews/STPEobhiyi9XOsmj.html",
+        "published_date": "Fri, 30 Oct 2026 17:33:00 GMT",
+        "first_seen": "2026-10-31T02:06:41.855372"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-30T11:15:13.069516",
-    "Finance": "2026-10-30T11:15:32.102547",
-    "Ai": "2026-10-30T11:15:22.626618"
+    "Technology": "2026-10-31T02:06:32.096003",
+    "Finance": "2026-10-31T02:06:51.320048",
+    "Ai": "2026-10-31T02:06:41.855376"
   }
 }

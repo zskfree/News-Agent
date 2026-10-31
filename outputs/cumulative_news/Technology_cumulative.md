@@ -1,7 +1,55 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-30 11:15
+**最后更新时间**: 2026-10-31 02:06
+
+---
+
+## 🆕 最新更新 (2026-10-31 02:06)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [人类距离乙肝“治愈”究竟还有多远？](https://www.tmtpost.com/8188049.html)
+**发布时间**: 2026-10-31 09:52
+
+#### [绿泡泡狂飙、AI剧起量：短剧竞争，早已越过App排行榜](https://www.tmtpost.com/8187968.html)
+**发布时间**: 2026-10-31 09:52
+
+#### [Edge AI Daily 早报（10月31日）](https://www.tmtpost.com/8188149.html)
+**发布时间**: 2026-10-31 09:36
+
+#### [代谢创新药进入“中国时间”：从产品出海到能力出海的行业跃迁丨行业风向标](https://www.tmtpost.com/8187920.html)
+**发布时间**: 2026-10-30 23:18
+
+#### [具身智能患上了焦虑症](https://www.tmtpost.com/8187761.html)
+**发布时间**: 2026-10-30 19:01
+
+#### [跨境电商的AI真相：进入更易，胜出更难](https://www.tmtpost.com/8187749.html)
+**发布时间**: 2026-10-30 19:00
+
+#### [OpenAI又出数学大结果，陶哲轩：数学不该被AI“掠夺式开采”](https://www.tmtpost.com/8187753.html)
+**发布时间**: 2026-10-30 19:00
+
+#### [一条由LABUBU拽动的业绩曲线：泡泡玛特复购率两连降后，三季度收益直接“腰斩”](https://www.tmtpost.com/8187764.html)
+**发布时间**: 2026-10-30 19:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道](http://www.geekpark.net/news/373220)
+**发布时间**: 2026-10-31 08:03
+
+#### [国行 Apple 智能官网正式上线：千问接入，11 月推送](http://www.geekpark.net/news/373238)
+**发布时间**: 2026-10-31 06:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？](https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-31 08:00
+
+#### [27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码](https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 21:00
+
+#### [AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享](https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-10-30 19:27
 
 ---
 

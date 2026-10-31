@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-30 11:12
+**最后更新时间**: 2026-10-31 02:04
+
+---
+
+## 🆕 最新更新 (2026-10-31 02:04)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能](https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html)
+**发布时间**: 2026-10-31 06:52
+
+#### [游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”](https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html)
+**发布时间**: 2026-10-30 22:20
+
+#### [一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？](https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html)
+**发布时间**: 2026-10-30 19:32
+
+#### [李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？](https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html)
+**发布时间**: 2026-10-30 19:12
+
+#### [进击中的影石：攻击性强，血条太脆 ？](https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html)
+**发布时间**: 2026-10-30 19:12
+
+#### [全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州](https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html)
+**发布时间**: 2026-10-30 19:08
+
+#### [沙钢接入千问办公，已将Agent落地核心业务场景](https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html)
+**发布时间**: 2026-10-30 18:38
+
+#### [盖伦奖提名一年后，希格生科的边界、验证与野心](https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html)
+**发布时间**: 2026-10-30 18:03
+
+#### [在代谢酶网络里，默达生物找到了一个让坏细胞「吃不饱饭」的开关](https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html)
+**发布时间**: 2026-10-30 17:51
+
+#### [欣旺达前三季度营收634.62亿元，终止H股上市计划](https://www.leiphone.com/category/industrynews/STPEobhiyi9XOsmj.html)
+**发布时间**: 2026-10-30 17:33
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams](https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/)
+**发布时间**: 2026-10-30 22:42
+
+#### [Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/)
+**发布时间**: 2026-10-30 21:40
+
+#### [How Worldwide Express automated freight exceptions with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/)
+**发布时间**: 2026-10-30 17:32
+
+#### [Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)](https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us/)
+**发布时间**: 2026-10-30 17:27
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [nemotron-halloween](https://huggingface.co/blog/nvidia/nemotron-halloween)
+**发布时间**: 2026-10-30 17:57
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%](https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/)
+**发布时间**: 2026-10-30 17:53
+
+#### [AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare](https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/)
+**发布时间**: 2026-10-30 17:34
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows](https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030)
+**发布时间**: 2026-10-30 16:15
+
+#### [Q&A: Hey AI, who should I vote for this year?](https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030)
+**发布时间**: 2026-10-30 15:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/)
+**发布时间**: 2026-10-30 15:00
 
 ---
 

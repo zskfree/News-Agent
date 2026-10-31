@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-30 11:15
+**最后更新时间**: 2026-10-31 02:06
+
+---
+
+## 🆕 最新更新 (2026-10-31 02:06)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI slashes funding target by $10bn as tech anxieties mount](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 00:05
+
+#### [$6.3bn in 30 minutes: how the world’s biggest heist unfolded](https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 22:17
+
+#### [US greenlights $2.1bn sale of Patriot interceptors to Ukraine](https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 21:28
+
+#### [US tech stocks tumble as concerns over AI spending intensify](https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 21:13
+
+#### [Anthropic may not secure investment-grade rating after IPO, Blackstone says](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 18:19
+
+#### [CD&R pursues buyout of $40bn card processor Global Payments](https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 17:10
+
+#### [Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town](https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 16:37
+
+#### [Russia observes rare Ukraine ceasefire to allow evacuations](https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024)
+**发布时间**: 2026-10-30 16:13
+
+#### [Weil’s Ramona Nee in talks to join Kirkland & Ellis](https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 12:42
+
+#### [How North Korea became a hacking superpower](https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1)
+**发布时间**: 2026-10-30 11:20
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.](https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 23:14
+
+#### [This cybersecurity stock will be the next to join the S&P 500](https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 22:20
+
+#### [Why gold plunged to its lowest price in a year despite renewed Iran jitters](https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 21:30
+
+#### [Warsh wants the Fed to say less. Two officials are pushing for more transparency.](https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 21:23
+
+#### [In a wild October for markets, these stocks were the biggest winners and losers](https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 20:52
+
+#### [Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout](https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 20:48
+
+#### [Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.](https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 20:42
+
+#### [Microsoft is winning the cloud wars and becoming Wall Street’s new golden child](https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 20:29
+
+#### [AMD’s stock slides after Intel earnings reveal two big issues](https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 20:28
+
+#### [The selloff in tech stocks is shifting into overdrive](https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories)
+**发布时间**: 2026-10-30 20:26
 
 ---
 
