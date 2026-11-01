@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 Oct 2026 10:45:00 GMT</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 10:47:58 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 01:56:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:58:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断</title>
-      <link>https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html</link>
-      <description>&lt;![CDATA[智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Vercel Labs Open-Sources agent-desktop for Agent Computer Use</title>
-      <link>https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/</link>
-      <description>&lt;![CDATA[Vercel Labs Open-Sources agent-desktop for Agent Computer Use]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>你的8G iPad里有12G内存！库克走了但他的刀法追着我砍</title>
-      <link>https://www.qbitai.com/2026/10/506884.html</link>
-      <description>&lt;![CDATA[你的8G iPad里有12G内存！库克走了但他的刀法追着我砍]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 05:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506884.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用</title>
-      <link>https://www.qbitai.com/2026/10/506866.html</link>
-      <description>&lt;![CDATA[世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 05:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506866.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
-      <link>https://www.qbitai.com/2026/10/506855.html</link>
-      <description>&lt;![CDATA[刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 05:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/10/506855.html</guid>
+      <title>从“懂回答”到“能执行”：Zoho如何让AI走进企业业务</title>
+      <link>https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html</link>
+      <description>&lt;![CDATA[从“懂回答”到“能执行”：Zoho如何让AI走进企业业务]]&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 17:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html</guid>
       <category>Ai</category>
     </item>
   </channel>

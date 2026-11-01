@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-31 10:45
+**最后更新时间**: 2026-11-01 01:56
+
+---
+
+## 🆕 最新更新 (2026-11-01 01:56)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从“懂回答”到“能执行”：Zoho如何让AI走进企业业务](https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html)
+**发布时间**: 2026-10-31 17:55
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode](https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/)
+**发布时间**: 2026-10-31 10:38
 
 ---
 

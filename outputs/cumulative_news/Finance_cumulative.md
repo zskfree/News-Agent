@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-10-31 10:47
+**最后更新时间**: 2026-11-01 01:58
+
+---
+
+## 🆕 最新更新 (2026-11-01 01:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals](https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 01:00
+
+#### [Michigan feud threatens Democratic unity in key Senate race](https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 23:57
+
+#### [Tusk vows to press on with overhaul of Poland’s judiciary](https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 22:51
+
+#### [Investors trim growth bets over fears of US economy’s AI exposure](https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 14:00
+
+#### [Iran warns it will retaliate without ‘geographical limitations’ if attacked](https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 13:38
+
+#### [Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections](https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 12:00
+
+#### [Is this the first clear evidence of AI’s impact on the labour market?](https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1)
+**发布时间**: 2026-10-31 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?](https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories)
+**发布时间**: 2026-10-31 19:30
+
+#### [This is where most people go wrong in their 30s and 40s](https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories)
+**发布时间**: 2026-10-31 19:02
+
+#### [Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years](https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories)
+**发布时间**: 2026-10-31 18:10
+
+#### [80% of workers make this 401(k)  mistake when they retire](https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories)
+**发布时间**: 2026-10-31 16:46
+
+#### [Want guaranteed income in retirement without an annuity? Try laddering I bonds.](https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories)
+**发布时间**: 2026-10-31 16:02
 
 ---
 
