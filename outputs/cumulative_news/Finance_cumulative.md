@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-01 01:58
+**最后更新时间**: 2026-11-01 11:45
+
+---
+
+## 🆕 最新更新 (2026-11-01 11:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Binance restarts customer withdrawals after $6.3bn heist](https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 09:38
+
+#### [Russia forced to ship grain via Arctic as Black Sea battles rage](https://www.ft.com/content/50aeab56-c5e3-44c5-9117-8fadc2f980fb?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 05:00
+
+#### [Military briefing: what would another US-Iran conflict look like?](https://www.ft.com/content/89e3ff89-c097-44cb-a290-0d46726e6075?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 05:00
+
+#### [EU leaders risk breaking their promise to help European start-ups](https://www.ft.com/content/ce1e852d-c699-4cf6-b8a0-78fd283556f3?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 05:00
+
+#### [Bond investors sit out ‘most consequential’ US midterm elections in years](https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 05:00
+
+#### [Quant hedge fund to spin out of Tudor in record $9bn launch](https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 05:00
+
+#### [New Zealand’s kingmaker could be a 38-year-old ex-KPMG consultant](https://www.ft.com/content/217e8187-7b57-40dc-9439-03266e6c900f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 05:00
+
+#### [Evacuees from Russian-occupied city arrive in Ukraine](https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1)
+**发布时间**: 2026-10-31 15:17
 
 ---
 

@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-01 01:56
+**最后更新时间**: 2026-11-01 11:43
+
+---
+
+## 🆕 最新更新 (2026-11-01 11:43)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄](https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html)
+**发布时间**: 2026-11-01 15:13
+
+#### [吉利Q3营收近千亿，在英国跨过新手期](https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html)
+**发布时间**: 2026-11-01 14:36
+
+#### [小米汽车10月交付超5万辆，澎程首个完整交付月持续上量](https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html)
+**发布时间**: 2026-11-01 14:29
+
+#### [商汤开源 SenseNova Loop-9B-Preview：探索以计算深度释放模型潜力](https://www.leiphone.com/category/industrynews/f9tAHG0kPopK1Nnw.html)
+**发布时间**: 2026-10-31 10:51
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon](https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/)
+**发布时间**: 2026-11-01 08:10
+
+#### [DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent](https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/)
+**发布时间**: 2026-11-01 07:47
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考](https://www.qbitai.com/2026/11/507031.html)
+**发布时间**: 2026-11-01 08:02
+
+#### [老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子](https://www.qbitai.com/2026/11/506990.html)
+**发布时间**: 2026-11-01 07:50
+
+#### [Jev新成果，再次引爆开源](https://www.qbitai.com/2026/11/506922.html)
+**发布时间**: 2026-11-01 04:18
+
+#### [刚刚，DeepSeek重磅开源：Agent底座架构！](https://www.qbitai.com/2026/10/506904.html)
+**发布时间**: 2026-10-31 13:49
 
 ---
 

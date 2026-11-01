@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Nov 2026 01:58:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 01:58:21 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 11:45:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:45:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>相比二代掌权的通化东宝，甘李药业更像一家创新药企</title>
-      <link>https://www.tmtpost.com/8187864.html</link>
-      <description>&lt;![CDATA[相比二代掌权的通化东宝，甘李药业更像一家创新药企]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 20:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8187864.html</guid>
+      <title>复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>芯片的大买主们，快没钱了？</title>
-      <link>https://www.tmtpost.com/8188472.html</link>
-      <description>&lt;![CDATA[芯片的大买主们，快没钱了？]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 19:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8188472.html</guid>
+      <title>从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从算法到芯片，Momenta正在下一盘什么棋？</title>
-      <link>https://www.tmtpost.com/8188282.html</link>
-      <description>&lt;![CDATA[从算法到芯片，Momenta正在下一盘什么棋？]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 19:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8188282.html</guid>
+      <title>写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek，怎么就变成了一条「大肥鱼」</title>
-      <link>http://www.geekpark.net/news/373245</link>
-      <description>&lt;![CDATA[DeepSeek，怎么就变成了一条「大肥鱼」]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 09:46:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373245</guid>
+      <title>移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图</title>
+      <link>https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>L4需要更大的模型，芯片得换个造法了</title>
+      <link>https://www.tmtpost.com/8188662.html</link>
+      <description>&lt;![CDATA[L4需要更大的模型，芯片得换个造法了]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 10:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8188662.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>当 AI 能读懂二进制，闭源软件还剩多少护城河？</title>
+      <link>https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当 AI 能读懂二进制，闭源软件还剩多少护城河？]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>如果 AI 幻觉也有预算，超支之后该怎么办？</title>
+      <link>https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[如果 AI 幻觉也有预算，超支之后该怎么办？]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
       <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-      <link>http://www.geekpark.net/news/373244</link>
+      <link>http://www.geekpark.net/news/373249</link>
       <description>&lt;![CDATA[个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 09:41:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373244</guid>
+      <pubDate>Sun, 01 Nov 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373249</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人</title>
-      <link>http://www.geekpark.net/news/373243</link>
-      <description>&lt;![CDATA[DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 08:29:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373243</guid>
+      <title>DeepSeek，怎么就变成了一条「大肥鱼」</title>
+      <link>http://www.geekpark.net/news/373248</link>
+      <description>&lt;![CDATA[DeepSeek，怎么就变成了一条「大肥鱼」]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373248</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（11月1日）</title>
-      <link>https://www.tmtpost.com/8188908.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（11月1日）]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 09:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8188908.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报</title>
-      <link>https://www.tmtpost.com/8188863.html</link>
-      <description>&lt;![CDATA[透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 21:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8188863.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收</title>
-      <link>https://www.tmtpost.com/8188178.html</link>
-      <description>&lt;![CDATA[易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 20:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8188178.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>蔚来的“三个聚焦”：为规模幻觉买单之后</title>
-      <link>https://www.tmtpost.com/8187393.html</link>
-      <description>&lt;![CDATA[蔚来的“三个聚焦”：为规模幻觉买单之后]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 20:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8187393.html</guid>
+      <title>Agent改写算力账本，CPU不再是AI服务器的配角？</title>
+      <link>https://www.tmtpost.com/8189082.html</link>
+      <description>&lt;![CDATA[Agent改写算力账本，CPU不再是AI服务器的配角？]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 17:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189082.html</guid>
       <category>Technology</category>
     </item>
   </channel>

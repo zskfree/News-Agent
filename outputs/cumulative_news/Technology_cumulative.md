@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-01 01:58
+**最后更新时间**: 2026-11-01 11:45
+
+---
+
+## 🆕 最新更新 (2026-11-01 11:45)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践](https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-01 19:12
+
+#### [从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践](https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-01 18:58
+
+#### [写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践](https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-01 18:24
+
+#### [当 AI 能读懂二进制，闭源软件还剩多少护城河？](https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-01 17:00
+
+#### [移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图](https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-01 14:00
+
+#### [如果 AI 幻觉也有预算，超支之后该怎么办？](https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-01 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新](http://www.geekpark.net/news/373249)
+**发布时间**: 2026-11-01 18:03
+
+#### [DeepSeek，怎么就变成了一条「大肥鱼」](http://www.geekpark.net/news/373248)
+**发布时间**: 2026-11-01 17:57
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Agent改写算力账本，CPU不再是AI服务器的配角？](https://www.tmtpost.com/8189082.html)
+**发布时间**: 2026-11-01 17:13
+
+#### [从车工到巴西总统，卢拉为何看重中国车企？](https://www.tmtpost.com/8189118.html)
+**发布时间**: 2026-11-01 17:13
+
+#### [从卖电芯到卖“并网承诺”，宁德时代在澳洲抬高了什么门槛？](https://www.tmtpost.com/8189078.html)
+**发布时间**: 2026-11-01 17:13
+
+#### [南十字星下的中国能源军团：All-Energy Australia 2026 背后的光储棋局](https://www.tmtpost.com/8189075.html)
+**发布时间**: 2026-11-01 17:13
+
+#### [补贴到账了，消费者为何却未必省下更多？](https://www.tmtpost.com/8189112.html)
+**发布时间**: 2026-11-01 17:13
+
+#### [全球买电动车最积极的地方，为什么是越南？](https://www.tmtpost.com/8189070.html)
+**发布时间**: 2026-11-01 17:13
+
+#### [详解Super Agent：会主动干活，更懂何时闭嘴](https://www.tmtpost.com/8189032.html)
+**发布时间**: 2026-11-01 16:26
+
+#### [从效率到效能，真正的AI组织](https://www.tmtpost.com/8188900.html)
+**发布时间**: 2026-11-01 16:26
+
+#### [修补“漏水船”：腾讯AI的B端转向](https://www.tmtpost.com/8186131.html)
+**发布时间**: 2026-11-01 16:26
+
+#### [野人先生获黑蚁资本投资，或将启动海外扩张](https://www.tmtpost.com/8188017.html)
+**发布时间**: 2026-11-01 11:33
+
+#### [【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市](https://www.tmtpost.com/8188997.html)
+**发布时间**: 2026-11-01 11:32
+
+#### [一瓶芭乐汁含50克碳水，清蓝的“健康叙事”还能说服多少人？](https://www.tmtpost.com/8188946.html)
+**发布时间**: 2026-11-01 11:10
+
+#### [人形机器人的第一份公账，Agility Robotics  上市前夜的深度解析](https://www.tmtpost.com/8188901.html)
+**发布时间**: 2026-11-01 11:10
+
+#### [小学生都可以看懂的例子，揭示为什么产销协同消除不了KPI矛盾，反而会引爆它？](https://www.tmtpost.com/8175288.html)
+**发布时间**: 2026-11-01 11:10
+
+#### [具身智能的钱，流向机器人的“皮肤”](https://www.tmtpost.com/8188790.html)
+**发布时间**: 2026-11-01 10:57
+
+#### [果汁上下游集体押注，HPP果汁发起冰柜新战争](https://www.tmtpost.com/8188846.html)
+**发布时间**: 2026-11-01 10:57
+
+#### [前三季度净利腰斩，出让动力子公司控制权的欣旺达叫停港股IPO](https://www.tmtpost.com/8188862.html)
+**发布时间**: 2026-11-01 10:57
+
+#### [12 万招 985 硕士，3000 万给一个专科生：张雪到底在按什么开价？](https://www.tmtpost.com/8188665.html)
+**发布时间**: 2026-11-01 10:20
+
+#### [L4需要更大的模型，芯片得换个造法了](https://www.tmtpost.com/8188662.html)
+**发布时间**: 2026-11-01 10:13
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」](https://sspai.com/post/116991)
+**发布时间**: 2026-11-01 15:02
 
 ---
 

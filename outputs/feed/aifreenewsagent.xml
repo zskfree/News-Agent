@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Nov 2026 01:56:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 01:58:21 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 11:43:00 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:45:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从“懂回答”到“能执行”：Zoho如何让AI走进企业业务</title>
-      <link>https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html</link>
-      <description>&lt;![CDATA[从“懂回答”到“能执行”：Zoho如何让AI走进企业业务]]&gt;</description>
-      <pubDate>Sat, 31 Oct 2026 17:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html</guid>
+      <title>极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄</title>
+      <link>https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html</link>
+      <description>&lt;![CDATA[极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>吉利Q3营收近千亿，在英国跨过新手期</title>
+      <link>https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html</link>
+      <description>&lt;![CDATA[吉利Q3营收近千亿，在英国跨过新手期]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>小米汽车10月交付超5万辆，澎程首个完整交付月持续上量</title>
+      <link>https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html</link>
+      <description>&lt;![CDATA[小米汽车10月交付超5万辆，澎程首个完整交付月持续上量]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 14:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon</title>
+      <link>https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/</link>
+      <description>&lt;![CDATA[Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 08:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent</title>
+      <link>https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</link>
+      <description>&lt;![CDATA[DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 07:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考</title>
+      <link>https://www.qbitai.com/2026/11/507031.html</link>
+      <description>&lt;![CDATA[清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 08:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/507031.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子</title>
+      <link>https://www.qbitai.com/2026/11/506990.html</link>
+      <description>&lt;![CDATA[老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 07:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/506990.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Jev新成果，再次引爆开源</title>
+      <link>https://www.qbitai.com/2026/11/506922.html</link>
+      <description>&lt;![CDATA[Jev新成果，再次引爆开源]]&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 04:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/506922.html</guid>
       <category>Ai</category>
     </item>
   </channel>
