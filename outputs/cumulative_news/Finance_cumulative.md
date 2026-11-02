@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-01 11:45
+**最后更新时间**: 2026-11-02 02:11
+
+---
+
+## 🆕 最新更新 (2026-11-02 02:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump makes final pitch to restive voters in midterms campaign](https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 01:47
+
+#### [Gulf braced for escalation of war between US-Israel alliance and Iran](https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 01:36
+
+#### [Nine killed as business jet crashes in Florida](https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 23:25
+
+#### [Inside the leaderless movement set to govern Serbia](https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 16:12
+
+#### [France and the UK require a new entente](https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7)
+**发布时间**: 2026-11-01 16:00
+
+#### [Junk debt rout sparks ‘bloodbath’ for credit investors](https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 14:54
+
+#### [Weil Gotshal: what happens now at the troubled Wall St law firm?](https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-01 12:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This is the biggest threat to the AI-powered bull market](https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 00:22
+
+#### [Apple’s new earnings era begins at a critical time for Big Tech](https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 00:21
+
+#### [My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?](https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories)
+**发布时间**: 2026-11-01 17:30
+
+#### [America is doing better than you think. Your algorithm is just hiding it.](https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories)
+**发布时间**: 2026-11-01 13:00
+
+#### [Who really wins under Trump’s economy? Coastal liberal elites who hate him.](https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories)
+**发布时间**: 2026-11-01 13:00
 
 ---
 

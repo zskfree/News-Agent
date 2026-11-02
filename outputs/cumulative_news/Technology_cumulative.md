@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-01 11:45
+**最后更新时间**: 2026-11-02 02:11
+
+---
+
+## 🆕 最新更新 (2026-11-02 02:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [永辉“刮骨”，大润发“疗伤”](https://www.tmtpost.com/8189408.html)
+**发布时间**: 2026-11-02 09:33
+
+#### [反神话：当人工智能危机来临，人类如何应对？](https://www.tmtpost.com/8189371.html)
+**发布时间**: 2026-11-02 09:28
+
+#### [传音的非洲手机生意，现金流为什么突然恶化了？](https://www.tmtpost.com/8189295.html)
+**发布时间**: 2026-11-02 09:22
+
+#### [苹果选择千问，另有目的](https://www.tmtpost.com/8189162.html)
+**发布时间**: 2026-11-02 09:17
+
+#### [一箭18星背后，谁在决定中国商业火箭的命运？](https://www.tmtpost.com/8189362.html)
+**发布时间**: 2026-11-02 09:11
+
+#### [借着帕累托曲线，大模型重新定义性价比？](https://www.tmtpost.com/8189229.html)
+**发布时间**: 2026-11-02 09:03
+
+#### [赵黎明：非侵入脑机接口的应用探索，从技术范式到卒中监护的临床落地 | 钛资本医疗健康组](https://www.tmtpost.com/8189296.html)
+**发布时间**: 2026-11-02 09:03
+
+#### [谷歌的AI生意越做越大，华尔街为什么不买帐](https://www.tmtpost.com/8189211.html)
+**发布时间**: 2026-11-02 09:01
+
+#### [今年双十一，开始“纯过日子”](https://www.tmtpost.com/8189205.html)
+**发布时间**: 2026-11-02 09:00
+
+#### [信心还在路上，商场的人气回来了](https://www.tmtpost.com/8189293.html)
+**发布时间**: 2026-11-02 08:58
+
+#### [欧洲准备从中国小包裹里，每年收走60亿欧元](https://www.tmtpost.com/8189267.html)
+**发布时间**: 2026-11-02 08:55
+
+#### [千亿融资敲定后，DeepSeek发布了Super-agent架构](https://www.tmtpost.com/8189170.html)
+**发布时间**: 2026-11-02 08:55
+
+#### [Edge AI Daily 早报（11月2日）](https://www.tmtpost.com/8189326.html)
+**发布时间**: 2026-11-02 08:16
+
+#### [【钛晨报】事关股市，央行、金融监管总局、证监会今日将召开会议；中国国新、中国诚通，各获大行新增千亿级股票回购增持贷款额度；小鹏、小米10月交付量首超5万，鸿蒙智行同比腰斩](https://www.tmtpost.com/8189217.html)
+**发布时间**: 2026-11-02 07:20
+
+#### [赫拉利深度访谈：真正的 AI 危机来了！](https://www.tmtpost.com/8189151.html)
+**发布时间**: 2026-11-01 20:04
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [CI 出错后，谁来把关？Buildkite 的智能体新思路](https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 09:20
+
+#### [ChatGPT Pro 额度翻倍：是让步，不是福利？](https://www.infoq.cn/article/WpTNht7guarWEyejJFV6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 09:16
+
+#### [百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI](https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 09:12
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场](http://www.geekpark.net/news/373252)
+**发布时间**: 2026-11-02 08:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Apple 智能将随 iOS 27.3 登陆中国](https://sspai.com/post/118191)
+**发布时间**: 2026-11-02 07:22
 
 ---
 

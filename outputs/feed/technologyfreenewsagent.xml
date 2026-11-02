@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Nov 2026 11:45:00 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 11:45:19 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 02:11:00 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:11:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 19:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>赵黎明：非侵入脑机接口的应用探索，从技术范式到卒中监护的临床落地 | 钛资本医疗健康组</title>
+      <link>https://www.tmtpost.com/8189296.html</link>
+      <description>&lt;![CDATA[赵黎明：非侵入脑机接口的应用探索，从技术范式到卒中监护的临床落地 | 钛资本医疗健康组]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189296.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从近两小时到 30 秒，SQL 查询性能优化有了新解法 ｜ 技术实践]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/adFNTX7Qiy7yYIGEmTlk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>千亿融资敲定后，DeepSeek发布了Super-agent架构</title>
+      <link>https://www.tmtpost.com/8189170.html</link>
+      <description>&lt;![CDATA[千亿融资敲定后，DeepSeek发布了Super-agent架构]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 08:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189170.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[写好的 Skill 如何让整个团队复用？Snowflake CoCo 打通共享与治理流程 ｜ 技术实践]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 18:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0ap8HB0DwK6Xa1lBSNVy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>永辉“刮骨”，大润发“疗伤”</title>
+      <link>https://www.tmtpost.com/8189408.html</link>
+      <description>&lt;![CDATA[永辉“刮骨”，大润发“疗伤”]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189408.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图</title>
-      <link>https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>反神话：当人工智能危机来临，人类如何应对？</title>
+      <link>https://www.tmtpost.com/8189371.html</link>
+      <description>&lt;![CDATA[反神话：当人工智能危机来临，人类如何应对？]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189371.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>L4需要更大的模型，芯片得换个造法了</title>
-      <link>https://www.tmtpost.com/8188662.html</link>
-      <description>&lt;![CDATA[L4需要更大的模型，芯片得换个造法了]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8188662.html</guid>
+      <title>传音的非洲手机生意，现金流为什么突然恶化了？</title>
+      <link>https://www.tmtpost.com/8189295.html</link>
+      <description>&lt;![CDATA[传音的非洲手机生意，现金流为什么突然恶化了？]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189295.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 AI 能读懂二进制，闭源软件还剩多少护城河？</title>
-      <link>https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 AI 能读懂二进制，闭源软件还剩多少护城河？]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs?utm_source=rss&amp;utm_medium=article</guid>
+      <title>苹果选择千问，另有目的</title>
+      <link>https://www.tmtpost.com/8189162.html</link>
+      <description>&lt;![CDATA[苹果选择千问，另有目的]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189162.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>如果 AI 幻觉也有预算，超支之后该怎么办？</title>
-      <link>https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[如果 AI 幻觉也有预算，超支之后该怎么办？]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一箭18星背后，谁在决定中国商业火箭的命运？</title>
+      <link>https://www.tmtpost.com/8189362.html</link>
+      <description>&lt;![CDATA[一箭18星背后，谁在决定中国商业火箭的命运？]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189362.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新</title>
-      <link>http://www.geekpark.net/news/373249</link>
-      <description>&lt;![CDATA[个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373249</guid>
+      <title>借着帕累托曲线，大模型重新定义性价比？</title>
+      <link>https://www.tmtpost.com/8189229.html</link>
+      <description>&lt;![CDATA[借着帕累托曲线，大模型重新定义性价比？]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189229.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek，怎么就变成了一条「大肥鱼」</title>
-      <link>http://www.geekpark.net/news/373248</link>
-      <description>&lt;![CDATA[DeepSeek，怎么就变成了一条「大肥鱼」]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373248</guid>
+      <title>谷歌的AI生意越做越大，华尔街为什么不买帐</title>
+      <link>https://www.tmtpost.com/8189211.html</link>
+      <description>&lt;![CDATA[谷歌的AI生意越做越大，华尔街为什么不买帐]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189211.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent改写算力账本，CPU不再是AI服务器的配角？</title>
-      <link>https://www.tmtpost.com/8189082.html</link>
-      <description>&lt;![CDATA[Agent改写算力账本，CPU不再是AI服务器的配角？]]&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8189082.html</guid>
+      <title>今年双十一，开始“纯过日子”</title>
+      <link>https://www.tmtpost.com/8189205.html</link>
+      <description>&lt;![CDATA[今年双十一，开始“纯过日子”]]&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8189205.html</guid>
       <category>Technology</category>
     </item>
   </channel>
