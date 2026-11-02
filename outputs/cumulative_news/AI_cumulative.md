@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-02 02:09
+**最后更新时间**: 2026-11-02 13:11
+
+---
+
+## 🆕 最新更新 (2026-11-02 13:11)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [90 后北大副教授董豪：启元机器人，正在勇闯具身终局](https://www.leiphone.com/category/ai/1mfsMzxNwaTmqZ7e.html)
+**发布时间**: 2026-11-02 18:34
+
+#### [产业资本继续押注具身：斯坦福双子星创办的黑马公司 RoboScience 机器科学，宣布完成 A2 轮融资](https://www.leiphone.com/category/ai/GqrJT2vlPFBxElDY.html)
+**发布时间**: 2026-11-02 18:23
+
+#### [具身下半场怎么打？智元用一场发布会，给出了自己的答案](https://www.leiphone.com/category/ai/d2myOaWdKKFW23lm.html)
+**发布时间**: 2026-11-02 18:21
+
+#### [从产品幕后到用户故事，极米记得AI新品全阵容亮相INNO100首「硬」礼](https://www.leiphone.com/category/weiwu/AfQerzZ1HwVzZ2yZ.html)
+**发布时间**: 2026-11-02 18:14
+
+#### [破解智能体跨端协同办事难题，支付宝AHA方案获世界互联网大会“新耀”场景奖](https://www.leiphone.com/category/industrynews/oPrDWg9bNg1Dgy4a.html)
+**发布时间**: 2026-11-02 17:41
+
+#### [阿里Qoder获世界互联网大会领先科技奖，已服务超800万用户、10万家企业](https://www.leiphone.com/category/industrynews/JrXpr0xuLSNA9sOY.html)
+**发布时间**: 2026-11-02 17:26
+
+#### [QuestMobile报告：OPPO小布建议9月活跃用户同比增长139.9%](https://www.leiphone.com/category/industrynews/R3J4f2BoqbmygKli.html)
+**发布时间**: 2026-11-02 17:06
+
+#### [Telesin泰迅 大师影像套装再度入驻 Apple 授权专营店 全国上架门店超 3000 家](https://www.leiphone.com/category/weiwu/VGfBreAHogbtKfQC.html)
+**发布时间**: 2026-11-02 16:49
+
+#### [我国吨级商用无人运输机转入批量生产：华鹰航空HE-1A首架量产机在渭南总装下线](https://www.leiphone.com/category/industrynews/daFQUYebSlIWJYll.html)
+**发布时间**: 2026-11-02 16:32
+
+#### [何小鹏：如果你想证明自己的智驾强，那你就应该出国；奇瑞高管回应智界独立；DeepSeek最新融资细节曝光！vivo、美团等位列投资者名单](https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html)
+**发布时间**: 2026-11-02 16:30
+
+#### [从“自己滚”到“自动滚” ，云望创新第二代自动泡沫轴亮相 INNO100](https://www.leiphone.com/category/weiwu/wCzghgwXNAVQvme8.html)
+**发布时间**: 2026-11-02 16:23
+
+#### [美团发布LongCat-2.5大模型，“国芯国模”实现新突破](https://www.leiphone.com/category/industrynews/mUPVr3RF0MHNmn3t.html)
+**发布时间**: 2026-11-02 15:23
+
+#### [阿里云发布AI投研工作台Qovest，给专业投资者配一个“AI研究员”](https://www.leiphone.com/category/industrynews/MFtJXmU8YNMGMig6.html)
+**发布时间**: 2026-11-02 15:09
+
+#### [起底第一批FDE的「生存实录」](https://www.leiphone.com/category/industrynews/WI4VDJIEZ7JaouRq.html)
+**发布时间**: 2026-11-02 14:33
+
+#### [莱芒生物：用1‰剂量，重写CAR-T的成本和疗效公式](https://www.leiphone.com/category/aihealth/Ls0rEvCHmgKUScmR.html)
+**发布时间**: 2026-11-02 14:15
+
+#### [Agent在金融机构走出「试用期」后，价值账怎么算？](https://www.leiphone.com/category/fintech/y2eDRanVtlSZl8w6.html)
+**发布时间**: 2026-11-02 13:59
+
+#### [2026 全球 AI 新云 NeoCloud：考验基本功的时候到了](https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html)
+**发布时间**: 2026-11-02 09:54
+
+#### [Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成](https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html)
+**发布时间**: 2026-11-01 17:46
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信](https://www.qbitai.com/2026/11/507260.html)
+**发布时间**: 2026-11-02 07:47
+
+#### [OpenAI重写大模型法则，第一条：忠于人类！！](https://www.qbitai.com/2026/11/507225.html)
+**发布时间**: 2026-11-02 07:27
+
+#### [央视严选「中国AI创业十骏」：唯一AI制药公司是清华系](https://www.qbitai.com/2026/11/507150.html)
+**发布时间**: 2026-11-02 06:28
+
+#### [小米开源了个150元的AI小玩意，火到配件都涨价了](https://www.qbitai.com/2026/11/507107.html)
+**发布时间**: 2026-11-02 06:08
+
+#### [GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光](https://www.qbitai.com/2026/11/507082.html)
+**发布时间**: 2026-11-02 04:28
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL](https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/)
+**发布时间**: 2026-11-02 07:47
+
+#### [Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA](https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/)
+**发布时间**: 2026-11-02 07:28
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-02日刊](https://hex2077.dev/docs/2026-11/2026-11-02/)
+**发布时间**: 2026-11-02 07:00
+
+#### [2026-11-01日刊](https://hex2077.dev/docs/2026-11/2026-11-01/)
+**发布时间**: 2026-11-02 05:21
+
+#### [2026-10-31日刊](https://hex2077.dev/docs/2026-10/2026-10-31/)
+**发布时间**: 2026-11-02 04:11
 
 ---
 

@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-02 02:11
+**最后更新时间**: 2026-11-02 13:13
+
+---
+
+## 🆕 最新更新 (2026-11-02 13:13)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Alstom shares tumble 28% after train maker cuts profit forecast](https://www.ft.com/content/95723b31-c35b-4d68-9abe-9e082e95e362?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 12:49
+
+#### [How Putin has split the west](https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 12:47
+
+#### [Marvell to buy data centre component maker Lumentum in $115bn AI bet](https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b)
+**发布时间**: 2026-11-02 12:38
+
+#### [Global AI sell-off eases after Nasdaq’s worst month in over a year](https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 12:17
+
+#### [Netanyahu presses Trump for renewed strikes against Iran](https://www.ft.com/content/8505c9d9-bb41-4052-a3dd-874dc9a509b1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 11:52
+
+#### [European supermarket freezers hit just weeks after French cyber attack](https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 09:49
+
+#### [Petrol prices set to hit record high under Trump on eve of US elections](https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 05:00
+
+#### [The meaning of the midterms](https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 05:00
+
+#### [The race to keep AI under control](https://ig.ft.com/ai-safety/?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 05:00
+
+#### [Why rich Ireland still feels poor](https://www.ft.com/content/637d66c0-0b2d-48b2-9d17-f2f5edb86971?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 05:00
+
+#### [Life in Tehran under Trump’s blockade](https://www.ft.com/content/6242529a-9233-4f99-ac90-72bee1099abf?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Marvell and Lumentum officially plan to combine. Here’s what to know.](https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 12:26
+
+#### [America is doing better than you think — just ask those in the bottom half of household wealth](https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 12:22
+
+#### [In the hunt for $1 trillion of revenue, SpaceX reportedly targets Boost Mobile for a deal](https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 12:20
+
+#### [Tech stocks enter November after a brutal October: Is it time to buy the dip?](https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 12:10
+
+#### [How oil prices could average $130 per barrel next year, according to Goldman Sachs](https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 11:14
+
+#### [Citi throws in the towel on hyperscalers after a key stock-market bet misfires](https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 11:08
+
+#### [‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?](https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 10:15
+
+#### [5 celebrities who waited years to buy their dream homes](https://www.marketwatch.com/story/5-celebrities-who-waited-years-to-buy-their-dream-homes-f1551973?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 10:03
 
 ---
 

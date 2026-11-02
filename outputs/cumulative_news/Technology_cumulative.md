@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-02 02:11
+**最后更新时间**: 2026-11-02 13:13
+
+---
+
+## 🆕 最新更新 (2026-11-02 13:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [长安汽车三季报：海外销量大涨，利润却快没了](https://www.tmtpost.com/8189259.html)
+**发布时间**: 2026-11-02 20:26
+
+#### [胶粘剂主业承压下押注半导体，康达新材拟剥离亏损雷达资产](https://www.tmtpost.com/8190391.html)
+**发布时间**: 2026-11-02 20:03
+
+#### [控股股东拟注入巨龙铜业等铜锂资产，高争民爆一字涨停｜并购一线](https://www.tmtpost.com/8190681.html)
+**发布时间**: 2026-11-02 19:46
+
+#### [哈弗H6，耽误了魏建军？](https://www.tmtpost.com/8190411.html)
+**发布时间**: 2026-11-02 19:09
+
+#### [2026的新能源市场，站得最稳的是“星愿们”](https://www.tmtpost.com/8190352.html)
+**发布时间**: 2026-11-02 19:09
+
+#### [为什么最聪明的代码助手，反而不能秒回你的消息？](https://www.tmtpost.com/8189530.html)
+**发布时间**: 2026-11-02 19:09
+
+#### [押中泡泡玛特的黑蚁资本，能给野人先生带来“新剧本”吗？](https://www.tmtpost.com/8190327.html)
+**发布时间**: 2026-11-02 19:09
+
+#### [哈佛女孩刘亦婷的二十七年沉浮录：一个超级IP的诞生、幻灭与沉默](https://www.tmtpost.com/8190414.html)
+**发布时间**: 2026-11-02 19:08
+
+#### [Qwen on China’s iPhones Is Less About Cloud Tokens Than Checkout](https://www.tmtpost.com/8190486.html)
+**发布时间**: 2026-11-02 18:12
+
+#### [四大城商行三季报盘点：江苏、宁波、北京、上海成色几何](https://www.tmtpost.com/8189728.html)
+**发布时间**: 2026-11-02 17:31
+
+#### [中国互联网的现状，离不开电视的退场，现在电视要回来了吗？](https://www.tmtpost.com/8189459.html)
+**发布时间**: 2026-11-02 17:31
+
+#### [AI眼镜，找寻下一个隘口](https://www.tmtpost.com/8190286.html)
+**发布时间**: 2026-11-02 17:31
+
+#### [耐克收回线上授权，滔搏的生意不能只靠大牌](https://www.tmtpost.com/8190324.html)
+**发布时间**: 2026-11-02 17:31
+
+#### [苹果 AI，谁笑到了最后？](https://www.tmtpost.com/8190325.html)
+**发布时间**: 2026-11-02 17:31
+
+#### [以岭药业三季报：创新成果兑现，经营韧性凸显 | 看财报](https://www.tmtpost.com/8190337.html)
+**发布时间**: 2026-11-02 17:15
+
+#### [山姆的“对手”，怎么越来越多？](https://www.tmtpost.com/8190054.html)
+**发布时间**: 2026-11-02 17:10
+
+#### [告别全场打折？餐饮巨头集体盯上会员费](https://www.tmtpost.com/8190003.html)
+**发布时间**: 2026-11-02 17:01
+
+#### [新鲜零食，还能贩卖多久「新鲜感」？](https://www.tmtpost.com/8190175.html)
+**发布时间**: 2026-11-02 16:58
+
+#### [把名字刻进成都地图的乳企，要去北交所敲钟了？](https://www.tmtpost.com/8189999.html)
+**发布时间**: 2026-11-02 16:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cilium 1.20 扩展了 Gateway API 并为 Kubernetes 开放了 eBPF 数据路径](https://www.infoq.cn/article/E3wARaqEN7UZx8wM9TNg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 20:00
+
+#### [AI+艺术：想让AI演得像“老戏骨”，多写提示词不如先演一遍 ｜ 奇点川越创始人 程佳伟导演分享](https://www.infoq.cn/article/pXJoz3XPv5D224a9Fro1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 20:00
+
+#### [谷歌 SynthID Detector 简化了水印检测流程，并将支持范围扩展至其他 AI 提供商](https://www.infoq.cn/article/JoVxAdq1OjtIDkRBjWOW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 18:52
+
+#### [AI+科研：Agent加速科研，论文写得快了，成果更难评了 ｜ 西湖大学工学院博导 王欢分享](https://www.infoq.cn/article/MbwRCg4cKC2f3bwv0Cpb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 18:33
+
+#### [AI+办公：Agent都有“工位”了，云电脑既让它接手业务、也管住权限 ｜ 阿里云智能集团研发副总裁 张献涛分享](https://www.infoq.cn/article/Vryq1f3C0f5uZHOlmIp4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 18:08
+
+#### [InfoQ AI 侦察团现场手记：工具之外，企业 AI 落地还要跨过哪些关？](https://www.infoq.cn/article/ORJZPCwM2XXNcdRYf8de?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 17:39
+
+#### [AI+FDE：合格的FDE，要亲手跟老师傅做业务，再把经验解法做成Skill ｜深空之序联合创始人兼COO 芦宇峰分享](https://www.infoq.cn/article/FckEhkVfCLoXg0jvaKBa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 17:01
+
+#### [别再迷信 Agent 的自主性了](https://www.infoq.cn/article/UMvAAwoFByxvWLLVVJYY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 16:50
+
+#### [66 岁 Yann LeCun 发新论文挑战 Scaling Law：1.09 亿参数胜过 720 亿，模型越大不一定越懂世界](https://www.infoq.cn/article/pWwkDpoFHIsfw9aCRkij?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 15:17
+
+#### [TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载](https://www.infoq.cn/article/X8cwbyO4O3tS1jTTdtBq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 11:11
+
+#### [百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek](https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 09:12
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/118240)
+**发布时间**: 2026-11-02 17:57
+
+#### [TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验](https://sspai.com/post/118122)
+**发布时间**: 2026-11-02 15:00
+
+#### [Xnip 十周年：长截图的新生，也是新的起点](https://sspai.com/post/115662)
+**发布时间**: 2026-11-02 11:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [盘点 10 月份 19 个 Star 蹭蹭涨的 GitHub 项目，第一个很有用。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538256&idx=1&sn=3b97e48392e47b295968f5c66a4ce5f0)
+**发布时间**: 2026-11-02 09:37
 
 ---
 
