@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-03 03:53
+**最后更新时间**: 2026-11-03 12:41
+
+---
+
+## 🆕 最新更新 (2026-11-03 12:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?](https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 12:30
+
+#### [11 bargain-priced stocks of companies that have huge growth potential over the next two years](https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 12:28
+
+#### [What analysts are telling us while Apple’s stock falls after earnings report](https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 12:20
+
+#### [The stock market loves gridlock. But midterm elections won’t resolve two big money fights.](https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 12:12
+
+#### [Palantir stock is down 8%. Analysts say bookings growth is to blame.](https://www.marketwatch.com/story/palantir-stock-is-down-8-analysts-say-bookings-growth-is-to-blame-0492921b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 12:06
+
+#### [Oil has had a massive run, but a prominent bull sees a turning point on midterm eve](https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 10:54
+
+#### [Thousands of Disney job cuts may be coming. Investors are asking what comes next.](https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 10:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil price edges back above $106 after sharp declines](https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 12:19
+
+#### [What 21 months of Trump have done to America](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 11:40
+
+#### [Marshall Wace hit as hedge funds suffer in October’s AI rout](https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 11:37
+
+#### [Americans begin voting in elections to decide control of Congress](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 10:52
+
+#### [Wall Street braces as voters head to high-stakes polls](https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 10:27
+
+#### [US voters prepare to deliver verdict on Trump](https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 10:00
+
+#### [US, Russia and China discuss meeting between Trump, Putin and Xi](https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 08:10
+
+#### [US strikes Iran’s Qeshm Island on eve of election](https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 06:44
+
+#### [Italy’s ‘exit tax’ plan spooks rich expats](https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 05:00
+
+#### [US midterms: the races to watch](https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 20:12
 
 ---
 

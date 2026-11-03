@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-03 03:53
+**最后更新时间**: 2026-11-03 12:41
+
+---
+
+## 🆕 最新更新 (2026-11-03 12:41)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」](http://www.geekpark.net/news/373424)
+**发布时间**: 2026-11-03 19:54
+
+#### [心言巴布「Bubbo 1」：一台机器人，如何成为家人](http://www.geekpark.net/news/373399)
+**发布时间**: 2026-11-03 15:11
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [推理时代，算力产业需要换一套账本丨ToB产业观察](https://www.tmtpost.com/8191692.html)
+**发布时间**: 2026-11-03 19:00
+
+#### [亚玛顿控股股东拟出让控制权，卡牌品牌Hitcard疑改道借壳上市](https://www.tmtpost.com/8192045.html)
+**发布时间**: 2026-11-03 18:43
+
+#### [康佳退市：同一代彩电巨头，为什么活成了完全不同的样子](https://www.tmtpost.com/8188443.html)
+**发布时间**: 2026-11-03 18:30
+
+#### [从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考](https://www.tmtpost.com/8191572.html)
+**发布时间**: 2026-11-03 18:13
+
+#### [Transsion Under Memory Inflation: Stockpiles, a Cold H-Share, and an AI Bet](https://www.tmtpost.com/8191938.html)
+**发布时间**: 2026-11-03 17:46
+
+#### [星巴克的“沙发”，不养“闲人”](https://www.tmtpost.com/8191902.html)
+**发布时间**: 2026-11-03 17:39
+
+#### [营收新高，报表优化，主动终止H股IPO，欣旺达的价值重构](https://www.tmtpost.com/8191205.html)
+**发布时间**: 2026-11-03 17:39
+
+#### [火山和阿里MaaS“双第一”的虚与实](https://www.tmtpost.com/8191199.html)
+**发布时间**: 2026-11-03 17:39
+
+#### [台式奶茶30年：三次穿越周期，这一轮谁能留下？](https://www.tmtpost.com/8191184.html)
+**发布时间**: 2026-11-03 17:39
+
+#### [实控人IPO前套现2.5 亿，董秘临阵离职，科大智能赴港上市为了“国际化”？](https://www.tmtpost.com/8191028.html)
+**发布时间**: 2026-11-03 17:38
+
+#### [“惠普们”要把产能搬回中国，手机代工厂抢先接单了](https://www.tmtpost.com/8191004.html)
+**发布时间**: 2026-11-03 17:38
+
+#### [DeepSeek不满足于模型，还要让AI自己干活](https://www.tmtpost.com/8190971.html)
+**发布时间**: 2026-11-03 17:38
+
+#### [Q3净利同比增长72.44%，舍得酒业修复进行时](https://www.tmtpost.com/8191823.html)
+**发布时间**: 2026-11-03 16:51
+
+#### [AI数据库扎堆发布的一年，都升级了什么？](https://www.tmtpost.com/8191573.html)
+**发布时间**: 2026-11-03 15:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 改变的是数据接口，而不是查询引擎](https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 17:07
+
+#### [前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速](https://www.infoq.cn/article/z1ZeGD2FDqi6xLvSJjSl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 16:11
+
+#### [构建面向 Agentic 推理的下一代 LLM 推理引擎](https://www.infoq.cn/article/YwAayF1ylWb7oN4P0lyC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 15:40
+
+#### [AI 复刻 Adobe 系列软件开发者坦言：项目远未准备就绪](https://www.infoq.cn/article/a2X4KVOXOt6lACRv8IWh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 15:12
+
+#### [从模型调用到任务交付：MaaS 如何走进 Agent 生产](https://www.infoq.cn/article/zZutPTX8bsr6NWQYNC3A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 14:40
+
+#### [Netflix 通过工作负载认证将 AWS IAM 与内部身份系统连接了起来](https://www.infoq.cn/article/PJdTzbUNPBhvKEd6QuxZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 13:04
+
+#### [微软向6万员工发出自愿离职邀请：覆盖全球超四分之一员工，副总裁也在列](https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 13:03
+
+#### [Anthropic团队零Rust经验起步，靠Claude完成核心API跨语言重构：CPU省40%，延迟降20%](https://www.infoq.cn/article/IMWM7ZXDi99sMiUVZBIF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 12:51
+
+#### [“别再像 2024 年那样用 Claude 了！”Claude Cowork 工程负责人：有些 Skill 删掉反而更好](https://www.infoq.cn/article/xaWSKT3MlZjbuJw16Vem?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 12:49
+
+#### [腾讯云助力企业打造 AI 原生生产力飞轮](https://www.infoq.cn/article/q3GxjwqlYQbIZDYsJ2Uf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 20:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替](https://sspai.com/post/118317)
+**发布时间**: 2026-11-03 15:12
+
+#### [Disc Image Studio：你想不想在光盘上「画」点什么？](https://sspai.com/post/118211)
+**发布时间**: 2026-11-03 10:53
 
 ---
 

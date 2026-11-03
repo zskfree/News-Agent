@@ -1,7 +1,110 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-03 03:51
+**最后更新时间**: 2026-11-03 12:39
+
+---
+
+## 🆕 最新更新 (2026-11-03 12:39)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录](https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html)
+**发布时间**: 2026-11-03 18:09
+
+#### [最高288核的至强6+，为了Agent高密度部署还下了哪些「云功夫」？](https://www.leiphone.com/category/chips/GQisGLfVBnbQVxVo.html)
+**发布时间**: 2026-11-03 18:03
+
+#### [国内首个半导体工艺保护流体材料重大突破](https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html)
+**发布时间**: 2026-11-03 17:41
+
+#### [要更真实，还是更动人？AI视频生成走到了分岔口 | CNCC 2026](https://www.leiphone.com/category/industrynews/Huxl5GuqzEUo9CL9.html)
+**发布时间**: 2026-11-03 17:15
+
+#### [预售24.98万起，全系搭载宁德电池，LS8 NEO能否撬动25万级市场？](https://www.leiphone.com/category/transportation/stPDU8XxYTbZXexr.html)
+**发布时间**: 2026-11-03 17:14
+
+#### [xTool 的「快」与「难」：硬门槛、多线程研发与生态扩张](https://www.leiphone.com/category/weiwu/Z53iSk1j7SIjzefT.html)
+**发布时间**: 2026-11-03 16:57
+
+#### [小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”](https://www.leiphone.com/category/industrynews/VVyx6DK55x5rIlQ4.html)
+**发布时间**: 2026-11-03 15:56
+
+#### [当三体IP开始连接 AI 和硬科技，到底在探索什么？](https://www.leiphone.com/category/industrynews/5N5x4IScrkNgAuVK.html)
+**发布时间**: 2026-11-03 15:23
+
+#### [用AI阻断非法野生动物贸易，百度获世界互联网大会杰出贡献奖](https://www.leiphone.com/category/industrynews/MFCpP2Cl7MEKkzNj.html)
+**发布时间**: 2026-11-03 15:08
+
+#### [蚂蚁自研AI数据平台OceanBase获获世界互联网大会杰出贡献奖](https://www.leiphone.com/category/industrynews/i1taFLhrbqRyM9UH.html)
+**发布时间**: 2026-11-03 14:46
+
+#### [寻找AI时代的下一个黑马：安全创客汇重磅升级为AI创客汇](https://www.leiphone.com/category/industrynews/X8wk3oODlsrt6zy7.html)
+**发布时间**: 2026-11-03 14:41
+
+#### [蚂蚁数科携智能体超级工厂亮相香港金融科技周，加速全球企业AGI升级](https://www.leiphone.com/category/industrynews/rDBfh9DpSlCgX0Ic.html)
+**发布时间**: 2026-11-03 14:35
+
+#### [机器人也中暑？宇树机器人因过热退出登泰山大赛，被担架抬下山；罗技又侮辱用户像狗，「一打折就凑上来」；曝iPhone Duo国行美版存在差异](https://www.leiphone.com/category/zaobao/wXLd0iiBxf86pe0t.html)
+**发布时间**: 2026-11-03 14:21
+
+#### [2026移动网络大会：从更名之变，看懂智能经济的底层重构](https://www.leiphone.com/category/industrynews/7hJQA8D2WBO4XIxG.html)
+**发布时间**: 2026-11-03 14:18
+
+#### [阿里巴巴蔡崇信乌镇谈AI发展：只有开源开放 才能普惠普及](https://www.leiphone.com/category/industrynews/3UkL4LV5iwzPdSwN.html)
+**发布时间**: 2026-11-03 13:36
+
+#### [独家丨元环智能获数亿元融资：用「元模型」让 AI长出「直觉」](https://www.leiphone.com/category/industrynews/HzAPRXlFEuzBUnsf.html)
+**发布时间**: 2026-11-03 13:16
+
+#### [阿里达摩院玄铁 C950 荣获“中国芯”年度重大创新突破产品奖](https://www.leiphone.com/category/industrynews/zJf5Kol0yvMdtAqk.html)
+**发布时间**: 2026-11-03 12:50
+
+#### [淘宝短剧xWan3.0，温碧霞授权形象亮相AI短剧](https://www.leiphone.com/category/industrynews/6r6xFSgHy9gAJq1x.html)
+**发布时间**: 2026-11-03 11:45
+
+#### [从用户场景到产业落地：美的原创性竞争的底层逻辑](https://www.leiphone.com/category/weiwu/xibmmm5lhYU0Ju9j.html)
+**发布时间**: 2026-11-03 11:25
+
+#### [天猫双11东南亚战场开打：Lazada加码本地流量助力中国品牌](https://www.leiphone.com/category/industrynews/5Bwgg94JLXIq3yqk.html)
+**发布时间**: 2026-11-03 11:23
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [模型谁都买得到，拉开差距的是AI生产力系统](https://www.qbitai.com/2026/11/507448.html)
+**发布时间**: 2026-11-03 11:13
+
+#### [纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri](https://www.qbitai.com/2026/11/507419.html)
+**发布时间**: 2026-11-03 06:55
+
+#### [苹果被曝的新产品，中国央企8个月前已装进公共卫生间](https://www.qbitai.com/2026/11/507410.html)
+**发布时间**: 2026-11-03 06:29
+
+#### [AI数据平台OceanBase获世界互联网大会杰出贡献奖](https://www.qbitai.com/2026/11/507405.html)
+**发布时间**: 2026-11-03 05:59
+
+#### [小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”](https://www.qbitai.com/2026/11/507396.html)
+**发布时间**: 2026-11-03 05:16
+
+#### [A社紧急修改招股书！RSI我们快要控制不住了](https://www.qbitai.com/2026/11/507382.html)
+**发布时间**: 2026-11-03 03:41
+
+#### [模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义](https://www.qbitai.com/2026/11/507367.html)
+**发布时间**: 2026-11-03 03:16
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/)
+**发布时间**: 2026-11-03 07:00
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%](https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/)
+**发布时间**: 2026-11-03 05:51
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Transformers Model Integration Contracts](https://huggingface.co/blog/transformers-mic)
+**发布时间**: 2026-11-03 00:00
 
 ---
 
