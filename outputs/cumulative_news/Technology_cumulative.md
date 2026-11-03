@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-02 13:13
+**最后更新时间**: 2026-11-03 03:53
+
+---
+
+## 🆕 最新更新 (2026-11-03 03:53)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [商业航天大运力竞争时代，空天经济重组价值体系](https://www.tmtpost.com/8190099.html)
+**发布时间**: 2026-11-03 11:40
+
+#### [不与大模型对抗，星尘智能想用AOS接住通用智能的红利](https://www.tmtpost.com/8191171.html)
+**发布时间**: 2026-11-03 11:13
+
+#### [苹果单季赚了307亿美元，华尔街却不买特努斯的账](https://www.tmtpost.com/8191273.html)
+**发布时间**: 2026-11-03 11:12
+
+#### [格力电器靠什么留住投资者](https://www.tmtpost.com/8190485.html)
+**发布时间**: 2026-11-03 10:56
+
+#### [一箭18星，能让商业火箭赚钱吗？](https://www.tmtpost.com/8191123.html)
+**发布时间**: 2026-11-03 10:56
+
+#### [AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster](https://www.tmtpost.com/8191236.html)
+**发布时间**: 2026-11-03 10:03
+
+#### [“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度](https://www.tmtpost.com/8190090.html)
+**发布时间**: 2026-11-03 08:45
+
+#### [中国诚通、中国国新三季度调仓图谱：蓝筹压舱，硬科技探路丨行业风向标](https://www.tmtpost.com/8190976.html)
+**发布时间**: 2026-11-03 08:43
+
+#### [Edge AI Daily 早报（11月3日）](https://www.tmtpost.com/8191049.html)
+**发布时间**: 2026-11-03 08:15
+
+#### [【钛晨报】联手稳市场，三部门最新部署；六大行大额存单全部重启发行；中上协：前三季度境内股票市场上市公司合计实现归母净利润5.1万亿元，同比增长8.5%](https://www.tmtpost.com/8190922.html)
+**发布时间**: 2026-11-03 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [致敬每一份专业与热爱！QCon 上海 2026 优秀出品人与明星讲师揭晓](https://www.infoq.cn/article/NIXfxPlElNVwNtbYZPz2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 11:27
+
+#### [Spring Security 7 中的服务端 DPoP 和令牌交换](https://www.infoq.cn/article/xt0ovZNNw9HEAOv59Mcj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 11:00
+
+#### [谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕](https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 10:45
+
+#### [框架选不对，Claude 开发成本多一倍：前端十年框架膨胀，终于有人买单了](https://www.infoq.cn/article/M6Q9I3DFrozJOREx9ztL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 10:38
+
+#### [从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京](https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 10:00
+
+#### [eMudhra 中间证书颁发机构（CA）安全漏洞](https://www.infoq.cn/article/uIxYaSdYatN2Z7gPOaTU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-03 09:00
+
+#### [从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？](https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 22:48
+
+#### [微软推出 dotnetup：多版本管理更省心，安装方式却让开发者皱眉](https://www.infoq.cn/article/7lNPPkEUVjtMYYvmXaA6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-02 21:46
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份](http://www.geekpark.net/news/373358)
+**发布时间**: 2026-11-03 08:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等](https://sspai.com/post/118232)
+**发布时间**: 2026-11-03 08:18
 
 ---
 

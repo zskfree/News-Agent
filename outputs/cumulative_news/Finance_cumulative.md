@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-02 13:13
+**最后更新时间**: 2026-11-03 03:53
+
+---
+
+## 🆕 最新更新 (2026-11-03 03:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apple warns ‘unprecedented’ memory chip costs will hit margins](https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 01:17
+
+#### [US to hold first talks with Russia and Ukraine since February](https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 00:35
+
+#### [OpenAI hires former US Army secretary as military seeks to expand AI use](https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 22:58
+
+#### [‘A massive piece of pool’: Trump talks algae and grass in final midterm push](https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 22:45
+
+#### [Democrats close ranks after shock Michigan split](https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 21:35
+
+#### [Big majority of US voters disapprove of Trump’s handling of inflation: FT poll](https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 20:38
+
+#### [Key races that will decide the US midterm elections](https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 20:12
+
+#### [Anthropic reveals $900bn AI spending commitments ahead of IPO](https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-02 16:31
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter](https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 00:59
+
+#### [Apple’s iPhone business is booming. Here’s why the stock is falling anyway.](https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 00:52
+
+#### [Nasdaq-100 tumbles into its third correction this year as AI worries mount](https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 00:03
+
+#### [Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’](https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 23:39
+
+#### [Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned](https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 22:03
+
+#### [Wall Street’s most hated stocks are faring far better than its favorites](https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 21:45
+
+#### [Want to help your adult kids and grandkids? Give them money while you’re still alive.](https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 21:35
+
+#### [The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.](https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 21:29
+
+#### [Palantir earnings reveal a major AI turning point](https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories)
+**发布时间**: 2026-11-02 21:09
 
 ---
 

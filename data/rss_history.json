@@ -2,30 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e6af2d362ce6dbd00a2c665a7741f0dd1495663dfdb13ff21aa40eaa5cf7c985": {
-        "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
-        "link": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 04 Oct 2026 10:00:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.883708"
-      },
-      "122e6f07e23dee3b7891efcfc426a6655e8de4bb6043e45bf84caab6214c9c78": {
-        "title": "李飞飞不等了",
-        "link": "https://www.tmtpost.com/8158797.html",
-        "published_date": "Sun, 04 Oct 2026 08:38:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.883721"
-      },
-      "a91947b06c4a56cd504106a4904a16a9120c70cff253c48cde85e9b103821160": {
-        "title": "Edge AI Daily 早报（10月4日）",
-        "link": "https://www.tmtpost.com/8158829.html",
-        "published_date": "Sun, 04 Oct 2026 07:50:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.883723"
-      },
-      "b2eadf313a307ee4eb573977983167e55d29a35ed516bf2ee87d62d6a4a96e74": {
-        "title": "苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道",
-        "link": "http://www.geekpark.net/news/372073",
-        "published_date": "Sun, 04 Oct 2026 08:33:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.883725"
-      },
       "cdb7fa8eb4b6e0545ec23348b26544133926a6275f59531348929db0b7c8c207": {
         "title": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
         "link": "https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article",
@@ -3517,51 +3493,69 @@
         "link": "https://www.tmtpost.com/8190414.html",
         "published_date": "Mon, 02 Nov 2026 19:08:00 GMT",
         "first_seen": "2026-11-02T13:13:32.458971"
+      },
+      "9343c8f4d79f70477a428ca8f769a3c8dd0a4503128424dbe90b0a1855089719": {
+        "title": "中国诚通、中国国新三季度调仓图谱：蓝筹压舱，硬科技探路丨行业风向标",
+        "link": "https://www.tmtpost.com/8190976.html",
+        "published_date": "Tue, 03 Nov 2026 08:43:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173761"
+      },
+      "096df409eae16243e69900fbf8451e2699fd650854457134a982f6518e888f5b": {
+        "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+        "link": "https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 03 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173772"
+      },
+      "5bbcf2781d0ac75751612b38a79605d1b2cf8512dccb7dec9bfd2fd6ba665105": {
+        "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+        "link": "https://sspai.com/post/118232",
+        "published_date": "Tue, 03 Nov 2026 08:18:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173774"
+      },
+      "2055de7613de1a43442e35af203edc3d553fe41e415a2706105c038694e91855": {
+        "title": "商业航天大运力竞争时代，空天经济重组价值体系",
+        "link": "https://www.tmtpost.com/8190099.html",
+        "published_date": "Tue, 03 Nov 2026 11:40:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173776"
+      },
+      "41fb2d1dbc4a07e50d64eca2c0d4fd0291a8197d9a884d9d54b4099c3548845e": {
+        "title": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
+        "link": "https://www.tmtpost.com/8191171.html",
+        "published_date": "Tue, 03 Nov 2026 11:13:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173777"
+      },
+      "93e1c9b6e99d0d742164ef50b1c74da21f878d8b37bf64776aeca2a99036a7ea": {
+        "title": "苹果单季赚了307亿美元，华尔街却不买特努斯的账",
+        "link": "https://www.tmtpost.com/8191273.html",
+        "published_date": "Tue, 03 Nov 2026 11:12:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173777"
+      },
+      "0e9b04f38b33af6b259a42f2834a269c20f764e5d30856be448708029a4bdb0a": {
+        "title": "格力电器靠什么留住投资者",
+        "link": "https://www.tmtpost.com/8190485.html",
+        "published_date": "Tue, 03 Nov 2026 10:56:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173779"
+      },
+      "219afd1339ec310905fb2f39c59531ad8798b192011eece9979eacc87501bb70": {
+        "title": "一箭18星，能让商业火箭赚钱吗？",
+        "link": "https://www.tmtpost.com/8191123.html",
+        "published_date": "Tue, 03 Nov 2026 10:56:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173780"
+      },
+      "6995ec254628e7e58658d6c7ca2a73f610ab29ed7b6166e1de780ccecd0de0f4": {
+        "title": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
+        "link": "https://www.tmtpost.com/8191236.html",
+        "published_date": "Tue, 03 Nov 2026 10:03:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173781"
+      },
+      "8beca7691b0625a1aa1beb316907c593d360d46e1f8c599d16868b7e222c508b": {
+        "title": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度",
+        "link": "https://www.tmtpost.com/8190090.html",
+        "published_date": "Tue, 03 Nov 2026 08:45:00 GMT",
+        "first_seen": "2026-11-03T03:53:51.173782"
       }
     },
     "Finance": {
-      "d0edca1d163e365204e495126f473b48a221fbdd48998009017cc6828c536203": {
-        "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-        "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-        "published_date": "Sun, 04 Oct 2026 00:02:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.938433"
-      },
-      "47eee19d45d965f000532029e063d7f4c2060f5d5e2f24d125ff7f9d2e8cc142": {
-        "title": "These bond strategies can help you get a safe 5% return on your cash",
-        "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-        "published_date": "Sat, 03 Oct 2026 18:49:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.938441"
-      },
-      "306defc5c3002374e6d3446a11a031ae2ec1967be23d5501ab6a5bcb160bae18": {
-        "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-        "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-        "published_date": "Sat, 03 Oct 2026 17:24:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.938443"
-      },
-      "9d14edef9f9427bc530b2524cc08a4a0ca2b0cb8784c08dc41dfa365c60a34fc": {
-        "title": "Switching jobs to get higher pay works best in these industries",
-        "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-        "published_date": "Sat, 03 Oct 2026 16:42:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.938445"
-      },
-      "89c9926b67004299d86325b8055fb0eb44375690e382970ecd4d3b4d60bd4cf0": {
-        "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-        "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-        "published_date": "Sat, 03 Oct 2026 15:42:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.938446"
-      },
-      "73d0f7b88712b806eab5f2d370bc7b17244c099d95093047d75180829da7180e": {
-        "title": "Temu’s UK sales more than double to $171mn",
-        "link": "https://www.ft.com/content/b119a81f-2347-4ba8-8b5f-13b380cf45fa?syn-25a6b1a6=1",
-        "published_date": "Sat, 03 Oct 2026 13:54:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.938448"
-      },
-      "d121d544a1ef47b7fbc141d85f013bd25b691c7505cbf59db3c112f61e23e002": {
-        "title": "The town where 94% voted for Lula — and some now waver",
-        "link": "https://www.ft.com/content/e884e8f3-ad16-48a9-af41-29d3122f7d76?syn-25a6b1a6=1",
-        "published_date": "Sat, 03 Oct 2026 11:00:00 GMT",
-        "first_seen": "2026-10-04T02:29:13.938449"
-      },
       "a949b9d8b1e39b2e729349e140b91b8797999d66f09256b958bd5c147452d143": {
         "title": "Why the IPO market is booming and busting",
         "link": "https://www.ft.com/content/8b7e2800-3e36-4d0c-9016-32deaae67b62",
@@ -6951,33 +6945,69 @@
         "link": "https://www.ft.com/content/637d66c0-0b2d-48b2-9d17-f2f5edb86971?syn-25a6b1a6=1",
         "published_date": "Mon, 02 Nov 2026 05:00:00 GMT",
         "first_seen": "2026-11-02T13:13:51.136138"
+      },
+      "f1ee57dedaf6a8b6d9406b782330967f27b360345a409be5b59045a2597152d6": {
+        "title": "Anthropic reveals $900bn AI spending commitments ahead of IPO",
+        "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f?syn-25a6b1a6=1",
+        "published_date": "Mon, 02 Nov 2026 16:31:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931515"
+      },
+      "bd8cdca7ce2fe5c9472e3a6864536b922e287fd5d7895d8c0067dee54db31884": {
+        "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
+        "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+        "published_date": "Tue, 03 Nov 2026 01:17:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931524"
+      },
+      "b23b01855eb040538b7118efaea6dc5d54178ef7146831ddd0b0e5db0cac76f8": {
+        "title": "US to hold first talks with Russia and Ukraine since February",
+        "link": "https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c?syn-25a6b1a6=1",
+        "published_date": "Tue, 03 Nov 2026 00:35:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931525"
+      },
+      "598cf4fe705be952a8b12e2f82cf433755ba500f2aad80412dadbe5709f5122d": {
+        "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+        "link": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+        "published_date": "Mon, 02 Nov 2026 22:58:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931526"
+      },
+      "ba01c60ab8e097fc59cd60064b6fb6844ee197cd6da9052726bff0c3f8c68d7d": {
+        "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
+        "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
+        "published_date": "Mon, 02 Nov 2026 22:45:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931527"
+      },
+      "582a48d170cdcb3e299412bbfb10ac22e071e669ca3a9d2defeb697001138245": {
+        "title": "Democrats close ranks after shock Michigan split",
+        "link": "https://www.ft.com/content/17ea8ea2-a834-428b-8c93-bc1803ca4d9f?syn-25a6b1a6=1",
+        "published_date": "Mon, 02 Nov 2026 21:35:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931529"
+      },
+      "27ec78e6817680b66feb47bc9a993dd47389e0ea71f7da1227e9e46f2084157c": {
+        "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
+        "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
+        "published_date": "Mon, 02 Nov 2026 20:38:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931529"
+      },
+      "af7cd8c3db8db7ce4469b12993b8a75951d772eaf1da858f0ff352ae73987831": {
+        "title": "Key races that will decide the US midterm elections",
+        "link": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1",
+        "published_date": "Mon, 02 Nov 2026 20:12:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931530"
+      },
+      "3c750cec5545e7fb752a40cfc39b1331126a839dbc399f8be626714b0057519e": {
+        "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+        "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Nov 2026 00:59:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931531"
+      },
+      "119c157ec290a2956901fd93535152f34b205b7e7171d2ef1212528b47c4ebd4": {
+        "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+        "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+        "published_date": "Tue, 03 Nov 2026 00:52:00 GMT",
+        "first_seen": "2026-11-03T03:54:09.931532"
       }
     },
     "Ai": {
-      "185958f40204d42e049018d2d65658871c4781cf669eda673fc962f65d7f369f": {
-        "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-        "link": "https://www.qbitai.com/2026/10/501451.html",
-        "published_date": "Sun, 04 Oct 2026 00:53:00 GMT",
-        "first_seen": "2026-10-04T02:29:14.087563"
-      },
-      "c232e1cee35839e867763dedd45bd40bf1dc3e65707b7e97f37f658864ed3871": {
-        "title": "The Agent Said It Was Done. The Database Disagreed.",
-        "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-        "published_date": "Sat, 03 Oct 2026 22:56:00 GMT",
-        "first_seen": "2026-10-04T02:29:14.087571"
-      },
-      "7251ec3317392f9aa2b21a43f1fab8f0a35f4a52b519f50aaa321af7a12a4314": {
-        "title": "《Gran Turismo 7》迎来首台中国VGT  同时GT史上30年首次新增电车驾驶教学",
-        "link": "https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html",
-        "published_date": "Sat, 03 Oct 2026 19:39:00 GMT",
-        "first_seen": "2026-10-04T02:29:14.087573"
-      },
-      "74473470643a7be12dd75e3d27368066fa9eef9e14a4dafc46306fbee2dc4a63": {
-        "title": "再创佳绩！爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片分账票房破千万",
-        "link": "https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html",
-        "published_date": "Sat, 03 Oct 2026 18:12:00 GMT",
-        "first_seen": "2026-10-04T02:29:14.087574"
-      },
       "7e8fd8b54b3caf45337639951b6ca509ee828d3a286993b86f2304cd793e5ec9": {
         "title": "《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！",
         "link": "https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html",
@@ -9791,13 +9821,73 @@
         "link": "https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html",
         "published_date": "Mon, 02 Nov 2026 16:30:00 GMT",
         "first_seen": "2026-11-02T13:13:41.838025"
+      },
+      "d283d37095768b80f3803c3db6e0f570f8b0baf7c2b6c0e3671eef7d7ebbd1aa": {
+        "title": "2026-11-03日刊",
+        "link": "https://hex2077.dev/docs/2026-11/2026-11-03/",
+        "published_date": "Tue, 03 Nov 2026 03:27:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636889"
+      },
+      "35adbfff56c35c18a781dca1925f8811c9bf1e1257f4e3e365e26f4931f8c17f": {
+        "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
+        "link": "https://www.qbitai.com/2026/11/507339.html",
+        "published_date": "Tue, 03 Nov 2026 02:02:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636898"
+      },
+      "f4c8d069ea487150bb27546bc94ef33a82de1ab14e7b7fd179fe50451cc0db05": {
+        "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+        "link": "https://www.qbitai.com/2026/11/507322.html",
+        "published_date": "Tue, 03 Nov 2026 01:57:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636900"
+      },
+      "ad33fb3bc98401da637eb40839629c2bbdc015e9a76ebae95dbf2a3fdf7ecce8": {
+        "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+        "link": "https://www.qbitai.com/2026/11/507313.html",
+        "published_date": "Tue, 03 Nov 2026 01:46:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636901"
+      },
+      "7931e938278a08640f7ef38da98e3dd68b9c1211da125e6b59791e96e654fa94": {
+        "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+        "link": "https://www.qbitai.com/2026/11/507277.html",
+        "published_date": "Mon, 02 Nov 2026 13:36:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636902"
+      },
+      "e2d653d90ba27ee5fd16a9a0d785ab78f32486f642e71d389b9cddba042cf4bc": {
+        "title": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+        "link": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+        "published_date": "Tue, 03 Nov 2026 01:09:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636903"
+      },
+      "347d4334d638152cd1516e27365f7ffafafbbff33719cd780d0bf5dbc0d1412c": {
+        "title": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+        "link": "https://www.marktechpost.com/2026/11/02/letter-letterpress-1-growth-engineering-coding-agent/",
+        "published_date": "Tue, 03 Nov 2026 00:43:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636904"
+      },
+      "e5c7d08f4bbbd9779d9e1dd093aa4ee917df13753656a4ec79a1843a45a0107c": {
+        "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
+        "link": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+        "published_date": "Mon, 02 Nov 2026 18:41:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636905"
+      },
+      "1527ed8db5d4b59b3e62f1a0defc05999318ae78f9964fa0bffa11f5ba5a1bdf": {
+        "title": "半小时卖出2万亿Token，李佳琦直播卖千问办公爆火",
+        "link": "https://www.leiphone.com/category/industrynews/kqJzcDsRfxHUQGy9.html",
+        "published_date": "Mon, 02 Nov 2026 21:13:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636906"
+      },
+      "c0bba8594db3fe4a31f380d374dcaa73b0a14aedf7c1342b8c407d83948ff59a": {
+        "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
+        "published_date": "Mon, 02 Nov 2026 17:11:00 GMT",
+        "first_seen": "2026-11-03T03:54:00.636907"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-02T13:13:32.458972",
-    "Finance": "2026-11-02T13:13:51.136139",
-    "Ai": "2026-11-02T13:13:41.838027"
+    "Technology": "2026-11-03T03:53:51.173783",
+    "Finance": "2026-11-03T03:54:09.931533",
+    "Ai": "2026-11-03T03:54:00.636909"
   }
 }
