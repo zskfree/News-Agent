@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-04 02:56
+**最后更新时间**: 2026-11-04 12:49
+
+---
+
+## 🆕 最新更新 (2026-11-04 12:49)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上](https://www.leiphone.com/category/industrynews/vxZxNvbxdDFhYp55.html)
+**发布时间**: 2026-11-04 17:57
+
+#### [智能体身份注册与解析平台在乌镇发布，蚂蚁参与首批运行平台建设](https://www.leiphone.com/category/industrynews/KStlwPyruE6hJ107.html)
+**发布时间**: 2026-11-04 17:44
+
+#### [双十一购机观察：从参数回到场景，华为Mate 90系列重新定义旗舰体验](https://www.leiphone.com/category/industrynews/xPIqScmZequRUOUt.html)
+**发布时间**: 2026-11-04 17:43
+
+#### [360参与发起《智能体发展自律公约》，助力构建可信智能体生态](https://www.leiphone.com/category/industrynews/UB25ocDFu1ntNMtz.html)
+**发布时间**: 2026-11-04 17:42
+
+#### [0.016% 的 Astra 微创手术，治好了 Qwen 的 3 万 Token 死循环](https://www.leiphone.com/category/ai/0F072La1etrUN0Tr.html)
+**发布时间**: 2026-11-04 16:32
+
+#### [灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接](https://www.leiphone.com/category/industrynews/KAD74l2DdSMcKPgY.html)
+**发布时间**: 2026-11-04 15:57
+
+#### [Transformer 架构还能咋改？严骏驰团队提供两条思路 | CNCC 2026](https://www.leiphone.com/category/private/qWW7SeepMBzAQAfb.html)
+**发布时间**: 2026-11-04 15:48
+
+#### [榜单第一，市值暴跌！Gemini 4 Carbon「速成」背后，谷歌一场豪赌](https://www.leiphone.com/category/yanxishe/7uvYEZBsCWcPvhw3.html)
+**发布时间**: 2026-11-04 14:39
+
+#### [海外双11，速卖通欧盟本地成交占比突破60%](https://www.leiphone.com/category/industrynews/0BimaBvxy9G47YTv.html)
+**发布时间**: 2026-11-04 12:40
+
+#### [海外双11，速卖通欧盟本地成交占比突破60%](https://www.leiphone.com/category/industrynews/aenxUWBDwmhQSQYy.html)
+**发布时间**: 2026-11-04 12:28
+
+#### [拓竹之外，谁在竞争第二梯队](https://www.leiphone.com/category/weiwu/T4WJvLOQ6YSbXg9h.html)
+**发布时间**: 2026-11-04 11:58
+
+#### [哪里电便宜，算力就往哪里跑？没那么简单](https://www.leiphone.com/category/chips/pXuAy8TH7q2u0Q9T.html)
+**发布时间**: 2026-11-04 11:56
+
+#### [当10万个智能体已在运行，安全防线到底在哪？｜CNCC 2026专家激辩智能体安全挑战](https://www.leiphone.com/category/ai/tT9FskgaSMm7y4Ao.html)
+**发布时间**: 2026-11-04 11:22
+
+#### [追觅科技亮相2026世界互联网大会人工智能嘉年华，以AI技术创新赋能智慧生活](https://www.leiphone.com/category/industrynews/hRlEqJpWm8oawq9h.html)
+**发布时间**: 2026-11-04 11:06
+
+#### [对话王昊：五轴不是当下PMF，组合方案才是答案丨未来创新50人](https://www.leiphone.com/category/weiwu/rT16tdf1VgHOCwpV.html)
+**发布时间**: 2026-11-04 10:54
+
+#### [后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期](https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html)
+**发布时间**: 2026-11-04 10:21
+
+#### [抖音商城「双11现货日」：以“现货”确定性，撬动大促生意增量](https://www.leiphone.com/category/industrynews/hjmkpUslYWVcGTvO.html)
+**发布时间**: 2026-11-04 09:52
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型](https://www.qbitai.com/2026/11/507586.html)
+**发布时间**: 2026-11-04 10:08
+
+#### [超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场](https://www.qbitai.com/2026/11/507574.html)
+**发布时间**: 2026-11-04 08:59
+
+#### [虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上](https://www.qbitai.com/2026/11/507567.html)
+**发布时间**: 2026-11-04 08:49
+
+#### [让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落](https://www.qbitai.com/2026/11/507533.html)
+**发布时间**: 2026-11-04 02:49
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-04日刊](https://hex2077.dev/docs/2026-11/2026-11-04/)
+**发布时间**: 2026-11-04 08:50
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting](https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/)
+**发布时间**: 2026-11-04 04:39
 
 ---
 

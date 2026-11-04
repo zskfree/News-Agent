@@ -1,7 +1,123 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-04 02:58
+**最后更新时间**: 2026-11-04 12:50
+
+---
+
+## 🆕 最新更新 (2026-11-04 12:50)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌 Data Agent Kit 正式发布：安全防护分为 Skill 与 IAM](https://www.infoq.cn/article/UtKS9EofSoyd2P7Otx7e?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 20:01
+
+#### [Anthropic 为重要开源项目新增可选安全扫描服务](https://www.infoq.cn/article/hdmi6FdjpYSEvuMhPOAa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 19:53
+
+#### [Vercel Labs 开源 fx：一款专为嵌入式应用设计的 Zig 编程代理](https://www.infoq.cn/article/cNO8PCwQoZMRHhIyVDrB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 18:00
+
+#### [Harbor 新增 Docker Sandboxes 支持，可在隔离的 MicroVM 中运行可重现的 AI 代理评估](https://www.infoq.cn/article/pgmES06L2MAH2TCSMhJ9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 17:00
+
+#### [研究发现：AI 生成代码受下游环节瓶颈制约，无法提升整体生产力](https://www.infoq.cn/article/c3vTLNrRwfCzw8SAmz90?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 16:20
+
+#### [刚刚，被李飞飞团队写进代码库的具身底座，现身乌镇峰会“上岗抓药”](https://www.infoq.cn/article/L5Q1XJbFSubVNB9DGJsl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 15:51
+
+#### [月烧 1.5 万亿 token，年烧 1.32 亿美元？Cursor 工程师的账单，凡人只能仰望](https://www.infoq.cn/article/q9iebpvFozfy4bgCYUyE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 15:48
+
+#### [同一个模型从 30 分到 95 分：拉开差距的不是模型，是Harness](https://www.infoq.cn/article/C1C1DThg8z1Dy0rZAmLB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 15:40
+
+#### [Linux内核也能造了？Codex 11天写出13.9万行新内核，Rocky Linux 10跑起来了](https://www.infoq.cn/article/OiyNEtFwV05opvsLTcvK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 15:30
+
+#### [员工都会用一点 AI，团队下一步怎么走？](https://www.infoq.cn/article/6oGyozHwd1WjYyEGjpbk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 15:17
+
+#### [如何把目标定得更大胆：写给 AI 使用者的实践指南](https://www.infoq.cn/article/F1ms7x7KI1p7UfocCywh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 15:15
+
+#### [Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎](https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 14:02
+
+#### [大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答](https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 11:02
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [谁在害怕“字节时间”？](https://www.tmtpost.com/8190644.html)
+**发布时间**: 2026-11-04 18:45
+
+#### [大模型时代，智驾芯片的算力赢学失效了](https://www.tmtpost.com/8193596.html)
+**发布时间**: 2026-11-04 18:44
+
+#### [为什么大家都学腾讯，把对手的模型请进来？](https://www.tmtpost.com/8192671.html)
+**发布时间**: 2026-11-04 18:44
+
+#### [最懂猪的巨头们，为什么套保了还是巨亏？](https://www.tmtpost.com/8192542.html)
+**发布时间**: 2026-11-04 18:43
+
+#### [美的科技背后的探路者，站在无人区里炼金](https://www.tmtpost.com/8193019.html)
+**发布时间**: 2026-11-04 18:06
+
+#### [价格跌三成、拟扩产近一倍，龙蟠科技称新长单“确可实现”](https://www.tmtpost.com/8193575.html)
+**发布时间**: 2026-11-04 18:06
+
+#### [一个标签的引爆：“字节时间”之争的舆论传播复盘](https://www.tmtpost.com/8193187.html)
+**发布时间**: 2026-11-04 18:04
+
+#### [42亿GPU采购背后，游族网络跨界AI算力生意](https://www.tmtpost.com/8193553.html)
+**发布时间**: 2026-11-04 18:04
+
+#### [Personal Agent，蚂蚁想让灵光不止一闪](https://www.tmtpost.com/8193625.html)
+**发布时间**: 2026-11-04 18:04
+
+#### [1分钱卖Token，阿里图什么？](https://www.tmtpost.com/8193559.html)
+**发布时间**: 2026-11-04 18:03
+
+#### [内存价格涨得越疯，龙旗科技们的日子越滋润](https://www.tmtpost.com/8193576.html)
+**发布时间**: 2026-11-04 18:03
+
+#### [山姆卖起始祖鸟，要努力留下中产](https://www.tmtpost.com/8193508.html)
+**发布时间**: 2026-11-04 17:24
+
+#### [成都银行多赚的 16 亿，90% 拿去买了时间](https://www.tmtpost.com/8193512.html)
+**发布时间**: 2026-11-04 17:24
+
+#### [猎奇产品出圈，沃尔玛正在告别沃尔玛](https://www.tmtpost.com/8193489.html)
+**发布时间**: 2026-11-04 17:24
+
+#### [AI记忆值个天价](https://www.tmtpost.com/8193344.html)
+**发布时间**: 2026-11-04 17:07
+
+#### [宇树CEO王兴兴：2027年或是机器人产业临界点，正探索物理AI自进化](https://www.tmtpost.com/8193141.html)
+**发布时间**: 2026-11-04 17:06
+
+#### [品类思变：SLG占海外收入近50%，MMO下滑后，游戏大厂如何转型?](https://www.tmtpost.com/8191237.html)
+**发布时间**: 2026-11-04 16:59
+
+#### [字节新规：限制使用Claude、Codex等外部AI工具](https://www.tmtpost.com/8191863.html)
+**发布时间**: 2026-11-04 16:59
+
+#### [2026年新游一天赚到100万美元还不够？一品类收入中位数达430万美元](https://www.tmtpost.com/8191246.html)
+**发布时间**: 2026-11-04 16:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机](https://sspai.com/post/115819)
+**发布时间**: 2026-11-04 14:50
+
+#### [国行 Apple 智能上手：这些功能已经准备好](https://sspai.com/post/118404)
+**发布时间**: 2026-11-04 10:41
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [9 个神级 GitHub 项目助你蹭上抖音、小红书 Vibe 知识大赏热点。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538274&idx=1&sn=0b2d8c70537e8a4a1c0c7012140e676c)
+**发布时间**: 2026-11-04 10:02
 
 ---
 

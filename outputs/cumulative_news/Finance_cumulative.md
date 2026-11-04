@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-04 02:58
+**最后更新时间**: 2026-11-04 12:50
+
+---
+
+## 🆕 最新更新 (2026-11-04 12:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stocks rebound after Democrats’ sweep](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 12:42
+
+#### [Trump admits Iran war hurt Republicans as blame game erupts](https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1)
+**发布时间**: 2026-11-04 12:38
+
+#### [How the Trump era crashed](https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 12:22
+
+#### [Five takeaways from the midterm results](https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 12:15
+
+#### [Republicans turn on each other after disastrous midterms](https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 11:00
+
+#### [Europe hails Democrats’ US midterm victory as a rebuke of Trumpism](https://www.ft.com/content/97070d8f-ce2d-4873-8c70-cc8338f7ce1c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 10:48
+
+#### [James Talarico’s historic Texas Senate victory deals blow to Elon Musk](https://www.ft.com/content/b2d07a1f-dfa6-449b-a598-1db51951d6f6?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 10:03
+
+#### [‘A deep sense of deceit’: Young Republicans reckon with US midterms rout](https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 10:00
+
+#### [Americans deliver stunning rebuke to Trump as blue wave sweeps country](https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 08:34
+
+#### [Who are the new faces in the Senate?](https://www.ft.com/content/d808855c-7157-4f63-b511-943fd3714e34?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 08:24
+
+#### [Corporate America braced for Democrats to unleash investigations](https://www.ft.com/content/89b80817-fe6b-4172-ad01-8f675e3be6a5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 07:44
+
+#### [The great humbling of Donald Trump](https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 07:23
+
+#### [Trump’s slapdown by America is one for the ages](https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 05:11
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Midterm elections deliver a ‘blue wave.’ The stock market sees green.](https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 12:27
+
+#### [CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.](https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 12:21
+
+#### [The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep](https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 11:10
+
+#### [‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?](https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 10:15
+
+#### [L.A. home once owned by Mike Tyson’s former wife, actress Robin Givens, is on the market for $3.5 million](https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 10:03
+
+#### [Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home](https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 09:58
+
+#### [Beleaguered Novo offers relief to investors, thanks to Wegovy pill](https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 09:41
+
+#### [Democrats win the House and Senate. Here’s what it means for your finances.](https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 06:27
 
 ---
 
