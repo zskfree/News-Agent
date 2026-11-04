@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-03 12:39
+**最后更新时间**: 2026-11-04 02:56
+
+---
+
+## 🆕 最新更新 (2026-11-04 02:56)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [实测苹果智能Beta，千问 APP 成为Siri外援，可接力处理任务](https://www.leiphone.com/category/industrynews/jtrZN12WvcYpqi1q.html)
+**发布时间**: 2026-11-04 08:03
+
+#### [青奥会结束后，阿里云想在非洲留下一朵「云」](https://www.leiphone.com/category/industrynews/dhQud8FAggk62CZ2.html)
+**发布时间**: 2026-11-03 23:20
+
+#### [拓竹年度机皇 H3C 发布：9 头闪切、6 秒换头，开启多色多材料新时代](https://www.leiphone.com/category/industrynews/xBbVCZ6pFQNa7XzR.html)
+**发布时间**: 2026-11-03 23:13
+
+#### [AI教AI开车！百度Apollo World世界模型叩开无人驾驶产业“AGI时刻”](https://www.leiphone.com/category/industrynews/NVxn28w1vAG2qbFy.html)
+**发布时间**: 2026-11-03 21:59
+
+#### [中国开源走向物理世界，蚂蚁灵波携机器人通用大脑亮相乌镇](https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html)
+**发布时间**: 2026-11-03 21:41
+
+#### [腾讯12.8亿用户蝉联中国互联网第一，绿泡泡月活破1.5亿，手游top10独占8款](https://www.leiphone.com/category/industrynews/TIDTmVxPQiwSHe8f.html)
+**发布时间**: 2026-11-03 18:59
+
+#### [智元荣获2026世界互联网大会杰出贡献奖](https://www.leiphone.com/category/industrynews/9XBEJkK85FIMGErW.html)
+**发布时间**: 2026-11-03 18:44
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights](https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/)
+**发布时间**: 2026-11-03 22:08
+
+#### [NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%](https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/)
+**发布时间**: 2026-11-03 20:28
+
+#### [Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents](https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/)
+**发布时间**: 2026-11-03 20:18
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [StateBench: Testing how language models track state changes over long documents](https://huggingface.co/blog/allenai/statebench)
+**发布时间**: 2026-11-03 17:15
+
+#### [Palette: teaching a small model to build decks in your design language](https://huggingface.co/blog/ibm-research/palette-deck-building)
+**发布时间**: 2026-11-03 16:35
+
+#### [CWE-bench v2: More coverage, quality, and transparency](https://huggingface.co/blog/cwe-bench)
+**发布时间**: 2026-11-03 00:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Bring structured and unstructured data together with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/)
+**发布时间**: 2026-11-03 16:49
+
+#### [ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/)
+**发布时间**: 2026-11-03 16:47
+
+#### [How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search](https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/)
+**发布时间**: 2026-11-03 16:43
+
+#### [Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-03 16:41
+
+#### [Building ultra-low-latency voice AI applications on AWS](https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/)
+**发布时间**: 2026-11-03 16:40
+
+#### [Introducing India-based inference for Kimi K3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/)
+**发布时间**: 2026-11-03 16:32
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](https://blogs.nvidia.com/blog/ai-semiconductor-fabs/)
+**发布时间**: 2026-11-03 16:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Building connections across the research infrastructure](https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103)
+**发布时间**: 2026-11-03 14:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [机器人干活，AI当厂长！这家巨头要造下一代自主智能仓](https://www.qbitai.com/2026/11/507507.html)
+**发布时间**: 2026-11-03 13:57
+
+#### [智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池](https://www.qbitai.com/2026/11/507473.html)
+**发布时间**: 2026-11-03 12:57
 
 ---
 

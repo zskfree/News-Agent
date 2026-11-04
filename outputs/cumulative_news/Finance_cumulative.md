@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-03 12:41
+**最后更新时间**: 2026-11-04 02:58
+
+---
+
+## 🆕 最新更新 (2026-11-04 02:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Democrats score early victories in battle for Congress](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 02:31
+
+#### [US has no immediate plan to strike Iran, Trump tells FT](https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 23:34
+
+#### [CVS Health moves to dismantle $117bn healthcare empire](https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 22:33
+
+#### [How Pennsylvania’s bellwether city could decide the US midterms](https://www.ft.com/content/4dde93b5-60ec-4ad4-ad14-c870fa17db2c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 18:53
+
+#### [Former Weil partners lawyer up over firm’s wind-down](https://www.ft.com/content/7f8b1f1e-6c7f-41c6-b100-e0d4f7892439?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 18:30
+
+#### [Binance hackers used fake interviews and social media profiles in $6.3bn heist](https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 17:00
+
+#### [Trump says US will end military aid to Israel by end of the year](https://www.ft.com/content/2f1a826a-5d98-47ba-be3f-5d21edce89c8?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 15:32
+
+#### [The head-spinning turbulence of Trump’s second term](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 11:40
+
+#### [What Weil Gotshal teaches us about how law firms die](https://www.ft.com/content/958c09b7-bebf-4322-9c11-c2ec5b0eed73)
+**发布时间**: 2026-11-03 11:00
+
+#### [Live US midterm elections results — in charts and maps](https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1)
+**发布时间**: 2026-11-03 06:29
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Here’s why AMD’s stock is rising — and sending a confident message about the AI trade](https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 01:16
+
+#### [Super Micro’s stock pops as earnings show booming demand for AI servers](https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 01:12
+
+#### [Shopify’s stock slides after earnings. This is what’s worrying Wall Street.](https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 22:45
+
+#### [AI’s control over the bond market is growing — even rivaling war and elections](https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 22:06
+
+#### [S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?](https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 21:30
+
+#### [Depressing, but true: If you want to get ahead at work, embrace virtue signaling](https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 21:27
+
+#### [Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it](https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 21:04
+
+#### [The internet is ‘dying’: AI is eating it and obliterating these business models](https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 20:46
+
+#### [‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?](https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories)
+**发布时间**: 2026-11-03 20:00
 
 ---
 
