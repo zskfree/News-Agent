@@ -1,7 +1,78 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-04 12:50
+**最后更新时间**: 2026-11-05 03:18
+
+---
+
+## 🆕 最新更新 (2026-11-05 03:18)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码](https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 11:00
+
+#### [AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京](https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 10:00
+
+#### [混元 Hy4 实测：腾讯的产品基因，模型继承了几分？](https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 09:44
+
+#### [Cloudflare 通过优化一致性哈希节省了 100 TB 内存](https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 09:00
+
+#### [当 Agent 成为数据库新用户，腾讯云如何解决“未知”的难题？](https://www.infoq.cn/article/TeOb9MgqfeLOoNdxtMH2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 22:00
+
+#### [Token 暴涨 5000 倍之后，企业 Agent 落地还卡在哪里？](https://www.infoq.cn/article/VUmIUJ0ST9xIlPoViXmz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-04 21:56
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI时代的云计算，少数派繁荣](https://www.tmtpost.com/8194260.html)
+**发布时间**: 2026-11-05 10:52
+
+#### [日赚2300万，瑞幸咖啡的好日子又回来了](https://www.tmtpost.com/8194145.html)
+**发布时间**: 2026-11-05 10:52
+
+#### [Edge AI Daily 早报（11月5日）](https://www.tmtpost.com/8194179.html)
+**发布时间**: 2026-11-05 08:36
+
+#### [A One-Cent Livestream Does Not Make Office AI a Mass Habit](https://www.tmtpost.com/8194255.html)
+**发布时间**: 2026-11-05 08:27
+
+#### [【钛晨报】五部门最新部署：“一行一策”开展节能改造，加强原材料回收利用；字节限制外部AI工具访问内部资料？知情人士回应；倍轻松实控人被罚没1184万元、禁入证券市场5年](https://www.tmtpost.com/8194022.html)
+**发布时间**: 2026-11-05 07:20
+
+#### [单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）](https://www.tmtpost.com/8194019.html)
+**发布时间**: 2026-11-04 21:27
+
+#### [基金市场概况与资产配置观点 （10.26—11.01）](https://www.tmtpost.com/8194003.html)
+**发布时间**: 2026-11-04 21:25
+
+#### [上市公司TOP5济安评估（10月26日至11月1日）](https://www.tmtpost.com/8193992.html)
+**发布时间**: 2026-11-04 21:21
+
+#### [同样是破净，为什么有的可能是错杀，有的却是价值陷阱？](https://www.tmtpost.com/8193964.html)
+**发布时间**: 2026-11-04 20:59
+
+#### [价值判断：跌停板的投资机会和风险提示（11月3日）｜上市公司观察](https://www.tmtpost.com/8193958.html)
+**发布时间**: 2026-11-04 20:57
+
+#### [价值判断：涨停板的投资机会和风险提示（11月3日）｜上市公司观察](https://www.tmtpost.com/8193950.html)
+**发布时间**: 2026-11-04 20:51
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Apple 智能国行上线，苹果大涨超 6% 重返美股市值第一；英伟达显卡订单排长队，中国客户预计只能拿到 1%；字节限制员工使用个人 AI｜极客早知道](http://www.geekpark.net/news/373494)
+**发布时间**: 2026-11-05 08:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等](https://sspai.com/post/118498)
+**发布时间**: 2026-11-05 08:16
+
+#### [你不知道的客户端开发：AI 时代下的选型、原生与借力](https://sspai.com/post/117713)
+**发布时间**: 2026-11-04 20:25
 
 ---
 

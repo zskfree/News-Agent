@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-04 12:50
+**最后更新时间**: 2026-11-05 03:18
+
+---
+
+## 🆕 最新更新 (2026-11-05 03:18)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US stocks post best day since August after Democrats sweep midterms](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 03:11
+
+#### [Oil tumbles below $100 on post-election peace hopes](https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 03:01
+
+#### [US midterm results herald upheaval in Middle East policy](https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 01:33
+
+#### [Democratic wave keeps US wealth taxes on the agenda despite California setback](https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 00:52
+
+#### [‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat](https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 22:38
+
+#### [Vance blames Iran war for crushing Republican midterms defeat](https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 21:34
+
+#### [‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump](https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 20:58
+
+#### [How Democrats pulled off the blue wave in maps and charts](https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 19:12
+
+#### [Voters have put a helpful chill on the US data centre boom](https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 18:33
+
+#### [The beginning of the end of the age of Trump](https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 17:42
+
+#### [Democrats debate how far to take their fight against Trump](https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 15:43
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Qualcomm’s stock falls as twin forces pressure sales](https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 01:06
+
+#### [This year’s worst-performing S&P 500 stock is finally seeing some major relief](https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 01:05
+
+#### [Figma’s stock dips as investors worry that AI momentum is coming at a high price](https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 01:03
+
+#### [McDonald’s tests new value menu as fast-food discount wars heat up](https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 01:01
+
+#### [As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction](https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 00:38
+
+#### [How do Americans feel about the midterm results? It depends on how much money they make.](https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 22:06
+
+#### [Micron and other chip stocks slip as election results strike at the core of data-center optimism](https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 21:55
+
+#### [These stocks soared the most today after the Democrats trounced Trump](https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories)
+**发布时间**: 2026-11-04 21:55
 
 ---
 

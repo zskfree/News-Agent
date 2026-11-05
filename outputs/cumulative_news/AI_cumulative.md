@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-04 12:49
+**最后更新时间**: 2026-11-05 03:16
+
+---
+
+## 🆕 最新更新 (2026-11-05 03:16)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [基于本体+知识+Harness+Datat Agent的智能体完整落地链路！](https://www.qbitai.com/2026/11/507696.html)
+**发布时间**: 2026-11-05 02:01
+
+#### [GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了](https://www.qbitai.com/2026/11/507707.html)
+**发布时间**: 2026-11-05 01:59
+
+#### [Linux内核被挖出948个漏洞！OpenAI花120万美元找到的](https://www.qbitai.com/2026/11/507697.html)
+**发布时间**: 2026-11-05 01:54
+
+#### [太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》](https://www.qbitai.com/2026/11/507688.html)
+**发布时间**: 2026-11-05 01:42
+
+#### [从3D生成到世界模型，这家AI公司想和年轻人一起定义问题](https://www.qbitai.com/2026/11/507675.html)
+**发布时间**: 2026-11-05 00:41
+
+#### [百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年](https://www.qbitai.com/2026/11/507647.html)
+**发布时间**: 2026-11-04 16:13
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [独家 | 腾讯前高级研究员获数千万投资，锚定物理AI接触智能](https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html)
+**发布时间**: 2026-11-05 00:38
+
+#### [独家丨预测引擎 Prophetlab 获数千万种子轮，常春藤资本等机构联合投资](https://www.leiphone.com/category/industrynews/5gyZIVYyxDzi67wu.html)
+**发布时间**: 2026-11-05 00:30
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500](https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/)
+**发布时间**: 2026-11-04 22:25
+
+#### [Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1](https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/)
+**发布时间**: 2026-11-04 21:01
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Use decision models with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/)
+**发布时间**: 2026-11-04 18:46
+
+#### [Smart Approvals in Amazon Quick: Human oversight where it matters](https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/)
+**发布时间**: 2026-11-04 16:33
+
+#### [Four layers of context engineering for production AI agents: How Deep Insight applies them in working code](https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/)
+**发布时间**: 2026-11-04 16:30
+
+#### [How Indegene is modernizing and scaling enterprise data quality in life sciences](https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/)
+**发布时间**: 2026-11-04 16:25
+
+#### [How U Mobile built agentic telco operations with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-04 16:23
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Agile Deliberation: How AI helps humans define the gray areas](https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/)
+**发布时间**: 2026-11-04 18:07
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
+**发布时间**: 2026-11-04 17:50
 
 ---
 
