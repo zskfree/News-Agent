@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-05 03:16
+**最后更新时间**: 2026-11-05 12:57
+
+---
+
+## 🆕 最新更新 (2026-11-05 12:57)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从卖配置到铺自研技术，理想i6的第二年](https://www.leiphone.com/category/transportation/rQrb2B1pDwOfnMlg.html)
+**发布时间**: 2026-11-05 17:13
+
+#### [挖走 Claude Code 产品负责人 Cat Wu，OpenAI 直击 Anthropic 上市命门](https://www.leiphone.com/category/yanxishe/iIUJoulGndesZear.html)
+**发布时间**: 2026-11-05 15:01
+
+#### [百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA](https://www.leiphone.com/category/industrynews/XOv7MDFAP99kUMEW.html)
+**发布时间**: 2026-11-05 14:53
+
+#### [91% ≈ 0%？谷歌最新研究，戳破工程 Agent 的高正确率泡沫](https://www.leiphone.com/category/ai/YZ0bP2vh94KY45RG.html)
+**发布时间**: 2026-11-05 13:51
+
+#### [更强的模型之外，ACM MM 2026还在关注什么？](https://www.leiphone.com/category/private/eQlbsTc2zonGxU4h.html)
+**发布时间**: 2026-11-05 13:47
+
+#### [上海交大邓志杰：扩散语言模型，怎样才能又快又好](https://www.leiphone.com/category/private/T9k5sQixxLljsoH7.html)
+**发布时间**: 2026-11-05 13:44
+
+#### [清洁机器人出海患上「三高」：高库存、高税率、高门槛](https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html)
+**发布时间**: 2026-11-05 11:58
+
+#### [2000万人用灵光，灵光2.0上线一周托管超116万项事务](https://www.leiphone.com/category/industrynews/rJ5oXEPsUlwSPneA.html)
+**发布时间**: 2026-11-05 11:51
+
+#### [世界模型热潮里，百度重新亮出无人驾驶底牌](https://www.leiphone.com/category/transportation/d85n0vUzY4Df9bd2.html)
+**发布时间**: 2026-11-05 11:02
+
+#### [子公司把母公司告了！安世半导体起诉闻泰科技，索赔134亿元；中兴手机账号主体变更，将调整为上海申启纪元；腾讯混元正式发布Hy4](https://www.leiphone.com/category/zaobao/uojoiQ2Owilfvr8B.html)
+**发布时间**: 2026-11-05 10:07
+
+#### [360亮相北大AI+X青年人才实践发展论坛，联合发布“AI原生人才标准”](https://www.leiphone.com/category/industrynews/litxyBn8AmWERGUM.html)
+**发布时间**: 2026-11-05 09:57
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster](https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/)
+**发布时间**: 2026-11-05 08:02
+
+#### [OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation](https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/)
+**发布时间**: 2026-11-05 07:03
+
+#### [Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers](https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/)
+**发布时间**: 2026-11-05 05:42
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA](https://www.qbitai.com/2026/11/507787.html)
+**发布时间**: 2026-11-05 07:15
+
+#### [MIT神作被锤：Astra爆改Qwen权重？就吹吧！](https://www.qbitai.com/2026/11/507782.html)
+**发布时间**: 2026-11-05 07:10
+
+#### [以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划](https://www.qbitai.com/2026/11/507767.html)
+**发布时间**: 2026-11-05 05:25
+
+#### [](https://www.qbitai.com/2026/11/507757.html)
+**发布时间**: 2026-11-05 03:58
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-05日刊](https://hex2077.dev/docs/2026-11/2026-11-05/)
+**发布时间**: 2026-11-05 03:33
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
+**发布时间**: 2026-11-05 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Clearing up a robot’s fuzzy memory](https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105)
+**发布时间**: 2026-11-05 00:00
 
 ---
 

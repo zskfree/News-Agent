@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-05 03:18
+**最后更新时间**: 2026-11-05 13:00
+
+---
+
+## 🆕 最新更新 (2026-11-05 13:00)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模型之外，腾讯还在补什么？](https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 19:13
+
+#### [PHP 修复了两处已遭到攻击的严重远程代码执行漏洞](https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 17:06
+
+#### [Claude Code 产品负责人Cut Wu 官宣加入 OpenAI](https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 16:53
+
+#### [MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力](https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 15:19
+
+#### [视频生成只是开始，AI 如何把内容做对？](https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 13:54
+
+#### [谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理](https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-05 13:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [具身智能，变天了](https://www.tmtpost.com/8194393.html)
+**发布时间**: 2026-11-05 18:31
+
+#### [机器人，开始卷K12了](https://www.tmtpost.com/8194643.html)
+**发布时间**: 2026-11-05 18:30
+
+#### [AI安全背后的哲学思想，有效利他主义如何影响硅谷？（上篇）](https://www.tmtpost.com/8194754.html)
+**发布时间**: 2026-11-05 18:30
+
+#### [瑞幸这场仗，赢在少送几单，难在多卖一杯](https://www.tmtpost.com/8194708.html)
+**发布时间**: 2026-11-05 18:30
+
+#### [China’s Standalone Battery Boom Pays Equipment Makers First](https://www.tmtpost.com/8195020.html)
+**发布时间**: 2026-11-05 18:12
+
+#### [中国CXO的暗战，前移到了“种子轮”](https://www.tmtpost.com/8194492.html)
+**发布时间**: 2026-11-05 18:02
+
+#### [嘉加资本对话Normal Computing创始人：在硅谷，创始人只需做对三件事](https://www.tmtpost.com/8194735.html)
+**发布时间**: 2026-11-05 18:02
+
+#### [老铺黄金总算是可以喘口气了](https://www.tmtpost.com/8194881.html)
+**发布时间**: 2026-11-05 18:02
+
+#### [大国重器逆袭三十年，国产盾构机逆向“卡脖子”](https://www.tmtpost.com/8194166.html)
+**发布时间**: 2026-11-05 18:02
+
+#### [海外收入占比据报达50%，Seedance争夺AI视频的商业入口 ｜出海参考](https://www.tmtpost.com/8194483.html)
+**发布时间**: 2026-11-05 17:45
+
+#### [史上最好的一份财报：SK 海力士股价为何回撤过半](https://www.tmtpost.com/8193123.html)
+**发布时间**: 2026-11-05 17:41
+
+#### [具身大脑行业迎来“终极反派”](https://www.tmtpost.com/8194579.html)
+**发布时间**: 2026-11-05 17:22
+
+#### [五家最会赚钱的公司，开始借钱过日子了](https://www.tmtpost.com/8194725.html)
+**发布时间**: 2026-11-05 17:02
+
+#### [李佳琦开始卖Token，AI终于走进了直播间](https://www.tmtpost.com/8194147.html)
+**发布时间**: 2026-11-05 17:02
+
+#### [好想来三万家门店，谁赚走了利润？](https://www.tmtpost.com/8194107.html)
+**发布时间**: 2026-11-05 17:02
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一](http://www.geekpark.net/news/373542)
+**发布时间**: 2026-11-05 17:19
+
+#### [一个人用得好 AI，为什么一家公司却用不好？](http://www.geekpark.net/news/373541)
+**发布时间**: 2026-11-05 17:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 255｜少数派的编辑们最近买了啥？](https://sspai.com/post/118541)
+**发布时间**: 2026-11-05 17:11
+
+#### [不用困在厨房也能做出好饭：三十道省事家常蒸菜](https://sspai.com/prime/story/30-easy-steamed-dishes)
+**发布时间**: 2026-11-05 15:16
+
+#### [Apple 官网排版细节鉴赏](https://sspai.com/post/115399)
+**发布时间**: 2026-11-05 10:57
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 7 个 GitHub 项目把你的人生安排的妥妥的，合计近 30 万 Star。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538275&idx=1&sn=1ec913534f8557ac9338c4e4d6df8718)
+**发布时间**: 2026-11-05 14:50
 
 ---
 

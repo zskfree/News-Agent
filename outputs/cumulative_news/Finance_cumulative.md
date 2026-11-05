@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-05 03:18
+**最后更新时间**: 2026-11-05 13:00
+
+---
+
+## 🆕 最新更新 (2026-11-05 13:00)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Robot maker Agility starts trading today — but its steep losses are raising red flags](https://www.marketwatch.com/story/robot-maker-agility-starts-trading-today-but-its-steep-losses-are-raising-red-flags-f97c2cee?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 12:43
+
+#### [Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon](https://www.marketwatch.com/story/interest-rates-could-go-significantly-higher-if-oil-prices-keep-climbing-even-if-the-iran-war-ends-soon-e3493498?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 12:33
+
+#### [The real test for the artificial intelligence build-out is what happens in 2028, analysts say](https://www.marketwatch.com/story/the-real-test-for-the-artificial-intelligence-build-out-is-what-happens-in-2028-analysts-say-c5978e48?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 12:23
+
+#### [An Anthropic IPO when the AI trade is this turbulent? Godspeed!](https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 12:16
+
+#### [I constantly attend free meals hosted by people promoting annuities. Am I flirting with disaster?](https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 12:15
+
+#### [A strategist draws a 1980s parallel to argue bipartisanship could power a ‘bull stampede’](https://www.marketwatch.com/story/a-strategist-draws-a-1980s-parallel-to-argue-bipartisanship-could-power-a-bull-stampede-609ddc9b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 11:56
+
+#### [‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?](https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 11:45
+
+#### [Research firm declares ‘end of the AI trade as we know it’ — and Asian tech stocks reflect the shift](https://www.marketwatch.com/story/research-firm-declares-end-of-the-ai-trade-as-we-know-it-and-asian-tech-stocks-reflect-the-shift-25ac8e8f?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 11:22
+
+#### [A prolonged war in Iran is the market’s real ‘black swan,’ says this strategist](https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 10:20
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [European stocks approach all-time high on Democratic sweep](https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 12:33
+
+#### [Wall Street bets Democratic sweep will empower moderates in Washington](https://www.ft.com/content/18739027-d5cc-4e18-825e-d43ac7d1ef9f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 11:00
+
+#### [Democrats look to reshape America after historic midterm victories](https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 05:00
+
+#### [The next US presidential race has begun](https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 05:00
+
+#### [Morning in America, twilight in the markets](https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007)
+**发布时间**: 2026-11-05 05:00
+
+#### [Trump’s economic agenda wasn’t Republican enough](https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128)
+**发布时间**: 2026-11-05 05:00
+
+#### [Democratic wave keeps US wealth taxes alive despite California loss](https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 00:52
+
+#### [Impeachments, Iran and the presidency: what’s next after the midterms?](https://www.ft.com/content/18e00ce0-aef2-41e9-ab7f-8a5dd8a9c217?syn-25a6b1a6=1)
+**发布时间**: 2026-11-04 19:06
 
 ---
 
