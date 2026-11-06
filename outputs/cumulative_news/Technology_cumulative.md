@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-05 13:00
+**最后更新时间**: 2026-11-06 03:17
+
+---
+
+## 🆕 最新更新 (2026-11-06 03:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“最牛老板娘”1月精准逃顶，转身又押白银，如今怎么样了？](https://www.tmtpost.com/8195029.html)
+**发布时间**: 2026-11-06 11:10
+
+#### [狂欢的AI，把手机芯片厂拖入寒冬](https://www.tmtpost.com/8192384.html)
+**发布时间**: 2026-11-06 11:09
+
+#### [金店大撤退，卖金子不如卖牌子？](https://www.tmtpost.com/8195497.html)
+**发布时间**: 2026-11-06 11:04
+
+#### [老酒店，注定是“老不死的”么？](https://www.tmtpost.com/8195588.html)
+**发布时间**: 2026-11-06 11:03
+
+#### [全球最大图库破产，前世界首富的孙子，损失700亿美元](https://www.tmtpost.com/8195601.html)
+**发布时间**: 2026-11-06 11:03
+
+#### [爆改硬件，是普通人享受到的第一个AI红利](https://www.tmtpost.com/8195586.html)
+**发布时间**: 2026-11-06 10:57
+
+#### [Agility 上市了，但人形机器人的尺子不止一把](https://www.tmtpost.com/8195331.html)
+**发布时间**: 2026-11-06 10:55
+
+#### [格力电器，拆掉蓄水池](https://www.tmtpost.com/8195328.html)
+**发布时间**: 2026-11-06 10:54
+
+#### [DeepSeek融资中最低调的一笔钱，16.5亿元，来自一桌浙江实业家](https://www.tmtpost.com/8195423.html)
+**发布时间**: 2026-11-06 10:01
+
+#### [酒店业，不拼规模拼什么？](https://www.tmtpost.com/8195421.html)
+**发布时间**: 2026-11-06 09:55
+
+#### [灵光做Personal Agent的痛点，小红书和Rokid想联手补上](https://www.tmtpost.com/8195337.html)
+**发布时间**: 2026-11-06 09:51
+
+#### [20家大厂签约，AI操作App仍要过三道关](https://www.tmtpost.com/8195245.html)
+**发布时间**: 2026-11-06 09:40
+
+#### [欧洲最后一座青霉素工厂也快要撑不住了](https://www.tmtpost.com/8195240.html)
+**发布时间**: 2026-11-06 09:34
+
+#### [货币资金不足12亿，百亿游戏巨头拟砸42亿买GPU](https://www.tmtpost.com/8195221.html)
+**发布时间**: 2026-11-06 09:31
+
+#### [万岁山常州开“分号”，能否火过“苏超”？](https://www.tmtpost.com/8195196.html)
+**发布时间**: 2026-11-06 09:28
+
+#### [百亿市值蒸发，“甜牛奶第一股”越忙越穷](https://www.tmtpost.com/8195210.html)
+**发布时间**: 2026-11-06 09:28
+
+#### [英伟达CPU下场，要推翻Chiplet？](https://www.tmtpost.com/8195036.html)
+**发布时间**: 2026-11-06 09:22
+
+#### [中国柔性屏的七年突围](https://www.tmtpost.com/8195102.html)
+**发布时间**: 2026-11-06 09:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Native 企业研发工具链：架构重构与持续演进｜AICon北京](https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 10:00
+
+#### [AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资](https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 08:00
+
+#### [当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge](https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 07:14
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber](http://www.geekpark.net/news/373554)
+**发布时间**: 2026-11-06 09:01
+
+#### [极客公园创新大会 2027 首批嘉宾揭晓！](http://www.geekpark.net/news/373553)
+**发布时间**: 2026-11-05 21:15
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：国务院办公厅发布 2027 年部分节假日放假安排等](https://sspai.com/post/118587)
+**发布时间**: 2026-11-06 08:24
+
+#### [开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验](https://sspai.com/post/118546)
+**发布时间**: 2026-11-05 22:00
 
 ---
 

@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-05 13:00
+**最后更新时间**: 2026-11-06 03:17
+
+---
+
+## 🆕 最新更新 (2026-11-06 03:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?](https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 03:00
+
+#### [Here’s what’s driving Iren’s stock higher after a brutal selloff](https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 01:07
+
+#### [Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years](https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 01:06
+
+#### [Here are the 2027 capital-gains tax rates for each income level](https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 23:48
+
+#### [Tech stocks log worst day since 2020 as carnage comes to the AI trade](https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 22:48
+
+#### [The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.](https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 22:40
+
+#### [How much in Roth conversions can you do in 2027 with the new tax brackets?](https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 22:24
+
+#### [Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.](https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 21:44
+
+#### [The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout](https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 21:43
+
+#### [After tech-stock rout, October jobs report could bring relief — or more pain](https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-05 21:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Asian tech stocks sink](https://www.ft.com/content/b77ebe43-a017-4e63-af84-5bdec8f47648?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 02:30
+
+#### [Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges](https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 22:41
+
+#### [Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’](https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 21:57
+
+#### [Los Angeles elects democratic socialist Nithya Raman as mayor](https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 21:15
+
+#### [Will Democrats stall the AI boom?](https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 20:28
+
+#### [Wall Street mega-donors clobbered by Democratic sweep](https://www.ft.com/content/1338f6b6-81b1-478b-9807-5cfe1fc39113?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 19:48
+
+#### [Tech leaders need an urgent rethink of their political strategy](https://www.ft.com/content/6b64ea5b-48c3-474f-944b-845163db9b40?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 19:04
+
+#### [Global stocks tumble as Democratic midterm sweep sparks AI rout](https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 16:59
+
+#### [AI backlash threatens trillion-dollar data centre boom, say tech leaders](https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 15:35
 
 ---
 

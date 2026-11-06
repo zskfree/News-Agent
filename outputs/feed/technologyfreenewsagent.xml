@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Nov 2026 13:00:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 13:00:25 GMT</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 03:17:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:17:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude Code 产品负责人Cut Wu 官宣加入 OpenAI</title>
-      <link>https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code 产品负责人Cut Wu 官宣加入 OpenAI]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge</title>
+      <link>https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 07:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理</title>
-      <link>https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌发布 ML Drift：为各类 GPU 加速端侧 AI 推理]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hHzARIJTeqoqYpjNKEuq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>狂欢的AI，把手机芯片厂拖入寒冬</title>
+      <link>https://www.tmtpost.com/8192384.html</link>
+      <description>&lt;![CDATA[狂欢的AI，把手机芯片厂拖入寒冬]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8192384.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一</title>
-      <link>http://www.geekpark.net/news/373542</link>
-      <description>&lt;![CDATA[世界互联网大会领先科技奖背后，Qoder 凭什么拿下中国 AI 编程市场第一]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 17:19:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373542</guid>
+      <title>AI Native 企业研发工具链：架构重构与持续演进｜AICon北京</title>
+      <link>https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI Native 企业研发工具链：架构重构与持续演进｜AICon北京]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4IUSd2wP28ua4Jd5fHG2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>模型之外，腾讯还在补什么？</title>
-      <link>https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[模型之外，腾讯还在补什么？]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber</title>
+      <link>http://www.geekpark.net/news/373554</link>
+      <description>&lt;![CDATA[中期选举后美国芯片股重挫，纳指单日暴跌 5.52%；民主党宣布推动《禁止人工智能法案》；OpenAI 推出 GPT-6 Cyber]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 09:01:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373554</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>PHP 修复了两处已遭到攻击的严重远程代码执行漏洞</title>
-      <link>https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[PHP 修复了两处已遭到攻击的严重远程代码执行漏洞]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>极客公园创新大会 2027 首批嘉宾揭晓！</title>
+      <link>http://www.geekpark.net/news/373553</link>
+      <description>&lt;![CDATA[极客公园创新大会 2027 首批嘉宾揭晓！]]&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 21:15:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/373553</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力</title>
-      <link>https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：国务院办公厅发布 2027 年部分节假日放假安排等</title>
+      <link>https://sspai.com/post/118587</link>
+      <description>&lt;![CDATA[派早报：国务院办公厅发布 2027 年部分节假日放假安排等]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 08:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/118587</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>视频生成只是开始，AI 如何把内容做对？</title>
-      <link>https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[视频生成只是开始，AI 如何把内容做对？]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GGILIuzW0RTGhoeuz9TD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“最牛老板娘”1月精准逃顶，转身又押白银，如今怎么样了？</title>
+      <link>https://www.tmtpost.com/8195029.html</link>
+      <description>&lt;![CDATA[“最牛老板娘”1月精准逃顶，转身又押白银，如今怎么样了？]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8195029.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人，开始卷K12了</title>
-      <link>https://www.tmtpost.com/8194643.html</link>
-      <description>&lt;![CDATA[机器人，开始卷K12了]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8194643.html</guid>
+      <title>金店大撤退，卖金子不如卖牌子？</title>
+      <link>https://www.tmtpost.com/8195497.html</link>
+      <description>&lt;![CDATA[金店大撤退，卖金子不如卖牌子？]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 11:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8195497.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI安全背后的哲学思想，有效利他主义如何影响硅谷？（上篇）</title>
-      <link>https://www.tmtpost.com/8194754.html</link>
-      <description>&lt;![CDATA[AI安全背后的哲学思想，有效利他主义如何影响硅谷？（上篇）]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8194754.html</guid>
+      <title>老酒店，注定是“老不死的”么？</title>
+      <link>https://www.tmtpost.com/8195588.html</link>
+      <description>&lt;![CDATA[老酒店，注定是“老不死的”么？]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8195588.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>瑞幸这场仗，赢在少送几单，难在多卖一杯</title>
-      <link>https://www.tmtpost.com/8194708.html</link>
-      <description>&lt;![CDATA[瑞幸这场仗，赢在少送几单，难在多卖一杯]]&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 18:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8194708.html</guid>
+      <title>全球最大图库破产，前世界首富的孙子，损失700亿美元</title>
+      <link>https://www.tmtpost.com/8195601.html</link>
+      <description>&lt;![CDATA[全球最大图库破产，前世界首富的孙子，损失700亿美元]]&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8195601.html</guid>
       <category>Technology</category>
     </item>
   </channel>

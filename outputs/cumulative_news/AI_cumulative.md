@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-05 12:57
+**最后更新时间**: 2026-11-06 03:15
+
+---
+
+## 🆕 最新更新 (2026-11-06 03:15)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second](https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/)
+**发布时间**: 2026-11-05 22:58
+
+#### [Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters](https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/)
+**发布时间**: 2026-11-05 21:33
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [累计发货量突破100万台！鸿蒙电脑厚积薄发，持续拓展桌面应用生态](https://www.leiphone.com/category/industrynews/6igykQlGwvA6vyCV.html)
+**发布时间**: 2026-11-05 21:48
+
+#### [李彦宏百度世界2026演讲海报曝光，或分享智能组织进化新思考](https://www.leiphone.com/category/industrynews/49uolfG855V4Zc9M.html)
+**发布时间**: 2026-11-05 19:26
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Getting started with Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-05 21:04
+
+#### [How Amazon Marketplace evaluates content quality with Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/)
+**发布时间**: 2026-11-05 18:06
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/)
+**发布时间**: 2026-11-05 20:00
+
+#### [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/)
+**发布时间**: 2026-11-05 16:00
+
+#### [More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge](https://blogs.nvidia.com/blog/memory-full-stack-codesign/)
+**发布时间**: 2026-11-05 16:00
+
+#### [‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/)
+**发布时间**: 2026-11-05 14:00
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation)
+**发布时间**: 2026-11-05 19:35
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Detecting signs of hypertension using wearable sensors](https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/)
+**发布时间**: 2026-11-05 16:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [](https://www.qbitai.com/2026/11/507757.html)
+**发布时间**: 2026-11-05 03:58
 
 ---
 
