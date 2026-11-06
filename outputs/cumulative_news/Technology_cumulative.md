@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-06 03:17
+**最后更新时间**: 2026-11-06 12:46
+
+---
+
+## 🆕 最新更新 (2026-11-06 12:46)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [估值 400 亿美元，美国公司，终于做出了中国开源模型的竞对](http://www.geekpark.net/news/373637)
+**发布时间**: 2026-11-06 20:13
+
+#### [AI 时代没有标准答案的问题，我们面对面聊](http://www.geekpark.net/news/373636)
+**发布时间**: 2026-11-06 20:09
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [仰望U9X极速突破500km/h，全球最快量产车易主](https://www.tmtpost.com/8196742.html)
+**发布时间**: 2026-11-06 19:55
+
+#### [雅诗兰黛 Q1 中国大陆销售增长15%；lululemon携三项创新产品亮相进博；高梵×「上下」发布东方高定鹅绒服联名典藏系列｜消研所周报](https://www.tmtpost.com/8196552.html)
+**发布时间**: 2026-11-06 19:00
+
+#### [Waymo不想再当“技术供应商”了](https://www.tmtpost.com/8195043.html)
+**发布时间**: 2026-11-06 18:09
+
+#### [我为什么不太看好苹果国行AI](https://www.tmtpost.com/8196145.html)
+**发布时间**: 2026-11-06 18:09
+
+#### [LVMH市值蒸发千亿，Gucci营收下滑6%，奢侈品巨头扛不住了？](https://www.tmtpost.com/8196410.html)
+**发布时间**: 2026-11-06 18:09
+
+#### [美国重金买矿、全球签协议，谁为这场关键矿产争夺战买单？](https://www.tmtpost.com/8196540.html)
+**发布时间**: 2026-11-06 18:09
+
+#### [县城理发店，批量消失了？](https://www.tmtpost.com/8196555.html)
+**发布时间**: 2026-11-06 18:09
+
+#### [Fourier’s Meta Prototype Puts a Spotlight on an 8-Billion-Yuan Robotics Bet](https://www.tmtpost.com/8196543.html)
+**发布时间**: 2026-11-06 17:57
+
+#### [创始人扶90后表弟“上位”，百亿辣条帝国面临双重挑战](https://www.tmtpost.com/8195224.html)
+**发布时间**: 2026-11-06 17:40
+
+#### [碧桂园终于找到了一种新活法](https://www.tmtpost.com/8195037.html)
+**发布时间**: 2026-11-06 17:40
+
+#### [Claude Code华人一姐，闪电跳槽到OpenAI，大厂为何留不住人才？](https://www.tmtpost.com/8196354.html)
+**发布时间**: 2026-11-06 17:33
+
+#### [AI开始收费，租号灰产崛起：一月流水30万](https://www.tmtpost.com/8196254.html)
+**发布时间**: 2026-11-06 17:33
+
+#### [Agent，“重做”数据库](https://www.tmtpost.com/8196378.html)
+**发布时间**: 2026-11-06 17:28
+
+#### [炒菜机器人“接管”后厨，也有力所不逮](https://www.tmtpost.com/8193766.html)
+**发布时间**: 2026-11-06 17:28
+
+#### [柔性传感器收入仅467万，福莱新材物理AI触觉概念成色几何？](https://www.tmtpost.com/8195712.html)
+**发布时间**: 2026-11-06 17:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/118623)
+**发布时间**: 2026-11-06 17:30
+
+#### [iPhone 变强了，但我没有](https://sspai.com/post/118250)
+**发布时间**: 2026-11-06 14:56
+
+#### [更高能效比，带来新惊喜：M6 款 MacBook Pro 初探](https://sspai.com/post/118570)
+**发布时间**: 2026-11-06 11:06
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版](https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 17:00
+
+#### [DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代](https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 15:25
+
+#### [从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？](https://www.infoq.cn/article/azhgYaRTIjsSSVfA8AaU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 14:34
+
+#### [NgRx 22 发布：引入 Resource Extensions 和动态 DeepSignal，增强 Angular 状态管理能力](https://www.infoq.cn/article/zJmwNj2Erc0Ol10eSIIY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 14:01
+
+#### [智能体 Harness 的演进：从链、图到代码化](https://www.infoq.cn/article/B7tsA5tjD08k2gd0OtXd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 13:00
+
+#### [“超脑”统一指挥，“狼族”协同作战：京东物流打造供应链 AI 机器人军团](https://www.infoq.cn/article/1YeowHagkg1Or6wwy23P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 11:32
+
+#### [2026 年 PyTorch 大会：谷歌和 Meta 开源 TorchTPU，在 TPU 上原生支持 PyTorch](https://www.infoq.cn/article/5s2oa0BLlgR8fplkq2uK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 11:17
+
+#### [从仓储到配送，全程由 AI“指挥”：京东物流“超脑”3.0 的工业级 AI 实践](https://www.infoq.cn/article/jBdvoUXheWN0oe6NfklO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-06 11:14
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [把你和别人的 Agent 连起来，这个刚开源的 GitHub 项目有意思啊。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538304&idx=1&sn=facb0eb70dff17bed3d546fd04776106)
+**发布时间**: 2026-11-06 11:16
 
 ---
 

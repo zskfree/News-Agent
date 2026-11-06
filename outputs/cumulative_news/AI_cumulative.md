@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-06 03:15
+**最后更新时间**: 2026-11-06 12:45
+
+---
+
+## 🆕 最新更新 (2026-11-06 12:45)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [创始人操纵股价罚没4047万，倍轻松再难「轻松」](https://www.leiphone.com/category/weiwu/dpUYWHZif8UtQpLA.html)
+**发布时间**: 2026-11-06 18:37
+
+#### [OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位](https://www.leiphone.com/category/yanxishe/u5N6lCUT0bEfanp1.html)
+**发布时间**: 2026-11-06 17:11
+
+#### [豆包工作个人版取消5小时额度限制](https://www.leiphone.com/category/industrynews/Ii6W43GghzJA7V1u.html)
+**发布时间**: 2026-11-06 16:29
+
+#### [李佳琦卖出万份Token，天猫的AI生意才刚开场](https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html)
+**发布时间**: 2026-11-06 15:57
+
+#### [办了33年的ACM MM，重新划定研究范围](https://www.leiphone.com/category/academic/XWkCJB9bbcRr9Ioe.html)
+**发布时间**: 2026-11-06 15:33
+
+#### [上交大张伟楠教授：AI如何走出屏幕，真正改变物理世界？ | CNCC 2026](https://www.leiphone.com/category/academic/TRS6Uqs5TY2MaUU4.html)
+**发布时间**: 2026-11-06 15:25
+
+#### [CoRL 六年：论文数×4.5，谁在推着它涨？](https://www.leiphone.com/category/academic/3fdO5oKaYZHXYOxI.html)
+**发布时间**: 2026-11-06 15:09
+
+#### [申通快递和千问办公达成战略合作，推动物流服务智能化升级](https://www.leiphone.com/category/industrynews/r82YrCccBHeqYIZv.html)
+**发布时间**: 2026-11-06 14:34
+
+#### [解读丨王腾创业一年，正把小米模式搬进卧室](https://www.leiphone.com/category/weiwu/93Xb1SiXL97SxUkH.html)
+**发布时间**: 2026-11-06 11:25
+
+#### [解读丨融资 2 亿，这家 E-bike 公司凭什么押注户外新品类](https://www.leiphone.com/category/weiwu/ozMqvnoWJ6l3FAhl.html)
+**发布时间**: 2026-11-06 11:21
+
+#### [独家丨腾讯20年老兵创业 AI 体感主机，融资超六千万](https://www.leiphone.com/category/weiwu/8xihmnpkWWIHsn9G.html)
+**发布时间**: 2026-11-06 11:10
+
+#### [独家丨创维孵化外骨骼，争夺银发硬件入口](https://www.leiphone.com/category/weiwu/MUNn2Q3G5UpPfzl0.html)
+**发布时间**: 2026-11-06 10:45
+
+#### [独家解读 | 大疆老兵研发运动硬件，如何一年做出两款产品？](https://www.leiphone.com/category/weiwu/NsNahCY0EA1kICK3.html)
+**发布时间**: 2026-11-06 10:44
+
+#### [独家解读丨前飞书 CMO 创业，为何用「水晶球」赌一个AI入口？](https://www.leiphone.com/category/weiwu/MiJKpPLqwFGB14X7.html)
+**发布时间**: 2026-11-06 10:18
+
+#### [红杉龙珠抢投，众筹 460 万美元：妙动科技的下一关是什么？](https://www.leiphone.com/category/weiwu/UDrzYpgEJMY4zajC.html)
+**发布时间**: 2026-11-06 10:17
+
+#### [菜鸟发布与AI及具身智能产业合作计划](https://www.leiphone.com/category/industrynews/DUZcuKBxESiGrXWu.html)
+**发布时间**: 2026-11-06 09:57
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿](https://www.qbitai.com/2026/11/508155.html)
+**发布时间**: 2026-11-06 07:00
+
+#### [一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？](https://www.qbitai.com/2026/11/508118.html)
+**发布时间**: 2026-11-06 06:54
+
+#### [从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！](https://www.qbitai.com/2026/11/508143.html)
+**发布时间**: 2026-11-06 06:43
+
+#### [99.4%登顶全球第一！这个中国AI师承世界冠军](https://www.qbitai.com/2026/11/508107.html)
+**发布时间**: 2026-11-06 05:01
+
+#### [香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇](https://www.qbitai.com/2026/11/507988.html)
+**发布时间**: 2026-11-06 03:36
+
+#### [AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航](https://www.qbitai.com/2026/11/507972.html)
+**发布时间**: 2026-11-06 03:20
+
+#### [腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一](https://www.qbitai.com/2026/11/507967.html)
+**发布时间**: 2026-11-06 02:00
+
+#### [孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭](https://www.qbitai.com/2026/11/507919.html)
+**发布时间**: 2026-11-05 13:17
+
+#### [三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型](https://www.qbitai.com/2026/11/507834.html)
+**发布时间**: 2026-11-05 09:37
+
+#### [拼多多让年轻人造草莓工厂，170天后“答案”熟了](https://www.qbitai.com/2026/11/507823.html)
+**发布时间**: 2026-11-05 09:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-06日刊](https://hex2077.dev/docs/2026-11/2026-11-06/)
+**发布时间**: 2026-11-06 04:29
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Egyptian and Nigerian English join the Open ASR Leaderboard](https://huggingface.co/blog/open-asr-leaderboard-liva)
+**发布时间**: 2026-11-06 00:00
 
 ---
 

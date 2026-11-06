@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-06 03:17
+**最后更新时间**: 2026-11-06 12:46
+
+---
+
+## 🆕 最新更新 (2026-11-06 12:46)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The S&P 500’s most reliable dividend stocks are beating the market. Here’s how to play them.](https://www.marketwatch.com/story/the-s-p-500s-most-reliable-dividend-stocks-are-beating-the-market-heres-how-to-play-them-3b46dc60?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 12:31
+
+#### [Moderna’s stock jumps after biotech raises sales outlook](https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 12:15
+
+#### [After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next](https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 12:14
+
+#### [Chip stocks are the cheapest they’ve been in nearly seven years. How low is too low?](https://www.marketwatch.com/story/chip-stocks-are-the-cheapest-theyve-been-in-nearly-seven-years-how-low-is-too-low-7edd732d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 12:03
+
+#### [My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?](https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 11:15
+
+#### [Is it the end of the Cybertruck? Elon Musk announces factory will shift Tesla production.](https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 10:37
+
+#### [What the governor-elect of Texas, at the epicenter of the AI-trade blowup, is now saying about data centers](https://www.marketwatch.com/story/what-the-governor-elect-of-texas-at-the-epicenter-of-the-ai-trade-blowup-is-now-saying-about-data-centers-55876582?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 10:20
+
+#### [‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home](https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 10:15
+
+#### [The $4 million mansion that author Sarah J. Maas bought after finding fame with ‘A Court of Thorns and Roses’](https://www.marketwatch.com/story/the-4-million-mansion-that-author-sarah-j-maas-bought-after-finding-fame-with-a-court-of-thorns-and-roses-170bbe1b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 10:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Wall Street set to steady after tech rout](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0)
+**发布时间**: 2026-11-06 11:10
+
+#### [Donald Trump has taught the world that tariffs are useless](https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 11:00
+
+#### [Is the AI stock bubble finally bursting?](https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 07:11
+
+#### [The sell-off gets deep](https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 06:30
+
+#### [America turns on Trump’s tech cheerleaders](https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 05:00
+
+#### [Who is in the line of fire after the midterm drubbing?](https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 05:00
+
+#### [The post-midterms playbook for America Inc](https://www.ft.com/content/9e62d62b-a464-42fb-b425-553b2364fa98?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 05:00
+
+#### [Iran celebrates Trump’s election defeat as mediators push for deal to end war](https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 05:00
+
+#### [Why pollsters underestimated size of the ‘blue wave’](https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-05 21:57
 
 ---
 
