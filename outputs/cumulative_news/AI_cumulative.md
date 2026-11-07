@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-07 02:34
+**最后更新时间**: 2026-11-07 11:33
+
+---
+
+## 🆕 最新更新 (2026-11-07 11:33)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种](https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html)
+**发布时间**: 2026-11-07 10:40
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞](https://www.qbitai.com/2026/11/508449.html)
+**发布时间**: 2026-11-07 09:38
+
+#### [OpenAI新融资到账110亿美元，不及原计划一半](https://www.qbitai.com/2026/11/508344.html)
+**发布时间**: 2026-11-07 08:11
+
+#### [为了去AI味，人类开始主动写烂文章了……](https://www.qbitai.com/2026/11/508330.html)
+**发布时间**: 2026-11-07 07:59
+
+#### [抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？](https://www.qbitai.com/2026/11/508264.html)
+**发布时间**: 2026-11-07 05:01
+
+#### [AGENTS.MD，危险危险危险！！！](https://www.qbitai.com/2026/11/508244.html)
+**发布时间**: 2026-11-07 03:43
+
+#### [浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生](https://www.qbitai.com/2026/11/508236.html)
+**发布时间**: 2026-11-07 03:31
+
+#### [Jeff Dean李飞飞最新对谈：全是RSI非共识](https://www.qbitai.com/2026/11/508196.html)
+**发布时间**: 2026-11-07 03:23
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM](https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/)
+**发布时间**: 2026-11-07 08:16
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-07日刊](https://hex2077.dev/docs/2026-11/2026-11-07/)
+**发布时间**: 2026-11-07 03:48
 
 ---
 

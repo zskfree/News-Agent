@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-07 02:36
+**最后更新时间**: 2026-11-07 11:35
+
+---
+
+## 🆕 最新更新 (2026-11-07 11:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s defeat heralds a US retreat](https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 05:00
+
+#### [The mother of all American course corrections](https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 05:00
+
+#### [A bittersweet year for liberals](https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 05:00
+
+#### [How Wall Street’s all-in bet on AI blew up](https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 05:00
+
+#### [Mississippi election marks political earthquake in the Deep South](https://www.ft.com/content/0700baee-1a7f-4dc4-ac95-5b98e1868d96?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 05:00
+
+#### [European security agencies probe whether bomb hoaxes started in Russia](https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 05:00
+
+#### [US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 02:33
 
 ---
 

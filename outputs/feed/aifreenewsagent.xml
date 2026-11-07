@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Nov 2026 02:34:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Nov 2026 02:36:41 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 11:33:00 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:35:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/</link>
-      <description>&lt;![CDATA[SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/</guid>
+      <title>百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种</title>
+      <link>https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html</link>
+      <description>&lt;![CDATA[百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Taxonomy of agentic primitives in Amazon Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</link>
-      <description>&lt;![CDATA[Taxonomy of agentic primitives in Amazon Quick]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 17:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</guid>
+      <title>GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞</title>
+      <link>https://www.qbitai.com/2026/11/508449.html</link>
+      <description>&lt;![CDATA[GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 09:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508449.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Serverless MCP server for AI agent data lake access on Amazon ECS Fargate</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/</link>
-      <description>&lt;![CDATA[Serverless MCP server for AI agent data lake access on Amazon ECS Fargate]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/</guid>
+      <title>OpenAI新融资到账110亿美元，不及原计划一半</title>
+      <link>https://www.qbitai.com/2026/11/508344.html</link>
+      <description>&lt;![CDATA[OpenAI新融资到账110亿美元，不及原计划一半]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 08:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508344.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/</link>
-      <description>&lt;![CDATA[Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 17:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/</guid>
+      <title>为了去AI味，人类开始主动写烂文章了……</title>
+      <link>https://www.qbitai.com/2026/11/508330.html</link>
+      <description>&lt;![CDATA[为了去AI味，人类开始主动写烂文章了……]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 07:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508330.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/</guid>
+      <title>抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？</title>
+      <link>https://www.qbitai.com/2026/11/508264.html</link>
+      <description>&lt;![CDATA[抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 05:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508264.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/</guid>
+      <title>AGENTS.MD，危险危险危险！！！</title>
+      <link>https://www.qbitai.com/2026/11/508244.html</link>
+      <description>&lt;![CDATA[AGENTS.MD，危险危险危险！！！]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 03:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508244.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</link>
-      <description>&lt;![CDATA[Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</guid>
+      <title>浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生</title>
+      <link>https://www.qbitai.com/2026/11/508236.html</link>
+      <description>&lt;![CDATA[浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 03:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508236.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster</title>
-      <link>https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/</link>
-      <description>&lt;![CDATA[Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 17:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/</guid>
+      <title>Jeff Dean李飞飞最新对谈：全是RSI非共识</title>
+      <link>https://www.qbitai.com/2026/11/508196.html</link>
+      <description>&lt;![CDATA[Jeff Dean李飞飞最新对谈：全是RSI非共识]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 03:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508196.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks</title>
-      <link>https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</link>
-      <description>&lt;![CDATA[How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</guid>
+      <title>Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM</title>
+      <link>https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/</link>
+      <description>&lt;![CDATA[Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 08:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间</title>
-      <link>https://www.qbitai.com/2026/11/508184.html</link>
-      <description>&lt;![CDATA[A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间]]&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 15:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508184.html</guid>
+      <title>2026-11-07日刊</title>
+      <link>https://hex2077.dev/docs/2026-11/2026-11-07/</link>
+      <description>&lt;![CDATA[2026-11-07日刊]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-07/</guid>
       <category>Ai</category>
     </item>
   </channel>
