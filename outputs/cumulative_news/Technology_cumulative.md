@@ -1,7 +1,37 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-06 12:46
+**最后更新时间**: 2026-11-07 02:36
+
+---
+
+## 🆕 最新更新 (2026-11-07 02:36)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京](https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-07 10:00
+
+#### [线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图](https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-07 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [50系突然疯涨，买不起显卡，年轻人又挤进网吧包夜了](https://www.tmtpost.com/8196665.html)
+**发布时间**: 2026-11-07 09:54
+
+#### [深度聊聊“字节时间”](https://www.tmtpost.com/8196953.html)
+**发布时间**: 2026-11-07 09:54
+
+#### [AI基建预期生变，万盛股份2.85亿溢价并购遭上交所三问](https://www.tmtpost.com/8196758.html)
+**发布时间**: 2026-11-07 09:21
+
+#### [Edge AI Daily 早报（11月7日）](https://www.tmtpost.com/8196982.html)
+**发布时间**: 2026-11-07 08:28
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道](http://www.geekpark.net/news/373639)
+**发布时间**: 2026-11-07 08:48
 
 ---
 

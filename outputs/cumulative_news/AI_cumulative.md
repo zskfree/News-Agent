@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-06 12:45
+**最后更新时间**: 2026-11-07 02:34
+
+---
+
+## 🆕 最新更新 (2026-11-07 02:34)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/)
+**发布时间**: 2026-11-06 18:01
+
+#### [Taxonomy of agentic primitives in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/)
+**发布时间**: 2026-11-06 17:34
+
+#### [Serverless MCP server for AI agent data lake access on Amazon ECS Fargate](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/)
+**发布时间**: 2026-11-06 17:13
+
+#### [Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/)
+**发布时间**: 2026-11-06 17:09
+
+#### [Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/)
+**发布时间**: 2026-11-06 17:09
+
+#### [How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-06 16:55
+
+#### [Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-06 16:49
+
+#### [Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls](https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/)
+**发布时间**: 2026-11-06 16:45
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster](https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/)
+**发布时间**: 2026-11-06 17:28
+
+#### [Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active](https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/)
+**发布时间**: 2026-11-06 04:25
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/)
+**发布时间**: 2026-11-06 16:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [A\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间](https://www.qbitai.com/2026/11/508184.html)
+**发布时间**: 2026-11-06 15:21
+
+#### [为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？](https://www.qbitai.com/2026/11/508174.html)
+**发布时间**: 2026-11-06 09:25
+
+#### [阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验](https://www.qbitai.com/2026/11/508170.html)
+**发布时间**: 2026-11-06 09:21
+
+#### [阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点](https://www.qbitai.com/2026/11/508165.html)
+**发布时间**: 2026-11-06 09:19
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks)
+**发布时间**: 2026-11-06 14:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [How to predict the behavior of molecules from scant data](https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106)
+**发布时间**: 2026-11-06 14:00
 
 ---
 

@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-06 12:46
+**最后更新时间**: 2026-11-07 02:36
+
+---
+
+## 🆕 最新更新 (2026-11-07 02:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US warns China it must ‘immediately’ meet terms of Busan trade deal](https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 22:53
+
+#### [US economy outstrips forecasts to add 165,000 jobs in October](https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 22:16
+
+#### [Trump taps immigration hardliner Stephen Miller as chief of staff](https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 22:09
+
+#### [US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears](https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 22:00
+
+#### [Anthropic to press ahead with IPO targeting $1.5tn valuation](https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 21:00
+
+#### [Voters take their pick in New Zealand’s ‘supermarket election’](https://www.ft.com/content/1e80651b-14f3-4cf0-9b47-2f6dee158496?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 21:00
+
+#### [James Talarico: the Democrats’ rising star who turned Texas blue](https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 17:23
+
+#### [Low-profile Wall Street firm to double down on Anthropic despite tech rout](https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 14:01
+
+#### [My portfolio returns went from hero to zero (actually I’d take zero)](https://www.ft.com/content/44211bf7-0f18-4e55-81b8-01e750ae785f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 13:34
+
+#### [Trump has taught the world that tariffs are useless](https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-06 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Elon Musk opens the door for a big SpaceX acquisition](https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 21:45
+
+#### [Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.](https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 21:37
+
+#### [Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?](https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 21:24
+
+#### [Micron’s stock is dirt cheap — and that’s igniting a fierce online debate](https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 20:58
+
+#### [Cybertruck’s run comes to an end as Musk kills off pricey pet project](https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 18:54
+
+#### [My adviser recommended an annuity. Is it the right move in this market environment?](https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-06 18:53
 
 ---
 
