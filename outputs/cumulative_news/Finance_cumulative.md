@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-08 02:08
+**最后更新时间**: 2026-11-08 11:45
+
+---
+
+## 🆕 最新更新 (2026-11-08 11:45)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic strikes $3.4bn deal to generate gas-fired power for data centres](https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 11:00
+
+#### [Crypto industry braces for reckoning over Trump ties](https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 05:00
+
+#### [‘Radical left’ get the headlines but centrists dominate new US Congress](https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 05:00
+
+#### [Is Europe getting serious about ending tech dependence?](https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 05:00
+
+#### [America is craving a return to community](https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 05:00
+
+#### [Apple saves $2.7bn in taxes by booking profits in Singapore](https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 05:00
+
+#### [Argentina’s Milei dreams of data centres on the Patagonian steppe](https://www.ft.com/content/d432ae29-6454-4916-98c7-afb6993cfb67?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 05:00
+
+#### [Russia races to build rival to Elon Musk’s Starlink](https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 05:00
+
+#### [Trump asks UFC boss Dana White to be new press secretary](https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 01:23
+
+#### [What will a Democratic Congress mean for Ukraine?](https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 12:00
 
 ---
 

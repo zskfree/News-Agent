@@ -1,7 +1,42 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-08 02:05
+**最后更新时间**: 2026-11-08 11:45
+
+---
+
+## 🆕 最新更新 (2026-11-08 11:45)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [终端侧AI：从单点应用走向智能体体验](https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html)
+**发布时间**: 2026-11-08 15:54
+
+#### [冲刺狂欢日！抖音商城双11高光品牌有哪些？](https://www.leiphone.com/category/industrynews/Fk2MojO1XgLVidbM.html)
+**发布时间**: 2026-11-07 18:54
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding](https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/)
+**发布时间**: 2026-11-08 10:46
+
+#### [Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared](https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/)
+**发布时间**: 2026-11-08 10:27
+
+#### [MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)](https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/)
+**发布时间**: 2026-11-08 06:18
+
+#### [Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%](https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/)
+**发布时间**: 2026-11-08 04:45
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [资本正在撤离“世界模型”](https://www.qbitai.com/2026/11/508466.html)
+**发布时间**: 2026-11-08 04:09
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-08日刊](https://hex2077.dev/docs/2026-11/2026-11-08/)
+**发布时间**: 2026-11-08 03:34
 
 ---
 

@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-08 02:08
+**最后更新时间**: 2026-11-08 11:45
+
+---
+
+## 🆕 最新更新 (2026-11-08 11:45)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [为什么「陪伴」，注定是 Personal AI 的核心](http://www.geekpark.net/news/373653)
+**发布时间**: 2026-11-08 17:52
+
+#### [创业者做 Personal Agent，有没有一线生机？](http://www.geekpark.net/news/373650)
+**发布时间**: 2026-11-08 10:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题](https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-08 16:19
+
+#### [顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访](https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-08 15:03
+
+#### [租户隔离做了四层，就能放心了吗？工程师提醒：还得看得见边界是否生效](https://www.infoq.cn/article/zTFVgklcTFZvgE2fkV7A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-08 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”](https://www.tmtpost.com/8194549.html)
+**发布时间**: 2026-11-08 14:55
+
+#### [登月的胜负手，不在火箭点火那一刻](https://www.tmtpost.com/8194612.html)
+**发布时间**: 2026-11-08 14:55
+
+#### [鲜货烧烤热度持续上升，如何把它变成一门持续赚钱的生意？](https://www.tmtpost.com/8197514.html)
+**发布时间**: 2026-11-08 14:53
+
+#### [亿纬206GWh大单背后，国轩、比亚迪也在中东市场掘金，储能出海是否形成“供应商名单固化”？](https://www.tmtpost.com/8197534.html)
+**发布时间**: 2026-11-08 14:53
+
+#### [年轻人疯囤平价大水，“水中贵族”百岁山不香了？](https://www.tmtpost.com/8197498.html)
+**发布时间**: 2026-11-08 14:46
+
+#### [AMD的CPU时代，正在「落幕」](https://www.tmtpost.com/8197527.html)
+**发布时间**: 2026-11-08 14:46
+
+#### [消费入座成潮流？消费入座趋势是怎么形成的？](https://www.tmtpost.com/8197530.html)
+**发布时间**: 2026-11-08 14:46
+
+#### [中国白酒出口韩国暴涨85%，谁在买？](https://www.tmtpost.com/8197334.html)
+**发布时间**: 2026-11-08 10:28
+
+#### [年产250亿双的“国际袜都”：袜子、面子和里子](https://www.tmtpost.com/8197376.html)
+**发布时间**: 2026-11-08 10:23
+
+#### [实控人离婚给超8亿“分手费”，智能装备龙头三季报增收不增利](https://www.tmtpost.com/8197382.html)
+**发布时间**: 2026-11-08 10:20
+
+#### [AI泡沫监测·之二：第三个定价器上牌桌](https://www.tmtpost.com/8197365.html)
+**发布时间**: 2026-11-08 10:19
+
+#### [2026年，黄金为什么没当好避险资产？](https://www.tmtpost.com/8197401.html)
+**发布时间**: 2026-11-08 10:19
+
+#### [宇树跟红杉都不想自己“努力”了？](https://www.tmtpost.com/8197415.html)
+**发布时间**: 2026-11-08 10:17
+
+#### [硫磺大行情，正在掀起化工行业的“成本风暴”](https://www.tmtpost.com/8197413.html)
+**发布时间**: 2026-11-08 10:17
+
+#### [苹果史上最好财报，却被内存拖住了后腿](https://www.tmtpost.com/8197412.html)
+**发布时间**: 2026-11-08 10:10
+
+#### [对话《持械入宋》主创 ：非科班，无投流，草根团队如何做出120亿品质爆款？](https://www.tmtpost.com/8197408.html)
+**发布时间**: 2026-11-08 10:10
+
+#### [在芬兰卖二手衣服，已经成了一门大生意](https://www.tmtpost.com/8197335.html)
+**发布时间**: 2026-11-08 10:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [苹果产品那些不够颠覆，却值得被学习的细节](https://sspai.com/post/118114)
+**发布时间**: 2026-11-08 11:18
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [有个刚开源的 GitHub 项目贼有说法，竟然能在终端里再跑一台 Mac。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538388&idx=1&sn=76b1287f4a12472c0ea4c90697d47571)
+**发布时间**: 2026-11-08 11:05
 
 ---
 
