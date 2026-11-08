@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Nov 2026 11:33:00 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Nov 2026 11:35:44 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 02:05:00 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:08:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,45 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种</title>
-      <link>https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html</link>
-      <description>&lt;![CDATA[百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html</guid>
+      <title>How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide</title>
+      <link>https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/</link>
+      <description>&lt;![CDATA[How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide]]&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 19:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞</title>
-      <link>https://www.qbitai.com/2026/11/508449.html</link>
-      <description>&lt;![CDATA[GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508449.html</guid>
+      <title>](https://www.qbitai.com/2026/11/507757.html)
+**发布时间**: 2026-11-05 03:58
+
+---
+
+## 🆕 最新更新 (2026-11-05 12:57)
+### 📰 来源: [雷峰网</title>
+      <link>https://www.leiphone.com/feed</link>
+      <description>&lt;![CDATA[](https://www.qbitai.com/2026/11/507757.html)
+**发布时间**: 2026-11-05 03:58
+
+---
+
+## 🆕 最新更新 (2026-11-05 12:57)
+### 📰 来源: [雷峰网]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 02:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/feed</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI新融资到账110亿美元，不及原计划一半</title>
-      <link>https://www.qbitai.com/2026/11/508344.html</link>
-      <description>&lt;![CDATA[OpenAI新融资到账110亿美元，不及原计划一半]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 08:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508344.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>为了去AI味，人类开始主动写烂文章了……</title>
-      <link>https://www.qbitai.com/2026/11/508330.html</link>
-      <description>&lt;![CDATA[为了去AI味，人类开始主动写烂文章了……]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 07:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508330.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？</title>
-      <link>https://www.qbitai.com/2026/11/508264.html</link>
-      <description>&lt;![CDATA[抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 05:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508264.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AGENTS.MD，危险危险危险！！！</title>
-      <link>https://www.qbitai.com/2026/11/508244.html</link>
-      <description>&lt;![CDATA[AGENTS.MD，危险危险危险！！！]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 03:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508244.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生</title>
-      <link>https://www.qbitai.com/2026/11/508236.html</link>
-      <description>&lt;![CDATA[浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 03:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508236.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Jeff Dean李飞飞最新对谈：全是RSI非共识</title>
-      <link>https://www.qbitai.com/2026/11/508196.html</link>
-      <description>&lt;![CDATA[Jeff Dean李飞飞最新对谈：全是RSI非共识]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 03:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508196.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM</title>
-      <link>https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/</link>
-      <description>&lt;![CDATA[Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 08:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-11-07日刊</title>
-      <link>https://hex2077.dev/docs/2026-11/2026-11-07/</link>
-      <description>&lt;![CDATA[2026-11-07日刊]]&gt;</description>
-      <pubDate>Sat, 07 Nov 2026 03:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-07/</guid>
+      <title>](https://www.qbitai.com/2026/11/507757.html)
+**发布时间**: 2026-11-05 03:58
+
+### 📰 来源: [AI洞察日报 RSS Feed</title>
+      <link>https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml</link>
+      <description>&lt;![CDATA[](https://www.qbitai.com/2026/11/507757.html)
+**发布时间**: 2026-11-05 03:58
+
+### 📰 来源: [AI洞察日报 RSS Feed]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 02:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-07 11:35
+**最后更新时间**: 2026-11-08 02:08
+
+---
+
+## 🆕 最新更新 (2026-11-08 02:08)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gunman kills six in Kraków shooting](https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 22:00
+
+#### [Israel’s president gives Gadi Eisenkot first chance at forming a government](https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 21:03
+
+#### [Berkshire Hathaway steps up share buybacks with $9.6bn of purchases](https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 16:43
+
+#### [Gillian Tett: Why does America hate AI?](https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1)
+**发布时间**: 2026-11-07 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This retired professor has reinvented himself — as a Taylor Swift scholar](https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-07 20:48
+
+#### [Second-guessing my adviser: Is an annuity the right move in this market?](https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-07 20:36
+
+#### [Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.](https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-07 19:20
+
+#### [Democrats’ big election win revives a difficult Social Security question: Who pays?](https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories)
+**发布时间**: 2026-11-07 17:43
+
+#### [I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?](https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories)
+**发布时间**: 2026-11-07 17:33
+
+#### [The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.](https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-07 17:04
+
+#### [The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.](https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories)
+**发布时间**: 2026-11-07 16:40
 
 ---
 

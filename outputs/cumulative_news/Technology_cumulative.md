@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-07 11:35
+**最后更新时间**: 2026-11-08 02:08
+
+---
+
+## 🆕 最新更新 (2026-11-08 02:08)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京](https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-08 10:00
+
+#### [自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵](https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-08 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（11月8日）](https://www.tmtpost.com/8197405.html)
+**发布时间**: 2026-11-08 08:58
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案](http://www.geekpark.net/news/373649)
+**发布时间**: 2026-11-08 08:57
+
+#### [「全球最速」之后，比亚迪仰望推出了一台「全球最豪」的新车](http://www.geekpark.net/news/373647)
+**发布时间**: 2026-11-07 23:37
 
 ---
 
