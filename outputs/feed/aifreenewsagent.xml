@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Nov 2026 02:25:00 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 02:26:08 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 13:40:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:42:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
-      <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
-      <description>&lt;![CDATA[腾讯的 Agent 布局，不止 WorkBuddy]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 21:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</guid>
+      <title>乘联会：10月增程市场逆势环比大涨31.3%，小米澎程成为最强推动力</title>
+      <link>https://www.leiphone.com/category/industrynews/n8tGHmir0aXabfKi.html</link>
+      <description>&lt;![CDATA[乘联会：10月增程市场逆势环比大涨31.3%，小米澎程成为最强推动力]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 18:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/n8tGHmir0aXabfKi.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>无预警！ChatGPT突然大规模封号，包括付费用户；圆通总裁心疼儿子Tim：他比大多数人想象的辛苦；英伟达遭大劫案，价值超7千万元货物失踪</title>
+      <link>https://www.leiphone.com/category/zaobao/Z2uc8AJRp0PQO7Kb.html</link>
+      <description>&lt;![CDATA[无预警！ChatGPT突然大规模封号，包括付费用户；圆通总裁心疼儿子Tim：他比大多数人想象的辛苦；英伟达遭大劫案，价值超7千万元货物失踪]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/Z2uc8AJRp0PQO7Kb.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题</title>
+      <link>https://www.leiphone.com/category/industrynews/ljc6ifIFxCUD6DYG.html</link>
+      <description>&lt;![CDATA[阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/ljc6ifIFxCUD6DYG.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦</title>
+      <link>https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html</link>
+      <description>&lt;![CDATA[字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 17:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布</title>
+      <link>https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html</link>
+      <description>&lt;![CDATA[百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐</title>
+      <link>https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html</link>
+      <description>&lt;![CDATA[行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了</title>
+      <link>https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html</link>
+      <description>&lt;![CDATA[千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目</title>
+      <link>https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html</link>
+      <description>&lt;![CDATA[皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”</title>
+      <link>https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html</link>
+      <description>&lt;![CDATA[从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>投早、投小、投硬科技：浦东是AI创业者绕不开的科技梦想启航热土</title>
+      <link>https://www.leiphone.com/category/industrynews/XXfvZnVJPOL1N6yx.html</link>
+      <description>&lt;![CDATA[投早、投小、投硬科技：浦东是AI创业者绕不开的科技梦想启航热土]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/XXfvZnVJPOL1N6yx.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,141 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-09 02:25
+**最后更新时间**: 2026-11-09 13:40
+
+---
+
+## 🆕 最新更新 (2026-11-09 13:40)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [乘联会：10月增程市场逆势环比大涨31.3%，小米澎程成为最强推动力](https://www.leiphone.com/category/industrynews/n8tGHmir0aXabfKi.html)
+**发布时间**: 2026-11-09 18:35
+
+#### [无预警！ChatGPT突然大规模封号，包括付费用户；圆通总裁心疼儿子Tim：他比大多数人想象的辛苦；英伟达遭大劫案，价值超7千万元货物失踪](https://www.leiphone.com/category/zaobao/Z2uc8AJRp0PQO7Kb.html)
+**发布时间**: 2026-11-09 18:32
+
+#### [阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题](https://www.leiphone.com/category/industrynews/ljc6ifIFxCUD6DYG.html)
+**发布时间**: 2026-11-09 18:03
+
+#### [字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦](https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html)
+**发布时间**: 2026-11-09 17:41
+
+#### [百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布](https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html)
+**发布时间**: 2026-11-09 17:18
+
+#### [行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐](https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html)
+**发布时间**: 2026-11-09 17:16
+
+#### [千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了](https://www.leiphone.com/category/industrynews/D80ceE4xuglkLvIu.html)
+**发布时间**: 2026-11-09 15:46
+
+#### [皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目](https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html)
+**发布时间**: 2026-11-09 15:28
+
+#### [从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”](https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html)
+**发布时间**: 2026-11-09 15:17
+
+#### [投早、投小、投硬科技：浦东是AI创业者绕不开的科技梦想启航热土](https://www.leiphone.com/category/industrynews/XXfvZnVJPOL1N6yx.html)
+**发布时间**: 2026-11-09 15:05
+
+#### [FAV Lab 未来视听实验室正式开业：华强北“硬科技潮品首发地”](https://www.leiphone.com/category/industrynews/XMSv9fRcpKP6fRXD.html)
+**发布时间**: 2026-11-09 14:23
+
+#### [第八届世界浙商大会举行AI专题活动支付宝分享AI办事实践](https://www.leiphone.com/category/industrynews/41xBwd2JagAdaaxT.html)
+**发布时间**: 2026-11-09 11:43
+
+#### [基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代](https://www.leiphone.com/category/industrynews/tLk5dflVBL8euzAW.html)
+**发布时间**: 2026-11-09 10:25
+
+#### [当 AI 在加速狂奔，什么反而应该“慢”下来？](https://www.leiphone.com/category/industrynews/zGBfQTDDCpSCfYIK.html)
+**发布时间**: 2026-11-09 10:23
+
+#### [独家丨飞行相机鼻祖「零零无限」，估值 10 亿美元](https://www.leiphone.com/category/weiwu/qIl3bfS2v2a8zI7D.html)
+**发布时间**: 2026-11-09 10:04
+
+#### [解读丨00 后，用 1000 多天重做一款泡沫轴](https://www.leiphone.com/category/weiwu/TNH35shf3JHDI9FW.html)
+**发布时间**: 2026-11-09 09:56
+
+#### [“X-Day”西丽湖路演社亚太数智创新专场成功举办 共探AI硬件出海新机遇](https://www.leiphone.com/category/weiwu/ZpO4WNiF4Go9XTtQ.html)
+**发布时间**: 2026-11-09 09:50
+
+#### [不拿地方国资、全靠市场化巨头抢筹：「猿声科技」凭什么让五源、线性与拓普同时掏钱？](https://www.leiphone.com/category/industrynews/B48XPbz6KLvCe9jk.html)
+**发布时间**: 2026-11-09 09:48
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Your Experts Have Partners. There's HOPE for Keeping Them Together](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
+**发布时间**: 2026-11-09 12:34
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [“AI毁了我的计算机学位”](https://www.qbitai.com/2026/11/508706.html)
+**发布时间**: 2026-11-09 08:57
+
+#### [腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满](https://www.qbitai.com/2026/11/507843.html)
+**发布时间**: 2026-11-09 08:44
+
+#### [千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了](https://www.qbitai.com/2026/11/508694.html)
+**发布时间**: 2026-11-09 08:34
+
+#### [叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕](https://www.qbitai.com/2026/11/508690.html)
+**发布时间**: 2026-11-09 08:26
+
+#### [L3大撤退！奔驰宝马官宣不玩了：还没L2好用](https://www.qbitai.com/2026/11/508629.html)
+**发布时间**: 2026-11-09 07:02
+
+#### [AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了](https://www.qbitai.com/2026/11/508607.html)
+**发布时间**: 2026-11-09 05:47
+
+#### [基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代](https://www.qbitai.com/2026/11/508603.html)
+**发布时间**: 2026-11-09 05:09
+
+#### [当AI在加速狂奔，什么反而应该“慢”下来？](https://www.qbitai.com/2026/11/508586.html)
+**发布时间**: 2026-11-09 03:47
+
+#### [寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学](https://www.qbitai.com/2026/11/508566.html)
+**发布时间**: 2026-11-09 02:19
+
+#### [黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查](https://www.qbitai.com/2026/11/508498.html)
+**发布时间**: 2026-11-09 00:40
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents](https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/)
+**发布时间**: 2026-11-09 08:20
+
+#### [0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP](https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/)
+**发布时间**: 2026-11-09 07:55
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
+**发布时间**: 2026-11-09 08:00
+
+#### [Korea Advances Physical AI Across Industries With NVIDIA](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/)
+**发布时间**: 2026-11-09 05:00
+
+#### [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](https://blogs.nvidia.com/blog/korea-secure-agentic-ai/)
+**发布时间**: 2026-11-09 05:00
+
+#### [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/)
+**发布时间**: 2026-11-09 05:00
+
+#### [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/)
+**发布时间**: 2026-11-09 05:00
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-09日刊](https://hex2077.dev/docs/2026-11/2026-11-09/)
+**发布时间**: 2026-11-09 03:56
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [A single AI model simulates the behavior of many substances, from sliding sand to folding proteins](https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109)
+**发布时间**: 2026-11-09 00:00
+
+#### [AI-assisted learning platform helps robots reason beyond literal commands](https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109)
+**发布时间**: 2026-11-09 00:00
 
 ---
 

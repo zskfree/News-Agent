@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-09 02:26
+**最后更新时间**: 2026-11-09 13:42
+
+---
+
+## 🆕 最新更新 (2026-11-09 13:42)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [*ST亿晶重整易主引爆五连板：中润光能拟入主，游资击鼓传花](https://www.tmtpost.com/8198759.html)
+**发布时间**: 2026-11-09 19:57
+
+#### [唐山工控集团投资者交流会落地上海，三大上市平台协同构筑产业发展新格局](https://www.tmtpost.com/8197722.html)
+**发布时间**: 2026-11-09 19:37
+
+#### [光模块龙头股价腰斩之际，天安新材拟2.5亿“追光”｜并购一线](https://www.tmtpost.com/8198545.html)
+**发布时间**: 2026-11-09 19:30
+
+#### [商超重拾散装零食](https://www.tmtpost.com/8198256.html)
+**发布时间**: 2026-11-09 19:04
+
+#### [AI进不了相亲相爱一家人，怎么办？](https://www.tmtpost.com/8198165.html)
+**发布时间**: 2026-11-09 19:00
+
+#### [黄仁勋婚外情背后：黄乐的神秘履历、48亿美元芯片生意与美国政策博弈](https://www.tmtpost.com/8198370.html)
+**发布时间**: 2026-11-09 19:00
+
+#### [AI带得动这届双十一吗？](https://www.tmtpost.com/8198668.html)
+**发布时间**: 2026-11-09 19:00
+
+#### [黄仁勋最危险的一次失控](https://www.tmtpost.com/8198019.html)
+**发布时间**: 2026-11-09 18:24
+
+#### [宁德时代的换电赌局 3.0](https://www.tmtpost.com/8198487.html)
+**发布时间**: 2026-11-09 18:24
+
+#### [德国为什么就成了欧洲零售的垫底王？](https://www.tmtpost.com/8197849.html)
+**发布时间**: 2026-11-09 18:05
+
+#### [在欧洲，物流仓库开始和数据中心抢电了](https://www.tmtpost.com/8197848.html)
+**发布时间**: 2026-11-09 17:31
+
+#### [黄仁勋出轨的瓜，是逆全球化的悲剧](https://www.tmtpost.com/8198365.html)
+**发布时间**: 2026-11-09 17:31
+
+#### [【Fintech 周报】六大行恢复大额存单发售；工行旗下村镇银行清零](https://www.tmtpost.com/8197883.html)
+**发布时间**: 2026-11-09 16:38
+
+#### [黄仁勋爆出来的不是出轨，是一年前那份被压下的简报](https://www.tmtpost.com/8198349.html)
+**发布时间**: 2026-11-09 15:52
+
+#### [短剧出海泰国，重走了一遍当年移动梦网的老路](https://www.tmtpost.com/8197795.html)
+**发布时间**: 2026-11-09 15:35
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/118833)
+**发布时间**: 2026-11-09 18:27
+
+#### [双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/118799)
+**发布时间**: 2026-11-09 16:24
+
+#### [一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验](https://sspai.com/post/118227)
+**发布时间**: 2026-11-09 15:40
+
+#### [天花板上的白色盒子，是怎样保护我们的安全的？](https://sspai.com/post/118029)
+**发布时间**: 2026-11-09 15:02
+
+#### [双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖](https://sspai.com/post/118612)
+**发布时间**: 2026-11-09 11:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [不想当管理者，就用不好 Coding Agent？Anthropic 工程师长文谈 Agent 管理实战](https://www.infoq.cn/article/YPQyY6bqhzhtO8MN6XUb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 18:24
+
+#### [千问“死磕”Personal Agent：为什么下限比上限更重要？](https://www.infoq.cn/article/1g0PWSVhNkb0sgud4heO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 17:02
+
+#### [AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场](https://www.infoq.cn/article/CUgMFMX7uRJNMec1pfYo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 16:55
+
+#### [千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了](https://www.infoq.cn/article/1Mz0ADa02PxcDsVfpVEb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 16:26
+
+#### [不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少](https://www.infoq.cn/article/mBvmvcQ8a8ty2Ob1xN64?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 16:00
+
+#### [OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？](https://www.infoq.cn/article/5e8Qs11VHRHRyYsB2kFO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 14:35
+
+#### [“印度成OpenAI最大市场”，Altman首次回应“离职潮”：一群聪明人互不信任](https://www.infoq.cn/article/7AXcQvPCSwfPhtL8iQpo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 14:00
+
+#### [当 Flutter 遇上鸿蒙：一次“杂志级”混合开发实战](https://www.infoq.cn/article/R6kE7tmckRcxpNj11mBb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 13:55
+
+#### [当 AI 在加速狂奔，什么反而应该“慢”下来？](https://www.infoq.cn/article/Guys6YS7FsKUg8dLtMJx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 13:41
+
+#### [每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？](https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 13:40
+
+#### [开发者每周借助 AI 节约数十小时的比例在一年内从 68% 降至 26%](https://www.infoq.cn/article/sdqHapplv45dQguTJ415?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 13:14
+
+#### [得票最高的功能终于来了，OpenTofu 开始内置代码检查](https://www.infoq.cn/article/jXBV6ib9g8g2Gw6kDaYh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 13:00
+
+#### [Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft](https://www.infoq.cn/article/w8RTJSY44DJJy97uagQr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 11:27
+
+#### [Harness 已经很准了，为什么还需要一个 Agent Native Database](https://www.infoq.cn/article/49JGp1l7v97riBlPpZ1q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 10:44
+
+#### [2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个](https://www.infoq.cn/article/6kuDZAK0IFkKviGrGzIR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 10:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [一颗植物工厂草莓，离你的果盘还有多远？多多农研拉近现场](http://www.geekpark.net/news/373715)
+**发布时间**: 2026-11-09 16:15
+
+#### [实测 HY4：腾讯最「夯」大模型，离一线还有多远？](http://www.geekpark.net/news/373644)
+**发布时间**: 2026-11-09 11:57
+
+#### [黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层](http://www.geekpark.net/news/373687)
+**发布时间**: 2026-11-09 10:58
 
 ---
 

@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-09 02:26
+**最后更新时间**: 2026-11-09 13:42
+
+---
+
+## 🆕 最新更新 (2026-11-09 13:42)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Corporate America’s profit numbers are just barely beating Wall Street’s expectations](https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 13:36
+
+#### [Retirement is now part of the affordability crisis. Politicians should pay attention.](https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 13:30
+
+#### [The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks](https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 12:27
+
+#### [A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with an alleged spy](https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 12:26
+
+#### [Can the AI trade catch a break? Nvidia, Anthropic and CoreWeave may have a say.](https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 12:08
+
+#### [Until AI sentiment improves, it’s better to sit out the global tech trade, Citi tells investors](https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 11:25
+
+#### [The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist](https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 10:26
+
+#### [‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?](https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 10:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US stocks set for gains after AI rout](https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 13:13
+
+#### [Nvidia shares slide as it probes alleged Chinese spy scandal](https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 12:26
+
+#### [Trump, Putin and the short war illusion](https://www.ft.com/content/fa36233a-1ee0-4bd3-9521-c3defe10c173?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 12:24
+
+#### [Merz nominates Germany’s first female president](https://www.ft.com/content/b4be65b1-5d8a-470a-9be9-8a892c1c3276?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 12:17
+
+#### [Alberta leader faces backlash after winning referendum to remain in Canada](https://www.ft.com/content/35a315a6-f3bb-4673-a65d-81a17114a208?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 11:00
+
+#### [Tech sell-off raises risks for SoftBank’s massive AI bet](https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 10:00
+
+#### [The great British sell-off](https://www.ft.com/content/805f0c1d-795b-4ee0-8fbd-e08ab1be1193?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 05:00
+
+#### [Tech’s ‘vertical’ obsession doesn’t stack up](https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 05:00
+
+#### [What Democrats must do now](https://www.ft.com/content/ea60eed2-f307-425e-8d9a-7bd31d6ea81b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 05:00
+
+#### [EU sues IBM and partners over troubled border system](https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 05:00
+
+#### [BA parent says onerous green charges will ‘kill’ Europe’s aviation industry](https://www.ft.com/content/4330a15b-f91d-4095-909f-92617b9caf1e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 05:00
+
+#### [Trump says he was ‘too tough’ on immigrants as he floats amnesty deal](https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 02:54
 
 ---
 
