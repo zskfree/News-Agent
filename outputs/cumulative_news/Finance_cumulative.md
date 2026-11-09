@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-08 11:45
+**最后更新时间**: 2026-11-09 02:26
+
+---
+
+## 🆕 最新更新 (2026-11-09 02:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China’s inflation edges lower in October](https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 02:01
+
+#### [Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson](https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 01:15
+
+#### [Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy](https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 01:08
+
+#### [Pope Leo and Javier Milei offer duelling visions for Argentina](https://www.ft.com/content/67575be7-5801-481e-9097-a1c0ba3ebf36?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 00:38
+
+#### [Democrats vow to impeach Trump officials and investigate Republican donors](https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 18:10
+
+#### [A new economic agenda for America](https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c)
+**发布时间**: 2026-11-08 16:00
+
+#### [Republican infighting mounts over corruption claims after midterms wipeout](https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1)
+**发布时间**: 2026-11-08 12:51
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m second-guessing my adviser: Is an annuity the right move in this market?](https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 00:30
+
+#### [Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out](https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 00:00
+
+#### [You follow the rules for smart stock trading. But are they the right rules?](https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories)
+**发布时间**: 2026-11-08 23:15
+
+#### [A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy](https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories)
+**发布时间**: 2026-11-08 23:05
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Nov 2026 11:45:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 11:45:49 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 02:26:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:26:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,67 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic strikes $3.4bn deal to generate gas-fired power for data centres</title>
-      <link>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Anthropic strikes $3.4bn deal to generate gas-fired power for data centres]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1</guid>
+      <title>China’s inflation edges lower in October</title>
+      <link>https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[China’s inflation edges lower in October]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 02:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Crypto industry braces for reckoning over Trump ties</title>
-      <link>https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Crypto industry braces for reckoning over Trump ties]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1</guid>
+      <title>Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson</title>
+      <link>https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 01:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>‘Radical left’ get the headlines but centrists dominate new US Congress</title>
-      <link>https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[‘Radical left’ get the headlines but centrists dominate new US Congress]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1</guid>
+      <title>Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy</title>
+      <link>https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 01:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Is Europe getting serious about ending tech dependence?</title>
-      <link>https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Is Europe getting serious about ending tech dependence?]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1</guid>
+      <title>Pope Leo and Javier Milei offer duelling visions for Argentina</title>
+      <link>https://www.ft.com/content/67575be7-5801-481e-9097-a1c0ba3ebf36?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Pope Leo and Javier Milei offer duelling visions for Argentina]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 00:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/67575be7-5801-481e-9097-a1c0ba3ebf36?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>America is craving a return to community</title>
-      <link>https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[America is craving a return to community]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1</guid>
+      <title>Democrats vow to impeach Trump officials and investigate Republican donors</title>
+      <link>https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Democrats vow to impeach Trump officials and investigate Republican donors]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 18:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Apple saves $2.7bn in taxes by booking profits in Singapore</title>
-      <link>https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Apple saves $2.7bn in taxes by booking profits in Singapore]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1</guid>
+      <title>A new economic agenda for America</title>
+      <link>https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c</link>
+      <description>&lt;![CDATA[A new economic agenda for America]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/81bd54ff-61b4-4fa6-83d3-5a73821a879c</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Argentina’s Milei dreams of data centres on the Patagonian steppe</title>
-      <link>https://www.ft.com/content/d432ae29-6454-4916-98c7-afb6993cfb67?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Argentina’s Milei dreams of data centres on the Patagonian steppe]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/d432ae29-6454-4916-98c7-afb6993cfb67?syn-25a6b1a6=1</guid>
+      <title>Republican infighting mounts over corruption claims after midterms wipeout</title>
+      <link>https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Republican infighting mounts over corruption claims after midterms wipeout]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 12:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/66e9ca46-d1ea-473c-b8d6-06ba1dfc9e76?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Russia races to build rival to Elon Musk’s Starlink</title>
-      <link>https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Russia races to build rival to Elon Musk’s Starlink]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1</guid>
+      <title>I’m second-guessing my adviser: Is an annuity the right move in this market?</title>
+      <link>https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[I’m second-guessing my adviser: Is an annuity the right move in this market?]]&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 00:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>You follow the rules for smart stock trading. But are they the right rules?</title>
+      <link>https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[You follow the rules for smart stock trading. But are they the right rules?]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 23:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy</title>
+      <link>https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 23:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

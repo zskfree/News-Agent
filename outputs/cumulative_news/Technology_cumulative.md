@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-08 11:45
+**最后更新时间**: 2026-11-09 02:26
+
+---
+
+## 🆕 最新更新 (2026-11-09 02:26)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [具身智能，也到了 API 时刻？](http://www.geekpark.net/news/373683)
+**发布时间**: 2026-11-09 10:18
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [涌入半导体的年轻人：两年红利，抵别人一辈子](https://www.tmtpost.com/8197758.html)
+**发布时间**: 2026-11-09 10:02
+
+#### [Edge AI Daily 早报（11月9日）](https://www.tmtpost.com/8197806.html)
+**发布时间**: 2026-11-09 09:28
+
+#### [AI会撞上的下一堵墙可能是水](https://www.tmtpost.com/8197774.html)
+**发布时间**: 2026-11-09 09:20
+
+#### [单项致胜：五星股票型基金产品深度参考（2026年三季度）](https://www.tmtpost.com/8197876.html)
+**发布时间**: 2026-11-09 08:33
+
+#### [卡莱斯基理论解码：2027 全球经济与资产配置](https://www.tmtpost.com/8197869.html)
+**发布时间**: 2026-11-09 08:32
+
+#### [价值判断：跌停板的投资机会和风险提示（11月6日）｜上市公司观察](https://www.tmtpost.com/8197864.html)
+**发布时间**: 2026-11-09 08:32
+
+#### [价值判断：涨停板的投资机会和风险提示（11月6日）｜上市公司观察](https://www.tmtpost.com/8197859.html)
+**发布时间**: 2026-11-09 08:31
+
+#### [美债问题的制度根源：为什么央行兜底不能替代财政改革？](https://www.tmtpost.com/8197851.html)
+**发布时间**: 2026-11-09 08:31
+
+#### [XPeng Tried to Sound Young and Sounded Insecure Instead](https://www.tmtpost.com/8197837.html)
+**发布时间**: 2026-11-09 08:10
+
+#### [【钛晨报】国常会：完善资本市场稳市机制，增强股市内在稳定性；伯克希尔Q3营业利润小幅下滑，回购为年内单季最高，现金攀升至3774亿美元；中国央行连续第24个月增持黄金](https://www.tmtpost.com/8197696.html)
+**发布时间**: 2026-11-09 07:20
+
+#### [屏幕竖起来，创作者不会矮一截](https://www.tmtpost.com/8197337.html)
+**发布时间**: 2026-11-08 20:14
+
+#### [华为、OpenAI、字节等科技巨头为何都要插手制药？](https://www.tmtpost.com/8197608.html)
+**发布时间**: 2026-11-08 20:13
+
+#### [字节跳动正在巴西扩建数据中心](https://www.tmtpost.com/8196975.html)
+**发布时间**: 2026-11-08 20:13
+
+#### [刘庆峰交出科大讯飞半张AI答卷](https://www.tmtpost.com/8197516.html)
+**发布时间**: 2026-11-08 20:13
+
+#### [先进封装扩产潮，还差哪些？](https://www.tmtpost.com/8197519.html)
+**发布时间**: 2026-11-08 20:10
+
+#### [旷视的十五岁：不再等IPO，先谈扭亏](https://www.tmtpost.com/8188516.html)
+**发布时间**: 2026-11-08 20:09
+
+#### [修车店盯上了4S店最后的一块利润蛋糕](https://www.tmtpost.com/8197385.html)
+**发布时间**: 2026-11-08 20:09
+
+#### [中石油60%控股，与宇树、泛界合设公司，油气机器人“验收权”不能交给外部厂商](https://www.tmtpost.com/8197535.html)
+**发布时间**: 2026-11-08 20:09
+
+#### [MiniMax怎样实现AGI ？闫俊杰的办法是抄“后”路](https://www.tmtpost.com/8197537.html)
+**发布时间**: 2026-11-08 20:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京](https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 10:00
+
+#### [Agent 越用越多，企业为何仍不够 AI Native？](https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-09 00:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：特斯拉将停产 Cybertruck](https://sspai.com/post/118805)
+**发布时间**: 2026-11-09 06:41
 
 ---
 

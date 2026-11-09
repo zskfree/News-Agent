@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Nov 2026 11:45:00 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 11:45:40 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 02:25:00 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:26:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>终端侧AI：从单点应用走向智能体体验</title>
-      <link>https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html</link>
-      <description>&lt;![CDATA[终端侧AI：从单点应用走向智能体体验]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding</title>
-      <link>https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/</link>
-      <description>&lt;![CDATA[Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 10:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared</title>
-      <link>https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/</link>
-      <description>&lt;![CDATA[Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 10:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)</title>
-      <link>https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/</link>
-      <description>&lt;![CDATA[MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 06:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%</title>
-      <link>https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/</link>
-      <description>&lt;![CDATA[Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 04:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>资本正在撤离“世界模型”</title>
-      <link>https://www.qbitai.com/2026/11/508466.html</link>
-      <description>&lt;![CDATA[资本正在撤离“世界模型”]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 04:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508466.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-11-08日刊</title>
-      <link>https://hex2077.dev/docs/2026-11/2026-11-08/</link>
-      <description>&lt;![CDATA[2026-11-08日刊]]&gt;</description>
-      <pubDate>Sun, 08 Nov 2026 03:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-08/</guid>
+      <title>腾讯的 Agent 布局，不止 WorkBuddy</title>
+      <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
+      <description>&lt;![CDATA[腾讯的 Agent 布局，不止 WorkBuddy]]&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 21:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</guid>
       <category>Ai</category>
     </item>
   </channel>
