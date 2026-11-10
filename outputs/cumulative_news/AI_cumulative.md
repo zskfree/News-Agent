@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-10 04:30
+**最后更新时间**: 2026-11-10 13:17
+
+---
+
+## 🆕 最新更新 (2026-11-10 13:17)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [灵光接入什么值得买，AI助理开始帮用户“盯好价”](https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html)
+**发布时间**: 2026-11-10 16:41
+
+#### [四维图新创想大会 | 以数据与算力为基，SEEWAY.AI驶向新一站](https://www.leiphone.com/category/industrynews/dZrtBnDtC720JWGW.html)
+**发布时间**: 2026-11-10 15:23
+
+#### [Fable 5.2 “撞车”蚂蚁灵波触觉模型，CEO 朱兴：两类模型协同将加速具身产业成熟](https://www.leiphone.com/category/industrynews/Qhv28gnFkgFPCbXV.html)
+**发布时间**: 2026-11-10 14:49
+
+#### [从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角](https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html)
+**发布时间**: 2026-11-10 13:02
+
+#### [23.98万元起，智己LS8 NEO开始反“配置表”](https://www.leiphone.com/category/transportation/P7zNFoMQbmQynIE8.html)
+**发布时间**: 2026-11-10 11:08
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [从芯片到千比特整机，超导量子计算还有一场硬仗](https://www.qbitai.com/2026/11/509017.html)
+**发布时间**: 2026-11-10 08:33
+
+#### [从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型](https://www.qbitai.com/2026/11/508996.html)
+**发布时间**: 2026-11-10 07:57
+
+#### [Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架](https://www.qbitai.com/2026/11/508998.html)
+**发布时间**: 2026-11-10 07:56
+
+#### [成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线](https://www.qbitai.com/2026/11/508991.html)
+**发布时间**: 2026-11-10 07:50
+
+#### [达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动](https://www.qbitai.com/2026/11/508985.html)
+**发布时间**: 2026-11-10 07:33
+
+#### [Token卷到触觉了！机器人终于有了通用手感](https://www.qbitai.com/2026/11/508919.html)
+**发布时间**: 2026-11-10 07:26
+
+#### [Fable 5.2首批实测来了！网友：Opus突然不香了](https://www.qbitai.com/2026/11/508912.html)
+**发布时间**: 2026-11-10 07:03
+
+#### [100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！](https://www.qbitai.com/2026/11/508828.html)
+**发布时间**: 2026-11-10 02:48
+
+#### [千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常](https://www.qbitai.com/2026/11/508798.html)
+**发布时间**: 2026-11-10 01:27
+
+#### [中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍](https://www.qbitai.com/2026/11/508787.html)
+**发布时间**: 2026-11-09 22:11
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work](https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/)
+**发布时间**: 2026-11-10 06:36
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [MIT-led team receives funding to develop next-generation alternatives to modern weed killers](https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110)
+**发布时间**: 2026-11-10 00:00
 
 ---
 

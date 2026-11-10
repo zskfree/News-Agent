@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Nov 2026 04:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 04:31:58 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 13:19:00 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:20:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>瑞士清洁科技企业Climada研发气候风险分析SaaS软件，量化自然灾害经济损失</title>
-      <link>https://www.tmtpost.com/8199316.html</link>
-      <description>&lt;![CDATA[瑞士清洁科技企业Climada研发气候风险分析SaaS软件，量化自然灾害经济损失]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 11:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8199316.html</guid>
+      <title>面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk</title>
+      <link>https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 15:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>瑞士医疗科技企业Biped Robotics研发智能导航肩带，辅助视障人士独立出行</title>
-      <link>https://www.tmtpost.com/8199232.html</link>
-      <description>&lt;![CDATA[瑞士医疗科技企业Biped Robotics研发智能导航肩带，辅助视障人士独立出行]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8199232.html</guid>
+      <title>突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”</title>
+      <link>https://www.infoq.cn/article/STFszc8JxPkXGeV9QRH3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 13:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/STFszc8JxPkXGeV9QRH3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>鳗鱼跌价，天马科技过冬</title>
-      <link>https://www.tmtpost.com/8199022.html</link>
-      <description>&lt;![CDATA[鳗鱼跌价，天马科技过冬]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8199022.html</guid>
+      <title>报名人数创下新高，第十一届「移动应用创新赛」圆满落幕</title>
+      <link>https://sspai.com/post/118824</link>
+      <description>&lt;![CDATA[报名人数创下新高，第十一届「移动应用创新赛」圆满落幕]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/118824</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>手机芯片困在AI的繁荣里</title>
-      <link>https://www.tmtpost.com/8198787.html</link>
-      <description>&lt;![CDATA[手机芯片困在AI的繁荣里]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8198787.html</guid>
+      <title>把你的 AirPods 当鼠标用，这 3 个黑科技 GitHub 开源项目有趣。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538431&amp;idx=1&amp;sn=74a9f0be88c711205e42507b6b8e2b92</link>
+      <description>&lt;![CDATA[把你的 AirPods 当鼠标用，这 3 个黑科技 GitHub 开源项目有趣。]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247538431&amp;idx=1&amp;sn=74a9f0be88c711205e42507b6b8e2b92</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效</title>
-      <link>https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Chinese Short Dramas Own Overseas Attention but Not Yet the Profits</title>
+      <link>https://www.tmtpost.com/8200340.html</link>
+      <description>&lt;![CDATA[Chinese Short Dramas Own Overseas Attention but Not Yet the Profits]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8200340.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖</title>
-      <link>https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>等位超5000桌，餐饮排队王，为什么都爱开在高端商场？</title>
+      <link>https://www.tmtpost.com/8198486.html</link>
+      <description>&lt;![CDATA[等位超5000桌，餐饮排队王，为什么都爱开在高端商场？]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 18:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8198486.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等</title>
-      <link>https://sspai.com/post/118854</link>
-      <description>&lt;![CDATA[派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 08:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/118854</guid>
+      <title>猪肉不停降价，给了“云南猪王”更多磨练二代的机会</title>
+      <link>https://www.tmtpost.com/8198696.html</link>
+      <description>&lt;![CDATA[猪肉不停降价，给了“云南猪王”更多磨练二代的机会]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 18:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8198696.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道</title>
-      <link>http://www.geekpark.net/news/373736</link>
-      <description>&lt;![CDATA[ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 08:19:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/373736</guid>
+      <title>管窥AI游戏的产业现状，从Roblox这份“意外”的财报</title>
+      <link>https://www.tmtpost.com/8199114.html</link>
+      <description>&lt;![CDATA[管窥AI游戏的产业现状，从Roblox这份“意外”的财报]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 18:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8199114.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>今年双 11，一批新品牌从小需求做到了天猫TOP10</title>
-      <link>https://www.tmtpost.com/8199214.html</link>
-      <description>&lt;![CDATA[今年双 11，一批新品牌从小需求做到了天猫TOP10]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 12:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8199214.html</guid>
+      <title>美女陪打LOL，腾讯入局AI游戏陪伴，会走米哈游的老路吗？</title>
+      <link>https://www.tmtpost.com/8199749.html</link>
+      <description>&lt;![CDATA[美女陪打LOL，腾讯入局AI游戏陪伴，会走米哈游的老路吗？]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 18:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8199749.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chen Tianqiao Moves From Discoverative Ambition to Verifiable Systems</title>
-      <link>https://www.tmtpost.com/8199556.html</link>
-      <description>&lt;![CDATA[Chen Tianqiao Moves From Discoverative Ambition to Verifiable Systems]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 11:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8199556.html</guid>
+      <title>百万销量只用了两年，这款中国车的成功能复制吗？</title>
+      <link>https://www.tmtpost.com/8199891.html</link>
+      <description>&lt;![CDATA[百万销量只用了两年，这款中国车的成功能复制吗？]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 18:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8199891.html</guid>
       <category>Technology</category>
     </item>
   </channel>

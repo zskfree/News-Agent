@@ -1,7 +1,104 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-10 04:31
+**最后更新时间**: 2026-11-10 13:19
+
+---
+
+## 🆕 最新更新 (2026-11-10 13:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Chinese Short Dramas Own Overseas Attention but Not Yet the Profits](https://www.tmtpost.com/8200340.html)
+**发布时间**: 2026-11-10 20:00
+
+#### [等位超5000桌，餐饮排队王，为什么都爱开在高端商场？](https://www.tmtpost.com/8198486.html)
+**发布时间**: 2026-11-10 18:07
+
+#### [猪肉不停降价，给了“云南猪王”更多磨练二代的机会](https://www.tmtpost.com/8198696.html)
+**发布时间**: 2026-11-10 18:07
+
+#### [管窥AI游戏的产业现状，从Roblox这份“意外”的财报](https://www.tmtpost.com/8199114.html)
+**发布时间**: 2026-11-10 18:07
+
+#### [美女陪打LOL，腾讯入局AI游戏陪伴，会走米哈游的老路吗？](https://www.tmtpost.com/8199749.html)
+**发布时间**: 2026-11-10 18:05
+
+#### [百万销量只用了两年，这款中国车的成功能复制吗？](https://www.tmtpost.com/8199891.html)
+**发布时间**: 2026-11-10 18:05
+
+#### [销量太好，Coach现在都不怎么想卖低价包了](https://www.tmtpost.com/8199982.html)
+**发布时间**: 2026-11-10 17:57
+
+#### [加拿大鹅中国收入大增32%，但客户正在流失](https://www.tmtpost.com/8199971.html)
+**发布时间**: 2026-11-10 17:57
+
+#### [中国大客车，为什么在非洲突然多卖了一倍？](https://www.tmtpost.com/8199989.html)
+**发布时间**: 2026-11-10 17:53
+
+#### [比亚迪仰望劳斯莱斯](https://www.tmtpost.com/8199988.html)
+**发布时间**: 2026-11-10 17:51
+
+#### [4.12亿分红刚落袋又拟募资10亿，宏达电子定增抢AI器件窗口](https://www.tmtpost.com/8199771.html)
+**发布时间**: 2026-11-10 17:27
+
+#### [收费低至1元/平米，好好珍惜当下的恒大物业吧](https://www.tmtpost.com/8199795.html)
+**发布时间**: 2026-11-10 16:35
+
+#### [AI的收费站正在搬家：端侧抢的不是算力，是云端的收银台](https://www.tmtpost.com/8199775.html)
+**发布时间**: 2026-11-10 16:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定](https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 18:58
+
+#### [近 700 亿美元 IPO 定价突然撤回！Anthropic 最快今天路演，下周冲刺上市](https://www.infoq.cn/article/8tquwes1yGbmTeyOjOId?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 18:54
+
+#### [Chrome 想终结“去邮箱复制验证码”，但隐私真的更好了吗？](https://www.infoq.cn/article/UltsRzyiYdLd4r1S3mkm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 17:00
+
+#### [给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了](https://www.infoq.cn/article/MQTTu6dgGxHBZm1wOLPI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 16:04
+
+#### [面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 15:53
+
+#### [成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5](https://www.infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 15:22
+
+#### [DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了](https://www.infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 15:20
+
+#### [Cloudflare KV Instant：读取 p99 仅 1.62 毫秒，写入一次却要 0.1 美元](https://www.infoq.cn/article/YrPwJgFYyBSAmJE4hJAB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 15:00
+
+#### [突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”](https://www.infoq.cn/article/STFszc8JxPkXGeV9QRH3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 13:27
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 165 | 透明工牌与派友十月购物清单](https://sspai.com/post/118861)
+**发布时间**: 2026-11-10 16:44
+
+#### [报名人数创下新高，第十一届「移动应用创新赛」圆满落幕](https://sspai.com/post/118824)
+**发布时间**: 2026-11-10 16:02
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [中国汽车市场，不止一种赢法 | 极客车间](http://www.geekpark.net/news/373765)
+**发布时间**: 2026-11-10 13:43
+
+#### [千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了](http://www.geekpark.net/news/373760)
+**发布时间**: 2026-11-10 12:52
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [把你的 AirPods 当鼠标用，这 3 个黑科技 GitHub 开源项目有趣。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538431&idx=1&sn=74a9f0be88c711205e42507b6b8e2b92)
+**发布时间**: 2026-11-10 13:20
+
+#### [7 个近期 GitHub 上贼火火的开源项目，又是质量很高的一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538420&idx=1&sn=9769127e763c53057c449032da509279)
+**发布时间**: 2026-11-09 19:24
 
 ---
 

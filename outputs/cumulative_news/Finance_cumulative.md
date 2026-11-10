@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-10 04:31
+**最后更新时间**: 2026-11-10 13:19
+
+---
+
+## 🆕 最新更新 (2026-11-10 13:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic targets valuation of up to $1.4tn in IPO](https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 13:07
+
+#### [Trump is taking the Alamo route](https://www.ft.com/content/66e74f23-e61e-43de-aaf6-c2b61648da50?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 11:47
+
+#### [SoftBank slumps to $7bn loss on US data centre writedown](https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 10:55
+
+#### [The index impact of SpaceX’s record-shattering IPO](https://www.ft.com/content/141176cd-79ce-4633-9def-eaee96db1762)
+**发布时间**: 2026-11-10 10:11
+
+#### [US removes planes from second UK military base after Iran threat](https://www.ft.com/content/c2992864-c0ab-4e38-b47a-5c2c1e3cb056?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 09:55
+
+#### [Top Federal Reserve official considers largest rate rise since 2022](https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 09:00
+
+#### [The last of the Botíns](https://www.ft.com/content/0eab6768-1bdb-4a6c-bf6a-2fb8d35eef03?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 05:00
+
+#### [VW pivots again as ‘In China, For China’ runs out of road](https://www.ft.com/content/1186c272-afc7-4561-9bf8-aa3bc0464a91?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 05:00
+
+#### [Investors pile into defensive stocks amid fears AI bull market may be over](https://www.ft.com/content/efe9653b-6802-485e-8eae-97fa2e6df770?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 05:00
+
+#### [Republican lawmaker moves to impeach Hegseth](https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 22:15
+
+#### [Nvidia’s ‘key man’ risk](https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 18:17
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia couldn’t derail the stock market’s rally. Hot inflation might.](https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 12:33
+
+#### [Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion](https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 12:32
+
+#### [Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?](https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 11:15
+
+#### [‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?](https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 10:45
+
+#### [‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?](https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 10:15
+
+#### [N.Y. Knicks star Josh Hart relists Florida home for $5.7 million](https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 10:01
+
+#### [Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to Nashville](https://www.marketwatch.com/story/actor-justin-baldoni-quietly-sold-his-l-a-home-for-2-1-million-after-moving-to-nashville-4cb8041e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 09:58
+
+#### [Fed’s Waller puts half-point rate hike into the mix for December](https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 09:45
 
 ---
 
