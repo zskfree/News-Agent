@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-09 13:40
+**最后更新时间**: 2026-11-10 04:30
+
+---
+
+## 🆕 最新更新 (2026-11-10 04:30)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降](https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html)
+**发布时间**: 2026-11-10 10:23
+
+#### [云深处发布全新四足机器人  实现50Kg大负载、复杂地形作业](https://www.leiphone.com/category/industrynews/EihvEi3hKb9icG62.html)
+**发布时间**: 2026-11-09 23:27
+
+#### [百度搭子连中三元：中信建投、国家电投数科、通用数科](https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html)
+**发布时间**: 2026-11-09 22:16
+
+#### [千问办公2.0，补上了办公Agent最关键的「短板」](https://www.leiphone.com/category/industrynews/ljjfjnedPmwgYh6Q.html)
+**发布时间**: 2026-11-09 22:16
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [How skills and agents work in AWS Quick](https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/)
+**发布时间**: 2026-11-10 00:21
+
+#### [Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-11-09 20:13
+
+#### [Introducing Claude Fable 5.2 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/)
+**发布时间**: 2026-11-09 20:04
+
+#### [NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/)
+**发布时间**: 2026-11-09 20:01
+
+#### [Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/pluggable-agentic-ai-framework-a-seven-layer-composable-enterprise-agentic-ai-reference-architecture-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-09 19:05
+
+#### [How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-crossnokaye-grounds-physical-ai-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-09 18:55
+
+#### [Professional work deserves professional tools. Meet AWS Quick.](https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/)
+**发布时间**: 2026-11-09 18:43
+
+#### [Taxonomy of agentic primitives in AWS Quick](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/)
+**发布时间**: 2026-11-06 17:34
+
+#### [Smart Approvals in AWS Quick: Human oversight where it matters](https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/)
+**发布时间**: 2026-11-04 16:33
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Exploring the world's languages with Language Explorer](https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/)
+**发布时间**: 2026-11-09 20:29
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU](https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/)
+**发布时间**: 2026-11-09 17:09
+
+#### [Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records](https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/)
+**发布时间**: 2026-11-09 16:31
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
+**发布时间**: 2026-11-09 15:05
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/)
+**发布时间**: 2026-11-09 14:00
+
+### 📰 来源: [BAIR Blog](https://bair.berkeley.edu/blog/feed.xml)
+
+#### [BAIR at CoRL 2026](http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/)
+**发布时间**: 2026-11-09 01:00
 
 ---
 

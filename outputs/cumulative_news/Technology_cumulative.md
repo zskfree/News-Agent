@@ -1,7 +1,105 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-09 13:42
+**最后更新时间**: 2026-11-10 04:31
+
+---
+
+## 🆕 最新更新 (2026-11-10 04:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [今年双 11，一批新品牌从小需求做到了天猫TOP10](https://www.tmtpost.com/8199214.html)
+**发布时间**: 2026-11-10 12:01
+
+#### [Chen Tianqiao Moves From Discoverative Ambition to Verifiable Systems](https://www.tmtpost.com/8199556.html)
+**发布时间**: 2026-11-10 11:49
+
+#### [又一个双抗预期大爆发](https://www.tmtpost.com/8199299.html)
+**发布时间**: 2026-11-10 11:37
+
+#### [从一家深圳小厂逆袭成移动充电巨头，倍思能否跳出3C配件圈内卷？](https://www.tmtpost.com/8199460.html)
+**发布时间**: 2026-11-10 11:37
+
+#### [瑞士清洁科技企业Climada研发气候风险分析SaaS软件，量化自然灾害经济损失](https://www.tmtpost.com/8199316.html)
+**发布时间**: 2026-11-10 11:37
+
+#### [美股AI巨震，如何把握港A的AI产业链分化机遇？](https://www.tmtpost.com/8198218.html)
+**发布时间**: 2026-11-10 11:16
+
+#### [Anthropic IPO倒计时：最早11月16日上市](https://www.tmtpost.com/8199231.html)
+**发布时间**: 2026-11-10 11:15
+
+#### [厉娜能翻红，绝味鸭脖却翻不了身？](https://www.tmtpost.com/8199219.html)
+**发布时间**: 2026-11-10 11:11
+
+#### [瑞士医疗科技企业Biped Robotics研发智能导航肩带，辅助视障人士独立出行](https://www.tmtpost.com/8199232.html)
+**发布时间**: 2026-11-10 11:07
+
+#### [被吐槽“滤镜碎尽”的深坑酒店，背后有本难算的账？](https://www.tmtpost.com/8199209.html)
+**发布时间**: 2026-11-10 11:07
+
+#### [指数团队人事加快翻牌，广发基金又在悄悄干大事](https://www.tmtpost.com/8198662.html)
+**发布时间**: 2026-11-10 11:06
+
+#### [东南亚游客疯狂涌入，重庆酒店被顶奢悄悄围猎](https://www.tmtpost.com/8198507.html)
+**发布时间**: 2026-11-10 11:06
+
+#### [鳗鱼跌价，天马科技过冬](https://www.tmtpost.com/8199022.html)
+**发布时间**: 2026-11-10 10:56
+
+#### [“不赚钱”的Token经济：半小时卖出2万亿、日均消耗增长5000倍](https://www.tmtpost.com/8198866.html)
+**发布时间**: 2026-11-10 10:56
+
+#### [京东百亿买路欧洲](https://www.tmtpost.com/8199017.html)
+**发布时间**: 2026-11-10 10:53
+
+#### [跨境支付明星拉响警报，鲲鹏支付被商户集体讨账](https://www.tmtpost.com/8198939.html)
+**发布时间**: 2026-11-10 10:53
+
+#### [牛肉自由，到头了](https://www.tmtpost.com/8199019.html)
+**发布时间**: 2026-11-10 10:46
+
+#### [连环保组织都离不开AI，这么多电花得值吗？](https://www.tmtpost.com/8199018.html)
+**发布时间**: 2026-11-10 10:46
+
+#### [爆火的“大肥鱼”，让我想起互联网最热闹的年代](https://www.tmtpost.com/8198794.html)
+**发布时间**: 2026-11-10 10:43
+
+#### [手机芯片困在AI的繁荣里](https://www.tmtpost.com/8198787.html)
+**发布时间**: 2026-11-10 10:43
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式](https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 11:56
+
+#### [硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信](https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 11:28
+
+#### [Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效](https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 11:00
+
+#### [触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖](https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 10:40
+
+#### [ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京](https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 10:00
+
+#### [Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级](https://www.infoq.cn/article/yuRNB72KsEbjGYSkV7FY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-10 09:11
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [今年双十一，这些鼠标值得一看](https://sspai.com/post/111065)
+**发布时间**: 2026-11-10 11:00
+
+#### [派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等](https://sspai.com/post/118854)
+**发布时间**: 2026-11-10 08:24
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道](http://www.geekpark.net/news/373736)
+**发布时间**: 2026-11-10 08:19
 
 ---
 

@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-09 13:42
+**最后更新时间**: 2026-11-10 04:31
+
+---
+
+## 🆕 最新更新 (2026-11-10 04:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China’s trade surplus exceeds $1tn for first 10 months of year](https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 03:09
+
+#### [Japan can tell the world what really matters when prepping](https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 00:47
+
+#### [Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang](https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 00:35
+
+#### [Russian strikes aim to cut Ukraine in half, Zelenskyy warns](https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 00:08
+
+#### [Trump’s Board of Peace warns of  ‘immediate humanitarian emergency’ in Gaza](https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 23:51
+
+#### [Trump hails ‘positive momentum’ towards ending Iran war](https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 22:42
+
+#### [Republican lawmaker moves to impeach US defence secretary Pete Hegseth](https://www.ft.com/content/ed09fc96-5ad5-4ff8-a8a9-900740c6fcbb?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 22:15
+
+#### [How the world became too reliant on Jensen Huang](https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 17:52
+
+#### [Can Jensen Huang survive as Nvidia’s CEO after spy scandal?](https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 17:02
+
+#### [Russia rations petrol after new Ukrainian strikes on refineries](https://www.ft.com/content/ae06452b-3447-4fee-bd94-355cd324d1c5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 16:37
+
+#### [Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors](https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1)
+**发布时间**: 2026-11-09 15:35
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips](https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 00:48
+
+#### [Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark](https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 22:49
+
+#### [Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’](https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 22:49
+
+#### [As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal](https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 21:55
+
+#### [Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.](https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 21:52
+
+#### [Are AMD and Broadcom the real winners of the Nvidia spy scandal?](https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 21:43
+
+#### [The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.](https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 21:24
+
+#### [A failed trial for a heart drug casts shadow over rivals developing similar therapies](https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories)
+**发布时间**: 2026-11-09 21:21
 
 ---
 
