@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-10 13:19
+**最后更新时间**: 2026-11-11 02:36
+
+---
+
+## 🆕 最新更新 (2026-11-11 02:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [黄仁勋分手费5000亿？硅谷大佬绯闻启示录](https://www.tmtpost.com/8200229.html)
+**发布时间**: 2026-11-11 10:10
+
+#### [2026，AI应用的钱都流向了哪里？](https://www.tmtpost.com/8200663.html)
+**发布时间**: 2026-11-11 09:42
+
+#### [家电三巨头的计算中心新对决](https://www.tmtpost.com/8200652.html)
+**发布时间**: 2026-11-11 09:40
+
+#### [平头哥要上市，阿里AI的第一个“大结果”](https://www.tmtpost.com/8200714.html)
+**发布时间**: 2026-11-11 09:40
+
+#### [亚洲出口，正按AI产业链位置重新排座次](https://www.tmtpost.com/8194238.html)
+**发布时间**: 2026-11-11 09:23
+
+#### [Edge AI Daily 早报（11月11日）](https://www.tmtpost.com/8200609.html)
+**发布时间**: 2026-11-11 08:34
+
+#### [Hong Kong IPOs Stall as Issuers Pull Deals at the Last Step](https://www.tmtpost.com/8200654.html)
+**发布时间**: 2026-11-11 08:28
+
+#### [【钛晨报】李强签署国务院令，公布修订后的《基金会管理条例》；阿里拟分拆平头哥独立赴港上市；Anthropic IPO定价区间确定，目标市值约1万亿美元低于预期](https://www.tmtpost.com/8200471.html)
+**发布时间**: 2026-11-11 07:20
+
+#### [4000万失能老人背后，为何有笔至今算不平的照护账？](https://www.tmtpost.com/8200404.html)
+**发布时间**: 2026-11-10 22:42
+
+#### [第三代国潮来袭：藏在桌面与旷野里的中国智造](https://www.tmtpost.com/8200254.html)
+**发布时间**: 2026-11-10 22:42
+
+#### [亚朵集团三季度营收34.29亿元，酒店业务稳健发展；欧莱雅进博会首发五大成果；优衣库进博会聚焦可持续发展 ｜消研所周报](https://www.tmtpost.com/8200086.html)
+**发布时间**: 2026-11-10 21:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京](https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 10:00
+
+#### [微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用](https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 09:06
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员](http://www.geekpark.net/news/373796)
+**发布时间**: 2026-11-11 08:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等](https://sspai.com/post/118905)
+**发布时间**: 2026-11-11 08:26
 
 ---
 

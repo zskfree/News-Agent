@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Nov 2026 13:17:00 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 13:19:59 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 02:34:00 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:36:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>灵光接入什么值得买，AI助理开始帮用户“盯好价”</title>
-      <link>https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html</link>
-      <description>&lt;![CDATA[灵光接入什么值得买，AI助理开始帮用户“盯好价”]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html</guid>
+      <title>Introducing Kimi K3.1 Pro on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Introducing Kimi K3.1 Pro on Amazon Bedrock]]&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 01:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>四维图新创想大会 | 以数据与算力为基，SEEWAY.AI驶向新一站</title>
-      <link>https://www.leiphone.com/category/industrynews/dZrtBnDtC720JWGW.html</link>
-      <description>&lt;![CDATA[四维图新创想大会 | 以数据与算力为基，SEEWAY.AI驶向新一站]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/dZrtBnDtC720JWGW.html</guid>
+      <title>Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/</link>
+      <description>&lt;![CDATA[Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 23:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Fable 5.2 “撞车”蚂蚁灵波触觉模型，CEO 朱兴：两类模型协同将加速具身产业成熟</title>
-      <link>https://www.leiphone.com/category/industrynews/Qhv28gnFkgFPCbXV.html</link>
-      <description>&lt;![CDATA[Fable 5.2 “撞车”蚂蚁灵波触觉模型，CEO 朱兴：两类模型协同将加速具身产业成熟]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Qhv28gnFkgFPCbXV.html</guid>
+      <title>The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/</link>
+      <description>&lt;![CDATA[The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 22:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角</title>
-      <link>https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html</link>
-      <description>&lt;![CDATA[从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html</guid>
+      <title>Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/</link>
+      <description>&lt;![CDATA[Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>23.98万元起，智己LS8 NEO开始反“配置表”</title>
-      <link>https://www.leiphone.com/category/transportation/P7zNFoMQbmQynIE8.html</link>
-      <description>&lt;![CDATA[23.98万元起，智己LS8 NEO开始反“配置表”]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/P7zNFoMQbmQynIE8.html</guid>
+      <title>How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/</link>
+      <description>&lt;![CDATA[How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从芯片到千比特整机，超导量子计算还有一场硬仗</title>
-      <link>https://www.qbitai.com/2026/11/509017.html</link>
-      <description>&lt;![CDATA[从芯片到千比特整机，超导量子计算还有一场硬仗]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 08:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/509017.html</guid>
+      <title>Amazon Bedrock tokenomics data lake</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/</link>
+      <description>&lt;![CDATA[Amazon Bedrock tokenomics data lake]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 16:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型</title>
-      <link>https://www.qbitai.com/2026/11/508996.html</link>
-      <description>&lt;![CDATA[从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 07:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508996.html</guid>
+      <title>Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs</title>
+      <link>https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/</link>
+      <description>&lt;![CDATA[Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 23:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架</title>
-      <link>https://www.qbitai.com/2026/11/508998.html</link>
-      <description>&lt;![CDATA[Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 07:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508998.html</guid>
+      <title>Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters</title>
+      <link>https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/</link>
+      <description>&lt;![CDATA[Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线</title>
-      <link>https://www.qbitai.com/2026/11/508991.html</link>
-      <description>&lt;![CDATA[成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 07:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508991.html</guid>
+      <title>Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards</title>
+      <link>https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</link>
+      <description>&lt;![CDATA[Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 14:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动</title>
-      <link>https://www.qbitai.com/2026/11/508985.html</link>
-      <description>&lt;![CDATA[达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动]]&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 07:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/508985.html</guid>
+      <title>NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure</title>
+      <link>https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/</link>
+      <description>&lt;![CDATA[NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure]]&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/</guid>
       <category>Ai</category>
     </item>
   </channel>

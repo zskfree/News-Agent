@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-10 13:19
+**最后更新时间**: 2026-11-11 02:36
+
+---
+
+## 🆕 最新更新 (2026-11-11 02:36)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [One reason Children’s Place is filing for bankruptcy? Not enough children.](https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 01:54
+
+#### [CoreWeave’s stock pops as new financing playbook eases debt concerns](https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 01:12
+
+#### [AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins](https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 22:37
+
+#### [Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.](https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 22:30
+
+#### [Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal](https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 22:05
+
+#### [Stocks fall as the 10-year Treasury yield nears 5% mark](https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories)
+**发布时间**: 2026-11-10 21:42
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic bankers prepare to increase IPO valuation to $1.5tn or more](https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 00:27
+
+#### [House blocks impeachment of US defence secretary Pete Hegseth](https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 00:01
+
+#### [CoreWeave plans multibillion-dollar chip-backed debt deal](https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 00:01
+
+#### [Senior US soldier arrested in UK on suspicion of spying for Russia](https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 23:36
+
+#### [Oil falls below $90 as Trump pulls back from threat to strike Iran](https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 20:19
+
+#### [US commerce department delays Megaspeed’s inclusion on trade blacklist](https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 20:05
+
+#### [Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe](https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 19:24
+
+#### [Alice Huang’s tangled web of connections](https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 16:17
+
+#### [US, Russia and Ukraine resume talks on ending war](https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-10 15:43
 
 ---
 
