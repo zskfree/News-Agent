@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-11 02:36
+**最后更新时间**: 2026-11-11 12:31
+
+---
+
+## 🆕 最新更新 (2026-11-11 12:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia’s valuation tumbles to a 15-year low. A bargain or a falling knife?](https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 12:16
+
+#### [Market angst is driving investors into low-volatility stocks as AI trade stumbles](https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 12:00
+
+#### [Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast](https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 10:37
+
+#### [I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?](https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 10:30
+
+#### [Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast](https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 10:03
+
+#### [Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine](https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 09:59
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hundreds of schools across Italy, Scotland and Ireland receive bomb threats](https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 11:34
+
+#### [US tech stocks set to extend rebound](https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 10:45
+
+#### [Spain roiled by first general strike in 14 years](https://www.ft.com/content/d93d41fc-943c-449b-948c-57a4464f564f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 10:40
+
+#### [Anthropic’s IPO is too important to fail](https://www.ft.com/content/26fd23df-830e-481b-a3bc-19bcab48c5f6)
+**发布时间**: 2026-11-11 10:23
+
+#### [The Italians living atop one of the world’s ‘most dangerous volcanoes’](https://www.ft.com/content/debd52d9-fe0f-4b6d-b7b4-047635de85b0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 09:52
+
+#### [How much is Anthropic really worth? Use our calculator](https://www.ft.com/content/8281fcde-bcf7-4145-b785-bc0d12616c27?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 05:00
+
+#### [Inside Ken Griffin’s $5bn Miami takeover](https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 05:00
+
+#### [Democracy’s future is at stake in Ukraine](https://www.ft.com/content/64131ac1-a9bb-429b-b937-183a08f72bc6?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 05:00
+
+#### [France pressures Germany over nuclear risks of long-range missiles](https://www.ft.com/content/7f61b561-bcbd-4900-afd7-553ff76d6217?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 05:00
 
 ---
 

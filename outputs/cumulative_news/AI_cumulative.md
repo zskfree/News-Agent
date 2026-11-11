@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-11 02:34
+**最后更新时间**: 2026-11-11 12:29
+
+---
+
+## 🆕 最新更新 (2026-11-11 12:29)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [双十一换机正当时：华为Mate X7购机好礼，降低折叠旗舰换新门槛](https://www.leiphone.com/category/industrynews/C6UjjlUlmA70WLVq.html)
+**发布时间**: 2026-11-11 17:31
+
+#### [阿里云获中国游戏云市场整体和六项细分第一](https://www.leiphone.com/category/industrynews/JfRMJsIb0HJvjdrl.html)
+**发布时间**: 2026-11-11 15:20
+
+#### [港人北上就医更方便了！蚂蚁健康联合宏利香港推出跨境商保直付服务](https://www.leiphone.com/category/industrynews/93abjJTM4K7EYw0L.html)
+**发布时间**: 2026-11-11 13:56
+
+#### [灵光2.0上线两周，累计托管事务量突破300万](https://www.leiphone.com/category/industrynews/588lnnPVveccwufm.html)
+**发布时间**: 2026-11-11 13:43
+
+#### [文心 5.5 Flash Preview发布！编程、3D 建模、知识工作、内容创作等全面升级](https://www.leiphone.com/category/industrynews/sqz0hf4DoTPX5mqI.html)
+**发布时间**: 2026-11-11 13:22
+
+#### [11月11日，全年最便宜的一天！iPhone18 Pro天猫降价2247元](https://www.leiphone.com/category/industrynews/mDFlNg5u779ud9rz.html)
+**发布时间**: 2026-11-11 11:15
+
+#### [三个月估值涨十倍的芯片热潮里，5000万也没让他创业](https://www.leiphone.com/category/chipdesign/6mjibhXfWFoLrabg.html)
+**发布时间**: 2026-11-11 10:51
+
+#### [AI接手运营后，速卖通潜力市场双11成交大涨超50%](https://www.leiphone.com/category/industrynews/zRG1ZBXyPvQHcb5o.html)
+**发布时间**: 2026-11-11 10:42
+
+#### [AI接手运营后，速卖通潜力市场双11成交大涨超50%](https://www.leiphone.com/category/industrynews/GTyH9f6MgPPWlf4S.html)
+**发布时间**: 2026-11-11 10:40
+
+#### [独家丨清华系团队创业做 AI 眼镜，拿下传统眼镜厂商种子轮](https://www.leiphone.com/category/weiwu/Lfff1nBYqpWoqgMF.html)
+**发布时间**: 2026-11-11 10:02
+
+#### [双11冲刺进行时！抖音商城服饰趋势品牌有哪些](https://www.leiphone.com/category/industrynews/c57qy1fVQl3PL0DL.html)
+**发布时间**: 2026-11-10 22:37
+
+#### [阿里巴巴：已正式申请平头哥独立上市](https://www.leiphone.com/category/industrynews/dew7AYBxkGAYilZj.html)
+**发布时间**: 2026-11-10 20:46
+
+#### [吉利星愿上市两年，刷新全球最快百万销量速度纪录](https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html)
+**发布时间**: 2026-11-10 20:44
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI](https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/)
+**发布时间**: 2026-11-11 07:38
+
+#### [Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms](https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/)
+**发布时间**: 2026-11-11 04:43
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替](https://www.qbitai.com/2026/11/509146.html)
+**发布时间**: 2026-11-11 06:41
+
+#### [从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题](https://www.qbitai.com/2026/11/509088.html)
+**发布时间**: 2026-11-11 06:27
+
+#### [卷起来了！11月11日，大模型厂商在天猫打5折](https://www.qbitai.com/2026/11/509085.html)
+**发布时间**: 2026-11-11 06:18
+
+#### [无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光](https://www.qbitai.com/2026/11/509052.html)
+**发布时间**: 2026-11-11 03:43
+
+#### [英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天](https://www.qbitai.com/2026/11/509032.html)
+**发布时间**: 2026-11-10 10:35
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy)
+**发布时间**: 2026-11-11 05:01
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-11日刊](https://hex2077.dev/docs/2026-11/2026-11-11/)
+**发布时间**: 2026-11-11 04:04
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/)
+**发布时间**: 2026-11-11 03:00
 
 ---
 

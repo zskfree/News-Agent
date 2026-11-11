@@ -1,7 +1,113 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-11 02:36
+**最后更新时间**: 2026-11-11 12:31
+
+---
+
+## 🆕 最新更新 (2026-11-11 12:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [扩产太猛、5亿转债转不动，聚合顺3亿定增由实控人兜底遭问询](https://www.tmtpost.com/8201522.html)
+**发布时间**: 2026-11-11 19:43
+
+#### [超过美国，中国成巴西医疗器械最大进口来源国](https://www.tmtpost.com/8201235.html)
+**发布时间**: 2026-11-11 18:29
+
+#### [比黄仁勋婚外情更大的风暴，才刚刚到来](https://www.tmtpost.com/8201240.html)
+**发布时间**: 2026-11-11 16:42
+
+#### [389家游戏工作室并购调查：34%关停，十年内关停比例达38.9%](https://www.tmtpost.com/8200751.html)
+**发布时间**: 2026-11-11 16:42
+
+#### [Kimi开始"出租"数字员工：Agent计价锚点，正从软件预算滑向人力预算](https://www.tmtpost.com/8201187.html)
+**发布时间**: 2026-11-11 16:42
+
+#### [Shengshu’s First AI Feature Film Misses the Mark as Its Hong Kong IPO Nears](https://www.tmtpost.com/8201282.html)
+**发布时间**: 2026-11-11 16:41
+
+#### [黄仁勋危局：CEO职位恐不保，一段婚外情背后的出口管制风暴](https://www.tmtpost.com/8201159.html)
+**发布时间**: 2026-11-11 15:22
+
+#### [AI短剧混战：大厂争夺的是剧本，还是下一代流量入口](https://www.tmtpost.com/8201130.html)
+**发布时间**: 2026-11-11 15:17
+
+#### [当幼儿园陆续消失，一场育儿焦虑的退潮](https://www.tmtpost.com/8201112.html)
+**发布时间**: 2026-11-11 14:59
+
+#### [中国AI，越来越烧钱](https://www.tmtpost.com/8201106.html)
+**发布时间**: 2026-11-11 14:55
+
+#### [中产的下一个精打细算：超级双11](https://www.tmtpost.com/8201022.html)
+**发布时间**: 2026-11-11 14:55
+
+#### [假如BLG夺冠了，谁会成为商业上的大赢家？](https://www.tmtpost.com/8200288.html)
+**发布时间**: 2026-11-11 14:35
+
+#### [中国55%的Token烧在短剧，美国58%烧在代码：Token的流向，暴露了AI的两种“活法”](https://www.tmtpost.com/8198782.html)
+**发布时间**: 2026-11-11 14:35
+
+#### [姚期智杨植麟联手，让数学家松了一口气](https://www.tmtpost.com/8200965.html)
+**发布时间**: 2026-11-11 14:35
+
+#### [便宜5000元的加拿大鹅，治不好山姆的会员焦虑](https://www.tmtpost.com/8200306.html)
+**发布时间**: 2026-11-11 14:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势](https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 19:05
+
+#### [从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型](https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 18:36
+
+#### [如何提升 AI 的环境可持续性](https://www.infoq.cn/article/GUXzTTTFvwWY7yx6WMyS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 18:33
+
+#### [工程师招聘跌至巅峰时期一半！Manus 取消传统编程面试，产品经理开始直接写代码](https://www.infoq.cn/article/HKFSZ6a0DM97BV7FXP2t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 17:47
+
+#### [Agent 正在终结 Pull Request？连 GitHub 也开始重新审视传统开发流程](https://www.infoq.cn/article/x0B056QFxzYEewT1Et34?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 17:40
+
+#### [面向产业决策的升级：蚂蚁数科LingDT-Decision 首发信息抽取能力](https://www.infoq.cn/article/7wd1IyRiffi1vPz6goHS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 17:23
+
+#### [Datadog 推出面向 SRE 故障排查的专用 AI 模型](https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 17:00
+
+#### [多云 FinOps：一种用于跨云成本优化的工程框架](https://www.infoq.cn/article/0qQcqvV13GtRKGgmsPqW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 16:49
+
+#### [阿里云发布基于 AMD 第六代 EPYC 处理器的第十代 ECS 企业级实例](https://www.infoq.cn/article/xCQx0qBofJYfBdVrxVxt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 14:44
+
+#### [Agent 从 Demo 到生产，究竟还差几步？4周实战课来了](https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 12:02
+
+#### [Cloudflare 推出面向 AI 应用程序的 Web Search API](https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 11:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [城市漫步指南 | 安特卫普，时尚就在生活中](https://sspai.com/post/118781)
+**发布时间**: 2026-11-11 17:30
+
+#### [从优胜美地到金门大桥：跟着 macOS 游览加州](https://sspai.com/post/118175)
+**发布时间**: 2026-11-11 14:50
+
+#### [RetroSweeper Go：复古外观、更有手感的扫雷游戏](https://sspai.com/post/118458)
+**发布时间**: 2026-11-11 11:13
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [又 3 个刚开源但要火的 GitHub 项目，在 iPhone 上跑 macOS。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538432&idx=1&sn=631a5c0b7a3a95abf4d4efc11f80d944)
+**发布时间**: 2026-11-11 15:46
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [当美国无法建设数据中心，会对 AI 产生怎样的冲击](http://www.geekpark.net/news/373816)
+**发布时间**: 2026-11-11 13:23
 
 ---
 
