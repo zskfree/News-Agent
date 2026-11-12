@@ -1,7 +1,95 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-12 03:41
+**最后更新时间**: 2026-11-12 13:36
+
+---
+
+## 🆕 最新更新 (2026-11-12 13:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [今天起，豆包工作接入更多模型了](https://www.tmtpost.com/8202629.html)
+**发布时间**: 2026-11-12 21:23
+
+#### [实测百度文心5.5 Flash Preview：审美依然在线，编程全力争先](https://www.tmtpost.com/8202831.html)
+**发布时间**: 2026-11-12 21:23
+
+#### [艾迪药业定增再砍6600万：管线分文未动，补流空间进一步压缩](https://www.tmtpost.com/8203361.html)
+**发布时间**: 2026-11-12 20:57
+
+#### [Alibaba’s Chip Unit Heads for Hong Kong With Cloud Still in the Way](https://www.tmtpost.com/8203405.html)
+**发布时间**: 2026-11-12 19:46
+
+#### [替公募海外调研买单，国盛证券踩中连环雷](https://www.tmtpost.com/8202105.html)
+**发布时间**: 2026-11-12 18:36
+
+#### [00后华人女孩们，成硅谷AI新贵](https://www.tmtpost.com/8203090.html)
+**发布时间**: 2026-11-12 18:36
+
+#### [BAT新旗舰杀回第一阵营，压力来到字节这边](https://www.tmtpost.com/8203160.html)
+**发布时间**: 2026-11-12 18:36
+
+#### [一把厨刀引发的风波，和一家太空站里的黑心小店：《深空当铺》到底卖的是什么?](https://www.tmtpost.com/8202153.html)
+**发布时间**: 2026-11-12 18:36
+
+#### [车企自研芯片开始外供，能否打开新市场？](https://www.tmtpost.com/8203138.html)
+**发布时间**: 2026-11-12 18:35
+
+#### [国产合金已经卖到几万吨了，东风为什么还用美铝的牌号？](https://www.tmtpost.com/8203150.html)
+**发布时间**: 2026-11-12 18:35
+
+#### [平头哥独立上市，阿里图什么？](https://www.tmtpost.com/8203164.html)
+**发布时间**: 2026-11-12 18:35
+
+#### [两城双子星，正在完成中国AI产业闭环。](https://www.tmtpost.com/8202784.html)
+**发布时间**: 2026-11-12 18:22
+
+#### [机器人泡沫在老股市场漏了气](https://www.tmtpost.com/8203031.html)
+**发布时间**: 2026-11-12 17:42
+
+#### [聊聊中国版MUSE：蚂蚁灵光2.0，支付宝，超级App的生态优势与挑战](https://www.tmtpost.com/8203056.html)
+**发布时间**: 2026-11-12 17:42
+
+#### [社会力量支持基础研究大会在沪召开，共议科学慈善"耐心"之道](https://www.tmtpost.com/8203022.html)
+**发布时间**: 2026-11-12 17:36
+
+#### [粤宏远A的转型赌注：5.5亿买一条“有利润、没现金”的曲线｜并购一线](https://www.tmtpost.com/8202821.html)
+**发布时间**: 2026-11-12 17:23
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务](https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 16:44
+
+#### [Google 终于让 PyTorch 原生跑上 TPU，开发者：“早该如此！”](https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 15:00
+
+#### [智能体 AI 架构中记忆、知识与上下文的系统化方案](https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 13:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好](https://sspai.com/post/118366)
+**发布时间**: 2026-11-12 16:37
+
+#### [Mac 选购指南 2026 冬季版](https://sspai.com/post/85735)
+**发布时间**: 2026-11-12 14:42
+
+#### [让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验](https://sspai.com/post/118921)
+**发布时间**: 2026-11-12 11:12
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [接入多款第三方模型，豆包工作也模型自由了](http://www.geekpark.net/news/373881)
+**发布时间**: 2026-11-12 16:24
+
+#### [体验「跟拍机器人」Beni：谁不想要一个不会喊累还会拍照的出行搭子](http://www.geekpark.net/news/373860)
+**发布时间**: 2026-11-12 11:44
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [把电脑体检、清理交给豆包工作 Agent 。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538464&idx=1&sn=a788427837ca1abe50dabc210774e35b)
+**发布时间**: 2026-11-12 13:21
 
 ---
 

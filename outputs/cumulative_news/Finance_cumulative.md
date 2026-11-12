@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-12 03:41
+**最后更新时间**: 2026-11-12 13:36
+
+---
+
+## 🆕 最新更新 (2026-11-12 13:36)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Wendy’s rejects a takeover offer, scales back breakfast and still sees its stock surge](https://www.marketwatch.com/story/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-still-sees-its-stock-surge-4e398cde?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 13:05
+
+#### [The world’s most sophisticated drug companies are putting billions into vaccines — despite the political environment](https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 13:00
+
+#### [How the U.S. government’s equity holdings have surged during Trump’s second term — in one chart](https://www.marketwatch.com/story/how-the-u-s-governments-equity-holdings-have-surged-during-trumps-second-term-in-one-chart-b598c369?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 13:00
+
+#### [The ‘bank of Nvidia’ is in jeopardy, threatening the entire AI boom](https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 12:55
+
+#### [Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man](https://www.marketwatch.com/story/nvidias-jensen-huang-dilemma-is-a-test-of-the-ai-industrys-dependence-on-one-flawed-man-a9a1d99c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 12:29
+
+#### [Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait](https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 11:34
+
+#### [Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying](https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 10:57
+
+#### [I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?](https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 10:15
+
+#### [Prince Harry and Meghan Markle move into new home in Cotswolds](https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 10:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukraine says Starlink restrictions are back as US envoys land in Moscow](https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 12:46
+
+#### [Israel strikes Gaza hospital despite ceasefire](https://www.ft.com/content/2a3d0391-c4d9-4195-af36-b5ee66415cd9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 12:03
+
+#### [Nvidia board to decide Jensen Huang’s fate](https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 11:08
+
+#### [Maga architects blame Big Tech and AI data centres for midterms rout](https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 11:00
+
+#### [China warns US not to use Nvidia scandal as pretext for tech curbs](https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 10:55
+
+#### [Who could run Nvidia after Jensen Huang?](https://www.ft.com/content/e47f7d4a-88d7-41e4-8c77-8ea8e0769353?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 07:54
+
+#### [Russian diesel exports double after Trump lifts sanctions, but US gets none](https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 05:00
+
+#### [France signals support for Spain’s ECB presidential candidate](https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 05:00
+
+#### [Huang falls out of favour in Washington](https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 04:19
 
 ---
 

@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-12 03:39
+**最后更新时间**: 2026-11-12 13:34
+
+---
+
+## 🆕 最新更新 (2026-11-12 13:34)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛](https://www.qbitai.com/2026/11/509440.html)
+**发布时间**: 2026-11-12 11:36
+
+#### [从通用大模型到学习过程智能，AI如何真正进入课堂？](https://www.qbitai.com/2026/11/509404.html)
+**发布时间**: 2026-11-12 10:45
+
+#### [Anthropic启动IPO路演，估值已缩水6000亿美元](https://www.qbitai.com/2026/11/509381.html)
+**发布时间**: 2026-11-12 10:11
+
+#### [马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光](https://www.qbitai.com/2026/11/509355.html)
+**发布时间**: 2026-11-12 10:08
+
+#### [让AI真正懂业务：璇玑如何成为企业AI的语义基础设施](https://www.qbitai.com/2026/11/509349.html)
+**发布时间**: 2026-11-12 09:34
+
+#### [马斯克已准备好聘请黄仁勋](https://www.qbitai.com/2026/11/509334.html)
+**发布时间**: 2026-11-12 08:16
+
+#### [Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条](https://www.qbitai.com/2026/11/509291.html)
+**发布时间**: 2026-11-12 07:55
+
+#### [百曜科技入选全球 The Information 50！](https://www.qbitai.com/2026/11/509285.html)
+**发布时间**: 2026-11-12 06:13
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits](https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/)
+**发布时间**: 2026-11-12 08:42
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New research could lead to faster, trustworthy AI models for climate prediction](https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112)
+**发布时间**: 2026-11-12 00:00
 
 ---
 
