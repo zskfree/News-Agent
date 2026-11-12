@@ -1,7 +1,108 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-11 12:31
+**最后更新时间**: 2026-11-12 03:41
+
+---
+
+## 🆕 最新更新 (2026-11-12 03:41)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [日本电视台，被老人救活了](https://www.tmtpost.com/8202109.html)
+**发布时间**: 2026-11-12 11:31
+
+#### [Grok Bot大升级，AI同事开始抢活干](https://www.tmtpost.com/8202042.html)
+**发布时间**: 2026-11-12 11:26
+
+#### [光模块，开启大反攻？](https://www.tmtpost.com/8202010.html)
+**发布时间**: 2026-11-12 11:22
+
+#### [被折叠的芯片资产：阿里分拆平头哥的逻辑与悬念](https://www.tmtpost.com/8202083.html)
+**发布时间**: 2026-11-12 11:19
+
+#### [华发“开卖”豪华酒店资产？第一笔就是2......](https://www.tmtpost.com/8202060.html)
+**发布时间**: 2026-11-12 11:15
+
+#### [血战威士忌，百润股份再投10亿买桶](https://www.tmtpost.com/8201940.html)
+**发布时间**: 2026-11-12 11:07
+
+#### [破产转行搞芯片的房企，又准备把酒店交给华住？](https://www.tmtpost.com/8201970.html)
+**发布时间**: 2026-11-12 11:02
+
+#### [光伏龙头通威花14亿“养猪”，刘汉元不甘心只赢一次](https://www.tmtpost.com/8201663.html)
+**发布时间**: 2026-11-12 10:58
+
+#### [通威集团吞下天邦食品](https://www.tmtpost.com/8201946.html)
+**发布时间**: 2026-11-12 10:53
+
+#### [融资腰斩、IPO收窄：具身智能的冬天筛掉谁？](https://www.tmtpost.com/8201689.html)
+**发布时间**: 2026-11-12 10:50
+
+#### [盖茨再“吹哨”：AI猛于核武，人类别大难临头才醒](https://www.tmtpost.com/8201134.html)
+**发布时间**: 2026-11-12 10:47
+
+#### [阿里平头哥递表港交所背后，云厂商押注芯片所为何？](https://www.tmtpost.com/8201856.html)
+**发布时间**: 2026-11-12 10:46
+
+#### [铝价下跌背后：海外345万吨产能来袭，全球铝市场要变天？](https://www.tmtpost.com/8201653.html)
+**发布时间**: 2026-11-12 10:40
+
+#### [1.6 亿播放赚 39 万：AI 短剧的暴利，全给云厂商打了工](https://www.tmtpost.com/8201652.html)
+**发布时间**: 2026-11-12 10:40
+
+#### [5亿分红被李新富、李国妹分走1.76亿，艾罗能源8亿承诺撞上亏损季度](https://www.tmtpost.com/8201773.html)
+**发布时间**: 2026-11-12 10:34
+
+#### [张一鸣最新定调：字节有能力与Anthropic和OpenAI竞争，但追平前沿最早要到2029年](https://www.tmtpost.com/8201648.html)
+**发布时间**: 2026-11-12 10:34
+
+#### [自动驾驶，还没有赢家](https://www.tmtpost.com/8201512.html)
+**发布时间**: 2026-11-12 10:31
+
+#### [薅到了五折Token的羊毛，真有人以为在双十一抄到底了？](https://www.tmtpost.com/8201479.html)
+**发布时间**: 2026-11-12 10:31
+
+#### [逛遍7馆，德国慕尼黑电子展2026一线观察：机器人、汽车扎堆，中国芯片厂商抢滩欧洲](https://www.tmtpost.com/8201459.html)
+**发布时间**: 2026-11-12 10:31
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%](https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 11:00
+
+#### [Token越烧越多，利润却没涨：李彦宏要重新设计企业组织](https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 10:45
+
+#### [InfoQ 2026 年趋势报告：AI、ML与数据工程](https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 10:23
+
+#### [让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践](https://www.infoq.cn/article/kIw9Wp2uSgCwrsgicIZ0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 10:20
+
+#### [从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京](https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 10:00
+
+#### [谷歌采用 DPoP 增强 OAuth 2.0，抵御令牌窃取与重放攻击](https://www.infoq.cn/article/FQHBH7cfSYPFUUdbmyui?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-12 09:05
+
+#### [谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4](https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 21:05
+
+#### [Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT](https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-11 20:52
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [苹果突然永久关闭官方「支持社区」；字节即将推出个人 AI 助手；华为新品牌星芒 OSTA 曝光 | 极客早知道](http://www.geekpark.net/news/373839)
+**发布时间**: 2026-11-12 08:39
+
+#### [飞行汽车登上 Web Summit 主舞台, 中国科技公司在欧洲讲了一个什么故事?](http://www.geekpark.net/news/373838)
+**发布时间**: 2026-11-12 07:59
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等](https://sspai.com/post/118935)
+**发布时间**: 2026-11-12 08:22
 
 ---
 

@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-11 12:31
+**最后更新时间**: 2026-11-12 03:41
+
+---
+
+## 🆕 最新更新 (2026-11-12 03:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China warns of ‘severe’ punishment for offshore trust tax evaders](https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 02:55
+
+#### [Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate](https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 01:13
+
+#### [Scott Colom wins historic Senate race in Mississippi](https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 00:24
+
+#### [Can India clean up Delhi’s deadly smog?](https://www.ft.com/content/e58eec04-845b-4330-8d01-69b0313a60c1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 00:08
+
+#### [Democrats pledge to expose ‘absolute avalanche of corruption’ under Trump](https://www.ft.com/content/3d3fcb94-143d-446c-8b09-b1f830ca97e9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 21:01
+
+#### [Thousands of schools in Italy, Scotland and Ireland receive bomb threats](https://www.ft.com/content/7bbc0a5e-b7e2-4a3f-874f-a63de94e922d?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 15:39
+
+#### [Three cheers for an independent American judiciary](https://www.ft.com/content/f368fe65-1a9e-425a-a4ac-2ab000e85249?syn-25a6b1a6=1)
+**发布时间**: 2026-11-11 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang](https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 02:52
+
+#### [I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?](https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 02:31
+
+#### [Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang](https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 01:12
+
+#### [Your holiday credit-card bills are going up. What you can do to ease the pain.](https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 23:30
+
+#### [CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade](https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 22:05
+
+#### [Opening trading-card packs has become a $2 billion market. New apps are trying to cash in.](https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 21:55
+
+#### [Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market](https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-11 21:42
 
 ---
 

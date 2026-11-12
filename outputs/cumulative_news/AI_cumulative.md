@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-11 12:29
+**最后更新时间**: 2026-11-12 03:39
+
+---
+
+## 🆕 最新更新 (2026-11-12 03:39)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [突发！黄仁勋被曝与高管有新婚外情，英伟达启动罢免，猎头已物色其接班人；百度发布文心全新开源模型；余承东官宣华为子品牌「星芒」](https://www.leiphone.com/category/zaobao/eX3oZsWdbpVbMcto.html)
+**发布时间**: 2026-11-12 09:23
+
+#### [黄仁勋被指控涉嫌欺诈股东！若离婚，妻子或可分走5000亿元；女子称90分钟被星巴克提醒下单5次：让她倍感困扰；京东两大事业群正式成立](https://www.leiphone.com/category/zaobao/W5Fdqyrusc1z9snM.html)
+**发布时间**: 2026-11-12 09:19
+
+#### [和大疆抢食，这家公司做了台桌面摄影机器人](https://www.leiphone.com/category/weiwu/7us3N77Jwt0jzWda.html)
+**发布时间**: 2026-11-11 18:29
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-12日刊](https://hex2077.dev/docs/2026-11/2026-11-12/)
+**发布时间**: 2026-11-12 03:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段](https://www.qbitai.com/2026/11/509281.html)
+**发布时间**: 2026-11-12 01:45
+
+#### [纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了](https://www.qbitai.com/2026/11/509224.html)
+**发布时间**: 2026-11-11 12:43
+
+#### [上海造、香港连，中国AI加速走向全球](https://www.qbitai.com/2026/11/509214.html)
+**发布时间**: 2026-11-11 12:22
+
+#### [机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了](https://www.qbitai.com/2026/11/509203.html)
+**发布时间**: 2026-11-11 09:58
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Build autonomous AI agents with Amazon Bedrock and Spring AI](https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/)
+**发布时间**: 2026-11-12 01:18
+
+#### [OpenAI Codex on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/)
+**发布时间**: 2026-11-11 23:35
+
+#### [Semantic diffing of formal policies with anti-unification](https://aws.amazon.com/blogs/machine-learning/semantic-diffing-of-formal-policies-with-anti-unification/)
+**发布时间**: 2026-11-11 23:33
+
+#### [Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/)
+**发布时间**: 2026-11-11 23:30
+
+#### [Introducing the Web Search API on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-11 23:13
+
+#### [ICYMI: What landed for AI builders in October 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/)
+**发布时间**: 2026-11-11 22:26
+
+#### [The attendee’s guide to the AWS re:Invent 2026 AI/ML track](https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/)
+**发布时间**: 2026-11-11 21:05
+
+#### [Automating AWS Agent Registry updates with push-based architecture](https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/)
+**发布时间**: 2026-11-11 20:52
+
+#### [How DXC Technology built a multi-model AI substrate on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/)
+**发布时间**: 2026-11-11 20:45
+
+#### [Accelerating generative AI delivery with reusable assets](https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/)
+**发布时间**: 2026-11-11 19:19
+
+#### [Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick](https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/)
+**发布时间**: 2026-11-11 16:05
+
+#### [UAEF: A framework-agnostic system for closed-loop evaluation of AI agents](https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/)
+**发布时间**: 2026-11-11 15:50
+
+#### [Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming](https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/)
+**发布时间**: 2026-11-11 15:10
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens](https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/)
+**发布时间**: 2026-11-11 21:21
+
+#### [Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects](https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/)
+**发布时间**: 2026-11-11 20:51
+
+#### [Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension](https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/)
+**发布时间**: 2026-11-11 15:51
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching](https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/)
+**发布时间**: 2026-11-11 19:54
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Token Pooling-Aware Training for Multi-Vector Embedding Models](https://huggingface.co/blog/token-pooling)
+**发布时间**: 2026-11-11 00:00
 
 ---
 
