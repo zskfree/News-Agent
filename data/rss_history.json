@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1b6bdc069ad0c5fc631d08c6bbd44b582b3f3911efe067351d8c353872ca19cd": {
-        "title": "30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热",
-        "link": "https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 13 Oct 2026 21:34:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743390"
-      },
-      "c6f7654e639966b49f7955b0fc80a34cf1e3d1b44eceafe3de9b919c7bedb856": {
-        "title": "【钛晨报】“求索”4.0上线！国内首个人工智能全产业链评测基准发布；重庆市委原副书记、市政府原市长黄奇帆被查；DeepSeek据称将完成1000亿元融资",
-        "link": "https://www.tmtpost.com/8167674.html",
-        "published_date": "Wed, 14 Oct 2026 07:20:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743408"
-      },
-      "9cd3cf51a8bdf0d75891c7f69209bad6ddca7fef86b21de20b46226a7308028d": {
-        "title": "Vertiv及另外5只工业股：财报发布前的投资标的",
-        "link": "https://www.tmtpost.com/8167697.html",
-        "published_date": "Tue, 13 Oct 2026 21:43:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743414"
-      },
-      "605fb519f9d127440e3f9f6f5ed2c3f597421d88f01e995a52ccb25cb35d4459": {
-        "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
-        "link": "https://sspai.com/post/116138",
-        "published_date": "Wed, 14 Oct 2026 08:40:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743416"
-      },
-      "a648c5617190f9f1544e7971cb0f4ecb415682a2b5d40fdef6eb7a86b2318f88": {
-        "title": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
-        "link": "https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 14 Oct 2026 09:21:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743418"
-      },
-      "f5e034501ddc9392e11c185bed5b41c1c8a3fb45573eb6ba13ae1a7229511129": {
-        "title": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
-        "link": "https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 13 Oct 2026 22:26:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743419"
-      },
-      "de89c1a1e2b1dfb2ce4be50ac2d60efc75dbaddf7ce66d6fc7ad25502803cda8": {
-        "title": "星巴克，重新学做中国生意",
-        "link": "https://www.tmtpost.com/8167760.html",
-        "published_date": "Wed, 14 Oct 2026 09:03:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743421"
-      },
-      "0ff2af9457876d4e92631473e6bf7febc3dc102eff77cff037f200860f218ece": {
-        "title": "双11大变天：有人掉队，就有人超车",
-        "link": "https://www.tmtpost.com/8167622.html",
-        "published_date": "Wed, 14 Oct 2026 09:03:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743422"
-      },
-      "adad91a56882ce7d152f6cf192330d7a60504167135a462f09a4194af6c60cc5": {
-        "title": "所有App都在塞AI，但用户已经烦了",
-        "link": "https://www.tmtpost.com/8167377.html",
-        "published_date": "Wed, 14 Oct 2026 09:02:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743424"
-      },
-      "516f17f154f5b6efc514aaef42ffcd4cb1796c4c2ac137e2ef96fff988a4556e": {
-        "title": "Edge AI Daily 早报（10月14日）",
-        "link": "https://www.tmtpost.com/8167796.html",
-        "published_date": "Wed, 14 Oct 2026 08:51:00 GMT",
-        "first_seen": "2026-10-14T01:41:50.743425"
-      },
       "3793749a695ffd923d7dc543facd20bc1425e2d8623bff93ef3a152a2b4d865a": {
         "title": "千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意",
         "link": "https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU?utm_source=rss&utm_medium=article",
@@ -3601,69 +3541,69 @@
         "link": "https://www.tmtpost.com/8202153.html",
         "published_date": "Thu, 12 Nov 2026 18:36:00 GMT",
         "first_seen": "2026-11-12T13:36:54.347838"
+      },
+      "d1a80a3e121825d2ef3e239cc067d0ce6633693d559d96ce2ee020320d6e5fa9": {
+        "title": "上一个让CFO接班的芯片巨头，是英特尔",
+        "link": "https://www.tmtpost.com/8203641.html",
+        "published_date": "Fri, 13 Nov 2026 09:17:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493068"
+      },
+      "0a59f19766057b7df59de8970950100faf69aeead5488c1a10b3ccd27f8ea701": {
+        "title": "Docker 呼吁通过隔离与治理保障智能体安全",
+        "link": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Nov 2026 11:00:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493078"
+      },
+      "f55dbc74c51dc80d0d5f6eb3cf73ca6c031172df67dccf8a05d7eada9d5f0b54": {
+        "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "link": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493080"
+      },
+      "dd962cc5c33fd17f005d0f0d530ac218c43309b59212e008867c573079a2e95b": {
+        "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "link": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 13 Nov 2026 09:17:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493082"
+      },
+      "08b477e23ffc77de28036d9987b476a70bc932abd178d8f31f975949065642b1": {
+        "title": "花七年造一辆两座小车，smart这笔账怎么算？",
+        "link": "https://www.tmtpost.com/8200981.html",
+        "published_date": "Fri, 13 Nov 2026 10:45:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493084"
+      },
+      "a39fadea6c8b03a7f6e8ac94a06e6b6858151e610996d9731151132aeafbd928": {
+        "title": "全球债务的转折点——利率跑赢增速之后",
+        "link": "https://www.tmtpost.com/8204001.html",
+        "published_date": "Fri, 13 Nov 2026 10:42:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493085"
+      },
+      "591457f680a07bf738b04c15ae00ff918b001f4c60ba6b4ea9daca8d98f196c4": {
+        "title": "基金市场概况与资产配置观点（11.02—11.08）",
+        "link": "https://www.tmtpost.com/8203995.html",
+        "published_date": "Fri, 13 Nov 2026 10:42:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493087"
+      },
+      "625a4ae22c90345b0685b0b735d7ef4b9b3bf8987c7cee0af2cc1d33796119a2": {
+        "title": "上市公司TOP5济安评估（11月2日至11月8日）",
+        "link": "https://www.tmtpost.com/8203986.html",
+        "published_date": "Fri, 13 Nov 2026 10:42:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493089"
+      },
+      "7992618e5c7e85c7587c826966942d37194e65c584488c6d230ad2bb2e2267b5": {
+        "title": "视频号的逆袭路，绿泡泡走不了",
+        "link": "https://www.tmtpost.com/8203575.html",
+        "published_date": "Fri, 13 Nov 2026 10:22:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493090"
+      },
+      "78f4d2ffbe661e55b9cdddad565d0a464b219670a9f720e4ab6f5a12ae0ab68c": {
+        "title": "价值判断：涨停板的投资机会和风险提示（11月10日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/8203905.html",
+        "published_date": "Fri, 13 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-13T03:14:58.493092"
       }
     },
     "Finance": {
-      "56ce811213b5cf3165d3b6b9dfc6cb6f0fd723cba318905ef8edabd6695c06df": {
-        "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-        "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Oct 2026 21:02:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326145"
-      },
-      "8c1f7a8f63ea23ef5ed939490ca04a205370feeb9e669f2ee471467486f7ae14": {
-        "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
-        "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Oct 2026 20:41:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326153"
-      },
-      "dc4defe4f95b059729d6f7bea0c2609e5a4bf038be0b2648133547c467b196ca": {
-        "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
-        "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Oct 2026 20:32:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326156"
-      },
-      "7325981a871ac548f09925682f40c311946d665b31369e4912d3747db27a364b": {
-        "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
-        "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Oct 2026 20:27:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326159"
-      },
-      "f98230d3bc28d9d589d49484a54829aa1b0565ed1ac46c3a10b522bb7ef6095d": {
-        "title": "Micron’s stock extends declines as China competition heats up",
-        "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
-        "published_date": "Tue, 13 Oct 2026 20:25:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326160"
-      },
-      "2c2837a589cd9dab324c1327aea592d6362b0f0b86a8d500639434c047d4e179": {
-        "title": "Saudi Aramco HQ attacked in suspected Houthi strike",
-        "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
-        "published_date": "Tue, 13 Oct 2026 22:00:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326162"
-      },
-      "0e4ef6e0f593ca40e5c5f22be46275617c3468a4472588f9cae82e57517573df": {
-        "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
-        "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
-        "published_date": "Tue, 13 Oct 2026 20:54:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326164"
-      },
-      "814c51d8552f7987f6928e1d0fdb0b480d5fde6258d6c34a5ef98b3348444ab7": {
-        "title": "Bank of America fined $1.2bn over money laundering failures",
-        "link": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1",
-        "published_date": "Tue, 13 Oct 2026 20:00:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326165"
-      },
-      "51f588fe00b659a706f845a3e75b3ce913b3e0c03967646e95905f89dafa9d05": {
-        "title": "White House asks US envoy to Greece Kimberly Guilfoyle to resign",
-        "link": "https://www.ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd?syn-25a6b1a6=1",
-        "published_date": "Tue, 13 Oct 2026 16:16:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326167"
-      },
-      "06a9c24b90ff4d7aec93ac9beaecb81c6aa4e33bab7d1732405ac821972a1b8b": {
-        "title": "How not to revive Europe’s auto industry",
-        "link": "https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5?syn-25a6b1a6=1",
-        "published_date": "Tue, 13 Oct 2026 15:03:00 GMT",
-        "first_seen": "2026-10-14T01:42:00.326169"
-      },
       "53f990c0ee78002ccbb6a9aa92984ee0d72d7d7fc77738eb2ec31388dcac351a": {
         "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
         "link": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
@@ -7059,69 +6999,69 @@
         "link": "https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f?syn-25a6b1a6=1",
         "published_date": "Thu, 12 Nov 2026 11:00:00 GMT",
         "first_seen": "2026-11-12T13:37:03.699180"
+      },
+      "1cdccfb74550d1fd6b9ee75ad0828be48b4ff1fe70c2ca53ccc6a7eceb416a95": {
+        "title": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
+        "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
+        "published_date": "Fri, 13 Nov 2026 02:08:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944522"
+      },
+      "1d4e5bba6ed5f76c2bbf1ab129920a2136f5c665090d17dce5d9f4a4561badf3": {
+        "title": "The Silicon Valley veterans now steering Nvidia",
+        "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
+        "published_date": "Fri, 13 Nov 2026 01:42:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944529"
+      },
+      "2689c4f9f87ccb31c25b0b893b36b8d4b744f930f763933417c6a3fd2ac4da1a": {
+        "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+        "link": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1",
+        "published_date": "Fri, 13 Nov 2026 00:07:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944531"
+      },
+      "8a044e62e4e96961abdd483d0c5bfe8e25d2b3237d9bdee81613b299553f948d": {
+        "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
+        "link": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
+        "published_date": "Thu, 12 Nov 2026 23:35:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944533"
+      },
+      "ecf1a774cbe6737997f8ab03bf216bde31aac889dcd799b0370b9392e0253d24": {
+        "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+        "link": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+        "published_date": "Thu, 12 Nov 2026 23:26:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944535"
+      },
+      "d2f895f82ea672f4a12f10c6ee257efef3dbf0e12bae89af3f8f8a306d0bf829": {
+        "title": "Huang’s fall is an indictment of founder mode at Big Tech",
+        "link": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
+        "published_date": "Thu, 12 Nov 2026 22:50:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944536"
+      },
+      "7b808bf6b470bbe2849fd4343c43fe9b59df77bb2b7e4eb8abf7ec7c37d9ab84": {
+        "title": "Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep",
+        "link": "https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3?syn-25a6b1a6=1",
+        "published_date": "Thu, 12 Nov 2026 22:45:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944538"
+      },
+      "c9476cb8bf702e7cf549445fbfb3fe2e02f63e54eea05138ee74b9af82056d99": {
+        "title": "Trump signals end to vice-president’s Iran peace deal push",
+        "link": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
+        "published_date": "Thu, 12 Nov 2026 20:32:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944540"
+      },
+      "ceaab8ada4814354852c370e2ea815db118a35ad2edc7e85b22b6ca302fb27b6": {
+        "title": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+        "link": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+        "published_date": "Thu, 12 Nov 2026 18:03:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944542"
+      },
+      "2c66b2b1c75f5829e69bda0191f74328cabdae8d6b9532798e66734c5c4dbe91": {
+        "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+        "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+        "published_date": "Thu, 12 Nov 2026 22:57:00 GMT",
+        "first_seen": "2026-11-13T03:15:07.944543"
       }
     },
     "Ai": {
-      "0dc8d43ef2bd904cf2ef49e19ce5dfae3380c1af8fa4af5537975b1209d5ee4f": {
-        "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
-        "link": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
-        "published_date": "Tue, 13 Oct 2026 22:53:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800780"
-      },
-      "879feea3bd3ea4b90ca54a6cbef82e78cc1b396a7f67a722212dbf887c88e8f8": {
-        "title": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
-        "link": "https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/",
-        "published_date": "Tue, 13 Oct 2026 22:14:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800790"
-      },
-      "ebecf1fe046596a6acc576b0a24874bc4fcd7ce9aef250122165b6cd95497bbc": {
-        "title": "Building agents that transact with Anchor Browser and AgentCore payments",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
-        "published_date": "Tue, 13 Oct 2026 20:10:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800792"
-      },
-      "2cfd10b432e39a03c62d0d9d5412188bfc07655abb4274b9986a86a1684ecdc2": {
-        "title": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
-        "link": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
-        "published_date": "Tue, 13 Oct 2026 17:17:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800795"
-      },
-      "5630d2a9af3d09f4b91de16a6fac6ca8341864388fe869c64cf7e4fb3a6931f5": {
-        "title": "Natural language security queries at Orca Security using Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
-        "published_date": "Tue, 13 Oct 2026 16:03:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800796"
-      },
-      "ff543bc506d1cad8c00c97c491ad697e42d74a5d06b8dbf57f14010b58c87e56": {
-        "title": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/",
-        "published_date": "Tue, 13 Oct 2026 15:54:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800797"
-      },
-      "583166528c89d6e48c2aeb4504ec3fa51a1e16e3b50ebb6985f7b4aeacff6f64": {
-        "title": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
-        "published_date": "Tue, 13 Oct 2026 15:52:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800799"
-      },
-      "b04fea15b2ff887320d2d45f2e7c9eda4649f7e1872115b380f30f4d27e51551": {
-        "title": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
-        "link": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai/",
-        "published_date": "Tue, 13 Oct 2026 15:17:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800801"
-      },
-      "3581fe15d145a236f36254ea7985068348abcb1eb93ab5731e088278c429812a": {
-        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-        "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-        "published_date": "Tue, 13 Oct 2026 17:05:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800802"
-      },
-      "e83c87acf9dc04a181e97298995d3e35d6de81fd855d77163419eb37cb4c9e01": {
-        "title": "How artificial neural networks build their own learning machinery",
-        "link": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
-        "published_date": "Tue, 13 Oct 2026 17:00:00 GMT",
-        "first_seen": "2026-10-14T01:42:09.800804"
-      },
       "0536f9c2cbf5a00b5ada4188a26a373a80284151c216fc9bacc7b5225c37d9d4": {
         "title": "AI 短剧日产 1500 部：一场全员狂飙下的 「无人生还」",
         "link": "https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html",
@@ -10055,13 +9995,73 @@
         "link": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
         "published_date": "Thu, 12 Nov 2026 08:42:00 GMT",
         "first_seen": "2026-11-12T13:36:44.821201"
+      },
+      "a964f4410efeb4de31d5385bccffd3d23230ccb3104192b529c3ab25c4ea9228": {
+        "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+        "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+        "published_date": "Thu, 12 Nov 2026 22:43:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896858"
+      },
+      "9dcf5e7b09523891bfbac9178b6508c8e56b1e10ea3f711c0c147bf858551c88": {
+        "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+        "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+        "published_date": "Thu, 12 Nov 2026 21:45:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896868"
+      },
+      "77999ba0db44abbae551cd2e004743d9a75db3f484ea8e1dc6d0ebc337b5f70f": {
+        "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
+        "link": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
+        "published_date": "Thu, 12 Nov 2026 17:26:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896871"
+      },
+      "b866c7dfb2e379d30653a4b05a987ff8cdfa149b673b8cd5bd36e1d6808b200f": {
+        "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+        "published_date": "Thu, 12 Nov 2026 22:03:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896873"
+      },
+      "4d1e55490253a0828cb5fdaa02f965748a65f633d40a5c86e1216250bb5c521a": {
+        "title": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
+        "published_date": "Thu, 12 Nov 2026 21:47:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896875"
+      },
+      "27e4da7b4283c8334f090b1a5dfe9f777b6159115dd2ba264a953b4a75ac9575": {
+        "title": "Four Amazon Bedrock inference choices that affect cost",
+        "link": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
+        "published_date": "Thu, 12 Nov 2026 20:51:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896877"
+      },
+      "afb0b85b1739e760364967a0fa6a3679e78a38c2ecaaa05509657d4a8023301d": {
+        "title": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+        "published_date": "Thu, 12 Nov 2026 18:43:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896878"
+      },
+      "9f8f2c0019ab2d6237676c31fe5f2c57886f0535e7fe43470c96c467340432eb": {
+        "title": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+        "published_date": "Thu, 12 Nov 2026 18:41:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896880"
+      },
+      "73c63d08fbf67be23a2a975c49a30f095c8de879e6f43cb593305ced2c49e962": {
+        "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+        "published_date": "Thu, 12 Nov 2026 17:59:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896881"
+      },
+      "ad5d1ca21626e335f46192c6382c92be7172fff2408ada6ba784cfa74b18981d": {
+        "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+        "link": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
+        "published_date": "Thu, 12 Nov 2026 16:16:00 GMT",
+        "first_seen": "2026-11-13T03:14:48.896883"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-12T13:36:54.347841",
-    "Finance": "2026-11-12T13:37:03.699182",
-    "Ai": "2026-11-12T13:36:44.821203"
+    "Technology": "2026-11-13T03:14:58.493095",
+    "Finance": "2026-11-13T03:15:07.944545",
+    "Ai": "2026-11-13T03:14:48.896885"
   }
 }

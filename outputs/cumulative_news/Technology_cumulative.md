@@ -1,7 +1,90 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-12 13:36
+**最后更新时间**: 2026-11-13 03:14
+
+---
+
+## 🆕 最新更新 (2026-11-13 03:14)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Docker 呼吁通过隔离与治理保障智能体安全](https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 11:00
+
+#### [GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京](https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 10:00
+
+#### [谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型](https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 09:17
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [花七年造一辆两座小车，smart这笔账怎么算？](https://www.tmtpost.com/8200981.html)
+**发布时间**: 2026-11-13 10:45
+
+#### [全球债务的转折点——利率跑赢增速之后](https://www.tmtpost.com/8204001.html)
+**发布时间**: 2026-11-13 10:42
+
+#### [基金市场概况与资产配置观点（11.02—11.08）](https://www.tmtpost.com/8203995.html)
+**发布时间**: 2026-11-13 10:42
+
+#### [上市公司TOP5济安评估（11月2日至11月8日）](https://www.tmtpost.com/8203986.html)
+**发布时间**: 2026-11-13 10:42
+
+#### [视频号的逆袭路，绿泡泡走不了](https://www.tmtpost.com/8203575.html)
+**发布时间**: 2026-11-13 10:22
+
+#### [价值判断：涨停板的投资机会和风险提示（11月10日）｜上市公司观察](https://www.tmtpost.com/8203905.html)
+**发布时间**: 2026-11-13 10:00
+
+#### [泡泡玛特，还在等下一个 LABUBU](https://www.tmtpost.com/8203274.html)
+**发布时间**: 2026-11-13 09:41
+
+#### [美元定价体系：财富分配、阶层变迁与世界格局](https://www.tmtpost.com/8203846.html)
+**发布时间**: 2026-11-13 09:31
+
+#### [苹果换帅不足三个月，新任CEO令人失望](https://www.tmtpost.com/8203648.html)
+**发布时间**: 2026-11-13 09:18
+
+#### [黄仁勋，是一种周期](https://www.tmtpost.com/8203673.html)
+**发布时间**: 2026-11-13 09:18
+
+#### [美国天然气巨头，开始抢电力公司的AI客户](https://www.tmtpost.com/8203683.html)
+**发布时间**: 2026-11-13 09:18
+
+#### [上一个让CFO接班的芯片巨头，是英特尔](https://www.tmtpost.com/8203641.html)
+**发布时间**: 2026-11-13 09:17
+
+#### [黄仁勋时代落幕，英伟达宣布其卸任，CFO克雷斯出任临时CEO](https://www.tmtpost.com/8203591.html)
+**发布时间**: 2026-11-13 09:17
+
+#### [Gemini 4 Hydrogen来了，所有人都能用](https://www.tmtpost.com/8203746.html)
+**发布时间**: 2026-11-13 09:17
+
+#### [国资退场、民企加杠杆接盘：超卓航科控制权交易里的风险转嫁术 ｜深度](https://www.tmtpost.com/8202949.html)
+**发布时间**: 2026-11-13 09:08
+
+#### [Edge AI Daily 早报（11月13日）](https://www.tmtpost.com/8203715.html)
+**发布时间**: 2026-11-13 08:58
+
+#### [【钛晨报】李强主持国务院第二十二次专题学习，聚焦健全多层次社会保障体系；英伟达换帅！黄仁勋辞任CEO，CFO克雷斯临时接棒；国内首个口服GLP-1类减肥药获批上市](https://www.tmtpost.com/8203507.html)
+**发布时间**: 2026-11-13 07:20
+
+#### [Chinese Workers Are Paying Their Own AI Bills to Stay Productive](https://www.tmtpost.com/8203536.html)
+**发布时间**: 2026-11-12 21:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：英伟达 CEO 黄仁勋宣布辞职等](https://sspai.com/post/118966)
+**发布时间**: 2026-11-13 08:48
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [黄仁勋宣布辞职，特朗普：库克适合接任；微信「看一看」测试短剧入口；《GTA 6》还没发售就狂卖近千万份｜极客早知道](http://www.geekpark.net/news/373907)
+**发布时间**: 2026-11-13 08:16
+
+#### [穿了 33 年皮衣的那个人，离开了英伟达](http://www.geekpark.net/news/373906)
+**发布时间**: 2026-11-12 23:55
 
 ---
 

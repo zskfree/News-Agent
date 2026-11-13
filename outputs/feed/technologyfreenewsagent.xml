@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Nov 2026 13:36:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 13:36:54 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 03:14:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:14:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>车企自研芯片开始外供，能否打开新市场？</title>
-      <link>https://www.tmtpost.com/8203138.html</link>
-      <description>&lt;![CDATA[车企自研芯片开始外供，能否打开新市场？]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 18:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203138.html</guid>
+      <title>上一个让CFO接班的芯片巨头，是英特尔</title>
+      <link>https://www.tmtpost.com/8203641.html</link>
+      <description>&lt;![CDATA[上一个让CFO接班的芯片巨头，是英特尔]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8203641.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智能体 AI 架构中记忆、知识与上下文的系统化方案</title>
-      <link>https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智能体 AI 架构中记忆、知识与上下文的系统化方案]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Docker 呼吁通过隔离与治理保障智能体安全</title>
+      <link>https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Docker 呼吁通过隔离与治理保障智能体安全]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>今天起，豆包工作接入更多模型了</title>
-      <link>https://www.tmtpost.com/8202629.html</link>
-      <description>&lt;![CDATA[今天起，豆包工作接入更多模型了]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 21:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8202629.html</guid>
+      <title>GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京</title>
+      <link>https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>实测百度文心5.5 Flash Preview：审美依然在线，编程全力争先</title>
-      <link>https://www.tmtpost.com/8202831.html</link>
-      <description>&lt;![CDATA[实测百度文心5.5 Flash Preview：审美依然在线，编程全力争先]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 21:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8202831.html</guid>
+      <title>谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型</title>
+      <link>https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>艾迪药业定增再砍6600万：管线分文未动，补流空间进一步压缩</title>
-      <link>https://www.tmtpost.com/8203361.html</link>
-      <description>&lt;![CDATA[艾迪药业定增再砍6600万：管线分文未动，补流空间进一步压缩]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 20:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203361.html</guid>
+      <title>花七年造一辆两座小车，smart这笔账怎么算？</title>
+      <link>https://www.tmtpost.com/8200981.html</link>
+      <description>&lt;![CDATA[花七年造一辆两座小车，smart这笔账怎么算？]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8200981.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Alibaba’s Chip Unit Heads for Hong Kong With Cloud Still in the Way</title>
-      <link>https://www.tmtpost.com/8203405.html</link>
-      <description>&lt;![CDATA[Alibaba’s Chip Unit Heads for Hong Kong With Cloud Still in the Way]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 19:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203405.html</guid>
+      <title>全球债务的转折点——利率跑赢增速之后</title>
+      <link>https://www.tmtpost.com/8204001.html</link>
+      <description>&lt;![CDATA[全球债务的转折点——利率跑赢增速之后]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8204001.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>替公募海外调研买单，国盛证券踩中连环雷</title>
-      <link>https://www.tmtpost.com/8202105.html</link>
-      <description>&lt;![CDATA[替公募海外调研买单，国盛证券踩中连环雷]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8202105.html</guid>
+      <title>基金市场概况与资产配置观点（11.02—11.08）</title>
+      <link>https://www.tmtpost.com/8203995.html</link>
+      <description>&lt;![CDATA[基金市场概况与资产配置观点（11.02—11.08）]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8203995.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>00后华人女孩们，成硅谷AI新贵</title>
-      <link>https://www.tmtpost.com/8203090.html</link>
-      <description>&lt;![CDATA[00后华人女孩们，成硅谷AI新贵]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203090.html</guid>
+      <title>上市公司TOP5济安评估（11月2日至11月8日）</title>
+      <link>https://www.tmtpost.com/8203986.html</link>
+      <description>&lt;![CDATA[上市公司TOP5济安评估（11月2日至11月8日）]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8203986.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>BAT新旗舰杀回第一阵营，压力来到字节这边</title>
-      <link>https://www.tmtpost.com/8203160.html</link>
-      <description>&lt;![CDATA[BAT新旗舰杀回第一阵营，压力来到字节这边]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203160.html</guid>
+      <title>视频号的逆袭路，绿泡泡走不了</title>
+      <link>https://www.tmtpost.com/8203575.html</link>
+      <description>&lt;![CDATA[视频号的逆袭路，绿泡泡走不了]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8203575.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一把厨刀引发的风波，和一家太空站里的黑心小店：《深空当铺》到底卖的是什么?</title>
-      <link>https://www.tmtpost.com/8202153.html</link>
-      <description>&lt;![CDATA[一把厨刀引发的风波，和一家太空站里的黑心小店：《深空当铺》到底卖的是什么?]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8202153.html</guid>
+      <title>价值判断：涨停板的投资机会和风险提示（11月10日）｜上市公司观察</title>
+      <link>https://www.tmtpost.com/8203905.html</link>
+      <description>&lt;![CDATA[价值判断：涨停板的投资机会和风险提示（11月10日）｜上市公司观察]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8203905.html</guid>
       <category>Technology</category>
     </item>
   </channel>

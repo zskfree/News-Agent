@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-12 13:36
+**最后更新时间**: 2026-11-13 03:14
+
+---
+
+## 🆕 最新更新 (2026-11-13 03:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US cannot reach a deal to end Ukraine war without Europe, says Kushner](https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 02:08
+
+#### [The Silicon Valley veterans now steering Nvidia](https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 01:42
+
+#### [Nvidia chief Jensen Huang toppled by revelations of extramarital affairs](https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 00:07
+
+#### [US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens](https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 23:35
+
+#### [AI boom will lift Nvidia even after Huang’s exit, investors say](https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 23:26
+
+#### [Huang’s fall is an indictment of founder mode at Big Tech](https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 22:50
+
+#### [Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep](https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 22:45
+
+#### [Trump signals end to vice-president’s Iran peace deal push](https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 20:32
+
+#### [US home sales fall to lowest level since 2010 as mortgage rates soar](https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 18:03
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.](https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 22:57
+
+#### [Opening trading-card packs has become a $2 billion market](https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 22:38
+
+#### [Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes](https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 22:16
+
+#### [‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.](https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 22:00
+
+#### [Am I overpaying for health insurance? How to answer the key question this open-enrollment season.](https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 21:55
+
+#### [The 10 best stocks for a year-end momentum trade](https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 21:50
+
+#### [The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.](https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 21:08
+
+#### [The bond market now has an even bigger fear than AI fallout](https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 20:44
+
+#### [I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?](https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-12 20:17
 
 ---
 
