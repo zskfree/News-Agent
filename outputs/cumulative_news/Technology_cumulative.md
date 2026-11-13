@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-13 03:14
+**最后更新时间**: 2026-11-13 13:19
+
+---
+
+## 🆕 最新更新 (2026-11-13 13:19)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从快速部署到记忆共享，数据库如何支撑 Agent 应用？](https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 20:54
+
+#### [智能互动 Agent 在快手商业场景的落地实践](https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 19:00
+
+#### [容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体](https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 17:06
+
+#### [在银行业为基于 Kubernetes 的平台打造云原生文化](https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 15:18
+
+#### [奥运史上第一次，一朵云整体留给了举办国](https://www.infoq.cn/article/7Wih8vL541W3vkq1WAHi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 14:21
+
+#### [应用只是冰山一角：构建大规模移动应用基础设施需要什么](https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 13:00
+
+#### [黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价](https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-13 11:28
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [山下有松推出首款鞋履；COACH母公司Q1中国市场增长39%；迪桑特新增签约两支中国滑雪国家队；上海安踏营运中心正式启幕｜消研所周报](https://www.tmtpost.com/8204401.html)
+**发布时间**: 2026-11-13 19:21
+
+#### [China’s Internet Giants Are Listing AI Units Because the Parent Stock Will Not Price Them](https://www.tmtpost.com/8204635.html)
+**发布时间**: 2026-11-13 18:52
+
+#### [大厂搞AI的尽头，是拆家上市？](https://www.tmtpost.com/8204039.html)
+**发布时间**: 2026-11-13 18:42
+
+#### [700Ah+再获大订单，大电芯转向交付竞争](https://www.tmtpost.com/8204020.html)
+**发布时间**: 2026-11-13 18:42
+
+#### [新鲜零食店，动了谁的奶酪？](https://www.tmtpost.com/8203909.html)
+**发布时间**: 2026-11-13 17:56
+
+#### [黄仁勋走了，英伟达5300亿美元的承诺谁来签字](https://www.tmtpost.com/8203934.html)
+**发布时间**: 2026-11-13 17:56
+
+#### [纽交所为什么接连失去美国的老牌巨头？](https://www.tmtpost.com/8203684.html)
+**发布时间**: 2026-11-13 17:56
+
+#### [Anthropic想给算力债“找下家”](https://www.tmtpost.com/8203967.html)
+**发布时间**: 2026-11-13 17:56
+
+#### [一场人事变动的图谋：山姆开始“卷”技术了](https://www.tmtpost.com/8204171.html)
+**发布时间**: 2026-11-13 17:56
+
+#### [独家｜石头前国内销售负责人李明加入追觅，出任中国区核心高管](https://www.tmtpost.com/8204378.html)
+**发布时间**: 2026-11-13 16:51
+
+#### [黄仁勋辞职，英伟达为什么偏偏选中她…...](https://www.tmtpost.com/8203680.html)
+**发布时间**: 2026-11-13 16:41
+
+#### [黄仁勋辞职，英伟达失去的不是一个CEO](https://www.tmtpost.com/8203637.html)
+**发布时间**: 2026-11-13 16:41
+
+#### [腾讯早该动刀子了](https://www.tmtpost.com/8203577.html)
+**发布时间**: 2026-11-13 16:41
+
+#### [谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动](https://www.tmtpost.com/8201775.html)
+**发布时间**: 2026-11-13 15:45
+
+#### [李彦宏：不仅是预言家，还是先行者](https://www.tmtpost.com/8203443.html)
+**发布时间**: 2026-11-13 15:45
+
+#### [双11的时代结束了](https://www.tmtpost.com/8204027.html)
+**发布时间**: 2026-11-13 14:54
+
+#### [万亿银行，被5.5亿烂账逼急了](https://www.tmtpost.com/8204064.html)
+**发布时间**: 2026-11-13 14:54
+
+#### [李彦宏，为什么要建一座AI时代的新厂房？](https://www.tmtpost.com/8203362.html)
+**发布时间**: 2026-11-13 14:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/118999)
+**发布时间**: 2026-11-13 17:39
+
+#### [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153)
+**发布时间**: 2026-11-13 15:00
+
+#### [在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？](https://sspai.com/post/118512)
+**发布时间**: 2026-11-13 11:35
 
 ---
 

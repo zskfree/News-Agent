@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-13 03:12
+**最后更新时间**: 2026-11-13 13:16
+
+---
+
+## 🆕 最新更新 (2026-11-13 13:16)
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/)
+**发布时间**: 2026-11-13 13:00
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs](https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/)
+**发布时间**: 2026-11-13 10:32
+
+#### [Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash](https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/)
+**发布时间**: 2026-11-13 09:45
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-13日刊](https://hex2077.dev/docs/2026-11/2026-11-13/)
+**发布时间**: 2026-11-13 04:14
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [New AI “copilot” helps engineers design better structures](https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113)
+**发布时间**: 2026-11-13 00:00
+
+#### [Helping robots fit into the human workplace](https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113)
+**发布时间**: 2026-11-13 00:00
 
 ---
 

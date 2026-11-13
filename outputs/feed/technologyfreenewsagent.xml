@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Nov 2026 03:14:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2026 03:14:58 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 13:19:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:19:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>上一个让CFO接班的芯片巨头，是英特尔</title>
-      <link>https://www.tmtpost.com/8203641.html</link>
-      <description>&lt;![CDATA[上一个让CFO接班的芯片巨头，是英特尔]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 09:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203641.html</guid>
+      <title>在银行业为基于 Kubernetes 的平台打造云原生文化</title>
+      <link>https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[在银行业为基于 Kubernetes 的平台打造云原生文化]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 15:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Docker 呼吁通过隔离与治理保障智能体安全</title>
-      <link>https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker 呼吁通过隔离与治理保障智能体安全]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一场人事变动的图谋：山姆开始“卷”技术了</title>
+      <link>https://www.tmtpost.com/8204171.html</link>
+      <description>&lt;![CDATA[一场人事变动的图谋：山姆开始“卷”技术了]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 17:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8204171.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京</title>
-      <link>https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动</title>
+      <link>https://www.tmtpost.com/8201775.html</link>
+      <description>&lt;![CDATA[谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8201775.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型</title>
-      <link>https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 09:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&amp;utm_medium=article</guid>
+      <title>在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？</title>
+      <link>https://sspai.com/post/118512</link>
+      <description>&lt;![CDATA[在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 11:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/118512</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>花七年造一辆两座小车，smart这笔账怎么算？</title>
-      <link>https://www.tmtpost.com/8200981.html</link>
-      <description>&lt;![CDATA[花七年造一辆两座小车，smart这笔账怎么算？]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8200981.html</guid>
+      <title>从快速部署到记忆共享，数据库如何支撑 Agent 应用？</title>
+      <link>https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从快速部署到记忆共享，数据库如何支撑 Agent 应用？]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 20:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球债务的转折点——利率跑赢增速之后</title>
-      <link>https://www.tmtpost.com/8204001.html</link>
-      <description>&lt;![CDATA[全球债务的转折点——利率跑赢增速之后]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8204001.html</guid>
+      <title>智能互动 Agent 在快手商业场景的落地实践</title>
+      <link>https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能互动 Agent 在快手商业场景的落地实践]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>基金市场概况与资产配置观点（11.02—11.08）</title>
-      <link>https://www.tmtpost.com/8203995.html</link>
-      <description>&lt;![CDATA[基金市场概况与资产配置观点（11.02—11.08）]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203995.html</guid>
+      <title>容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体</title>
+      <link>https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>上市公司TOP5济安评估（11月2日至11月8日）</title>
-      <link>https://www.tmtpost.com/8203986.html</link>
-      <description>&lt;![CDATA[上市公司TOP5济安评估（11月2日至11月8日）]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203986.html</guid>
+      <title>奥运史上第一次，一朵云整体留给了举办国</title>
+      <link>https://www.infoq.cn/article/7Wih8vL541W3vkq1WAHi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[奥运史上第一次，一朵云整体留给了举办国]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 14:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7Wih8vL541W3vkq1WAHi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>视频号的逆袭路，绿泡泡走不了</title>
-      <link>https://www.tmtpost.com/8203575.html</link>
-      <description>&lt;![CDATA[视频号的逆袭路，绿泡泡走不了]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203575.html</guid>
+      <title>应用只是冰山一角：构建大规模移动应用基础设施需要什么</title>
+      <link>https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[应用只是冰山一角：构建大规模移动应用基础设施需要什么]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>价值判断：涨停板的投资机会和风险提示（11月10日）｜上市公司观察</title>
-      <link>https://www.tmtpost.com/8203905.html</link>
-      <description>&lt;![CDATA[价值判断：涨停板的投资机会和风险提示（11月10日）｜上市公司观察]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8203905.html</guid>
+      <title>黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价</title>
+      <link>https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

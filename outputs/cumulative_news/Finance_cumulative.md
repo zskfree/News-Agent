@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-13 03:14
+**最后更新时间**: 2026-11-13 13:19
+
+---
+
+## 🆕 最新更新 (2026-11-13 13:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The science of vaccines is rapidly advancing — despite the anti-vax movement](https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 13:00
+
+#### [The prostate-cancer screening rules just changed. Here’s when men should get tested.](https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 12:37
+
+#### [Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 trillion AI behemoth.](https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 12:25
+
+#### [Microsoft stock slumps on outage that includes the Copilot tool it has been heavily promoting](https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 12:14
+
+#### [Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists](https://www.marketwatch.com/story/profit-surprises-are-normalizing-and-that-may-signal-a-healthier-stock-market-say-citi-strategists-d8cce7c2?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 11:41
+
+#### [Investors are underestimating AI. But the real challenge is diversification, this strategist says.](https://www.marketwatch.com/story/investors-are-underestimating-ai-but-the-real-challenge-is-diversification-this-strategist-says-8bd956c1?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 11:00
+
+#### [‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?](https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 10:15
+
+#### [Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.](https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 10:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US Treasuries set for worst week since Trump’s ‘liberation day’](https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 12:56
+
+#### [Jensen Huang’s years-long effort to get close to China](https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 12:36
+
+#### [Moscow tells Europe to pick an envoy if it wants a seat at the table](https://www.ft.com/content/4c1f5051-94eb-4d20-b154-c45f4538a2a2?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 12:28
+
+#### [Microsoft races to restore services after global outage](https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 12:20
+
+#### [OK who just made $200mn shorting Nvidia ahead of Jensxit?](https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c)
+**发布时间**: 2026-11-13 11:29
+
+#### [Global oil markets swing to surplus as Gulf shipments rebound](https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 09:04
+
+#### [Value Nvidia, not Huang](https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 06:30
+
+#### [Why tech CEOs love black leather jackets](https://www.ft.com/content/186f48b8-6574-48be-b0f2-3dcbac5dc24d)
+**发布时间**: 2026-11-13 05:00
+
+#### [Russia loses almost half a million lives in Ukraine war](https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 05:00
+
+#### [The downfall of Jensen Huang](https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 03:47
+
+#### [US lawmakers pile pressure on Lutnick as Nvidia scandal widens](https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-12 23:35
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Nov 2026 03:12:00 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2026 03:14:48 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 13:16:00 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:19:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec</title>
-      <link>https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/</link>
-      <description>&lt;![CDATA[Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 22:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/</guid>
+      <title>How AI Is Helping Care Teams Get Patients the Right Care, Sooner</title>
+      <link>https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</link>
+      <description>&lt;![CDATA[How AI Is Helping Care Teams Get Patients the Right Care, Sooner]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance</title>
-      <link>https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/</link>
-      <description>&lt;![CDATA[CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 21:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/</guid>
+      <title>Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs</title>
+      <link>https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/</link>
+      <description>&lt;![CDATA[Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents</title>
-      <link>https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/</link>
-      <description>&lt;![CDATA[AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/</guid>
+      <title>Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash</title>
+      <link>https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/</link>
+      <description>&lt;![CDATA[Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Deploy frontier AI models on AWS Trainium with SGLang-Neuron</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/</link>
-      <description>&lt;![CDATA[Deploy frontier AI models on AWS Trainium with SGLang-Neuron]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 22:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/</link>
-      <description>&lt;![CDATA[How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 21:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Four Amazon Bedrock inference choices that affect cost</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/</link>
-      <description>&lt;![CDATA[Four Amazon Bedrock inference choices that affect cost]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 20:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Optimizing cost per task and proving agent ROI on Amazon Bedrock</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/</link>
-      <description>&lt;![CDATA[Optimizing cost per task and proving agent ROI on Amazon Bedrock]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Building a self-service LLM gateway with Amazon Bedrock and LiteLLM</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/</link>
-      <description>&lt;![CDATA[Building a self-service LLM gateway with Amazon Bedrock and LiteLLM]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 18:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Run agents securely and efficiently with the next generation AgentCore runtime</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/</link>
-      <description>&lt;![CDATA[Run agents securely and efficiently with the next generation AgentCore runtime]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 17:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/</link>
-      <description>&lt;![CDATA[Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent]]&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 16:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/</guid>
+      <title>2026-11-13日刊</title>
+      <link>https://hex2077.dev/docs/2026-11/2026-11-13/</link>
+      <description>&lt;![CDATA[2026-11-13日刊]]&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 04:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-13/</guid>
       <category>Ai</category>
     </item>
   </channel>
