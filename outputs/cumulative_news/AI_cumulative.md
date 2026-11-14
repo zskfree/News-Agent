@@ -1,7 +1,25 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-14 02:56
+**最后更新时间**: 2026-11-14 11:57
+
+---
+
+## 🆕 最新更新 (2026-11-14 11:57)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [百度词元所发布首日：供应商暴增超100家，客户新增超1000家](https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html)
+**发布时间**: 2026-11-14 13:45
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents](https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/)
+**发布时间**: 2026-11-14 06:38
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-14日刊](https://hex2077.dev/docs/2026-11/2026-11-14/)
+**发布时间**: 2026-11-14 03:54
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Nov 2026 02:57:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 02:57:46 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 11:57:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:57:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO</title>
-      <link>https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 23:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1</guid>
+      <title>US floats Nato membership for Donbas withdrawal deal, Zelenskyy says</title>
+      <link>https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US floats Nato membership for Donbas withdrawal deal, Zelenskyy says]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 11:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO</title>
-      <link>https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 19:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1</guid>
+      <title>Nvidia exposed to possible lawsuits after Jensen Huang’s downfall</title>
+      <link>https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Nvidia exposed to possible lawsuits after Jensen Huang’s downfall]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO</title>
-      <link>https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 21:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories</guid>
+      <title>Passengers face widespread disruption after US air traffic control outage</title>
+      <link>https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Passengers face widespread disruption after US air traffic control outage]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 10:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>FAA lifts rare nationwide ground stop on flights; air travel may take days to recover</title>
-      <link>https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[FAA lifts rare nationwide ground stop on flights; air travel may take days to recover]]&gt;</description>
-      <pubDate>Sat, 14 Nov 2026 02:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories</guid>
+      <title>The Nvidia board’s artificial independence</title>
+      <link>https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a</link>
+      <description>&lt;![CDATA[The Nvidia board’s artificial independence]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>14 dividend stocks selected for long-term growth</title>
-      <link>https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[14 dividend stocks selected for long-term growth]]&gt;</description>
-      <pubDate>Sat, 14 Nov 2026 01:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories</guid>
+      <title>The citizens of nowhere won in the end</title>
+      <link>https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[The citizens of nowhere won in the end]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>4 expert tips for signing up for Medicare</title>
-      <link>https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[4 expert tips for signing up for Medicare]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 22:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?</title>
-      <link>https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 22:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.</title>
-      <link>https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 22:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang</title>
-      <link>https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 21:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US aviation regulator lifts order that grounded thousands of flights</title>
-      <link>https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US aviation regulator lifts order that grounded thousands of flights]]&gt;</description>
-      <pubDate>Sat, 14 Nov 2026 02:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1</guid>
+      <title>Record polar vortex breakdown raises cold weather risk</title>
+      <link>https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Record polar vortex breakdown raises cold weather risk]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>

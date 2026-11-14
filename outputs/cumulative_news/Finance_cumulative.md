@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-14 02:57
+**最后更新时间**: 2026-11-14 11:57
+
+---
+
+## 🆕 最新更新 (2026-11-14 11:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US floats Nato membership for Donbas withdrawal deal, Zelenskyy says](https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 11:41
+
+#### [Nvidia exposed to possible lawsuits after Jensen Huang’s downfall](https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 11:00
+
+#### [Passengers face widespread disruption after US air traffic control outage](https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 10:19
+
+#### [The Nvidia board’s artificial independence](https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a)
+**发布时间**: 2026-11-14 05:00
+
+#### [The citizens of nowhere won in the end](https://www.ft.com/content/9bc5e047-9993-4123-8f22-a59c5de245e9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 05:00
+
+#### [Record polar vortex breakdown raises cold weather risk](https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 05:00
 
 ---
 

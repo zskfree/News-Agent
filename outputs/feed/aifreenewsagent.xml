@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Nov 2026 02:56:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 02:57:27 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 11:57:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:57:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人</title>
-      <link>https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html</link>
-      <description>&lt;![CDATA[浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人]]&gt;</description>
-      <pubDate>Sat, 14 Nov 2026 00:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html</guid>
+      <title>百度词元所发布首日：供应商暴增超100家，客户新增超1000家</title>
+      <link>https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html</link>
+      <description>&lt;![CDATA[百度词元所发布首日：供应商暴增超100家，客户新增超1000家]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家｜燧原科技首席生态官李星宇离职</title>
-      <link>https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html</link>
-      <description>&lt;![CDATA[独家｜燧原科技首席生态官李星宇离职]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html</guid>
+      <title>Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents</title>
+      <link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
+      <description>&lt;![CDATA[Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 06:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>9.99万的ID.ERA 5X，大众开始用中国效率打价格战</title>
-      <link>https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html</link>
-      <description>&lt;![CDATA[9.99万的ID.ERA 5X，大众开始用中国效率打价格战]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>独家丨港大孵化的半导体材料公司，融资数千万</title>
-      <link>https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html</link>
-      <description>&lt;![CDATA[独家丨港大孵化的半导体材料公司，融资数千万]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>海尔热水器双11战报：京东天猫双平台销量TOP1</title>
-      <link>https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html</link>
-      <description>&lt;![CDATA[海尔热水器双11战报：京东天猫双平台销量TOP1]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理</title>
-      <link>https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html</link>
-      <description>&lt;![CDATA[中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>独家丨一家主动灭火的智慧消防公司，融资超千万</title>
-      <link>https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html</link>
-      <description>&lt;![CDATA[独家丨一家主动灭火的智慧消防公司，融资超千万]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>美团陈一方：2026洗浴行业线上化率超20%</title>
-      <link>https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html</link>
-      <description>&lt;![CDATA[美团陈一方：2026洗浴行业线上化率超20%]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？</title>
-      <link>https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html</link>
-      <description>&lt;![CDATA[解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 16:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！</title>
-      <link>https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html</link>
-      <description>&lt;![CDATA[英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！]]&gt;</description>
-      <pubDate>Fri, 13 Nov 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html</guid>
+      <title>2026-11-14日刊</title>
+      <link>https://hex2077.dev/docs/2026-11/2026-11-14/</link>
+      <description>&lt;![CDATA[2026-11-14日刊]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 03:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-14/</guid>
       <category>Ai</category>
     </item>
   </channel>
