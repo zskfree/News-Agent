@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-13 13:19
+**最后更新时间**: 2026-11-14 02:57
+
+---
+
+## 🆕 最新更新 (2026-11-14 02:57)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [FAA lifts rare nationwide ground stop on flights; air travel may take days to recover](https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories)
+**发布时间**: 2026-11-14 02:42
+
+#### [14 dividend stocks selected for long-term growth](https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-14 01:58
+
+#### [4 expert tips for signing up for Medicare](https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 22:45
+
+#### [Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?](https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 22:21
+
+#### [Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.](https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 22:04
+
+#### [‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?](https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 22:00
+
+#### [‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?](https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 21:32
+
+#### [Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO](https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 21:26
+
+#### [AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang](https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories)
+**发布时间**: 2026-11-13 21:10
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US aviation regulator lifts order that grounded thousands of flights](https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 02:37
+
+#### [Trump will not raise Nvidia spy issue with Xi at summit, officials say](https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 01:28
+
+#### [SpaceX aborts attempt to catch Starship booster rocket](https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 23:43
+
+#### [Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO](https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 23:39
+
+#### [Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO](https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 19:41
+
+#### [Arm boss Rene Haas approached in Nvidia CEO search](https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 17:45
+
+#### [Scott Colom: the Democrat who conquered the reddest of red states](https://www.ft.com/content/7c36144b-eef4-4822-81d0-4ef5b7a5724a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 17:08
+
+#### [Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed](https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 17:06
+
+#### [AI believers hold the line after Nvidia ructions](https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 16:55
+
+#### [Will Jensen Huang sell his $135bn of stock?](https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1)
+**发布时间**: 2026-11-13 13:22
 
 ---
 

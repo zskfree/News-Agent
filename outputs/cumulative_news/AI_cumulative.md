@@ -1,7 +1,151 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-13 13:16
+**最后更新时间**: 2026-11-14 02:56
+
+---
+
+## 🆕 最新更新 (2026-11-14 02:56)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人](https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html)
+**发布时间**: 2026-11-14 00:50
+
+#### [独家｜燧原科技首席生态官李星宇离职](https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html)
+**发布时间**: 2026-11-13 18:00
+
+#### [9.99万的ID.ERA 5X，大众开始用中国效率打价格战](https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html)
+**发布时间**: 2026-11-13 17:38
+
+#### [独家丨港大孵化的半导体材料公司，融资数千万](https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html)
+**发布时间**: 2026-11-13 17:22
+
+#### [海尔热水器双11战报：京东天猫双平台销量TOP1](https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html)
+**发布时间**: 2026-11-13 17:17
+
+#### [中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理](https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html)
+**发布时间**: 2026-11-13 17:05
+
+#### [独家丨一家主动灭火的智慧消防公司，融资超千万](https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html)
+**发布时间**: 2026-11-13 17:04
+
+#### [美团陈一方：2026洗浴行业线上化率超20%](https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html)
+**发布时间**: 2026-11-13 16:43
+
+#### [解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？](https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html)
+**发布时间**: 2026-11-13 16:29
+
+#### [英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！](https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html)
+**发布时间**: 2026-11-13 15:49
+
+#### [40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」](https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html)
+**发布时间**: 2026-11-13 15:43
+
+#### [黑格科技双十一斩获光固化 3D 打印类目 “三冠王”](https://www.leiphone.com/category/weiwu/AkhKWQN8s6nqa5d6.html)
+**发布时间**: 2026-11-13 15:42
+
+#### [中大梁小丹团队，GeoThinker 两项研究成果，破除空间推理「几何信息用不好、计算开销大」难题](https://www.leiphone.com/category/academic/FpJFXrs9xGOOewKA.html)
+**发布时间**: 2026-11-13 15:40
+
+#### [猫粮要保鲜，饮水要恒温，淘宝出海宠物智能用品跑出新增长](https://www.leiphone.com/category/industrynews/Fs1xk6Oh4bie2guE.html)
+**发布时间**: 2026-11-13 15:29
+
+#### [京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆](https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html)
+**发布时间**: 2026-11-13 15:27
+
+#### [高德推出AutoSDK国际版，海外司机也能体验到中国导航了！](https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html)
+**发布时间**: 2026-11-13 15:25
+
+#### [谷歌的遗憾，被高德弥补了](https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html)
+**发布时间**: 2026-11-13 15:15
+
+#### [埃安Ray7正式上市，702公里激光雷达后驱版13.47万元](https://www.leiphone.com/category/transportation/AxCfndkvZtBgm8PZ.html)
+**发布时间**: 2026-11-13 12:00
+
+#### [国台严选背后：从两会记者到APEC央视主播团，Pocket 4P 为何成为媒体人标配](https://www.leiphone.com/category/industrynews/XwQ7utNsCKydcl0N.html)
+**发布时间**: 2026-11-13 11:46
+
+#### [独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO](https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html)
+**发布时间**: 2026-11-13 11:43
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/)
+**发布时间**: 2026-11-13 23:22
+
+#### [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/)
+**发布时间**: 2026-11-13 22:30
+
+#### [Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/)
+**发布时间**: 2026-11-13 22:02
+
+#### [OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/)
+**发布时间**: 2026-11-13 21:53
+
+#### [Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/)
+**发布时间**: 2026-11-13 19:35
+
+#### [Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/)
+**发布时间**: 2026-11-13 18:44
+
+#### [Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture](https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/)
+**发布时间**: 2026-11-13 18:01
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Advancing science & engineering with Antigravity’s /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
+**发布时间**: 2026-11-13 20:47
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Build a Robot Pick-and-Place Simulation with SimReady Assets](https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place)
+**发布时间**: 2026-11-13 18:00
+
+#### [XYBench: Helping with the problem behind the question](https://huggingface.co/blog/allenai/xybench)
+**发布时间**: 2026-11-13 17:02
+
+#### [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+**发布时间**: 2026-11-13 14:05
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights](https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/)
+**发布时间**: 2026-11-13 17:23
+
+#### [Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate](https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/)
+**发布时间**: 2026-11-13 16:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿](https://www.qbitai.com/2026/11/509995.html)
+**发布时间**: 2026-11-13 09:02
+
+#### [MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！](https://www.qbitai.com/2026/11/509827.html)
+**发布时间**: 2026-11-13 07:51
+
+#### [中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了](https://www.qbitai.com/2026/11/509796.html)
+**发布时间**: 2026-11-13 07:43
+
+#### [比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订](https://www.qbitai.com/2026/11/509730.html)
+**发布时间**: 2026-11-13 07:17
+
+#### [从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路](https://www.qbitai.com/2026/11/509716.html)
+**发布时间**: 2026-11-13 07:12
+
+#### [比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速](https://www.qbitai.com/2026/11/509710.html)
+**发布时间**: 2026-11-13 07:09
+
+#### [高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学](https://www.qbitai.com/2026/11/509663.html)
+**发布时间**: 2026-11-13 07:06
+
+#### [openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！](https://www.qbitai.com/2026/11/509653.html)
+**发布时间**: 2026-11-13 06:54
+
+#### [特斯拉和SpaceX最快下月合并](https://www.qbitai.com/2026/11/509613.html)
+**发布时间**: 2026-11-13 06:43
+
+#### [中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心](https://www.qbitai.com/2026/11/509614.html)
+**发布时间**: 2026-11-13 06:29
 
 ---
 

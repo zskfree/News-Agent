@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "109dbd3ebb42553cb0e611df596a7a2fc21ed36f94a9d7b9ec74531565852cb2": {
-        "title": "基金公司开始“死磕”创新药+硬科技？",
-        "link": "https://www.tmtpost.com/8168711.html",
-        "published_date": "Thu, 15 Oct 2026 08:38:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029387"
-      },
-      "bc6088b308109b6cf65d6c081dd1ffe91789adb37596eefbb43973a6449199ea": {
-        "title": "腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉 Roadster 跑车明日发布；豆包工作支持一键导入 GPT、Claude 对话 | 极客早知道",
-        "link": "http://www.geekpark.net/news/372366",
-        "published_date": "Thu, 15 Oct 2026 08:29:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029401"
-      },
-      "2e35062a6085fd9f91b47ed2b5d77e59ceda2d60709f2fb2fd3ecc3828584157": {
-        "title": "全球大厂的“去英伟达”实验",
-        "link": "https://www.tmtpost.com/8168677.html",
-        "published_date": "Thu, 15 Oct 2026 09:10:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029404"
-      },
-      "2a109583201088bffc54a57bb0e83efd28ea8e28233b7151c6e17a8e80a598a0": {
-        "title": "孙颖莎、张伟丽的成绩更好，为什么“赚不过”郑钦文",
-        "link": "https://www.tmtpost.com/8168127.html",
-        "published_date": "Thu, 15 Oct 2026 09:10:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029406"
-      },
-      "31ab75e9bf55c24b317586fa55094d76deb6b422865aa3d25f28ecceb3772e51": {
-        "title": "“中国私募之王”抄底恒大物业，从200亿砍到66亿",
-        "link": "https://www.tmtpost.com/8168630.html",
-        "published_date": "Thu, 15 Oct 2026 09:03:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029408"
-      },
-      "76d6b97650a1c881cddb7d29835c5c8e9685274746fbb93eb4af5dea886697cf": {
-        "title": "300亿魔芋零食突然“刹车”，下一个零食品类之王要换人了？",
-        "link": "https://www.tmtpost.com/8168931.html",
-        "published_date": "Thu, 15 Oct 2026 08:57:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029410"
-      },
-      "ccb39c237a0a46029ade8c34ff85a8b833ae8707e077c62dde1a66f585cebcb7": {
-        "title": "《赛博朋克2077》终于拍电影了，背后是游戏公司悄悄摸上好莱坞的牌桌",
-        "link": "https://www.tmtpost.com/8168927.html",
-        "published_date": "Thu, 15 Oct 2026 08:52:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029412"
-      },
-      "e8e8eb338da72f6c5056a42a4e762c138293de13fc9371b1c674231c62eff3b0": {
-        "title": "Edge AI Daily 早报（10月15日）",
-        "link": "https://www.tmtpost.com/8169016.html",
-        "published_date": "Thu, 15 Oct 2026 08:52:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029413"
-      },
-      "091baaeef216dc1e11e52f92d12dfc65b998e0c0052d0e0f9ee5099c7b2bb26e": {
-        "title": "Anthropic尽调后放弃，亚马逊为何还在追Decart？",
-        "link": "https://www.tmtpost.com/8168709.html",
-        "published_date": "Thu, 15 Oct 2026 08:44:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029415"
-      },
-      "9da80883502d4eb04ab21ac89f7cd8ec6c151c6a979554e66f563f1f0032f233": {
-        "title": "语料授权这笔生意，为什么定价比想象中难得多？",
-        "link": "https://www.tmtpost.com/8168631.html",
-        "published_date": "Thu, 15 Oct 2026 08:26:00 GMT",
-        "first_seen": "2026-10-15T01:18:11.029416"
-      },
       "0eeccc2f40e3adff641d9dd032ce041a81aa119e85aec30e00a49a5d2f212a5f": {
         "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
         "link": "https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&utm_medium=article",
@@ -3601,69 +3541,69 @@
         "link": "https://www.infoq.cn/article/rFGveY8SswQhcMjroStB?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 13 Nov 2026 11:28:00 GMT",
         "first_seen": "2026-11-13T13:19:43.877545"
+      },
+      "69162d227597adb6ee3cabfebe311fb8e8c5d0efb70758eba421e2c11e4479ea": {
+        "title": "汽车芯片再次告急，这次是晶圆厂不想生产了",
+        "link": "https://www.tmtpost.com/8204916.html",
+        "published_date": "Sat, 14 Nov 2026 10:02:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783977"
+      },
+      "ed3d73f7261251b7cf9b7bd86ad6cf3034793c5a13ed9a9f211581fd6a06033d": {
+        "title": "禾赛，胜宏，英伟达，深扒科技大佬婚外情的“定价体系”",
+        "link": "https://www.tmtpost.com/8204080.html",
+        "published_date": "Sat, 14 Nov 2026 09:41:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783986"
+      },
+      "063c2e0d93895d557790d246cc545b11e55762cc40f112071f116dc0252dc002": {
+        "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+        "link": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 14 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783988"
+      },
+      "1044aaae3b58abc33ed8ff8236437a1924d1c737b80469907f32a19959096323": {
+        "title": "宁夏“龙头酒庄”斩获近亿元融资，跨产区运作的压力给到西鸽酒庄",
+        "link": "https://www.tmtpost.com/8204938.html",
+        "published_date": "Sat, 14 Nov 2026 10:30:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783990"
+      },
+      "a5e61eef80a756501ebfa93f0f5857e1f48826fa962ef6a9049d523c4fa5dd9e": {
+        "title": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？",
+        "link": "https://www.tmtpost.com/8204784.html",
+        "published_date": "Sat, 14 Nov 2026 10:25:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783991"
+      },
+      "bd56697fa390a7257e8272852bd4aefc98fb9ad4c89abf6c7111fd486259b044": {
+        "title": "苹果不想一直“躺赢”",
+        "link": "https://www.tmtpost.com/8204097.html",
+        "published_date": "Sat, 14 Nov 2026 10:17:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783992"
+      },
+      "bc2034b5d3e01c1e8f8d53851719e9eff5b720703e10e6c994354c4815e27554": {
+        "title": "银泰到底姓什么？43亿REITs背后的招牌之争",
+        "link": "https://www.tmtpost.com/8204078.html",
+        "published_date": "Sat, 14 Nov 2026 10:13:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783994"
+      },
+      "c1a4273fa8aa007156decdb962959d7732567f69942ad7e4581dd4aa783f84b7": {
+        "title": "英伟达第一次没有黄仁勋",
+        "link": "https://www.tmtpost.com/8204046.html",
+        "published_date": "Sat, 14 Nov 2026 10:09:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783995"
+      },
+      "8db0f52ecf57dd7ebb08642002aed6e623a3dfb73ececd39cce386e65e2a0c66": {
+        "title": "瑞幸越来越不像一家咖啡公司了",
+        "link": "https://www.tmtpost.com/8204697.html",
+        "published_date": "Sat, 14 Nov 2026 10:04:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.783999"
+      },
+      "484c95de81cc3db1f2da1e05b50824f077b62c17f49063e7c24ab1572280c136": {
+        "title": "等离子电源小巨人上会迎考，神州股份砍掉3亿补流，中微公司身兼两角",
+        "link": "https://www.tmtpost.com/8204937.html",
+        "published_date": "Sat, 14 Nov 2026 10:04:00 GMT",
+        "first_seen": "2026-11-14T02:57:36.784001"
       }
     },
     "Finance": {
-      "253c296bfaa0e93bef0e3300621c8b49b561e3d57913017fe0bed427e7d55b48": {
-        "title": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
-        "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-        "published_date": "Thu, 15 Oct 2026 00:59:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561748"
-      },
-      "fa5fd79d8e6d1c0deff62288976e20b9543cace53811feb7985dcd4fa4ebe6ad": {
-        "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
-        "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
-        "published_date": "Thu, 15 Oct 2026 01:07:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561760"
-      },
-      "e6402e233b0c19af79824122b47e259dba7d41cf1dd6272e15e07e5978683914": {
-        "title": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
-        "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
-        "published_date": "Thu, 15 Oct 2026 00:02:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561762"
-      },
-      "5ff3f6177a6767e834bbcdb45c83eb8ebd4b2952cb51aea9eaa50be16dc06ab8": {
-        "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
-        "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Oct 2026 23:36:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561764"
-      },
-      "5a0cde0a0bc6d61011336f16a91ca44781b435405fa24d311cc7c64545192c99": {
-        "title": "You’re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
-        "link": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Oct 2026 22:25:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561765"
-      },
-      "629f872c889c831e93cb416cdc80803ec1834dd266cc913a979584f92db2e58d": {
-        "title": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
-        "link": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Oct 2026 22:23:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561767"
-      },
-      "ff4115b1df1279c5efe2f53f8f08c272af00a7b7f8ec1a36f89918f0af9d2230": {
-        "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
-        "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Oct 2026 22:03:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561769"
-      },
-      "02f6793b744cd03c6656ded182946e1a6f1d80a232c82fd3572004afec4318dc": {
-        "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
-        "link": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
-        "published_date": "Wed, 14 Oct 2026 21:54:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561770"
-      },
-      "a437baeaae15ef21c9b48cfe355e709eaba1750544eb5f88beee60cce331db73": {
-        "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
-        "link": "https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1",
-        "published_date": "Wed, 14 Oct 2026 23:09:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561772"
-      },
-      "8e839dc8c5173b2fedb8cf6649a7319cdbd577ed45a3dd2e923028d4fc89be81": {
-        "title": "OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia",
-        "link": "https://www.ft.com/content/4d22d333-e51c-4302-991e-444a17fac420?syn-25a6b1a6=1",
-        "published_date": "Wed, 14 Oct 2026 22:19:00 GMT",
-        "first_seen": "2026-10-15T01:18:20.561774"
-      },
       "ed73847a010ee64754e6d4d972ef1a8ae5cedfbdcb976730356dd18e49922eb1": {
         "title": "Global stocks sell-off deepens as chipmakers tumble",
         "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
@@ -7059,69 +6999,69 @@
         "link": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
         "published_date": "Fri, 13 Nov 2026 11:29:00 GMT",
         "first_seen": "2026-11-13T13:19:53.345874"
+      },
+      "b708346eac90bfd6826185dd21d1a9bad33a1e68c754205acb7727925193e919": {
+        "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+        "link": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+        "published_date": "Fri, 13 Nov 2026 23:39:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258719"
+      },
+      "5c4d00db8c8fd757bfba30431603a419b9f7a7466e86217c945c5edb47180da3": {
+        "title": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
+        "link": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1",
+        "published_date": "Fri, 13 Nov 2026 19:41:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258727"
+      },
+      "5bb9ae0b19e9780cf59d671204cf491de8bfde6848b1b535dd68406a14b57596": {
+        "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+        "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Nov 2026 21:26:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258730"
+      },
+      "cf96aad60f90445c8cdf819d595bd86eb6b2ff332f1ab07b840e344a47573ba1": {
+        "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+        "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Nov 2026 02:42:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258732"
+      },
+      "3a05001890a01a7e3db8cf9079ef705d4e3972028622e325e0a7a96792b9ba88": {
+        "title": "14 dividend stocks selected for long-term growth",
+        "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Nov 2026 01:58:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258733"
+      },
+      "fc9643c96e4d61c11cceba5a7c51ac83d41f6ad0f6ee4eaf1e106d18829f8857": {
+        "title": "4 expert tips for signing up for Medicare",
+        "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Nov 2026 22:45:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258735"
+      },
+      "ab351b50bbac74646b0366c7f3abb3d10152c52bd5e6b5e7c5db19e852ed98ff": {
+        "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Nov 2026 22:21:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258737"
+      },
+      "f0bdeb8e248fe6d3504d6338b34bc2691e55508645a5e25543a3a667f75cbd91": {
+        "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+        "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Nov 2026 22:04:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258739"
+      },
+      "10931c4e42805c8302fe676553ccbd31e62776a8e965366834293c361db7528f": {
+        "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+        "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+        "published_date": "Fri, 13 Nov 2026 21:10:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258740"
+      },
+      "be13b2e1721f123521513079c004de8540de26456419e38a5fa85f1a852f7256": {
+        "title": "US aviation regulator lifts order that grounded thousands of flights",
+        "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+        "published_date": "Sat, 14 Nov 2026 02:37:00 GMT",
+        "first_seen": "2026-11-14T02:57:46.258742"
       }
     },
     "Ai": {
-      "c475c79c5d8845aa7fc1b26b3162244ac864ea5969167e89aa9d735a5c730b6f": {
-        "title": "茶百道涉IPO欺诈，被暂停交易；字节Seed单独设立大模型安全与对齐部门；华为披露下一代麒麟芯片进展，已进入测试阶段丨雷峰早报",
-        "link": "https://www.leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html",
-        "published_date": "Wed, 14 Oct 2026 23:48:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194488"
-      },
-      "a64b8729ae7cce0cf44753ff9e6b819af9a8a365900c857a0ba92acc647d2b48": {
-        "title": "医美消费走向专业化、个性化，美团发布2026北极星医美榜",
-        "link": "https://www.leiphone.com/category/industrynews/5IL0iXZb9YqAIyLN.html",
-        "published_date": "Wed, 14 Oct 2026 19:21:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194500"
-      },
-      "ad8da323932186bd312d6d6f59f7f7fcb951bfaf85883a093ec18625dac7f56b": {
-        "title": "蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，具身大脑加速进产线",
-        "link": "https://www.leiphone.com/category/industrynews/sDAmOLZ58Kpz8ZlD.html",
-        "published_date": "Wed, 14 Oct 2026 17:15:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194503"
-      },
-      "ba862400c1cba27fc2821897c11dbb30b06f62f5ff6bf03924d84423f53a0d52": {
-        "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
-        "link": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
-        "published_date": "Wed, 14 Oct 2026 22:52:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194505"
-      },
-      "6aa48e9bda47a5e0ce794f7ca19c1c366dcb76b929b2222b4c7840d510aadbe2": {
-        "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
-        "published_date": "Wed, 14 Oct 2026 16:24:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194506"
-      },
-      "8fd7474e7d81c0359317128d36f9a16e7d648cf5cf73929843e63f251cadad63": {
-        "title": "Generate presentations with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
-        "published_date": "Wed, 14 Oct 2026 13:58:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194508"
-      },
-      "2fa4479948f1ac3c6fe8b53059b7f2765c03da8d8e0719366ab8c8f1d05df6d6": {
-        "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
-        "published_date": "Wed, 14 Oct 2026 13:53:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194510"
-      },
-      "481ca83e8558c76c56bfbc018702764fdd5f8a72a4e4fcb5c9c288f4954b1bb3": {
-        "title": "Deploy and evaluate models with Amazon SageMaker JumpStart",
-        "link": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
-        "published_date": "Wed, 14 Oct 2026 13:14:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194511"
-      },
-      "29b0c350c4ddbbd63af64e38579fd6e54869284dd0451f2a0e0481538676e40f": {
-        "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-        "link": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
-        "published_date": "Wed, 14 Oct 2026 16:14:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194513"
-      },
-      "0c3890e1998c1970614fcf02bf6a09bb9281e09d46ba2e7ca3a75033d228fe41": {
-        "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-        "link": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
-        "published_date": "Wed, 14 Oct 2026 16:14:00 GMT",
-        "first_seen": "2026-10-15T01:18:30.194515"
-      },
       "47e67e2cafa566282a1e717efb6cc17f471813fdca0bec5c78dd3c724565229d": {
         "title": "上海AI实验室“书生-S2”大模型进入前沿数学研究流程：助力三维Ghys猜想证明并通过形式化验证",
         "link": "https://www.leiphone.com/category/academic/ChIK9FvwSwlHmfFc.html",
@@ -10019,13 +9959,73 @@
         "link": "https://hex2077.dev/docs/2026-11/2026-11-13/",
         "published_date": "Fri, 13 Nov 2026 04:14:00 GMT",
         "first_seen": "2026-11-13T13:19:34.246061"
+      },
+      "29191d0ba2fdccb5972e5e47928c712078e62e03f4a849af92e0471c86b8d1c4": {
+        "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
+        "link": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
+        "published_date": "Sat, 14 Nov 2026 00:50:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273692"
+      },
+      "f950166363b4acec70461d4f9927daa4fed3dceca04bad74fe1cf9675d20b4cd": {
+        "title": "独家｜燧原科技首席生态官李星宇离职",
+        "link": "https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html",
+        "published_date": "Fri, 13 Nov 2026 18:00:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273702"
+      },
+      "e0ca316265a6bfef5ed377e53b16f987cc657a5900241025762cef31c0079873": {
+        "title": "9.99万的ID.ERA 5X，大众开始用中国效率打价格战",
+        "link": "https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html",
+        "published_date": "Fri, 13 Nov 2026 17:38:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273706"
+      },
+      "7a2719935bf99583d7116c59938c95421283f2c51576f3de4787837c66d4c145": {
+        "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+        "link": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+        "published_date": "Fri, 13 Nov 2026 17:22:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273708"
+      },
+      "0f1735a0c0c5d3565e051861d20197c3aabe59f89c4100e7da8f828e7ee6b0f0": {
+        "title": "海尔热水器双11战报：京东天猫双平台销量TOP1",
+        "link": "https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html",
+        "published_date": "Fri, 13 Nov 2026 17:17:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273710"
+      },
+      "ced2db9ea719086bd1e82b304253fbe771e85545ba49a263303a66ce5aff7c2a": {
+        "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+        "link": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+        "published_date": "Fri, 13 Nov 2026 17:05:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273712"
+      },
+      "8e3fb36bded860d1e9151d529f61010ed7c3ce30899e40feec484b9b8a543827": {
+        "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
+        "link": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+        "published_date": "Fri, 13 Nov 2026 17:04:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273713"
+      },
+      "faa5e2f57aa04e79a3b1947dfda86dcb3c0ef68cf7a7888240b91f427eef8d3d": {
+        "title": "美团陈一方：2026洗浴行业线上化率超20%",
+        "link": "https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html",
+        "published_date": "Fri, 13 Nov 2026 16:43:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273714"
+      },
+      "62bb9f799f9f3ae971288d79bcb98f77f4addbc3f8b3eccac28cab20da7293c0": {
+        "title": "解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？",
+        "link": "https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html",
+        "published_date": "Fri, 13 Nov 2026 16:29:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273716"
+      },
+      "4a270a4f871ed142f49e74a0673e8d187ac347a45afadb4b341b1f168553c453": {
+        "title": "英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！",
+        "link": "https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html",
+        "published_date": "Fri, 13 Nov 2026 15:49:00 GMT",
+        "first_seen": "2026-11-14T02:57:27.273717"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-13T13:19:43.877547",
-    "Finance": "2026-11-13T13:19:53.345876",
-    "Ai": "2026-11-13T13:19:34.246063"
+    "Technology": "2026-11-14T02:57:36.784005",
+    "Finance": "2026-11-14T02:57:46.258744",
+    "Ai": "2026-11-14T02:57:27.273719"
   }
 }
