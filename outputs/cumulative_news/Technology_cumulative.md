@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-14 11:57
+**最后更新时间**: 2026-11-15 02:28
+
+---
+
+## 🆕 最新更新 (2026-11-15 02:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京](https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-15 10:00
+
+#### [GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力](https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-15 09:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（11月15日）](https://www.tmtpost.com/8205610.html)
+**发布时间**: 2026-11-15 09:09
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传小米联手 AMG 之父，打造极致性能车；SpaceX 首次实现筷子夹飞船；「苹果最暗产品」诞生](http://www.geekpark.net/news/373993)
+**发布时间**: 2026-11-15 08:02
 
 ---
 

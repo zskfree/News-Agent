@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-14 11:57
+**最后更新时间**: 2026-11-15 02:28
+
+---
+
+## 🆕 最新更新 (2026-11-15 02:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [SpaceX successfully catches Starship rocket in huge milestone for the space industry](https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-15 00:33
+
+#### [I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?](https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories)
+**发布时间**: 2026-11-14 21:31
+
+#### [‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?](https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories)
+**发布时间**: 2026-11-14 20:00
+
+#### [The trillion-dollar mistake corporate America is making about retirement](https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories)
+**发布时间**: 2026-11-14 17:50
+
+#### [Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’](https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories)
+**发布时间**: 2026-11-14 17:50
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US air travel chaos exposes system held together by ‘string and duct tape’](https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 22:57
+
+#### [Trump Media group stares down $1bn debt crunch as bitcoin bet fades](https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 13:00
 
 ---
 

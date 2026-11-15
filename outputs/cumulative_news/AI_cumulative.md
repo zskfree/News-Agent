@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-14 11:57
+**最后更新时间**: 2026-11-15 02:26
+
+---
+
+## 🆕 最新更新 (2026-11-15 02:26)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy](https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/)
+**发布时间**: 2026-11-14 16:45
+
+#### [Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs](https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/)
+**发布时间**: 2026-11-14 10:21
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！](https://www.qbitai.com/2026/11/510297.html)
+**发布时间**: 2026-11-14 10:08
+
+#### [「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭](https://www.qbitai.com/2026/11/510232.html)
+**发布时间**: 2026-11-14 09:58
+
+#### [程序员集体沉迷折纸飞机！最长滞空31.2秒](https://www.qbitai.com/2026/11/510150.html)
+**发布时间**: 2026-11-14 09:48
+
+#### [绿电进Token出！联想重新定义词元工厂](https://www.qbitai.com/2026/11/510094.html)
+**发布时间**: 2026-11-14 09:41
+
+#### [中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞](https://www.qbitai.com/2026/11/510013.html)
+**发布时间**: 2026-11-14 02:59
+
+#### [突发！DeepSeek开放全家桶API](https://www.qbitai.com/2026/11/510003.html)
+**发布时间**: 2026-11-14 02:39
 
 ---
 

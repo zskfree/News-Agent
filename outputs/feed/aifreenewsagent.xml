@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Nov 2026 11:57:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 11:57:44 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 02:26:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:28:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>百度词元所发布首日：供应商暴增超100家，客户新增超1000家</title>
-      <link>https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html</link>
-      <description>&lt;![CDATA[百度词元所发布首日：供应商暴增超100家，客户新增超1000家]]&gt;</description>
-      <pubDate>Sat, 14 Nov 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents</title>
-      <link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
-      <description>&lt;![CDATA[Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents]]&gt;</description>
-      <pubDate>Sat, 14 Nov 2026 06:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-11-14日刊</title>
-      <link>https://hex2077.dev/docs/2026-11/2026-11-14/</link>
-      <description>&lt;![CDATA[2026-11-14日刊]]&gt;</description>
-      <pubDate>Sat, 14 Nov 2026 03:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-14/</guid>
+      <title>Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy</title>
+      <link>https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/</link>
+      <description>&lt;![CDATA[Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy]]&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/</guid>
       <category>Ai</category>
     </item>
   </channel>
