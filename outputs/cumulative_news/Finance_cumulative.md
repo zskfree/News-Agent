@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-15 02:28
+**最后更新时间**: 2026-11-15 12:34
+
+---
+
+## 🆕 最新更新 (2026-11-15 12:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?](https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-15 12:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic’s IPO is the next big test for AI](https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 11:40
+
+#### [Congress moves to pass tighter AI chip export rules following Nvidia scandal](https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 11:00
+
+#### [From culture war to class war: US Democrats ditch woke politics](https://www.ft.com/content/82e2d624-65aa-4a8c-86ec-f99c0ce785ac?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 11:00
+
+#### [What will Nvidia’s post-Huang era look like?](https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3)
+**发布时间**: 2026-11-15 05:00
+
+#### [How Infantino flew his way out of a Fifa rebellion](https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 05:00
+
+#### [Data centre construction stocks lose $4.2tn as boom in AI trade unravels](https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 05:00
+
+#### [When human judgment is not all it’s cracked up to be](https://www.ft.com/content/f8dffb89-99e3-4e9d-ac62-4eb59da4f007?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 05:00
+
+#### [France’s once best hope of stopping Marine Le Pen is losing ground](https://www.ft.com/content/3d951137-cba3-47d5-a78c-0d82b9fd84e7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 05:00
+
+#### [The world according to China](https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 03:00
+
+#### [New York socialists back Alexandria Ocasio-Cortez for 2028 presidential race](https://www.ft.com/content/3f1fd9f6-8f96-4178-bf5a-8fce8954b811?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 01:52
+
+#### [One router overload brought US air travel to a standstill](https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1)
+**发布时间**: 2026-11-14 22:57
 
 ---
 

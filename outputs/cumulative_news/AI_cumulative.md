@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-15 02:26
+**最后更新时间**: 2026-11-15 12:32
+
+---
+
+## 🆕 最新更新 (2026-11-15 12:32)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls](https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/)
+**发布时间**: 2026-11-15 10:06
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-15日刊](https://hex2077.dev/docs/2026-11/2026-11-15/)
+**发布时间**: 2026-11-15 02:59
 
 ---
 
