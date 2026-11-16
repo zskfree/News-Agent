@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-16 02:36
+**最后更新时间**: 2026-11-16 13:25
+
+---
+
+## 🆕 最新更新 (2026-11-16 13:25)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO](https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html)
+**发布时间**: 2026-11-16 19:21
+
+#### [启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装](https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html)
+**发布时间**: 2026-11-16 17:54
+
+#### [豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景](https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html)
+**发布时间**: 2026-11-16 16:59
+
+#### [智算接棒：物理AI的下一个风口，在于计算基础设施](https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html)
+**发布时间**: 2026-11-16 16:04
+
+#### [HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026](https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html)
+**发布时间**: 2026-11-16 15:59
+
+#### [李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？](https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html)
+**发布时间**: 2026-11-16 15:28
+
+#### [李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」](https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html)
+**发布时间**: 2026-11-16 15:24
+
+#### [韩国消费者爱上速卖通双11！中国品牌成交大涨4倍](https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html)
+**发布时间**: 2026-11-16 13:33
+
+#### [韩国消费者爱上双11！速卖通上中国品牌成交大涨4倍](https://www.leiphone.com/category/industrynews/Qm4GG0NRchACeSdH.html)
+**发布时间**: 2026-11-16 13:31
+
+#### [模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型](https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html)
+**发布时间**: 2026-11-16 12:08
+
+#### [百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径](https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html)
+**发布时间**: 2026-11-16 12:00
+
+#### [众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发](https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html)
+**发布时间**: 2026-11-16 11:50
+
+#### [抖音商城双11 好物节收官：品牌如何在大促中收获生意爆发？](https://www.leiphone.com/category/industrynews/k4AfYGyYAfHKk0WW.html)
+**发布时间**: 2026-11-16 11:37
+
+#### [华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？](https://www.leiphone.com/category/industrynews/uQHWYgknaxF4jzlB.html)
+**发布时间**: 2026-11-16 11:35
+
+#### [阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景](https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html)
+**发布时间**: 2026-11-16 11:33
+
+#### [会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景](https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html)
+**发布时间**: 2026-11-16 10:39
+
+#### [AI公司转型最难的一步：如何构建AI Native的产品体系](https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html)
+**发布时间**: 2026-11-16 10:12
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准](https://www.qbitai.com/2026/11/510542.html)
+**发布时间**: 2026-11-16 10:57
+
+#### [2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力](https://www.qbitai.com/2026/11/510526.html)
+**发布时间**: 2026-11-16 08:45
+
+#### [没搞过一天研发的他，50岁以华为董事的身份退休了](https://www.qbitai.com/2026/11/510496.html)
+**发布时间**: 2026-11-16 08:02
+
+#### [SuperLink2026开启创投行业超级链接时刻，12月北京见](https://www.qbitai.com/2026/11/510493.html)
+**发布时间**: 2026-11-16 07:58
+
+#### [阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景](https://www.qbitai.com/2026/11/510486.html)
+**发布时间**: 2026-11-16 07:51
+
+#### [余承东发布新款问界M8：38万元起售，全系预埋L3架构](https://www.qbitai.com/2026/11/510436.html)
+**发布时间**: 2026-11-16 07:26
+
+#### [龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元](https://www.qbitai.com/2026/11/510416.html)
+**发布时间**: 2026-11-16 05:05
+
+#### [没搞过一天研发的他，50岁以华为董事的身份退休了](https://www.qbitai.com/2026/11/510404.html)
+**发布时间**: 2026-11-16 03:54
+
+#### [今天截止！2026年度AI表彰，错过再等一年！](https://www.qbitai.com/2026/11/510382.html)
+**发布时间**: 2026-11-16 03:19
+
+#### [提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法](https://www.qbitai.com/2026/11/510369.html)
+**发布时间**: 2026-11-16 03:07
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands](https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/)
+**发布时间**: 2026-11-16 10:39
+
+#### [Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context](https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/)
+**发布时间**: 2026-11-16 09:44
+
+#### [Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro](https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/)
+**发布时间**: 2026-11-16 09:08
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-16日刊](https://hex2077.dev/docs/2026-11/2026-11-16/)
+**发布时间**: 2026-11-16 03:20
 
 ---
 

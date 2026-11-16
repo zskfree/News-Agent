@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-16 02:38
+**最后更新时间**: 2026-11-16 13:27
+
+---
+
+## 🆕 最新更新 (2026-11-16 13:27)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The FDA declined to approve one of biotech’s most closely watched cancer drugs](https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 13:01
+
+#### [How to use options to bet against Big Tech, while keeping risk in check](https://www.marketwatch.com/story/how-to-use-options-to-bet-against-big-tech-while-keeping-risk-in-check-a2609641?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 12:53
+
+#### [Anthropic’s IPO is forcing investors to assess uninsurable risks they’ve never encountered before](https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 12:33
+
+#### [Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil](https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 12:32
+
+#### [Three questions for anyone considering the Nvidia CEO job](https://www.marketwatch.com/story/three-questions-for-anyone-considering-the-nvidia-ceo-job-08ef8120?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 12:17
+
+#### [Why Nvidia can avoid the fate of most stocks that reached the market-cap apex, according to one strategist](https://www.marketwatch.com/story/why-nvidia-can-avoid-the-fate-of-most-stocks-that-reached-the-apex-by-market-cap-according-to-one-strategist-461e33be?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 11:07
+
+#### [Here’s how much the stock market could crumble if AI is in a bubble that bursts, according to former White House economist](https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 10:32
+
+#### [Why Morgan Stanley says it’s time to go ‘max’ overweight on stocks](https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 10:20
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US tech stocks set to open lower amid Nvidia fallout](https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 12:32
+
+#### [Why Putin, Trump and Xi cannot be the new ‘big three’](https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 12:22
+
+#### [Biggest IPOs this year lose investors money as AI frenzy fades](https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 11:47
+
+#### [‘Success and fame’ undermine tech leaders, warns Nvidia and Tesla investor](https://www.ft.com/content/5b39e975-b9f5-4ff9-a7d2-ce6a30c4fdbd?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 11:00
+
+#### [Ukraine strikes Crimean Bridge in record drone attack](https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 10:29
+
+#### [Huang’s fall hits ‘open’ models in boost to Anthropic and OpenAI](https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 05:00
+
+#### [The whole world is long America](https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 05:00
+
+#### [Brussels to propose €45bn Ukraine loan borrowed against EU budget](https://www.ft.com/content/2c9de06b-aa86-4275-b9f3-1276f8c20994?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 05:00
+
+#### [Accounting student’s AI cheating sparks South Korean exam furore](https://www.ft.com/content/5cf11f3d-0d22-4eb5-8279-7533e161e4d0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 04:36
+
+#### [Indonesia apologises to neighbours for toxic haze](https://www.ft.com/content/725d2cd5-b2d9-455d-bd1c-6a6cdec1a489?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 04:12
 
 ---
 

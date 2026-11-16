@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Nov 2026 02:36:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 02:38:31 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 13:25:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:27:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities</title>
-      <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
-      <description>&lt;![CDATA[AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities]]&gt;</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</guid>
+      <title>黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO</title>
+      <link>https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html</link>
+      <description>&lt;![CDATA[黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 19:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装</title>
+      <link>https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html</link>
+      <description>&lt;![CDATA[启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景</title>
+      <link>https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html</link>
+      <description>&lt;![CDATA[豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 16:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>智算接棒：物理AI的下一个风口，在于计算基础设施</title>
+      <link>https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html</link>
+      <description>&lt;![CDATA[智算接棒：物理AI的下一个风口，在于计算基础设施]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 16:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026</title>
+      <link>https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html</link>
+      <description>&lt;![CDATA[HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？</title>
+      <link>https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html</link>
+      <description>&lt;![CDATA[李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 15:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」</title>
+      <link>https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html</link>
+      <description>&lt;![CDATA[李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 15:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>韩国消费者爱上速卖通双11！中国品牌成交大涨4倍</title>
+      <link>https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html</link>
+      <description>&lt;![CDATA[韩国消费者爱上速卖通双11！中国品牌成交大涨4倍]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型</title>
+      <link>https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html</link>
+      <description>&lt;![CDATA[模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径</title>
+      <link>https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html</link>
+      <description>&lt;![CDATA[百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html</guid>
       <category>Ai</category>
     </item>
   </channel>

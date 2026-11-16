@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-16 02:38
+**最后更新时间**: 2026-11-16 13:27
+
+---
+
+## 🆕 最新更新 (2026-11-16 13:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [新增51款1类新药、129万CAR-T首次纳入：医保目录的平衡与商保新变量丨行业风向标](https://www.tmtpost.com/8207495.html)
+**发布时间**: 2026-11-16 20:34
+
+#### [移芯通信：营收稳步增长却盈亏反复，Cat.1bis芯片售价近乎腰斩](https://www.tmtpost.com/8200859.html)
+**发布时间**: 2026-11-16 20:01
+
+#### [维眸生物：十年无产品商业化，累计亏损近11亿，现金链承压](https://www.tmtpost.com/8200883.html)
+**发布时间**: 2026-11-16 20:00
+
+#### [AI变量下的多线博弈，面板行业迎来新卡位战](https://www.tmtpost.com/8206976.html)
+**发布时间**: 2026-11-16 19:30
+
+#### [连续五年亏损、实控人被刑拘，南卫股份控制权格局引关注](https://www.tmtpost.com/8207448.html)
+**发布时间**: 2026-11-16 19:28
+
+#### [拟4.6亿拿下酷尔芯控股权：征和工业跨界押注液冷，标的两月估值抬升18%](https://www.tmtpost.com/8207398.html)
+**发布时间**: 2026-11-16 19:22
+
+#### [阿里文娱最长任期一号位离场，樊路远辞任或转身创业](https://www.tmtpost.com/8207387.html)
+**发布时间**: 2026-11-16 19:13
+
+#### [华为云发布CloudRobo具身世界模型的同时也打出了三张底牌](https://www.tmtpost.com/8206773.html)
+**发布时间**: 2026-11-16 18:36
+
+#### [盒马已经有超盒算，为什么还需要淘鲜达？](https://www.tmtpost.com/8198298.html)
+**发布时间**: 2026-11-16 18:17
+
+#### [为什么所有人都在呼唤厉娜](https://www.tmtpost.com/8205428.html)
+**发布时间**: 2026-11-16 18:16
+
+#### [实测千问办公电商版：3小时做完开店筹备，却栽在“生图幻觉”上](https://www.tmtpost.com/8195721.html)
+**发布时间**: 2026-11-16 18:16
+
+#### [永不停歇的资本开支，换不回存储公司一夜安眠](https://www.tmtpost.com/8206582.html)
+**发布时间**: 2026-11-16 18:16
+
+#### [阻挠对方IPO后，北京同仁堂又花24亿血本“和亲”？](https://www.tmtpost.com/8207009.html)
+**发布时间**: 2026-11-16 18:16
+
+#### [务实的雷鸟赌性](https://www.tmtpost.com/8207004.html)
+**发布时间**: 2026-11-16 18:16
+
+#### [77岁“婚纱女王”退居幕后，Vera Wang陷入退款风波](https://www.tmtpost.com/8207100.html)
+**发布时间**: 2026-11-16 18:16
+
+#### [Japanese Brands Fall to One in Ten New Cars Sold in China](https://www.tmtpost.com/8207302.html)
+**发布时间**: 2026-11-16 18:12
+
+#### [BLG夺冠，能否让英雄联盟重新升温](https://www.tmtpost.com/8207060.html)
+**发布时间**: 2026-11-16 18:02
+
+#### [英伟达没二号位，一级市场难留二号位](https://www.tmtpost.com/8207042.html)
+**发布时间**: 2026-11-16 18:02
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/119148)
+**发布时间**: 2026-11-16 18:09
+
+#### [Rosetta 2 即将退役，Mac 老应用何去何从？](https://sspai.com/post/118100)
+**发布时间**: 2026-11-16 15:37
+
+#### [App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味](https://sspai.com/post/119012)
+**发布时间**: 2026-11-16 10:52
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从自动扩缩容到跨池调度：作业帮如何让 Flink 计算资源节省 30%？](https://www.infoq.cn/article/UTrbuCiAG5H9TiqcwgxI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 18:01
+
+#### [亚马逊云科技为EventBridge推出增强型自定义事件总线](https://www.infoq.cn/article/J4MJLMWsGagkT3eRVSJQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 17:36
+
+#### [Uber Eats重建搜索流水线，端到端延迟降低50%](https://www.infoq.cn/article/ah2izwCUPxX2y1herN7b?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 17:24
+
+#### [Envoy Gateway 1.9.1强化安全性并解决棘手的升级问题](https://www.infoq.cn/article/3HFLOphp4vIUZl2s3Xsr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 17:06
+
+#### [DigitalOcean Managed Agents为AI智能体提供托管云基础设施](https://www.infoq.cn/article/LjVeWVAsBWwaiifdMRiu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 16:42
+
+#### [Docker Sandbox Kit规范：将AI智能体权限打包为OCI镜像](https://www.infoq.cn/article/yV89L6iMCqSLDHeSoLxo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 16:22
+
+#### [AI 来了，团队究竟怎么变？](https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 15:56
+
+#### [Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词](https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 14:44
+
+#### [DeepSeek又来掀桌子了！官方App全套能力开放API，联网搜索价格不到OpenAI、Claude的8%](https://www.infoq.cn/article/NWmk4epBL0jPAUtpKSKb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 14:38
+
+#### [马斯克喊话“真男人自己管理内存”，三十年系统老将警告：Rust 也拦不住 AI 制造复杂性](https://www.infoq.cn/article/FWqT2oGIEl9zlyJ7HXZF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 14:28
+
+#### [腾讯混元发布Hy4 flash，单任务成本仅为 Hy4 的 5%](https://www.infoq.cn/article/ejVJGwMvIIvplY8yio5r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 14:23
+
+#### [AI 写得快，谁来接住生产责任](https://www.infoq.cn/article/sIqEVPmL3P9PExLjPzPW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-16 14:10
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [最近逛 GitHub 挑了 8 个刚开源、Star 涨得挺快的项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538591&idx=1&sn=81c6b8648850ed76923ca6dac0f91c39)
+**发布时间**: 2026-11-16 13:15
 
 ---
 
