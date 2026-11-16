@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-15 12:32
+**最后更新时间**: 2026-11-16 02:36
+
+---
+
+## 🆕 最新更新 (2026-11-16 02:36)
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/)
+**发布时间**: 2026-11-16 00:00
 
 ---
 

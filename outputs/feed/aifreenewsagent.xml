@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Nov 2026 12:32:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 12:34:54 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 02:36:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:38:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls</title>
-      <link>https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/</link>
-      <description>&lt;![CDATA[Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls]]&gt;</description>
-      <pubDate>Sun, 15 Nov 2026 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-11-15日刊</title>
-      <link>https://hex2077.dev/docs/2026-11/2026-11-15/</link>
-      <description>&lt;![CDATA[2026-11-15日刊]]&gt;</description>
-      <pubDate>Sun, 15 Nov 2026 02:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-15/</guid>
+      <title>AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities</title>
+      <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
+      <description>&lt;![CDATA[AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities]]&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</guid>
       <category>Ai</category>
     </item>
   </channel>

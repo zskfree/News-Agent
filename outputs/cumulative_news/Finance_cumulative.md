@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-15 12:34
+**最后更新时间**: 2026-11-16 02:38
+
+---
+
+## 🆕 最新更新 (2026-11-16 02:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hong Kong developer New World’s shares tumble 47% on $3.2bn rights issue plan](https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 02:01
+
+#### [Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy](https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 01:41
+
+#### [Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn](https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 23:54
+
+#### [Jensen Huang discusses comeback as Nvidia CEO with allies](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 19:03
+
+#### [Viktor Orbán’s party reels from $20mn hidden cash discovery](https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 18:44
+
+#### [Bessent says Nvidia needs ‘shake-up’ with external CEO](https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 18:28
+
+#### [US and allies sign accord to protect AI supply chains from China](https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 17:47
+
+#### [US regulator rejects cancer drug invented in China in blow to Beijing’s biotech sector](https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1)
+**发布时间**: 2026-11-15 17:07
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?](https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories)
+**发布时间**: 2026-11-15 22:15
+
+#### [Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years](https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-15 21:32
+
+#### [Budget airlines are going upscale with first-class seats and faster wifi](https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories)
+**发布时间**: 2026-11-15 21:31
+
+#### [China’s hottest stocks these days have one thing in common: names that sound like sheep](https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories)
+**发布时间**: 2026-11-15 15:22
 
 ---
 
