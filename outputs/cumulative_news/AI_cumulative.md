@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-16 13:25
+**最后更新时间**: 2026-11-17 04:58
+
+---
+
+## 🆕 最新更新 (2026-11-17 04:58)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿](https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html)
+**发布时间**: 2026-11-17 09:33
+
+#### [26.99万元起，腾势N8正式上市：首搭易三方Evo，纯电续航1003公里](https://www.leiphone.com/category/transportation/9YeGaaNjyBi0zkQ4.html)
+**发布时间**: 2026-11-16 23:21
+
+#### [平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分](https://www.leiphone.com/category/industrynews/LTOeijdeWR08fZGP.html)
+**发布时间**: 2026-11-16 22:56
+
+#### [当充电像加油一样快，租车自驾的边界被拓宽](https://www.leiphone.com/category/industrynews/kfphRdgYwSdN13Nv.html)
+**发布时间**: 2026-11-16 22:17
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab](https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/)
+**发布时间**: 2026-11-16 23:00
+
+#### [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/)
+**发布时间**: 2026-11-16 20:00
+
+#### [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/)
+**发布时间**: 2026-11-16 16:00
+
+#### [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
+**发布时间**: 2026-11-16 16:00
+
+#### [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
+**发布时间**: 2026-11-16 16:00
+
+#### [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/)
+**发布时间**: 2026-11-16 16:00
+
+#### [CUDA at 20: How the Platform Transformed Scientific Computing](https://blogs.nvidia.com/blog/20-years-cuda/)
+**发布时间**: 2026-11-16 16:00
+
+#### [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](https://blogs.nvidia.com/blog/rubin-hpc/)
+**发布时间**: 2026-11-16 16:00
+
+#### [AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/)
+**发布时间**: 2026-11-13 13:00
+
+#### [AI Helps Recyclers Turn Mixed Waste Into Reusable Material](https://blogs.nvidia.com/blog/ai-recycling-startups/)
+**发布时间**: 2026-11-11 03:00
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-11-16 22:43
+
+#### [How Duco transforms financial data automation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-16 22:06
+
+#### [Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/)
+**发布时间**: 2026-11-16 21:53
+
+#### [How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-16 18:16
+
+#### [Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform](https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/)
+**发布时间**: 2026-11-16 17:29
+
+#### [Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-16 17:04
+
+#### [Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-11-16 16:12
+
+#### [Best practices for writing Denied Topics in Amazon Bedrock Guardrails](https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/)
+**发布时间**: 2026-11-16 15:48
+
+#### [Customize answers per tenant in Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/)
+**发布时间**: 2026-11-16 15:46
+
+#### [Use prompt caching with open-weight models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock/)
+**发布时间**: 2026-11-16 15:42
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Hugging Face and OpenRouter join forces to make open-weight models easy to run](https://huggingface.co/blog/openrouter)
+**发布时间**: 2026-11-16 00:00
 
 ---
 

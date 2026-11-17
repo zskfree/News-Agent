@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-16 13:27
+**最后更新时间**: 2026-11-17 05:00
+
+---
+
+## 🆕 最新更新 (2026-11-17 05:00)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本](https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 12:42
+
+#### [Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能](https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 12:00
+
+#### [File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具](https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 11:00
+
+#### [openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题](https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 10:41
+
+#### [从 SDLC 到 ADLC：宝洁的 AI 原生组织实验](https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 10:15
+
+#### [阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六](https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 10:07
+
+#### [Cloudflare 的后量子 GeoKey Manager 进入封闭测试阶段，暂不支持基于属性加密](https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 10:02
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“学霸”自首AI作弊，韩国高考紧急布防](https://www.tmtpost.com/8208106.html)
+**发布时间**: 2026-11-17 12:03
+
+#### [下跌周期中的MinMax：早期投资者和闫俊杰的AI畅谈](https://www.tmtpost.com/8207380.html)
+**发布时间**: 2026-11-17 12:03
+
+#### [美国纳管AI算力远程获取，海外数据中心出租算力将须许可](https://www.tmtpost.com/8207829.html)
+**发布时间**: 2026-11-17 11:32
+
+#### [SuperLink2026开启创投行业超级链接时刻，12月北京见](https://www.tmtpost.com/8206989.html)
+**发布时间**: 2026-11-17 11:20
+
+#### [2026中国整合肿瘤学大会在长沙开幕](https://www.tmtpost.com/8207947.html)
+**发布时间**: 2026-11-17 10:45
+
+#### [七巨头中亚马逊走势图最亮眼，该如何操作](https://www.tmtpost.com/8207974.html)
+**发布时间**: 2026-11-17 10:16
+
+#### [Seedance 正杀死爱奇艺们](https://www.tmtpost.com/8207907.html)
+**发布时间**: 2026-11-17 10:05
+
+#### [小米首次开放电池产线，背后藏着一场供应链博弈](https://www.tmtpost.com/8207866.html)
+**发布时间**: 2026-11-17 10:04
+
+#### [Huang Leaves Nvidia. Chinese AI Buyers and Suppliers Feel It Next](https://www.tmtpost.com/8207932.html)
+**发布时间**: 2026-11-17 09:54
+
+#### [硅谷大佬出手！黄仁勋的班，女CEO接不了](https://www.tmtpost.com/8207215.html)
+**发布时间**: 2026-11-17 09:43
+
+#### [梁文锋越过聊天框](https://www.tmtpost.com/8207308.html)
+**发布时间**: 2026-11-17 09:33
+
+#### [李飞飞入职AMD，82亿美元收购提前交割](https://www.tmtpost.com/8207712.html)
+**发布时间**: 2026-11-17 09:33
+
+#### [没有什么宁王了](https://www.tmtpost.com/8207837.html)
+**发布时间**: 2026-11-17 09:33
+
+#### [Edge AI Daily 早报（11月17日）](https://www.tmtpost.com/8207785.html)
+**发布时间**: 2026-11-17 08:55
+
+#### [【钛晨报】涉比亚迪、“蔚小理”、小米等，17家重点车企供应商账期将接受评估；消息人士称360市场负责人被带走调查；金饰克价较年内高点跌去530元](https://www.tmtpost.com/8207624.html)
+**发布时间**: 2026-11-17 07:20
+
+#### [英伟达股价无需黄仁勋强势回归也能走强](https://www.tmtpost.com/8207692.html)
+**发布时间**: 2026-11-16 23:06
+
+#### [美光股价：为何强劲的内存价格可能无济于事](https://www.tmtpost.com/8207689.html)
+**发布时间**: 2026-11-16 23:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [为了另一种可能性：在国内折腾 Linux 打游戏的二三事](https://sspai.com/post/118442)
+**发布时间**: 2026-11-17 10:59
+
+#### [派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等](https://sspai.com/post/119160)
+**发布时间**: 2026-11-17 07:57
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚](http://www.geekpark.net/news/374056)
+**发布时间**: 2026-11-17 08:42
 
 ---
 

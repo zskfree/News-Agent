@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-16 13:27
+**最后更新时间**: 2026-11-17 05:00
+
+---
+
+## 🆕 最新更新 (2026-11-17 05:00)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?](https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 02:30
+
+#### [United Airlines resolves system outage that delayed flights Monday](https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 23:42
+
+#### [Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir](https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 23:28
+
+#### [Do Amazon’s Black Friday deals really save you money? A new report casts doubt.](https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 23:04
+
+#### [My husband is happily retired at 64 and thinks I should keep working. Is he being fair?](https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 23:00
+
+#### [U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball](https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 22:46
+
+#### [Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks](https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 22:33
+
+#### [The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.](https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-16 22:21
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade](https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 02:29
+
+#### [Russia aims for ‘joint statement’ from trilateral summit with US and China](https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 23:22
+
+#### [Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf](https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 21:20
+
+#### [OpenAI sued by California over 80 ‘loss of control’ incidents](https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 20:48
+
+#### [Nvidia board not considering reinstating Jensen Huang as chief executive](https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 18:14
+
+#### [Russia’s richest woman hit by EU sanctions](https://www.ft.com/content/4d014005-1a99-4e3e-88d5-b116fe2497bc?syn-25a6b1a6=1)
+**发布时间**: 2026-11-16 17:11
 
 ---
 
