@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-17 04:58
+**最后更新时间**: 2026-11-17 14:15
+
+---
+
+## 🆕 最新更新 (2026-11-17 14:15)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [消费级具身，打破「次元壁」](https://www.leiphone.com/category/industrynews/zEonnVT8L3iVNJkY.html)
+**发布时间**: 2026-11-17 18:22
+
+#### [阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%](https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html)
+**发布时间**: 2026-11-17 17:24
+
+#### [“BAT 做 Personal Agent，我没那么乐观”](https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html)
+**发布时间**: 2026-11-17 16:34
+
+#### [智源悟界·PhysCapBench：首个跨领域的世界模型“物理数据量尺”](https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html)
+**发布时间**: 2026-11-17 16:33
+
+#### [独家丨腾讯优图实验室研究总监孙星离职](https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html)
+**发布时间**: 2026-11-17 16:28
+
+#### [谁来帮助企业走向「智能组织」？](https://www.leiphone.com/category/CorporateServices/Hsnbxo0xUgb2FWkB.html)
+**发布时间**: 2026-11-17 16:24
+
+#### [闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常](https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html)
+**发布时间**: 2026-11-17 14:40
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure](https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/)
+**发布时间**: 2026-11-17 10:37
+
+#### [Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models](https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/)
+**发布时间**: 2026-11-17 09:51
+
+#### [Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index](https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/)
+**发布时间**: 2026-11-17 09:20
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-17日刊](https://hex2077.dev/docs/2026-11/2026-11-17/)
+**发布时间**: 2026-11-17 06:41
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Q&A: Why building math muscles remains important in the AI era](https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117)
+**发布时间**: 2026-11-17 00:00
+
+#### [Learning the language of machine learning](https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117)
+**发布时间**: 2026-11-17 00:00
 
 ---
 

@@ -1,7 +1,113 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-17 05:00
+**最后更新时间**: 2026-11-17 14:17
+
+---
+
+## 🆕 最新更新 (2026-11-17 14:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [纳芯微拟4.87亿控股隔空智能：268%评估增值零对赌，感知赛道再落子 ｜并购一线](https://www.tmtpost.com/8208705.html)
+**发布时间**: 2026-11-17 20:05
+
+#### [药康生物拟10倍PE买佰麦生物：两股东清仓离场，标的创始人“半退半守”丨并购一线](https://www.tmtpost.com/8208678.html)
+**发布时间**: 2026-11-17 19:57
+
+#### [China’s AI-for-Science Boom Is Selling Speed, Not Discovery](https://www.tmtpost.com/8208716.html)
+**发布时间**: 2026-11-17 19:15
+
+#### [吃过长鑫科技“大肉”之后，国元证券要在合肥下一盘大棋](https://www.tmtpost.com/8208379.html)
+**发布时间**: 2026-11-17 18:26
+
+#### [单季扣非亏损后签下17.9亿大单，光启技术业绩反转待考](https://www.tmtpost.com/8208645.html)
+**发布时间**: 2026-11-17 18:25
+
+#### [飞天茅台现在越来越像是日常消费品了](https://www.tmtpost.com/8208481.html)
+**发布时间**: 2026-11-17 18:19
+
+#### [一年少了约30万名学生：韩国补习市场大退潮？](https://www.tmtpost.com/8208435.html)
+**发布时间**: 2026-11-17 18:19
+
+#### [药明康德超预期背后：把科学的偶然，变成工业的必然](https://www.tmtpost.com/8207991.html)
+**发布时间**: 2026-11-17 17:21
+
+#### [“全民喝大水”时代的网约车司机困局](https://www.tmtpost.com/8207893.html)
+**发布时间**: 2026-11-17 17:21
+
+#### [DeepSeek限额，C端付费的前奏？](https://www.tmtpost.com/8207729.html)
+**发布时间**: 2026-11-17 17:21
+
+#### [6年7倍，中石油变了](https://www.tmtpost.com/8207987.html)
+**发布时间**: 2026-11-17 17:21
+
+#### [瑞士生物科技企业Orbis Medicines研发AI驱动高通量药物发现工艺，设计新型口服大环药物](https://www.tmtpost.com/8207902.html)
+**发布时间**: 2026-11-17 17:21
+
+#### [伦铜持续回调，中国的高价铜能托底吗？](https://www.tmtpost.com/8207594.html)
+**发布时间**: 2026-11-17 17:21
+
+#### [AI4S火热，离“ChatGPT时刻”还有多远？](https://www.tmtpost.com/8207938.html)
+**发布时间**: 2026-11-17 17:21
+
+#### [腾讯加速挺进AI下半场](https://www.tmtpost.com/8207501.html)
+**发布时间**: 2026-11-17 17:21
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？](http://www.geekpark.net/news/374103)
+**发布时间**: 2026-11-17 19:18
+
+#### [AI，没有抛弃小城商家](http://www.geekpark.net/news/374101)
+**发布时间**: 2026-11-17 17:58
+
+#### [腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代](http://www.geekpark.net/news/374083)
+**发布时间**: 2026-11-17 15:12
+
+#### [全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」](http://www.geekpark.net/news/374079)
+**发布时间**: 2026-11-17 14:41
+
+#### [OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」](http://www.geekpark.net/news/374075)
+**发布时间**: 2026-11-17 14:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [面向多智能体应用的大模型推理调度与缓存优化｜AICon北京](https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 18:53
+
+#### [Varlock 发布了 Bumpy：一种基于文件、可替代 Changesets 的版本控制方案](https://www.infoq.cn/article/SR3rNIg8NsPC3tWq48EM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 16:00
+
+#### [“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意](https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 15:09
+
+#### [Agent演示惊艳，一进生产就不好用：SAP直指企业AI落地的最大幻觉](https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 15:00
+
+#### [Leapwork Play 正式发布，提供面向 Playwright 测试的治理功能](https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 15:00
+
+#### [Google Cloud API Gateway 推出面向实时 AI 应用的流式处理](https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 14:00
+
+#### [Azure 版 LocalStack 进入公开预览阶段，安全设置会存储但不生效](https://www.infoq.cn/article/wPiiddayboPKUEH6m4Ss?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 13:00
+
+#### [企业 AI Native 研发流程升级与重塑](https://www.infoq.cn/article/4z7Bbxy92tjAI7MB5evM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-17 00:17
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏](https://sspai.com/post/119184)
+**发布时间**: 2026-11-17 17:02
+
+#### [TDS REVIEW｜Bose 有线消噪耳塞体验](https://sspai.com/post/118976)
+**发布时间**: 2026-11-17 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 5000+ Star，这个开源 AI 工作台，让团队共享 Skills、模型和知识库。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538592&idx=1&sn=acc2dbe9179d2eb7e6328d9025fee01d)
+**发布时间**: 2026-11-17 11:03
 
 ---
 

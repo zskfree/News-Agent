@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-17 05:00
+**最后更新时间**: 2026-11-17 14:17
+
+---
+
+## 🆕 最新更新 (2026-11-17 14:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The biggest financial decision of your life isn’t an investment — it’s your spouse](https://www.marketwatch.com/story/the-biggest-financial-decision-of-your-life-isnt-an-investment-its-your-spouse-1cbb8680?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 14:10
+
+#### [U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble?](https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 13:41
+
+#### [Now’s the perfect time for networking. Here’s how to send a cringe-free email.](https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 12:46
+
+#### [Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night](https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 12:28
+
+#### [Can Nvidia sell investors on a future without Jensen Huang?](https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 12:27
+
+#### [‘It is heartbreaking, exhausting and downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?](https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 11:15
+
+#### [Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists](https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 10:47
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US dollar rally erases ‘liberation day’ losses as rate expectations rise](https://www.ft.com/content/b8215e9c-bed2-49e8-a36f-6d7aca599bba?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 13:07
+
+#### [A misty outlook for rates](https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 12:30
+
+#### [AI grapples with the return of the ‘Antichrist’](https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 12:20
+
+#### [Nvidia creates committee to oversee compliance with US chip export controls](https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 11:24
+
+#### [Ukraine destroys section of Crimea bridge in fierce exchange](https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 09:01
+
+#### [Leak of 15mn Deutsche Bank files exposes systemic failures](https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 08:09
+
+#### [Epstein’s dealings with Deutsche were far larger than previously known](https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 06:00
+
+#### [An ‘awful mistake’ that leaked Trump’s tax statements](https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 06:00
+
+#### [‘Katastrophe’: inside the chaos at Germany’s biggest bank](https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 06:00
+
+#### [‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump](https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 05:00
+
+#### [Finland urges European leaders to talk to Putin directly](https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 05:00
+
+#### [Nvidia’s interim CEO Colette Kress to make her debut at first earnings](https://www.ft.com/content/424e5ab0-517e-4f8e-a286-df7c67fa05a6?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 05:00
+
+#### [Oligarch’s ex-wife to claim £600mn for ‘reasonable needs’ in London divorce case](https://www.ft.com/content/969f0f82-7dd5-4d63-8f60-ee967028f744?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 05:00
 
 ---
 

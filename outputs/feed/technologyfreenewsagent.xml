@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Nov 2026 05:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 05:01:19 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 14:17:00 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:17:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具</title>
-      <link>https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>瑞士生物科技企业Orbis Medicines研发AI驱动高通量药物发现工艺，设计新型口服大环药物</title>
+      <link>https://www.tmtpost.com/8207902.html</link>
+      <description>&lt;![CDATA[瑞士生物科技企业Orbis Medicines研发AI驱动高通量药物发现工艺，设计新型口服大环药物]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 17:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8207902.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等</title>
-      <link>https://sspai.com/post/119160</link>
-      <description>&lt;![CDATA[派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 07:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/119160</guid>
+      <title>吃过长鑫科技“大肉”之后，国元证券要在合肥下一盘大棋</title>
+      <link>https://www.tmtpost.com/8208379.html</link>
+      <description>&lt;![CDATA[吃过长鑫科技“大肉”之后，国元证券要在合肥下一盘大棋]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 18:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8208379.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本</title>
-      <link>https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>单季扣非亏损后签下17.9亿大单，光启技术业绩反转待考</title>
+      <link>https://www.tmtpost.com/8208645.html</link>
+      <description>&lt;![CDATA[单季扣非亏损后签下17.9亿大单，光启技术业绩反转待考]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8208645.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能</title>
-      <link>https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」</title>
+      <link>http://www.geekpark.net/news/374079</link>
+      <description>&lt;![CDATA[全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 14:41:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/374079</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题</title>
-      <link>https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Varlock 发布了 Bumpy：一种基于文件、可替代 Changesets 的版本控制方案</title>
+      <link>https://www.infoq.cn/article/SR3rNIg8NsPC3tWq48EM?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Varlock 发布了 Bumpy：一种基于文件、可替代 Changesets 的版本控制方案]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SR3rNIg8NsPC3tWq48EM?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 SDLC 到 ADLC：宝洁的 AI 原生组织实验</title>
-      <link>https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 SDLC 到 ADLC：宝洁的 AI 原生组织实验]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Leapwork Play 正式发布，提供面向 Playwright 测试的治理功能</title>
+      <link>https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Leapwork Play 正式发布，提供面向 Playwright 测试的治理功能]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六</title>
-      <link>https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 10:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C?utm_source=rss&amp;utm_medium=article</guid>
+      <title>纳芯微拟4.87亿控股隔空智能：268%评估增值零对赌，感知赛道再落子 ｜并购一线</title>
+      <link>https://www.tmtpost.com/8208705.html</link>
+      <description>&lt;![CDATA[纳芯微拟4.87亿控股隔空智能：268%评估增值零对赌，感知赛道再落子 ｜并购一线]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 20:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8208705.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 的后量子 GeoKey Manager 进入封闭测试阶段，暂不支持基于属性加密</title>
-      <link>https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 的后量子 GeoKey Manager 进入封闭测试阶段，暂不支持基于属性加密]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 10:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>药康生物拟10倍PE买佰麦生物：两股东清仓离场，标的创始人“半退半守”丨并购一线</title>
+      <link>https://www.tmtpost.com/8208678.html</link>
+      <description>&lt;![CDATA[药康生物拟10倍PE买佰麦生物：两股东清仓离场，标的创始人“半退半守”丨并购一线]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 19:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8208678.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“学霸”自首AI作弊，韩国高考紧急布防</title>
-      <link>https://www.tmtpost.com/8208106.html</link>
-      <description>&lt;![CDATA[“学霸”自首AI作弊，韩国高考紧急布防]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8208106.html</guid>
+      <title>China’s AI-for-Science Boom Is Selling Speed, Not Discovery</title>
+      <link>https://www.tmtpost.com/8208716.html</link>
+      <description>&lt;![CDATA[China’s AI-for-Science Boom Is Selling Speed, Not Discovery]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 19:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8208716.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>下跌周期中的MinMax：早期投资者和闫俊杰的AI畅谈</title>
-      <link>https://www.tmtpost.com/8207380.html</link>
-      <description>&lt;![CDATA[下跌周期中的MinMax：早期投资者和闫俊杰的AI畅谈]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8207380.html</guid>
+      <title>飞天茅台现在越来越像是日常消费品了</title>
+      <link>https://www.tmtpost.com/8208481.html</link>
+      <description>&lt;![CDATA[飞天茅台现在越来越像是日常消费品了]]&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8208481.html</guid>
       <category>Technology</category>
     </item>
   </channel>
