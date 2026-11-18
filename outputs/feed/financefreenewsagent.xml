@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Nov 2026 04:05:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2026 04:05:43 GMT</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 13:43:00 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:44:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Russia’s Putin addresses global CEOs in China</title>
+      <title>Low-profile VCs set for $100bn windfall from Anthropic IPO</title>
+      <link>https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Low-profile VCs set for $100bn windfall from Anthropic IPO]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO</title>
+      <link>https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 12:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Xi greets Trump with hug ahead of historic summit with Putin</title>
+      <link>https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Xi greets Trump with hug ahead of historic summit with Putin]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 13:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The only way out of populism is through it</title>
+      <link>https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[The only way out of populism is through it]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 13:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US tech outages blamed on rush to fix bugs found by AI</title>
+      <link>https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[US tech outages blamed on rush to fix bugs found by AI]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 12:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Democrats probe whether Lutnick helped Cantor avoid Nvidia losses</title>
+      <link>https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Democrats probe whether Lutnick helped Cantor avoid Nvidia losses]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB</title>
+      <link>https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>SoftBank regrets ‘mistake’ of not backing Anthropic, says Son</title>
+      <link>https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[SoftBank regrets ‘mistake’ of not backing Anthropic, says Son]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 07:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Putin pushes ‘Eurasian’ order ahead of meeting with Xi and Trump</title>
       <link>https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Russia’s Putin addresses global CEOs in China]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 03:23:00 GMT</pubDate>
+      <description>&lt;![CDATA[Putin pushes ‘Eurasian’ order ahead of meeting with Xi and Trump]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 05:10:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nvidia has a chance to trade drama for durability</title>
-      <link>https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Nvidia has a chance to trade drama for durability]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 02:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US cyber security agency warns over vulnerability in Oracle’s Java</title>
-      <link>https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[US cyber security agency warns over vulnerability in Oracle’s Java]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 02:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘Witness the Wonders’: China touts miracle city for Trump summit</title>
-      <link>https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[‘Witness the Wonders’: China touts miracle city for Trump summit]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 02:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia insists Huang will not return as CEO as it reports strong sales</title>
-      <link>https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Nvidia insists Huang will not return as CEO as it reports strong sales]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 00:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Marine Le Pen floats lowering France’s retirement age to as low as 60</title>
-      <link>https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Marine Le Pen floats lowering France’s retirement age to as low as 60]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 21:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings</title>
-      <link>https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings]]&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing</title>
-      <link>https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 01:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Medicare Part B premiums rise due higher healthcare spending</title>
-      <link>https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Medicare Part B premiums rise due higher healthcare spending]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 01:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia’s stock rises as blowout numbers help ease CEO transition fears</title>
-      <link>https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia’s stock rises as blowout numbers help ease CEO transition fears]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 01:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories</guid>
+      <title>AI asked ‘better questions’ than KPMG accountants in pilot audit</title>
+      <link>https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[AI asked ‘better questions’ than KPMG accountants in pilot audit]]&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>

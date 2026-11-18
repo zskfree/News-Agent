@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-18 04:02
+**最后更新时间**: 2026-11-18 13:41
+
+---
+
+## 🆕 最新更新 (2026-11-18 13:41)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [“无人机外卖”加速出海，迪拜居民在家门口收到“空中外卖”](https://www.leiphone.com/category/industrynews/SGCHiaZaK40MbNz8.html)
+**发布时间**: 2026-11-18 19:22
+
+#### [纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人](https://www.leiphone.com/category/transportation/GLv3yGaPGK64teuS.html)
+**发布时间**: 2026-11-18 18:28
+
+#### [黄仁勋归期悬而未决，买GPU的人已经不敢下单](https://www.leiphone.com/category/chips/WHSLCH74nrSJW6OE.html)
+**发布时间**: 2026-11-18 17:45
+
+#### [对话“中国主板教父”吴福禄](https://www.leiphone.com/category/industrynews/YCL7IapyaOICHlBN.html)
+**发布时间**: 2026-11-18 16:43
+
+#### [清华徐梦迪：预训练做再好都不够，机器人需要在部署中学习 | CoRL 2026](https://www.leiphone.com/category/private/S1vnQSfDZDVC7TWb.html)
+**发布时间**: 2026-11-18 16:28
+
+#### [美团推出多项国际化服务举措，青山计划再生座椅亮相APEC新闻中心](https://www.leiphone.com/category/industrynews/Znu1T5u6OVaPxmxP.html)
+**发布时间**: 2026-11-18 16:08
+
+#### [做了20多年消费硬件，奥尼电子为什么去做Token工厂？](https://www.leiphone.com/category/chips/DNqOGFbDk2Vd5eiX.html)
+**发布时间**: 2026-11-18 15:52
+
+#### [继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作](https://www.leiphone.com/category/industrynews/dDQc2ToCG7vy6d8x.html)
+**发布时间**: 2026-11-18 13:34
+
+#### [继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作](https://www.leiphone.com/category/industrynews/vgLr7jdsQ61ngs7W.html)
+**发布时间**: 2026-11-18 13:32
+
+#### [海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂](https://www.leiphone.com/category/industrynews/ukrIJ082d0MIuodR.html)
+**发布时间**: 2026-11-18 13:31
+
+#### [千问办公电商版推出“品牌知识库”，让Agent先懂品牌，再干活](https://www.leiphone.com/category/industrynews/DEwlGyHOnFTL6jRy.html)
+**发布时间**: 2026-11-18 11:26
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Gemini新模型Neon箭在弦上，网友：遍历元素周期表？](https://www.qbitai.com/2026/11/510922.html)
+**发布时间**: 2026-11-18 09:41
+
+#### [GPT-6.2难产！OpenAI怕了](https://www.qbitai.com/2026/11/510914.html)
+**发布时间**: 2026-11-18 07:53
+
+#### [全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线](https://www.qbitai.com/2026/11/510916.html)
+**发布时间**: 2026-11-18 07:24
+
+#### [思维链一作Jason Wei离职！怎么去Meta待一年都跑路](https://www.qbitai.com/2026/11/510811.html)
+**发布时间**: 2026-11-18 04:49
+
+#### [英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿](https://www.qbitai.com/2026/11/510821.html)
+**发布时间**: 2026-11-18 04:28
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode](https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/)
+**发布时间**: 2026-11-18 07:10
+
+#### [Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript](https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/)
+**发布时间**: 2026-11-18 06:53
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-18日刊](https://hex2077.dev/docs/2026-11/2026-11-18/)
+**发布时间**: 2026-11-18 06:07
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Helping AI text detectors keep up with changing conditions](https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118)
+**发布时间**: 2026-11-18 00:00
 
 ---
 

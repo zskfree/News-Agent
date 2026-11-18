@@ -1,7 +1,114 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-18 04:05
+**最后更新时间**: 2026-11-18 13:43
+
+---
+
+## 🆕 最新更新 (2026-11-18 13:43)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋](http://www.geekpark.net/news/374175)
+**发布时间**: 2026-11-18 21:40
+
+#### [影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！](http://www.geekpark.net/news/374125)
+**发布时间**: 2026-11-18 12:12
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [戴尔股价自我们最初推荐以来已翻倍，现在该卖出了](https://www.tmtpost.com/8210456.html)
+**发布时间**: 2026-11-18 21:34
+
+#### [股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局](https://www.tmtpost.com/8210365.html)
+**发布时间**: 2026-11-18 20:45
+
+#### [“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地](https://www.tmtpost.com/8210345.html)
+**发布时间**: 2026-11-18 20:11
+
+#### [黄仁勋一直在权力游戏里裸奔](https://www.tmtpost.com/8209729.html)
+**发布时间**: 2026-11-18 18:26
+
+#### [中国人为什么有钱不爱花，我们可能一直理解错了](https://www.tmtpost.com/8209423.html)
+**发布时间**: 2026-11-18 18:25
+
+#### [腾讯音乐Q3财报：89.4亿营收背后的“结构转换期”](https://www.tmtpost.com/8209332.html)
+**发布时间**: 2026-11-18 18:24
+
+#### [大厂AI对照系：李彦宏布道，马化腾预警](https://www.tmtpost.com/8208862.html)
+**发布时间**: 2026-11-18 18:24
+
+#### [黄天鹅创始人的前东家冲击IPO：90后创二代接管，一年卖出30亿枚高端鸡蛋](https://www.tmtpost.com/8208824.html)
+**发布时间**: 2026-11-18 18:18
+
+#### [白酒消费理性时代，剑南春跑出长期复利](https://www.tmtpost.com/8209304.html)
+**发布时间**: 2026-11-18 18:11
+
+#### [一年半连推四款新车，日产为何还是焦虑？](https://www.tmtpost.com/8210062.html)
+**发布时间**: 2026-11-18 18:07
+
+#### [狂奔后的冷却，AI玩具能跑出下一个泡泡玛特吗？](https://www.tmtpost.com/8208866.html)
+**发布时间**: 2026-11-18 18:07
+
+#### [离开黄仁勋的第一周，英伟达单季狂揽1158亿美元](https://www.tmtpost.com/8209875.html)
+**发布时间**: 2026-11-18 18:03
+
+#### [后外卖大战时代：美团、阿里、京东竞争在别处](https://www.tmtpost.com/8209893.html)
+**发布时间**: 2026-11-18 18:03
+
+#### [华为这一招还是太精明，京东方们立大功了](https://www.tmtpost.com/8209969.html)
+**发布时间**: 2026-11-18 18:03
+
+#### [第一批打工的人形机器人，有的已经失业了](https://www.tmtpost.com/8209375.html)
+**发布时间**: 2026-11-18 17:51
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从“能写代码”到“能交付”：腾讯轻量云 LoopForge 云端 Loop实践](https://www.infoq.cn/article/Ae5uw6m9wC2gj5QUCC36?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 18:59
+
+#### [Agent 驱动 MaaS 新范式，如何让模型能力随需而用？](https://www.infoq.cn/video/xsEfht2OwBZQBvWVHSIb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 18:50
+
+#### [从 AI 试点到规模化生产：Snowflake 驻场前沿工程师如何助力企业实现 AI 落地 ｜ 技术趋势](https://www.infoq.cn/article/ZukzUBeu7k74T9UGCkfh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 18:44
+
+#### [如何让 Agent 从“能跑起来”到“可规模化、可信赖地持续生产”？](https://www.infoq.cn/video/uzyzSB9HkO1wwi5w4w9F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 18:24
+
+#### [业务本体：面向 AI 与数据分析，统一规范业务概念与指标口径 ｜ 技术趋势](https://www.infoq.cn/article/GSGpEUU4dCdppTCmaOSy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 18:23
+
+#### [从快速部署到统一运营，Agent 的 AH Moment 来了！](https://www.infoq.cn/video/AWswNIWpvlNvaWY8MTDd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 15:40
+
+#### [800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了](https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 14:00
+
+#### [基于昇腾算力的大模型推理加速研究与实践｜AICon北京](https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 14:00
+
+#### [纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇](https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 13:55
+
+#### [“绝不愿再创办一次英伟达！”黄仁勋亲述创业33年背后的代价](https://www.infoq.cn/article/e7Gtfwy4TI26o5elxRwT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 13:50
+
+#### [谷歌 SRE 圣经被迫重写：AI 时代，硬技能在塌陷，第一性原理在升值](https://www.infoq.cn/article/draE95cYeLAqhcR3CwIF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 13:39
+
+#### [Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac](https://www.infoq.cn/article/oSiN27BaersaKQcQGdaa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 13:00
+
+#### [Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持](https://www.infoq.cn/article/4PEbu8cLHkgz0oUF3etE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 12:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [10 月音乐精选：音乐丰收季，必听这 7 张新专辑](https://sspai.com/post/118985)
+**发布时间**: 2026-11-18 16:59
+
+#### [App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑](https://sspai.com/post/118732)
+**发布时间**: 2026-11-18 14:54
 
 ---
 

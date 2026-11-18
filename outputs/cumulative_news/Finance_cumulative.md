@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-18 04:05
+**最后更新时间**: 2026-11-18 13:43
+
+---
+
+## 🆕 最新更新 (2026-11-18 13:43)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Xi greets Trump with hug ahead of historic summit with Putin](https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 13:09
+
+#### [The only way out of populism is through it](https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 13:04
+
+#### [US tech outages blamed on rush to fix bugs found by AI](https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 12:44
+
+#### [Democrats probe whether Lutnick helped Cantor avoid Nvidia losses](https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 09:45
+
+#### [AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB](https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 09:00
+
+#### [SoftBank regrets ‘mistake’ of not backing Anthropic, says Son](https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 07:56
+
+#### [Putin pushes ‘Eurasian’ order ahead of meeting with Xi and Trump](https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 05:10
+
+#### [Low-profile VCs set for $100bn windfall from Anthropic IPO](https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 05:00
+
+#### [AI asked ‘better questions’ than KPMG accountants in pilot audit](https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 05:00
+
+#### [Democrats win Alaska Senate seat to complete midterms victory](https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 04:59
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Measles cases in the U.S. are at a 35-year high. Here’s the staggering cost of these outbreaks for all Americans.](https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 13:00
+
+#### [Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO](https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 12:22
+
+#### [The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues](https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 11:38
+
+#### [Target is seeing a revival — but it still needs to work on shoes and women’s clothing](https://www.marketwatch.com/story/target-is-seeing-a-revival-but-it-still-needs-to-work-on-shoes-and-womens-clothing-afb16799?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 11:33
+
+#### [The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.](https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 11:23
+
+#### [Strategists say investors should start asking ‘what could go right’ after tech’s 42% valuation reset](https://www.marketwatch.com/story/strategists-say-investors-should-start-asking-what-could-go-right-after-techs-42-valuation-reset-279a640a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 11:17
 
 ---
 
