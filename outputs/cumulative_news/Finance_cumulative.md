@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-17 14:17
+**最后更新时间**: 2026-11-18 04:05
+
+---
+
+## 🆕 最新更新 (2026-11-18 04:05)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russia’s Putin addresses global CEOs in China](https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 03:23
+
+#### [Nvidia has a chance to trade drama for durability](https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 02:56
+
+#### [US cyber security agency warns over vulnerability in Oracle’s Java](https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 02:19
+
+#### [‘Witness the Wonders’: China touts miracle city for Trump summit](https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 02:17
+
+#### [Nvidia insists Huang will not return as CEO as it reports strong sales](https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 00:45
+
+#### [Marine Le Pen floats lowering France’s retirement age to as low as 60](https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 21:03
+
+#### [How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings](https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 15:33
+
+#### [‘There was a lot of gaslighting’: why America’s podcast stars ditched Trump](https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1)
+**发布时间**: 2026-11-17 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing](https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 01:59
+
+#### [Medicare Part B premiums rise due higher healthcare spending](https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 01:45
+
+#### [Nvidia’s stock rises as blowout numbers help ease CEO transition fears](https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 01:28
+
+#### [Costco is benefiting from ‘apocalyptic concerns’ as customers stock up on goods, analysts say](https://www.marketwatch.com/story/costco-is-benefiting-from-apocalyptic-concerns-as-customers-stock-up-on-goods-analysts-say-24f611ab?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 22:46
+
+#### [‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?](https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 22:30
+
+#### [‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 22:15
+
+#### [Want to earn 5% on shorter-term Treasurys again? Watch for this shift.](https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 22:08
+
+#### [My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?](https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories)
+**发布时间**: 2026-11-17 21:30
 
 ---
 

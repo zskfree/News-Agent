@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-17 14:17
+**最后更新时间**: 2026-11-18 04:05
+
+---
+
+## 🆕 最新更新 (2026-11-18 04:05)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak](https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 11:00
+
+#### [代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库](https://www.infoq.cn/article/eqUZMBIWrmaH7XxbfGro?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 10:00
+
+#### [GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？](https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-18 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
+**发布时间**: 2026-11-18 11:00
+
+#### [兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975)
+**发布时间**: 2026-11-18 10:30
+
+#### [派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
+**发布时间**: 2026-11-18 08:46
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年](https://www.tmtpost.com/8209258.html)
+**发布时间**: 2026-11-18 10:30
+
+#### [国产户外品牌，吃到凯乐石让出的平价生态了吗？](https://www.tmtpost.com/8208700.html)
+**发布时间**: 2026-11-18 10:13
+
+#### [大洋彼岸的数据中心成了洪水猛兽](https://www.tmtpost.com/8208735.html)
+**发布时间**: 2026-11-18 10:09
+
+#### [顺为资本押注的天才，被告到英国司法机构](https://www.tmtpost.com/8208723.html)
+**发布时间**: 2026-11-18 10:02
+
+#### [GPT-6.2 Astra终于上线，从PPT做到发动机](https://www.tmtpost.com/8209040.html)
+**发布时间**: 2026-11-18 09:58
+
+#### [芯片供不应求，台积电却开始给客户“验资”？](https://www.tmtpost.com/8208977.html)
+**发布时间**: 2026-11-18 09:51
+
+#### [英伟达，段永平的投资压力测试](https://www.tmtpost.com/8208863.html)
+**发布时间**: 2026-11-18 09:39
+
+#### [爱奇艺，再不努力就退了](https://www.tmtpost.com/8208727.html)
+**发布时间**: 2026-11-18 09:33
+
+#### [蚂蚁灵波，又放大招了](https://www.tmtpost.com/8208722.html)
+**发布时间**: 2026-11-18 09:27
+
+#### [理想出海的右舵首战：为什么先派出MEGA？](https://www.tmtpost.com/8208799.html)
+**发布时间**: 2026-11-18 09:20
+
+#### [黄仁勋反攻了：我将重返英伟达任 CEO，如果董事会允许](https://www.tmtpost.com/8208942.html)
+**发布时间**: 2026-11-18 09:20
+
+#### [实测：我们用AI做游戏，把开发成本打到了20块](https://www.tmtpost.com/8208805.html)
+**发布时间**: 2026-11-18 09:13
+
+#### [大家都不看电视了，为什么TCL电子还那么赚钱](https://www.tmtpost.com/8208783.html)
+**发布时间**: 2026-11-18 08:56
+
+#### [AI行业里，被高薪叙事平均掉的人](https://www.tmtpost.com/8208844.html)
+**发布时间**: 2026-11-18 08:50
+
+#### [Edge AI Daily 早报（11月18日）](https://www.tmtpost.com/8208923.html)
+**发布时间**: 2026-11-18 08:48
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道](http://www.geekpark.net/news/374109)
+**发布时间**: 2026-11-18 08:48
 
 ---
 

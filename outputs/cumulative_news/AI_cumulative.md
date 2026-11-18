@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-17 14:15
+**最后更新时间**: 2026-11-18 04:02
+
+---
+
+## 🆕 最新更新 (2026-11-18 04:02)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度](https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html)
+**发布时间**: 2026-11-18 09:48
+
+#### [黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO；阿里调整员工回流政策：离职两次不得回流原集团；红果被曝筹备电视端独立APP](https://www.leiphone.com/category/zaobao/OlqabqceGorcm242.html)
+**发布时间**: 2026-11-18 08:56
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？](https://www.qbitai.com/2026/11/510737.html)
+**发布时间**: 2026-11-18 02:49
+
+#### [黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑](https://www.qbitai.com/2026/11/510726.html)
+**发布时间**: 2026-11-18 01:03
+
+#### [GPT-6.2 Astra和Sol王炸双发！3D又危了](https://www.qbitai.com/2026/11/510707.html)
+**发布时间**: 2026-11-18 00:49
+
+#### [并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎](https://www.qbitai.com/2026/11/510695.html)
+**发布时间**: 2026-11-17 14:15
+
+#### [李沐加盟的Aimotion，是一家什么AI公司？](https://www.qbitai.com/2026/11/510688.html)
+**发布时间**: 2026-11-17 11:40
+
+#### [材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率](https://www.qbitai.com/2026/11/510652.html)
+**发布时间**: 2026-11-17 06:09
+
+#### [真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！](https://www.qbitai.com/2026/11/510610.html)
+**发布时间**: 2026-11-17 04:35
+
+#### [奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…](https://www.qbitai.com/2026/11/510592.html)
+**发布时间**: 2026-11-17 02:33
+
+#### [物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs](https://www.qbitai.com/2026/11/510561.html)
+**发布时间**: 2026-11-17 02:03
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference](https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/)
+**发布时间**: 2026-11-17 23:33
+
+#### [Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads](https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/)
+**发布时间**: 2026-11-17 22:44
+
+#### [Cut generative AI costs: Code for rules, models for judgment](https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/)
+**发布时间**: 2026-11-17 21:14
+
+#### [Amazon SageMaker AI real-time endpoints now support KV cache aware routing](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/)
+**发布时间**: 2026-11-17 21:11
+
+#### [Govern and discover records with common metadata in AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/)
+**发布时间**: 2026-11-17 20:31
+
+#### [Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-17 20:25
+
+#### [Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows](https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/)
+**发布时间**: 2026-11-17 19:40
+
+#### [Getting AI out of the demo and into businesses globally](https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally/)
+**发布时间**: 2026-11-17 19:05
+
+#### [Build WhatsApp AI agents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-17 18:48
+
+#### [Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/)
+**发布时间**: 2026-11-17 18:06
+
+#### [Your complete guide to AWS Quick at AWS re:Invent 2026](https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/)
+**发布时间**: 2026-11-17 17:08
+
+#### [How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/)
+**发布时间**: 2026-11-17 17:01
+
+#### [Responsible AI for agentic AI: A phased roadmap for platform and application teams](https://aws.amazon.com/blogs/machine-learning/responsible-ai-for-agentic-ai-a-phased-roadmap-for-platform-and-application-teams/)
+**发布时间**: 2026-11-17 16:56
+
+#### [How ArisGlobal scaled generative AI inference on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock/)
+**发布时间**: 2026-11-17 15:57
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work](https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/)
+**发布时间**: 2026-11-17 22:52
+
+#### [OpenAI Releases GPT-6.2 Astra and Sol With a 20% Cheaper Astra API](https://www.marktechpost.com/2026/11/17/openai-gpt-6-2-astra-sol-release/)
+**发布时间**: 2026-11-17 22:07
+
+#### [Clearing Up the Confusion on AI Data Retention: Two Standard Designs Explained](https://www.marktechpost.com/2026/11/17/zero-data-retention-ai-apis-explained/)
+**发布时间**: 2026-11-17 20:49
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Putting a spotlight on AI, society, and humanity](https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117)
+**发布时间**: 2026-11-17 15:40
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](https://blogs.nvidia.com/blog/ian-buck-sc26/)
+**发布时间**: 2026-11-17 14:00
 
 ---
 
