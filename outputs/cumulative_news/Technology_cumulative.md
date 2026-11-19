@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-18 13:43
+**最后更新时间**: 2026-11-19 04:01
+
+---
+
+## 🆕 最新更新 (2026-11-19 04:01)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [持械入宋的商汤迷局](https://www.tmtpost.com/8210314.html)
+**发布时间**: 2026-11-19 11:50
+
+#### [小马智行三季报：Robotaxi撑起四成营收，商业化进程提速](https://www.tmtpost.com/8210512.html)
+**发布时间**: 2026-11-19 10:16
+
+#### [名创优品三季报把TOP TOY底裤扒光了](https://www.tmtpost.com/8210308.html)
+**发布时间**: 2026-11-19 10:15
+
+#### [曾妍的新论文，就是字节“10万亿”路线图](https://www.tmtpost.com/8210148.html)
+**发布时间**: 2026-11-19 10:15
+
+#### [浙能迈领：一边大额分红一边拟募资引争议，第一大客户收入占比逼近70%](https://www.tmtpost.com/8209770.html)
+**发布时间**: 2026-11-19 09:53
+
+#### [征祥医药：八年累计烧钱超10亿，同期股权交易价差引争议](https://www.tmtpost.com/8209803.html)
+**发布时间**: 2026-11-19 09:51
+
+#### [Edge AI Daily 早报（11月19日）](https://www.tmtpost.com/8210615.html)
+**发布时间**: 2026-11-19 09:05
+
+#### [【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点](https://www.tmtpost.com/8210449.html)
+**发布时间**: 2026-11-19 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功](https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 11:00
+
+#### [Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化](https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 11:00
+
+#### [微软将停用 Azure 部署环境，而且不会推出替代产品](https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 10:00
+
+#### [从可用到好用：Agent 的观测、评估与持续优化｜AICon北京](https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [徒步旅行指南 | 玉龙虎跳峡与天堂雨崩](https://sspai.com/post/119039)
+**发布时间**: 2026-11-19 10:58
+
+#### [派早报：Apple 年度应用、TGA 2026 分别公布入围名单等](https://sspai.com/post/119239)
+**发布时间**: 2026-11-19 08:29
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道](http://www.geekpark.net/news/374177)
+**发布时间**: 2026-11-19 09:03
 
 ---
 

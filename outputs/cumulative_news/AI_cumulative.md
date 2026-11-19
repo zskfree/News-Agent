@@ -1,7 +1,99 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-18 13:41
+**最后更新时间**: 2026-11-19 03:59
+
+---
+
+## 🆕 最新更新 (2026-11-19 03:59)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「动刀」；英特尔被曝再度裁员，波及全球IT员工](https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html)
+**发布时间**: 2026-11-19 08:59
+
+#### [豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元](https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html)
+**发布时间**: 2026-11-18 21:18
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence](https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/)
+**发布时间**: 2026-11-19 03:23
+
+#### [New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%](https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/)
+**发布时间**: 2026-11-18 16:07
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [范式下场做基模了！国产算力全链路训练，双模型同步亮相](https://www.qbitai.com/2026/11/511071.html)
+**发布时间**: 2026-11-19 03:01
+
+#### [初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！](https://www.qbitai.com/2026/11/510947.html)
+**发布时间**: 2026-11-19 00:26
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization](https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/)
+**发布时间**: 2026-11-19 00:15
+
+#### [Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips](https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/)
+**发布时间**: 2026-11-18 23:58
+
+#### [Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/)
+**发布时间**: 2026-11-18 23:03
+
+#### [Introducing the Amazon SageMaker JumpStart Model Leaderboard](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/)
+**发布时间**: 2026-11-18 22:31
+
+#### [How Airbnb uses cost per task to operate coding agents on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/)
+**发布时间**: 2026-11-18 21:48
+
+#### [Design responsible AI controls for Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/)
+**发布时间**: 2026-11-18 21:38
+
+#### [Private certificate authority support in Amazon Bedrock AgentCore Identity](https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/)
+**发布时间**: 2026-11-18 20:53
+
+#### [How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/)
+**发布时间**: 2026-11-18 20:13
+
+#### [How Social Department built culture-aware video discovery](https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery/)
+**发布时间**: 2026-11-18 19:27
+
+#### [Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/)
+**发布时间**: 2026-11-18 19:05
+
+#### [How Stretto built an AI voice agent with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/)
+**发布时间**: 2026-11-18 18:58
+
+#### [From reporting to reasoning: Getting enterprise data ready for AI agents](https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/)
+**发布时间**: 2026-11-18 18:54
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency](https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin)
+**发布时间**: 2026-11-18 19:54
+
+#### [Why your fine-tuning job takes longer than the FLOPs say](https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time)
+**发布时间**: 2026-11-18 18:53
+
+#### [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
+**发布时间**: 2026-11-18 15:00
+
+#### [180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers](https://huggingface.co/blog/moe-expert-streaming)
+**发布时间**: 2026-11-18 00:00
+
+#### [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](https://huggingface.co/blog/rumble-2-flash)
+**发布时间**: 2026-11-18 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [This featherweight, flying robot carries its own sensors and computers](https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118)
+**发布时间**: 2026-11-18 14:00
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA RTX Spark Compact Desktops Out Now](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/)
+**发布时间**: 2026-11-18 14:00
 
 ---
 

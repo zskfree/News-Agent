@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-18 13:43
+**最后更新时间**: 2026-11-19 04:01
+
+---
+
+## 🆕 最新更新 (2026-11-19 04:01)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?](https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 03:30
+
+#### [Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings](https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 01:02
+
+#### [‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 00:30
+
+#### [What the ‘death cross’ in small-cap stocks means for the rest of the market](https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 23:12
+
+#### [How copper’s plunge could hurt the AI buildout](https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 23:02
+
+#### [The stock market is being rocked by the biggest shake-up in a generation as tech falls behind](https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 22:53
+
+#### [Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock](https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 22:31
+
+#### [Is Social Security a Ponzi scheme? No, but fear is fueling such talk.](https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-18 22:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Meta pauses plans to create non-voting share class after investor lawsuit](https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 03:21
+
+#### [Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans](https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 02:19
+
+#### [Trump, Xi and Putin to hold high-stakes trilateral summit](https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f)
+**发布时间**: 2026-11-19 01:31
+
+#### [City firms told to tighten cyber defences as AI exposes vulnerabilities](https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 00:01
+
+#### [Anthropic raises $81bn in record IPO](https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 22:04
+
+#### [Nvidia accelerates pay rises as interim CEO seeks to lift staff morale](https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 20:40
+
+#### [‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback](https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1)
+**发布时间**: 2026-11-18 20:15
 
 ---
 

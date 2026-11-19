@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Nov 2026 13:43:00 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2026 13:44:04 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 04:01:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:01:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！</title>
-      <link>http://www.geekpark.net/news/374125</link>
-      <description>&lt;![CDATA[影视飓风、Manus、影石、OPPO......极客公园创新大会 2027 嘉宾阵容更新！]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 12:12:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374125</guid>
+      <title>【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点</title>
+      <link>https://www.tmtpost.com/8210449.html</link>
+      <description>&lt;![CDATA[【钛晨报】事关国有资本布局优化，国资委提三条要求；资本市场辟谣平台：“国常会上有人表态不会再频繁救市了”系谣言；美联储理事沃勒：若不释放1月加息的信号，应在12月加息50个基点]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8210449.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地</title>
-      <link>https://www.tmtpost.com/8210345.html</link>
-      <description>&lt;![CDATA[“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 20:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8210345.html</guid>
+      <title>Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化</title>
+      <link>https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 AI 试点到规模化生产：Snowflake 驻场前沿工程师如何助力企业实现 AI 落地 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/ZukzUBeu7k74T9UGCkfh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 AI 试点到规模化生产：Snowflake 驻场前沿工程师如何助力企业实现 AI 落地 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZukzUBeu7k74T9UGCkfh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>微软将停用 Azure 部署环境，而且不会推出替代产品</title>
+      <link>https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软将停用 Azure 部署环境，而且不会推出替代产品]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>业务本体：面向 AI 与数据分析，统一规范业务概念与指标口径 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/GSGpEUU4dCdppTCmaOSy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[业务本体：面向 AI 与数据分析，统一规范业务概念与指标口径 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 18:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GSGpEUU4dCdppTCmaOSy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>小马智行三季报：Robotaxi撑起四成营收，商业化进程提速</title>
+      <link>https://www.tmtpost.com/8210512.html</link>
+      <description>&lt;![CDATA[小马智行三季报：Robotaxi撑起四成营收，商业化进程提速]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8210512.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋</title>
-      <link>http://www.geekpark.net/news/374175</link>
-      <description>&lt;![CDATA[跑分狂飙，实测翻车，刚发的 GPT-6.2 暴露了 OpenAI 的软肋]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 21:40:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374175</guid>
+      <title>名创优品三季报把TOP TOY底裤扒光了</title>
+      <link>https://www.tmtpost.com/8210308.html</link>
+      <description>&lt;![CDATA[名创优品三季报把TOP TOY底裤扒光了]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8210308.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>戴尔股价自我们最初推荐以来已翻倍，现在该卖出了</title>
-      <link>https://www.tmtpost.com/8210456.html</link>
-      <description>&lt;![CDATA[戴尔股价自我们最初推荐以来已翻倍，现在该卖出了]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 21:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8210456.html</guid>
+      <title>曾妍的新论文，就是字节“10万亿”路线图</title>
+      <link>https://www.tmtpost.com/8210148.html</link>
+      <description>&lt;![CDATA[曾妍的新论文，就是字节“10万亿”路线图]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 10:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8210148.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局</title>
-      <link>https://www.tmtpost.com/8210365.html</link>
-      <description>&lt;![CDATA[股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 20:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8210365.html</guid>
+      <title>浙能迈领：一边大额分红一边拟募资引争议，第一大客户收入占比逼近70%</title>
+      <link>https://www.tmtpost.com/8209770.html</link>
+      <description>&lt;![CDATA[浙能迈领：一边大额分红一边拟募资引争议，第一大客户收入占比逼近70%]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8209770.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋一直在权力游戏里裸奔</title>
-      <link>https://www.tmtpost.com/8209729.html</link>
-      <description>&lt;![CDATA[黄仁勋一直在权力游戏里裸奔]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 18:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8209729.html</guid>
+      <title>征祥医药：八年累计烧钱超10亿，同期股权交易价差引争议</title>
+      <link>https://www.tmtpost.com/8209803.html</link>
+      <description>&lt;![CDATA[征祥医药：八年累计烧钱超10亿，同期股权交易价差引争议]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8209803.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国人为什么有钱不爱花，我们可能一直理解错了</title>
-      <link>https://www.tmtpost.com/8209423.html</link>
-      <description>&lt;![CDATA[中国人为什么有钱不爱花，我们可能一直理解错了]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8209423.html</guid>
+      <title>Edge AI Daily 早报（11月19日）</title>
+      <link>https://www.tmtpost.com/8210615.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（11月19日）]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 09:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8210615.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯音乐Q3财报：89.4亿营收背后的“结构转换期”</title>
-      <link>https://www.tmtpost.com/8209332.html</link>
-      <description>&lt;![CDATA[腾讯音乐Q3财报：89.4亿营收背后的“结构转换期”]]&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 18:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8209332.html</guid>
+      <title>老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功</title>
+      <link>https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
