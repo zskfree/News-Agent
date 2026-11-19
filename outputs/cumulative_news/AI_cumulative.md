@@ -1,7 +1,98 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-19 03:59
+**最后更新时间**: 2026-11-19 14:09
+
+---
+
+## 🆕 最新更新 (2026-11-19 14:09)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效](https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html)
+**发布时间**: 2026-11-19 19:38
+
+#### [阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍](https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html)
+**发布时间**: 2026-11-19 19:05
+
+#### [阿里云外部收入增长64%，增速创近六年新高](https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html)
+**发布时间**: 2026-11-19 18:15
+
+#### [田渊栋创业合伙人：通往 AGI 最快的路，只能是 AI 造 AI | CoRL 2026](https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html)
+**发布时间**: 2026-11-19 18:09
+
+#### [闪耀APEC的中国智造：大疆手持影像技术，成为全球媒体生产力标配](https://www.leiphone.com/category/industrynews/iJAlee24RO19u4OW.html)
+**发布时间**: 2026-11-19 17:51
+
+#### [Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后](https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html)
+**发布时间**: 2026-11-19 17:08
+
+#### [诺亦腾机器人入选 The Information 2026 全球最具潜力50家初创企业榜单](https://www.leiphone.com/category/ai/AfdiA9NBN3TJrgDL.html)
+**发布时间**: 2026-11-19 17:07
+
+#### [黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型](https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html)
+**发布时间**: 2026-11-19 17:04
+
+#### [对话西湖大学于开丞：通用语言模型再强，物理世界也「等不起」](https://www.leiphone.com/category/academic/6GxO2SjZl8UPTGhH.html)
+**发布时间**: 2026-11-19 16:23
+
+#### [AI 带来的新生意｜稀土掘金 X-Lab 年度大会招募开启](https://www.leiphone.com/category/industrynews/jKfDXWFPiBxkfVGt.html)
+**发布时间**: 2026-11-19 15:39
+
+#### [百图生科正式发布AI药物安全性评价系统，从虚拟细胞走向虚拟猴，为药物研发带来全新助力](https://www.leiphone.com/category/industrynews/UlpahlWOHi0OeI7Y.html)
+**发布时间**: 2026-11-19 14:25
+
+#### [AI4S青年志②丨赋澈生物王子龙：实验室里的「企业家」](https://www.leiphone.com/category/ai/gIEEBnDSMmXYn1bE.html)
+**发布时间**: 2026-11-19 13:35
+
+#### [华为Mate X8官宣两大功能：小艺慧记+虚拟触控板，生产力再进阶](https://www.leiphone.com/category/industrynews/5DmohtTAlmiheVD3.html)
+**发布时间**: 2026-11-19 11:36
+
+#### [歪马送酒“金乌皮尔森”获BBC“中国最佳啤酒”，中国啤酒斩获历史最佳成绩](https://www.leiphone.com/category/industrynews/sIpzBvKmqYOZJnG0.html)
+**发布时间**: 2026-11-19 11:35
+
+#### [AI 已经进入企业，为什么组织还没有进化？](https://www.leiphone.com/category/industrynews/98sAVeAaYPhJQvgY.html)
+**发布时间**: 2026-11-19 11:17
+
+#### [阿里樊路远离场，虎鲸文娱去向何方？](https://www.leiphone.com/category/industrynews/L9tleA0kDSyrruLn.html)
+**发布时间**: 2026-11-19 10:53
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Not If, But How: Responding to Security Incidents in the Age of AI Attackers](https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/)
+**发布时间**: 2026-11-19 10:45
+
+#### [Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index](https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/)
+**发布时间**: 2026-11-19 06:52
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Study reveals data centers’ long-distance damage to air quality](https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119)
+**发布时间**: 2026-11-19 09:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！](https://www.qbitai.com/2026/11/511258.html)
+**发布时间**: 2026-11-19 08:43
+
+#### [GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了](https://www.qbitai.com/2026/11/511180.html)
+**发布时间**: 2026-11-19 08:18
+
+#### [SenseNova U1 Pro获Design Arena双榜中国第一、全球第六](https://www.qbitai.com/2026/11/511179.html)
+**发布时间**: 2026-11-19 08:10
+
+#### [好清晰！最新国产AI画的8K图，放这么大大大大也不糊！](https://www.qbitai.com/2026/11/511092.html)
+**发布时间**: 2026-11-19 07:01
+
+#### [AI基建大潮方兴未艾，联想集团最佳财季诞生！](https://www.qbitai.com/2026/11/511088.html)
+**发布时间**: 2026-11-19 04:51
+
+#### [安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计](https://www.qbitai.com/2026/11/511079.html)
+**发布时间**: 2026-11-19 04:02
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-19日刊](https://hex2077.dev/docs/2026-11/2026-11-19/)
+**发布时间**: 2026-11-19 06:03
 
 ---
 

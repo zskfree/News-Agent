@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-19 04:01
+**最后更新时间**: 2026-11-19 14:12
+
+---
+
+## 🆕 最新更新 (2026-11-19 14:12)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.](https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 13:55
+
+#### [If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays](https://www.marketwatch.com/story/if-the-ai-trade-unwinds-other-pillars-holding-up-the-u-s-economy-are-irrelevant-says-barclays-b6f1bdca?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 12:45
+
+#### [Here’s the precise moment when cyberattacks started increasing exponentially](https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 12:30
+
+#### [Sandisk’s stock split is almost here. This is what investors need to know.](https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 12:14
+
+#### [Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?](https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 12:12
+
+#### [Deutsche Bank got its dollar call for 2026 wrong. Why it’s shifting tack now.](https://www.marketwatch.com/story/deutsche-bank-got-its-dollar-call-for-2026-wrong-why-its-shifting-tack-now-bbecbd00?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 12:04
+
+#### [I have two children. How can I turn them into millionaires by the time they retire?](https://www.marketwatch.com/story/i-have-two-children-how-can-i-turn-them-into-millionaires-by-the-time-they-retire-547444eb?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 12:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The key to Anthropic’s value](https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 13:47
+
+#### [Xi, Trump and Putin hail ‘groundbreaking’ meeting](https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 13:00
+
+#### [UN court rules Myanmar committed genocide in landmark ruling](https://www.ft.com/content/411d28f3-5adf-4a2f-9390-bc3372b4b3a9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 12:40
+
+#### [Anthropic is a ‘must own’](https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e)
+**发布时间**: 2026-11-19 11:06
+
+#### [Anthropic to make Wall Street debut after record IPO](https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 10:58
+
+#### [Air strike hits Saudi sovereign wealth fund headquarters](https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 09:41
+
+#### [Angry America and its housing market](https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 05:00
+
+#### [Adani: the billionaire at the heart of Modi’s India](https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 05:00
+
+#### [Gold loses its lustre for investors](https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 05:00
 
 ---
 

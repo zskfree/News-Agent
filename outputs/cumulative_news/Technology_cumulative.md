@@ -1,7 +1,116 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-19 04:01
+**最后更新时间**: 2026-11-19 14:11
+
+---
+
+## 🆕 最新更新 (2026-11-19 14:11)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察](https://www.tmtpost.com/8211631.html)
+**发布时间**: 2026-11-19 21:56
+
+#### [从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？](https://www.tmtpost.com/8211622.html)
+**发布时间**: 2026-11-19 21:48
+
+#### [大衣只卖499元，中产在山姆捡漏MaxMara平替](https://www.tmtpost.com/8211170.html)
+**发布时间**: 2026-11-19 19:02
+
+#### [国产GPU，风浪越大鱼越贵](https://www.tmtpost.com/8210657.html)
+**发布时间**: 2026-11-19 18:58
+
+#### [谁吃掉了名创优品的利润？](https://www.tmtpost.com/8210698.html)
+**发布时间**: 2026-11-19 18:48
+
+#### [哈尔滨买了“迪士尼”](https://www.tmtpost.com/8210987.html)
+**发布时间**: 2026-11-19 18:48
+
+#### [国产芯片正在准备三级跳](https://www.tmtpost.com/8210830.html)
+**发布时间**: 2026-11-19 18:48
+
+#### [业绩重压下，航天机电继续处理海外亏损光伏项目](https://www.tmtpost.com/8211254.html)
+**发布时间**: 2026-11-19 18:27
+
+#### [腾讯的“存亡时刻”写在利润表与现金流里](https://www.tmtpost.com/8211143.html)
+**发布时间**: 2026-11-19 18:11
+
+#### [睿能科技拟控股博泰智能，5亿作价押注锂电，2027年周期隐忧待考](https://www.tmtpost.com/8211241.html)
+**发布时间**: 2026-11-19 18:06
+
+#### [钛媒体硅谷峰会震撼开启，马斯克背后传奇投资人、Google X创始人、全球AI及投资领军者齐聚斯坦福](https://www.tmtpost.com/8210519.html)
+**发布时间**: 2026-11-19 18:05
+
+#### [Banks Are Turning AI Compute Bills Into Working Capital](https://www.tmtpost.com/8211189.html)
+**发布时间**: 2026-11-19 17:18
+
+#### [国内首款Gen6 SSD量产，AI存储重算经济帐](https://www.tmtpost.com/8210529.html)
+**发布时间**: 2026-11-19 16:35
+
+#### [拒绝黄仁勋回归还不够，英伟达开始围剿他女儿了](https://www.tmtpost.com/8210307.html)
+**发布时间**: 2026-11-19 14:57
+
+#### [AI公司烧Token，烧出了一门“贷款生意”](https://www.tmtpost.com/8210309.html)
+**发布时间**: 2026-11-19 14:57
+
+#### [刚刚！从黄仁勋走后首份财报发布及说明会，我们看到了什么](https://www.tmtpost.com/8210397.html)
+**发布时间**: 2026-11-19 14:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [给 Apple 的 2026 年打分，请你一起参与](https://sspai.com/post/119191)
+**发布时间**: 2026-11-19 18:25
+
+#### [新玩意 256｜少数派的编辑们最近买了啥？](https://sspai.com/post/119287)
+**发布时间**: 2026-11-19 17:16
+
+#### [有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制](https://sspai.com/prime/story/system-app-protection-override-macos-27-3)
+**发布时间**: 2026-11-19 15:34
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？](https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 18:05
+
+#### [杀入Agent主场之后：两年内部分替代自回归，扩散智能的底气从何而来？| 专访](https://www.infoq.cn/article/rtBT5s1opGGazFgQi0YS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 16:32
+
+#### [Agent 实干派：从人人可用到全栈工程进化 | InfoQ 小编探班](https://www.infoq.cn/video/Cfrl4QYhD3dHMuhGt6hw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 16:16
+
+#### [价值为先，金融智能体应用实践 | TF技术前线188期报名](https://www.infoq.cn/article/NR0Wal4xOQ3b5flxE0Hi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 16:11
+
+#### [快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同](https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 16:08
+
+#### [街道办 AI 智能化白皮书](https://www.infoq.cn/minibook/UAGTBMHJ8mTIx95CFzmo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 15:41
+
+#### [腾讯混元 Hy4 flash 上线首日登顶 OpenRouter，2 毛钱就能跑完一个任务！](https://www.infoq.cn/article/o4edzZ1lM7CUQgcupk8H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 14:22
+
+#### [谷歌云推出裸金属自托管 VMware Cloud Foundation 方案](https://www.infoq.cn/article/AmLUHEa9thE3iWDDQlQG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 14:00
+
+#### [12类高频任务、3类实践案例，商汤小浣熊带着街道办 AI 白皮书来了！](https://www.infoq.cn/article/y1DHWaCUGxsuSrQwqEXi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 13:56
+
+#### [开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能](https://www.infoq.cn/article/sbD3maMohpCIExV3UUH0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 13:00
+
+#### [从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证](https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 12:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「北美大豆包」谷歌，终于杀回 AI 牌桌中央](http://www.geekpark.net/news/374196)
+**发布时间**: 2026-11-19 14:10
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [游戏界最高的山《GTA 6》来了，这 4 个相关的 GitHub 项目收藏一下。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538598&idx=1&sn=eb9a8af95bafb518cd7e8721a7039707)
+**发布时间**: 2026-11-19 11:02
 
 ---
 
