@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-19 14:12
+**最后更新时间**: 2026-11-20 03:54
+
+---
+
+## 🆕 最新更新 (2026-11-20 03:54)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?](https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 01:30
+
+#### [My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?](https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 01:22
+
+#### [After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead](https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 23:56
+
+#### [These were the only stocks that rose amid the stock market’s wipeout Thursday](https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 23:11
+
+#### [Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies](https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 22:53
+
+#### [A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds](https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 22:41
+
+#### [Anthropic’s stock surges in its debut — and the rest of the market dives anyway](https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 22:12
+
+#### [Markets are sending troubling signals about the state of the economy](https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 21:57
+
+#### [Nvidia’s stock falls further. It has lost $669 billion in six trading days.](https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories)
+**发布时间**: 2026-11-19 21:45
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US approved sale of Nvidia and AMD chips to Chinese companies](https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 00:42
+
+#### [Lenders aim to bar SpaceX from launching $40bn of chips into orbit](https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 00:15
+
+#### [UK and EU poised to finalise deal to ‘reset’ relations](https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 22:44
+
+#### [Anthropic shares jump 17% after record Wall Street listing](https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 21:02
+
+#### [Australian PM to meet Xi Jinping as iron ore tensions loom](https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 21:00
+
+#### [The Xi, Trump, Putin meeting and the dawn of a post-western world](https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 19:19
+
+#### [AMD shares fall after short seller report on China links](https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 18:40
+
+#### [The dangers of AI ‘handoverism’](https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1)
+**发布时间**: 2026-11-19 14:04
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Nov 2026 14:09:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 14:12:10 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 03:53:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:55:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效</title>
-      <link>https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html</link>
-      <description>&lt;![CDATA[拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 19:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html</guid>
+      <title>商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力</title>
+      <link>https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html</link>
+      <description>&lt;![CDATA[商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力]]&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍</title>
-      <link>https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html</link>
-      <description>&lt;![CDATA[阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 19:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html</guid>
+      <title>具身机器人进入真机时代，华为云CloudRobo开始组队发力了</title>
+      <link>https://www.qbitai.com/2026/11/511426.html</link>
+      <description>&lt;![CDATA[具身机器人进入真机时代，华为云CloudRobo开始组队发力了]]&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 01:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511426.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>阿里云外部收入增长64%，增速创近六年新高</title>
-      <link>https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html</link>
-      <description>&lt;![CDATA[阿里云外部收入增长64%，增速创近六年新高]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html</guid>
+      <title>Amazon SageMaker Inference: 2026 launches in review, part 2</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/</link>
+      <description>&lt;![CDATA[Amazon SageMaker Inference: 2026 launches in review, part 2]]&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 00:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>田渊栋创业合伙人：通往 AGI 最快的路，只能是 AI 造 AI | CoRL 2026</title>
-      <link>https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html</link>
-      <description>&lt;![CDATA[田渊栋创业合伙人：通往 AGI 最快的路，只能是 AI 造 AI | CoRL 2026]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html</guid>
+      <title>Use Kimi Code CLI with models on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/</link>
+      <description>&lt;![CDATA[Use Kimi Code CLI with models on Amazon Bedrock]]&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 00:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>闪耀APEC的中国智造：大疆手持影像技术，成为全球媒体生产力标配</title>
-      <link>https://www.leiphone.com/category/industrynews/iJAlee24RO19u4OW.html</link>
-      <description>&lt;![CDATA[闪耀APEC的中国智造：大疆手持影像技术，成为全球媒体生产力标配]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 17:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iJAlee24RO19u4OW.html</guid>
+      <title>Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/</link>
+      <description>&lt;![CDATA[Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 23:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后</title>
-      <link>https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html</link>
-      <description>&lt;![CDATA[Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html</guid>
+      <title>How the BMW Group governs hundreds of agents across thousands of developers</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/</link>
+      <description>&lt;![CDATA[How the BMW Group governs hundreds of agents across thousands of developers]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 22:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>诺亦腾机器人入选 The Information 2026 全球最具潜力50家初创企业榜单</title>
-      <link>https://www.leiphone.com/category/ai/AfdiA9NBN3TJrgDL.html</link>
-      <description>&lt;![CDATA[诺亦腾机器人入选 The Information 2026 全球最具潜力50家初创企业榜单]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/AfdiA9NBN3TJrgDL.html</guid>
+      <title>Run your whole selling business in AWS Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/</link>
+      <description>&lt;![CDATA[Run your whole selling business in AWS Quick]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 22:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型</title>
-      <link>https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html</link>
-      <description>&lt;![CDATA[黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html</guid>
+      <title>Inside Amazon Connect Talent: The science of structured AI interviews</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/</link>
+      <description>&lt;![CDATA[Inside Amazon Connect Talent: The science of structured AI interviews]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 21:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>对话西湖大学于开丞：通用语言模型再强，物理世界也「等不起」</title>
-      <link>https://www.leiphone.com/category/academic/6GxO2SjZl8UPTGhH.html</link>
-      <description>&lt;![CDATA[对话西湖大学于开丞：通用语言模型再强，物理世界也「等不起」]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/academic/6GxO2SjZl8UPTGhH.html</guid>
+      <title>Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/</link>
+      <description>&lt;![CDATA[Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 20:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>AI 带来的新生意｜稀土掘金 X-Lab 年度大会招募开启</title>
-      <link>https://www.leiphone.com/category/industrynews/jKfDXWFPiBxkfVGt.html</link>
-      <description>&lt;![CDATA[AI 带来的新生意｜稀土掘金 X-Lab 年度大会招募开启]]&gt;</description>
-      <pubDate>Thu, 19 Nov 2026 15:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/jKfDXWFPiBxkfVGt.html</guid>
+      <title>Amazon Polly launches voice cloning: A unique voice for your brand</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/</link>
+      <description>&lt;![CDATA[Amazon Polly launches voice cloning: A unique voice for your brand]]&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 19:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/</guid>
       <category>Ai</category>
     </item>
   </channel>

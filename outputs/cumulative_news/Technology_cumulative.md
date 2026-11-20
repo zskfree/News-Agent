@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-19 14:11
+**最后更新时间**: 2026-11-20 03:54
+
+---
+
+## 🆕 最新更新 (2026-11-20 03:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里云加速增长，平头哥走向台前 | 看财报](https://www.tmtpost.com/8211922.html)
+**发布时间**: 2026-11-20 11:40
+
+#### [DeepSeek限额：免费用户成了AGI的“拦路虎”？](https://www.tmtpost.com/8212022.html)
+**发布时间**: 2026-11-20 11:39
+
+#### [阿里被迫“收手”](https://www.tmtpost.com/8211980.html)
+**发布时间**: 2026-11-20 11:39
+
+#### [一鸣食品攻坚下午茶](https://www.tmtpost.com/8211923.html)
+**发布时间**: 2026-11-20 11:39
+
+#### [人形机器人遇冷：日租价从3000继续掉到1800，7月后融资普遍下滑](https://www.tmtpost.com/8211952.html)
+**发布时间**: 2026-11-20 11:39
+
+#### [Anthropic上市，10个值得关注的真相](https://www.tmtpost.com/8212016.html)
+**发布时间**: 2026-11-20 11:39
+
+#### [最近，创投圈冒出了一批神秘GP](https://www.tmtpost.com/8212032.html)
+**发布时间**: 2026-11-20 11:39
+
+#### [消费股，正在悄悄启动](https://www.tmtpost.com/8211963.html)
+**发布时间**: 2026-11-20 11:34
+
+#### [Herman Miller 与他的中国学徒](https://www.tmtpost.com/8211677.html)
+**发布时间**: 2026-11-20 11:34
+
+#### [英伟达换帅，为什么连贝索斯都急着警告 “不能外聘”？](https://www.tmtpost.com/8212003.html)
+**发布时间**: 2026-11-20 11:34
+
+#### [Kimi的当务之急是赶紧推广自家AI姬](https://www.tmtpost.com/8211847.html)
+**发布时间**: 2026-11-20 11:25
+
+#### [刚刚，七位亿万富豪同时诞生](https://www.tmtpost.com/8212028.html)
+**发布时间**: 2026-11-20 11:25
+
+#### [高开又跳水，巨头组团押注 Anthropic：AI 大模型的公开市场考题才刚刚开始](https://www.tmtpost.com/8212110.html)
+**发布时间**: 2026-11-20 10:58
+
+#### [银行高管组团增持：瑞丰银行高管浮盈超160万，上海银行高管浮亏百万](https://www.tmtpost.com/8211742.html)
+**发布时间**: 2026-11-20 10:53
+
+#### [从Anthropic敲钟，看中国大模型怎么定价？](https://www.tmtpost.com/8211889.html)
+**发布时间**: 2026-11-20 10:47
+
+#### [火箭公司都想自研发动机，九州云箭们靠什么赚钱？](https://www.tmtpost.com/8211813.html)
+**发布时间**: 2026-11-20 10:47
+
+#### [从去IOE到去CUDA，阿里为何在此时“散养”平头哥](https://www.tmtpost.com/8211617.html)
+**发布时间**: 2026-11-20 10:32
+
+#### [资生堂清空欧珀莱](https://www.tmtpost.com/8211887.html)
+**发布时间**: 2026-11-20 10:32
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon](https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 11:00
+
+#### [Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势](https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 10:00
+
+#### [Cloudflare 重构 D1 控制平面，支持数百万数据库规模](https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 10:00
+
+#### [火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京](https://www.infoq.cn/article/YTGHxcabs0RI3btLIUxm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 10:00
+
+#### [Sam Altman罕见发声：我不担心Anthropic先上市，市场上不缺投资者](https://www.infoq.cn/article/Mf3Zbm9JF3RWbkvjMKYZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 22:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [浮屏：截图即可「上岛」，还能帮你记录生活](https://sspai.com/post/118879)
+**发布时间**: 2026-11-20 10:47
+
+#### [派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等](https://sspai.com/post/119311)
+**发布时间**: 2026-11-20 08:34
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道](http://www.geekpark.net/news/374235)
+**发布时间**: 2026-11-20 09:04
 
 ---
 

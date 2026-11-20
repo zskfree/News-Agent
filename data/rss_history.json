@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3c4270bf9af181d5f4d6c24de45e46474592925cb76d3153981954097a05bb17": {
-        "title": "当机器狗学会自己挣钱，芯片才是真正的赢家",
-        "link": "https://www.tmtpost.com/8175041.html",
-        "published_date": "Wed, 21 Oct 2026 08:51:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964784"
-      },
-      "e4feb5181da1e9b90ed2d87b961420972d9873f772e4c066d80044347fe074e4": {
-        "title": "曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具",
-        "link": "http://www.geekpark.net/news/372650",
-        "published_date": "Wed, 21 Oct 2026 08:37:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964800"
-      },
-      "1e35763b7c75f3d78211d7d976b86943d45b267dd5769757e5bfabd7dbeeacc6": {
-        "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
-        "link": "https://sspai.com/post/116887",
-        "published_date": "Wed, 21 Oct 2026 08:07:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964803"
-      },
-      "7eec5c783cce913f4fc4ba9701e5f4145a06c86341e7496215d9bc3cda3cbef5": {
-        "title": "Edge AI Daily 早报（10月21日）",
-        "link": "https://www.tmtpost.com/8175309.html",
-        "published_date": "Wed, 21 Oct 2026 08:51:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964805"
-      },
-      "6b41990c1805d530a2d2421d6bfdddcb1a10ee0ed9a2e98150409a92c6172eee": {
-        "title": "番茄小说决定杀死AI",
-        "link": "https://www.tmtpost.com/8175060.html",
-        "published_date": "Wed, 21 Oct 2026 08:51:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964807"
-      },
-      "ce39839af943248779c332e338ba61896ca13e2c4d1f0e128664533229ff1c02": {
-        "title": "广汇物流：单季利润修复，全年跌近七成，红淖铁路涨价仍未“止痛”",
-        "link": "https://www.tmtpost.com/8174960.html",
-        "published_date": "Wed, 21 Oct 2026 08:38:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964809"
-      },
-      "14e798f1d32ca61e8e4904ea34d5aeded08e2b1b953a9ce691b5993c5956f8b9": {
-        "title": "瑞鹄模具三季报增收不增利，牛散林仁平持续减仓｜看财报",
-        "link": "https://www.tmtpost.com/8175247.html",
-        "published_date": "Wed, 21 Oct 2026 08:36:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964811"
-      },
-      "c22810a1aeef5883a9b123ad2c56825f31e9749d78f047fbb422741e70e4d797": {
-        "title": "【钛晨报】工信部：正研究起草新一代智能制造政策，推动“AI+制造”；新央企国家数据集团成立，董事长、总经理亮相；DeepSeek宣布全面开源内部推理框架",
-        "link": "https://www.tmtpost.com/8175144.html",
-        "published_date": "Wed, 21 Oct 2026 07:20:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964813"
-      },
-      "6b409693fee916a4cb65ba74929ff5a10827a7b92c282f59617088cbcd8f3f73": {
-        "title": "AI短剧里的“彩票工厂”不再赚钱",
-        "link": "https://www.tmtpost.com/8174771.html",
-        "published_date": "Tue, 20 Oct 2026 18:29:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964814"
-      },
-      "f8da1d18e2f59ec02ec97c5b00f4ed98a04f175bbdcbe202368ed75aed0d5af5": {
-        "title": "9700万判决之后，汇源决定“不要这个名字了”",
-        "link": "https://www.tmtpost.com/8174668.html",
-        "published_date": "Tue, 20 Oct 2026 18:17:00 GMT",
-        "first_seen": "2026-10-21T01:22:50.964816"
-      },
       "c46fee7595cf9227a1b94dafcedf5247b36a7d6729e7baa9112076735badd33d": {
         "title": "欧洲专家：追求 100% 技术主权，是一种天真的想法",
         "link": "https://www.infoq.cn/article/6L1Bqr8iNdVT6Cgq22QH?utm_source=rss&utm_medium=article",
@@ -3601,69 +3541,69 @@
         "link": "https://www.tmtpost.com/8210987.html",
         "published_date": "Thu, 19 Nov 2026 18:48:00 GMT",
         "first_seen": "2026-11-19T14:12:20.520825"
+      },
+      "a53708320177ee8eef1f17664ed81371738c3747260f97fae236ceb89424ea30": {
+        "title": "火箭公司都想自研发动机，九州云箭们靠什么赚钱？",
+        "link": "https://www.tmtpost.com/8211813.html",
+        "published_date": "Fri, 20 Nov 2026 10:47:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.394991"
+      },
+      "0e87a4fe3c75fef601b391a7d6ae87a444b5309359c5cc5fa0535a63c66d0d52": {
+        "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+        "link": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Nov 2026 11:00:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395000"
+      },
+      "1cfffc4481ed72abc696dbb7527fed37a681a9c23ab2cfa1a72f561cb09c4d9f": {
+        "title": "Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395003"
+      },
+      "caef966eb0a35fa3b749571269ec3ef44bf26e085b8b40c6cfd69d6dfc1bd821": {
+        "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+        "link": "http://www.geekpark.net/news/374235",
+        "published_date": "Fri, 20 Nov 2026 09:04:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395005"
+      },
+      "022af944ae0012b13d1973904b5d5e9e96238f392bac1aa9b7d3d3036c4492fd": {
+        "title": "阿里云加速增长，平头哥走向台前 | 看财报",
+        "link": "https://www.tmtpost.com/8211922.html",
+        "published_date": "Fri, 20 Nov 2026 11:40:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395008"
+      },
+      "c380973720937e3d86255413fd710b529bdccfb5506244b35dba1c6ee93a22ad": {
+        "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
+        "link": "https://www.tmtpost.com/8212022.html",
+        "published_date": "Fri, 20 Nov 2026 11:39:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395009"
+      },
+      "faf997eab85e8cc8b3addd853975b7b3f33f00be46ef79d4e4b287ad85de0dad": {
+        "title": "人形机器人遇冷：日租价从3000继续掉到1800，7月后融资普遍下滑",
+        "link": "https://www.tmtpost.com/8211952.html",
+        "published_date": "Fri, 20 Nov 2026 11:39:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395011"
+      },
+      "029325fec1b074019846adf109f3ee6173dec2e9d3ed3c7b4db1fc1103f13c2a": {
+        "title": "Anthropic上市，10个值得关注的真相",
+        "link": "https://www.tmtpost.com/8212016.html",
+        "published_date": "Fri, 20 Nov 2026 11:39:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395012"
+      },
+      "c9b78c2666ef06e07b273f6924e69d8023e25448a56afcd7cc634f4643a47958": {
+        "title": "最近，创投圈冒出了一批神秘GP",
+        "link": "https://www.tmtpost.com/8212032.html",
+        "published_date": "Fri, 20 Nov 2026 11:39:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395014"
+      },
+      "a14b946a9dd5eb2c236937fbd7b9ddf8b2ac4c6ed00fa85969a9ad8ac8c28989": {
+        "title": "消费股，正在悄悄启动",
+        "link": "https://www.tmtpost.com/8211963.html",
+        "published_date": "Fri, 20 Nov 2026 11:34:00 GMT",
+        "first_seen": "2026-11-20T03:55:08.395015"
       }
     },
     "Finance": {
-      "4e26759c3d5f9928cbec03d74b04668c2860ffb890acc50ce26b38b7629e1fdf": {
-        "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-        "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 00:15:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403618"
-      },
-      "cbf15b037df320deadec7de6789e2efd91b7e600a8324aa1004fac9a4ddc9b88": {
-        "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-        "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 00:14:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403631"
-      },
-      "43e661771b92591234f6801fb39aa8da5c7ea4228e2fb194a20a1fe4076ebf66": {
-        "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-        "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Oct 2026 00:12:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403634"
-      },
-      "8e7000be845150b6a8fe841af6fd79b6be01e6c501ea13d1cac87fde14242017": {
-        "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-        "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Oct 2026 23:10:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403636"
-      },
-      "40812f013dfe9be6f5f9060c5e70e6d0e574eeb3e12a48158286968933ee962f": {
-        "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-        "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Oct 2026 21:47:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403638"
-      },
-      "f93777a3074971b302bac65aa9287a731d4587e018d2d2c2fdb30547674cc627": {
-        "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-        "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Oct 2026 20:57:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403640"
-      },
-      "2de5092d5d9e8c1ce2914c242e7e40b368da92942f95fffdf2fc83fa6d9a15ff": {
-        "title": "SpaceX and Tesla boards explore potential merger",
-        "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
-        "published_date": "Tue, 20 Oct 2026 21:56:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403642"
-      },
-      "bada2e5297d195b8e99a781a648c919ef978a3f23b6a6219a5e9f70ff02359a6": {
-        "title": "Finnish president hails progress in talks about ending Russia’s war in Ukraine",
-        "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
-        "published_date": "Tue, 20 Oct 2026 21:30:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403643"
-      },
-      "7ec26f2b45e7d191c742fa99dfc15fb9bfa9cffbbb13889db5060e87b8ac23d4": {
-        "title": "Boeing wins approval for Max 10 jet in boost for turnaround efforts",
-        "link": "https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1",
-        "published_date": "Tue, 20 Oct 2026 20:43:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403645"
-      },
-      "90020cbc5e489e512c3c1135ad8f1619208f6128dee738fc1623e69fb1868c2b": {
-        "title": "Netflix gives downbeat outlook as streaming hits dry up",
-        "link": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
-        "published_date": "Tue, 20 Oct 2026 20:32:00 GMT",
-        "first_seen": "2026-10-21T01:23:00.403647"
-      },
       "038548900d4cd75c28f833cf0266774c5fd17c327b112e63ff70443125b8a0e2": {
         "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
         "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
@@ -7047,69 +6987,69 @@
         "link": "https://www.ft.com/content/411d28f3-5adf-4a2f-9390-bc3372b4b3a9?syn-25a6b1a6=1",
         "published_date": "Thu, 19 Nov 2026 12:40:00 GMT",
         "first_seen": "2026-11-19T14:12:29.876771"
+      },
+      "1da8923466e954a2e43a577977a838738a1e9696c99eb70f270b7e86fbc4aedd": {
+        "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+        "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Nov 2026 23:56:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142945"
+      },
+      "cb004a80d0b722d0a9fc540c76e2bcdd69c318b1d36c70fab0fa42d3c7f84a35": {
+        "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+        "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Nov 2026 23:11:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142953"
+      },
+      "317542cef293f652a65facc04b142a84a97fb8142055f6f237649a08f3d09d84": {
+        "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+        "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Nov 2026 22:53:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142956"
+      },
+      "0e48fd4cf60f6169c932e3e04cbc84f836e1f98c13fdb8393373bc44c3a1fb9a": {
+        "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+        "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Nov 2026 22:41:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142958"
+      },
+      "4bd2d691001fd9ac181f6a9f345b6933f372dd5ca4b5f5d9f962cfb74d0de96b": {
+        "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+        "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Nov 2026 22:12:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142960"
+      },
+      "b992ceb7f641f5231aab8a436e8d578e1c638a4f9d97c1df01300a05f0d80542": {
+        "title": "Markets are sending troubling signals about the state of the economy",
+        "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Nov 2026 21:57:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142962"
+      },
+      "5a6869053178cf19cd01ad6281fd601cbd7d0ce465f83e1bc0dacdd28db40a1b": {
+        "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+        "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Nov 2026 21:45:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142964"
+      },
+      "1e3ee13ff111e7271d35d45b730cbf057affb485c83235bb339403ecc5018212": {
+        "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+        "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 00:42:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142966"
+      },
+      "0011ce8bba9551a2b7f10af56274e221689a8bbb5ea916ad5ccb6f17865b84f5": {
+        "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+        "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+        "published_date": "Fri, 20 Nov 2026 00:15:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142967"
+      },
+      "6ea7adf19fdc52b33206268e17d76d262bc4e138b1882bba8c4e5b693bb230a0": {
+        "title": "UK and EU poised to finalise deal to ‘reset’ relations",
+        "link": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
+        "published_date": "Thu, 19 Nov 2026 22:44:00 GMT",
+        "first_seen": "2026-11-20T03:55:27.142969"
       }
     },
     "Ai": {
-      "84c7b122c465313fa64666a60c8624570acae5e67fd0af45508f4ec58acbdc97": {
-        "title": "王友清教授团队论文被ACM MM 2026录用｜ACM MM 2026",
-        "link": "https://www.leiphone.com/category/private/JI8CBnLPkIokurs6.html",
-        "published_date": "Tue, 20 Oct 2026 23:37:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989833"
-      },
-      "c11f21ba5f27aae46e6c778b0d404f71b573f56665b731881d7dfa104d3a78da": {
-        "title": "停止加薪！大众计划冻结全球大量员工薪酬至2030年；突发！美国发布DeepSeek禁令；马斯克：明年向全美儿童赠送SpaceX股票",
-        "link": "https://www.leiphone.com/category/zaobao/Y7039p8HsmmeQClm.html",
-        "published_date": "Tue, 20 Oct 2026 18:39:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989844"
-      },
-      "86fd05a4602449af0447df2a718f2894d745a5a176aa914a05748a91efed15df": {
-        "title": "喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？",
-        "link": "https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html",
-        "published_date": "Tue, 20 Oct 2026 18:27:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989846"
-      },
-      "a8cfc397e5baaa2d5d38cca0e64f7c2e66c7e74315edcba2b6846212948c23ee": {
-        "title": "双11 iPhone Duo货源大战：苹果为什么把更多货交给天猫？",
-        "link": "https://www.leiphone.com/category/industrynews/1kN394wi9h0iFG43.html",
-        "published_date": "Tue, 20 Oct 2026 18:04:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989848"
-      },
-      "97da23b92c9b0f89772bccf6ec8b4c2be6fcb23ce1d4161cd0ae1d2a651a1b55": {
-        "title": "亚太唯一！阿里云连续4年获评 Gartner 容器管理领导者象限",
-        "link": "https://www.leiphone.com/category/industrynews/z75kiSSlXYqfCza6.html",
-        "published_date": "Tue, 20 Oct 2026 17:54:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989850"
-      },
-      "c31cbd1e44f831fbd308db68630c342faf05f6a91eb3202f3fd8b36f49ae707d": {
-        "title": "Work management context for AI agents with Smartsheet MCP on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
-        "published_date": "Tue, 20 Oct 2026 17:59:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989852"
-      },
-      "faa504544162a92510a47774c459e527165e464f386248f951b96fbe97d33b88": {
-        "title": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
-        "published_date": "Tue, 20 Oct 2026 17:48:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989854"
-      },
-      "eb2c83728db9840fded5c708d196fd86e8a7ae7d9a0f2994b155432b3d010d04": {
-        "title": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
-        "published_date": "Tue, 20 Oct 2026 17:34:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989855"
-      },
-      "7c1697930b26eea9fa43dfb496df686705c095753f3cfeef9569621f0d11cb35": {
-        "title": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-        "link": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
-        "published_date": "Tue, 20 Oct 2026 16:42:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989857"
-      },
-      "16eff1a937ceb8d7b3c3d5f1028ff548926c1c8b88d164cc4e5b2227737eee39": {
-        "title": "Discover tools at runtime with AWS Agent Registry",
-        "link": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
-        "published_date": "Tue, 20 Oct 2026 16:22:00 GMT",
-        "first_seen": "2026-10-21T01:23:09.989859"
-      },
       "bbf3d7f28921bd3c87e89143f3e553a4c7628a9ee39981af3db4e174404ea20a": {
         "title": "真机实干，产训一体：具身智能的下一座基础设施，为什么是“实景实训平台”？",
         "link": "https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html",
@@ -9965,13 +9905,73 @@
         "link": "https://www.leiphone.com/category/industrynews/jKfDXWFPiBxkfVGt.html",
         "published_date": "Thu, 19 Nov 2026 15:39:00 GMT",
         "first_seen": "2026-11-19T14:12:10.948302"
+      },
+      "a0c3384d8a249c3b4ed9237349d7004e64b0305ec562052fb3ff898ec0f14084": {
+        "title": "商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力",
+        "link": "https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html",
+        "published_date": "Fri, 20 Nov 2026 09:47:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838644"
+      },
+      "8c87109d33f4f2c08d5a0af6efa4815a94558eee2d0d2feb5d51433f749890a0": {
+        "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "link": "https://www.qbitai.com/2026/11/511426.html",
+        "published_date": "Fri, 20 Nov 2026 01:07:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838653"
+      },
+      "d37567486b26b432334c35e833aa2eeaf6049c1add5fd51302dc022b60005e6a": {
+        "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+        "published_date": "Fri, 20 Nov 2026 00:34:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838655"
+      },
+      "a31134ed880950f0faf38f3a176e90a72d4fec7ea41f6a79c983f44c31ee9156": {
+        "title": "Use Kimi Code CLI with models on Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
+        "published_date": "Fri, 20 Nov 2026 00:33:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838657"
+      },
+      "39f47a799a39f7c9536ee769832155ec18e375b1479aac2bb6407b8325598550": {
+        "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+        "link": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+        "published_date": "Thu, 19 Nov 2026 23:02:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838659"
+      },
+      "ef36f7471013f82c31ce20d579cd30b338741409270219e8e444ee6f1c72757d": {
+        "title": "How the BMW Group governs hundreds of agents across thousands of developers",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
+        "published_date": "Thu, 19 Nov 2026 22:20:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838660"
+      },
+      "3ee4d3a7061e3da821b6e611cbd7eb4f3f4cdfc258bbf8090970e692f8d7c52e": {
+        "title": "Run your whole selling business in AWS Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
+        "published_date": "Thu, 19 Nov 2026 22:16:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838662"
+      },
+      "b282f3f5444627476f2a2d070d885491b6308376087dc0e67068dbbabeb35bec": {
+        "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
+        "link": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
+        "published_date": "Thu, 19 Nov 2026 21:23:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838663"
+      },
+      "2b6640c4912c767d8fc404e5d5f5a754a75af8ce20d927736eabef53be3757b4": {
+        "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
+        "published_date": "Thu, 19 Nov 2026 20:01:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838665"
+      },
+      "8a73db7a046b33f0027366fdb024cb7cab457c43f3848a9ca487422ce02410e1": {
+        "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
+        "published_date": "Thu, 19 Nov 2026 19:53:00 GMT",
+        "first_seen": "2026-11-20T03:55:17.838666"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-19T14:12:20.520828",
-    "Finance": "2026-11-19T14:12:29.876772",
-    "Ai": "2026-11-19T14:12:10.948303"
+    "Technology": "2026-11-20T03:55:08.395018",
+    "Finance": "2026-11-20T03:55:27.142970",
+    "Ai": "2026-11-20T03:55:17.838669"
   }
 }

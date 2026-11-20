@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-19 14:09
+**最后更新时间**: 2026-11-20 03:53
+
+---
+
+## 🆕 最新更新 (2026-11-20 03:53)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力](https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html)
+**发布时间**: 2026-11-20 09:47
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [具身机器人进入真机时代，华为云CloudRobo开始组队发力了](https://www.qbitai.com/2026/11/511426.html)
+**发布时间**: 2026-11-20 01:07
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Amazon SageMaker Inference: 2026 launches in review, part 2](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/)
+**发布时间**: 2026-11-20 00:34
+
+#### [Use Kimi Code CLI with models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/)
+**发布时间**: 2026-11-20 00:33
+
+#### [Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/)
+**发布时间**: 2026-11-19 23:02
+
+#### [How the BMW Group governs hundreds of agents across thousands of developers](https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/)
+**发布时间**: 2026-11-19 22:20
+
+#### [Run your whole selling business in AWS Quick](https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/)
+**发布时间**: 2026-11-19 22:16
+
+#### [Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/)
+**发布时间**: 2026-11-19 21:28
+
+#### [Inside Amazon Connect Talent: The science of structured AI interviews](https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/)
+**发布时间**: 2026-11-19 21:23
+
+#### [Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/)
+**发布时间**: 2026-11-19 20:01
+
+#### [Amazon Polly launches voice cloning: A unique voice for your brand](https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/)
+**发布时间**: 2026-11-19 19:53
+
+#### [Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach](https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/)
+**发布时间**: 2026-11-19 18:48
+
+#### [From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League](https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/)
+**发布时间**: 2026-11-19 18:26
+
+#### [Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/)
+**发布时间**: 2026-11-19 18:20
+
+#### [Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/)
+**发布时间**: 2026-11-19 18:14
+
+#### [PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/)
+**发布时间**: 2026-11-19 17:28
+
+#### [Using NVIDIA Run:ai GPU Fractioning on Amazon EKS](https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/)
+**发布时间**: 2026-11-19 16:13
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench](https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/)
+**发布时间**: 2026-11-19 21:46
+
+#### [13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade](https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/)
+**发布时间**: 2026-11-19 18:13
+
+#### [Perplexity Launches Orchestrator API for Failover and Model Routing](https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/)
+**发布时间**: 2026-11-19 17:47
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [A game you cannot win unless you have a quantum computer](https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/)
+**发布时间**: 2026-11-19 20:03
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/)
+**发布时间**: 2026-11-19 20:00
+
+#### [Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/)
+**发布时间**: 2026-11-19 14:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [AI helps researchers investigate how thousands of medical studies share code](https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119)
+**发布时间**: 2026-11-19 17:15
 
 ---
 
