@@ -1,7 +1,113 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-20 03:54
+**最后更新时间**: 2026-11-20 14:07
+
+---
+
+## 🆕 最新更新 (2026-11-20 14:07)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [新三板摘牌8天、连亏、负债率77%，康居人六成股权作价近亿并入可孚医疗丨并购一线](https://www.tmtpost.com/8213168.html)
+**发布时间**: 2026-11-20 21:31
+
+#### [迪桑特于松花湖开启「逐雪而生」大秀；上海FILA HOUSE正式启幕；九牧全球首发可持续生态马桶｜消研所周报](https://www.tmtpost.com/8213047.html)
+**发布时间**: 2026-11-20 19:38
+
+#### [最后一周！「2026年度全球化公司榜」自荐通道即将关闭](https://www.tmtpost.com/8213079.html)
+**发布时间**: 2026-11-20 18:59
+
+#### [小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀｜一周大公司出海动态](https://www.tmtpost.com/8213045.html)
+**发布时间**: 2026-11-20 18:58
+
+#### [阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏](https://www.tmtpost.com/8212798.html)
+**发布时间**: 2026-11-20 18:31
+
+#### [沃尔玛Q3财报：中国电商渗透率首破五成](https://www.tmtpost.com/8212919.html)
+**发布时间**: 2026-11-20 18:31
+
+#### [托举WorkBuddy登顶，腾讯AI高光藏软肋](https://www.tmtpost.com/8212605.html)
+**发布时间**: 2026-11-20 18:31
+
+#### [贵航股份抛5.5亿定增扩产：控股股东拟斥不超1亿认购，高增业绩下的扩张成色几何](https://www.tmtpost.com/8212908.html)
+**发布时间**: 2026-11-20 18:29
+
+#### [“物理AI第一股”冲刺A股：左手英伟达，右手摩尔线程](https://www.tmtpost.com/8212915.html)
+**发布时间**: 2026-11-20 18:23
+
+#### [2715亿营收、344亿现金流出：阿里的利润拐点与“未完成”的账单](https://www.tmtpost.com/8211484.html)
+**发布时间**: 2026-11-20 18:23
+
+#### [默沙东折戟，BTK抑制剂“第三次浪潮”汹涌](https://www.tmtpost.com/8212799.html)
+**发布时间**: 2026-11-20 18:23
+
+#### [“DeepSeek们”都在退场：限额并非免费AI的终结？](https://www.tmtpost.com/8212818.html)
+**发布时间**: 2026-11-20 18:23
+
+#### [Falling Prices Push AI Video Toward Platform Economics](https://www.tmtpost.com/8212911.html)
+**发布时间**: 2026-11-20 17:54
+
+#### [抖音生活悄悄上万亿](https://www.tmtpost.com/8211611.html)
+**发布时间**: 2026-11-20 17:23
+
+#### [Waymo被迫退出高速公路，无人驾驶的商业化开始碰到监管天花板](https://www.tmtpost.com/8211917.html)
+**发布时间**: 2026-11-20 17:22
+
+#### [Anthropic正式登陆纳斯达克：敲钟那天，账已经在另一张纸上？](https://www.tmtpost.com/8212716.html)
+**发布时间**: 2026-11-20 17:22
+
+#### [AI这一年，倒下的APP们](https://www.tmtpost.com/8212771.html)
+**发布时间**: 2026-11-20 17:22
+
+#### [50天推出4款模型，谷歌想当“造物主”了？](https://www.tmtpost.com/8212777.html)
+**发布时间**: 2026-11-20 17:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让](https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 18:48
+
+#### [“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多](https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 18:41
+
+#### [Agent 上岗，你敢放手吗？](https://www.infoq.cn/video/qafOtORWUX0eD0WfSlYi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 18:25
+
+#### [华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一](https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 18:19
+
+#### [AI 漫剧不缺作品，缺什么？｜QLab直播](https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 17:14
+
+#### [Grab 通过安全策略应对 AI 生成代码变更激增，提升移动端 App 稳定性](https://www.infoq.cn/article/AH8deOIGb5hMHRPIKfrf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 14:00
+
+#### [OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进](https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 13:00
+
+#### [Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构](https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-20 12:00
+
+#### [范式首秀！国产算力训练的Phai系列模型，究竟有什么不同](https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-19 16:08
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/119337)
+**发布时间**: 2026-11-20 17:54
+
+#### [游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验](https://sspai.com/post/119327)
+**发布时间**: 2026-11-20 15:34
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」](http://www.geekpark.net/news/374282)
+**发布时间**: 2026-11-20 16:24
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [谷歌 Chrome 团队出手了，GitHub 上斩获 1W 的 Star 了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538609&idx=1&sn=4f14737e2c3c5e739567c1406c764fa0)
+**发布时间**: 2026-11-20 11:14
 
 ---
 

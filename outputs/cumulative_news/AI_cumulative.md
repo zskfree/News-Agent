@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-20 03:53
+**最后更新时间**: 2026-11-20 13:52
+
+---
+
+## 🆕 最新更新 (2026-11-20 13:52)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [拓竹 MakerWorld，为什么难复制？](https://www.leiphone.com/category/weiwu/zv5a8TgwqnZmROX5.html)
+**发布时间**: 2026-11-20 19:10
+
+#### [灵掌机器人太空灵巧手亮相世界智能制造博览会](https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html)
+**发布时间**: 2026-11-20 18:27
+
+#### [解读丨智能戒指红海之外，Elah Ring 正在深入美国腹地](https://www.leiphone.com/category/weiwu/ptAnAiMGqEOX65EI.html)
+**发布时间**: 2026-11-20 18:09
+
+#### [享界V8正式上市售价31.98万元起，鸿蒙智行首款纯电MPV瞄准高端家用](https://www.leiphone.com/category/industrynews/Tjsd07j74heQpJKc.html)
+**发布时间**: 2026-11-20 16:41
+
+#### [速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高](https://www.leiphone.com/category/industrynews/PyCDSvzY37FZLkZA.html)
+**发布时间**: 2026-11-20 16:39
+
+#### [速卖通双11收官：品牌成交大涨近50%，美国、巴西、小众潜力市场均创新高](https://www.leiphone.com/category/industrynews/RBVQITzBAqkoQGzE.html)
+**发布时间**: 2026-11-20 16:37
+
+#### [Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%](https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html)
+**发布时间**: 2026-11-20 16:36
+
+#### [CoCreate伦敦峰会揭开跨境B2B电商新机遇：阿里国际站欧洲订单三年增长70%](https://www.leiphone.com/category/industrynews/eqi19Azefys58IT4.html)
+**发布时间**: 2026-11-20 16:35
+
+#### [方程豹钛9上市：27.99万元起，折叠方向盘首次上车](https://www.leiphone.com/category/transportation/Okzc1pyWcptuTh5J.html)
+**发布时间**: 2026-11-20 15:49
+
+#### [第六代 AMD EPYC 处理器技术峰会在京举行](https://www.leiphone.com/category/industrynews/TVtcS88CGW5q5JDk.html)
+**发布时间**: 2026-11-20 15:47
+
+#### [灵光开放生态再扩容：新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务](https://www.leiphone.com/category/industrynews/walzAUin5QxPaCOQ.html)
+**发布时间**: 2026-11-20 15:43
+
+#### [当AI影视遇上文化出海：优秀作品亮相第47届美国电影市场](https://www.leiphone.com/category/industrynews/sFbtCLZ06plyUxPF.html)
+**发布时间**: 2026-11-20 14:40
+
+#### [大二「天才少女」刚拿下 ACM 最佳论文，立陷造假疑云，通讯作者独家回应](https://www.leiphone.com/category/private/fTZ8RbFMcD34HieP.html)
+**发布时间**: 2026-11-20 14:03
+
+#### [支付宝小荷包联合蚂蚁庄园上线爱心插件，近50万用户共同守护流浪动物](https://www.leiphone.com/category/industrynews/Xe1FWkNUk4IQr4kx.html)
+**发布时间**: 2026-11-20 13:40
+
+#### [独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资](https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html)
+**发布时间**: 2026-11-20 11:22
+
+#### [独家｜前京东健康市场营销部总经理王丁虓加入面壁智能，担任品牌公关负责人](https://www.leiphone.com/category/industrynews/r1chb5ofkWYaKjMn.html)
+**发布时间**: 2026-11-20 10:58
+
+#### [独家丨影石研究院首度公开：字节旧将亓鲁任负责人](https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html)
+**发布时间**: 2026-11-20 10:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来](https://www.qbitai.com/2026/11/511610.html)
+**发布时间**: 2026-11-20 08:04
+
+#### [新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景](https://www.qbitai.com/2026/11/511603.html)
+**发布时间**: 2026-11-20 06:16
+
+#### [双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！](https://www.qbitai.com/2026/11/511582.html)
+**发布时间**: 2026-11-20 05:24
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](https://huggingface.co/blog/harness-adapters-at-scale)
+**发布时间**: 2026-11-20 00:00
 
 ---
 

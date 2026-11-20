@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-20 03:54
+**最后更新时间**: 2026-11-20 14:07
+
+---
+
+## 🆕 最新更新 (2026-11-20 14:07)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These little-known investments could be among the best bargains in a crash](https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 14:00
+
+#### [Anthropic’s stock slides closer to IPO price and drags down the AI trade](https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 13:48
+
+#### [Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.](https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 13:00
+
+#### [These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027](https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 12:45
+
+#### [Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks](https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 12:43
+
+#### [My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?](https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 12:30
+
+#### [GameStop has transformed from a meme stock into a ‘real company,’ analysts say](https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 12:24
+
+#### [Anthropic soared in its debut as stocks tanked. Only one other IPO has done that since 1990.](https://www.marketwatch.com/story/anthropic-soared-in-its-debut-as-stocks-tanked-only-one-other-ipo-has-done-that-since-1990-77b75258?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 12:19
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic shares slide 13% as fears over AI boom dominate](https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 13:29
+
+#### [Burnham’s EU deal in brief](https://www.ft.com/content/be7924c4-8e29-4630-82f3-f94001765d37?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 12:45
+
+#### [‘A necessary evil’: how Anthropic pulled off its IPO](https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 12:02
+
+#### [UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees](https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3)
+**发布时间**: 2026-11-20 10:47
+
+#### [White House replaces top cyber security official](https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 08:33
+
+#### [So, Anthropic is finally a public company. What now?](https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757)
+**发布时间**: 2026-11-20 05:19
+
+#### [Rejoining the EU would boost UK economy twice as much as Swiss-style deal](https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 05:00
+
+#### [Pensions: unjust and unsustainable?](https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 05:00
+
+#### [Why Britons can feel smugger than the French](https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 05:00
+
+#### [Oil loses grip on bond markets as inflation ‘virus’ spreads](https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 05:00
 
 ---
 
