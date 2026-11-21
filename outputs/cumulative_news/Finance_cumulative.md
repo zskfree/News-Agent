@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-20 14:07
+**最后更新时间**: 2026-11-21 03:51
+
+---
+
+## 🆕 最新更新 (2026-11-21 03:51)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tech outages are rattling Americans so much that they’re stockpiling cash and supplies](https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories)
+**发布时间**: 2026-11-21 03:20
+
+#### [Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020](https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 22:46
+
+#### [Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade](https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 22:44
+
+#### [These stocks were crushed the most this week as the tech wreck accelerated](https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 22:44
+
+#### [Nvidia’s stock clinches a stretch of weekly losses not seen since 2008](https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 21:58
+
+#### [Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock](https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 21:39
+
+#### [The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings](https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 21:39
+
+#### [Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag](https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 21:36
+
+#### [One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak](https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 21:34
+
+#### [Anthropic’s stock sees dramatic slide but manages to stay above its IPO price](https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories)
+**发布时间**: 2026-11-20 21:25
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia faces US regulator’s probe into its accounting](https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 21:58
+
+#### [US tech stocks plunge into bear market in worst week since Covid-19 crisis](https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 21:52
+
+#### [Inside Anthropic’s historic IPO](https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 21:21
+
+#### [Grand Theft Auto VI smashes records with $3.8bn in sales](https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 21:05
+
+#### [Trump considering new Iran strikes as US military warns of strain on forces](https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e)
+**发布时间**: 2026-11-20 20:19
+
+#### [Donald Trump threatens ‘tremendous’ tax on data centres built outside US](https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 20:17
+
+#### [’Tis the season to be grateful to China](https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 18:57
+
+#### [Burnham reopened the Brexit debate. He now sees the political dangers ahead](https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 18:51
+
+#### [Jamie Dimon vows to claw back ‘unfair’ UK bank tax](https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 17:08
+
+#### [Andy Burnham begins to undo Brexit with landmark EU deal](https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 15:57
+
+#### [The AI fever in markets is breaking](https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-20 15:23
 
 ---
 

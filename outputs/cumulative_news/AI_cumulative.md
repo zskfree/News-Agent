@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-20 13:52
+**最后更新时间**: 2026-11-21 03:49
+
+---
+
+## 🆕 最新更新 (2026-11-21 03:49)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [New in AWS Quick: More capable flows, an updated web experience, and agents that work together](https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/)
+**发布时间**: 2026-11-21 01:06
+
+#### [Cut self-hosted LLM cost and latency with the distributed KV caching agent skill](https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/)
+**发布时间**: 2026-11-21 00:14
+
+#### [Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm](https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/)
+**发布时间**: 2026-11-20 23:07
+
+#### [Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/)
+**发布时间**: 2026-11-20 22:35
+
+#### [How Standard Bank Group automates AI risk assessment for generative AI](https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/)
+**发布时间**: 2026-11-20 20:37
+
+#### [Announcing Amazon Textract Insights: Verifiable generative AI for documents](https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/)
+**发布时间**: 2026-11-20 20:22
+
+#### [Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/)
+**发布时间**: 2026-11-20 18:24
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How Google Duplex evolved to also call businesses for you in Gemini](https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/)
+**发布时间**: 2026-11-20 23:30
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [上汽通用发布真龙插混MAX，首搭别克至境世家](https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html)
+**发布时间**: 2026-11-20 22:07
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only](https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/)
+**发布时间**: 2026-11-20 17:42
+
+#### [NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B](https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/)
+**发布时间**: 2026-11-20 14:44
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Q&A: Enabling more human-like interactions and understanding in multimodal foundation models](https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120)
+**发布时间**: 2026-11-20 16:00
+
+#### [New approach enables physically consistent AI models of chaotic systems](https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120)
+**发布时间**: 2026-11-20 15:00
+
+#### [Following the “mathocalypse,” mathematicians consider the future](https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120)
+**发布时间**: 2026-11-20 10:20
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](https://huggingface.co/blog/inkling2mini)
+**发布时间**: 2026-11-20 00:00
 
 ---
 
