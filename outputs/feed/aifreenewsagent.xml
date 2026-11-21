@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 21 Nov 2026 03:49:00 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2026 03:51:36 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 13:16:00 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:17:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>New in AWS Quick: More capable flows, an updated web experience, and agents that work together</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/</link>
-      <description>&lt;![CDATA[New in AWS Quick: More capable flows, an updated web experience, and agents that work together]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 01:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/</guid>
+      <title>Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac</title>
+      <link>https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</link>
+      <description>&lt;![CDATA[Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac]]&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 12:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Cut self-hosted LLM cost and latency with the distributed KV caching agent skill</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/</link>
-      <description>&lt;![CDATA[Cut self-hosted LLM cost and latency with the distributed KV caching agent skill]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 00:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/</guid>
+      <title>OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min</title>
+      <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
+      <description>&lt;![CDATA[OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min]]&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Standard Bank Group automates AI risk assessment for generative AI</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/</link>
-      <description>&lt;![CDATA[How Standard Bank Group automates AI risk assessment for generative AI]]&gt;</description>
-      <pubDate>Fri, 20 Nov 2026 20:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/</guid>
+      <title>Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index</title>
+      <link>https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/</link>
+      <description>&lt;![CDATA[Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index]]&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 04:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Announcing Amazon Textract Insights: Verifiable generative AI for documents</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/</link>
-      <description>&lt;![CDATA[Announcing Amazon Textract Insights: Verifiable generative AI for documents]]&gt;</description>
-      <pubDate>Fri, 20 Nov 2026 20:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/</guid>
+      <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
+      <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
+      <description>&lt;![CDATA[享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款]]&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 11:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/</link>
-      <description>&lt;![CDATA[Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod]]&gt;</description>
-      <pubDate>Fri, 20 Nov 2026 18:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/</guid>
+      <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
+      <link>https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</link>
+      <description>&lt;![CDATA[当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！]]&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>How Google Duplex evolved to also call businesses for you in Gemini</title>
-      <link>https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/</link>
-      <description>&lt;![CDATA[How Google Duplex evolved to also call businesses for you in Gemini]]&gt;</description>
-      <pubDate>Fri, 20 Nov 2026 23:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/</guid>
+      <title>GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍</title>
+      <link>https://www.qbitai.com/2026/11/511779.html</link>
+      <description>&lt;![CDATA[GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍]]&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 06:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511779.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>上汽通用发布真龙插混MAX，首搭别克至境世家</title>
-      <link>https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html</link>
-      <description>&lt;![CDATA[上汽通用发布真龙插混MAX，首搭别克至境世家]]&gt;</description>
-      <pubDate>Fri, 20 Nov 2026 22:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html</guid>
+      <title>刚刚，DeepSeek V1作者创业项目曝光：开源Agent</title>
+      <link>https://www.qbitai.com/2026/11/511570.html</link>
+      <description>&lt;![CDATA[刚刚，DeepSeek V1作者创业项目曝光：开源Agent]]&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 06:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511570.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only</title>
-      <link>https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</link>
-      <description>&lt;![CDATA[RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only]]&gt;</description>
-      <pubDate>Fri, 20 Nov 2026 17:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Q&amp;A: Enabling more human-like interactions and understanding in multimodal foundation models</title>
-      <link>https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120</link>
-      <description>&lt;![CDATA[Q&amp;A: Enabling more human-like interactions and understanding in multimodal foundation models]]&gt;</description>
-      <pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>New approach enables physically consistent AI models of chaotic systems</title>
-      <link>https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120</link>
-      <description>&lt;![CDATA[New approach enables physically consistent AI models of chaotic systems]]&gt;</description>
-      <pubDate>Fri, 20 Nov 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120</guid>
+      <title>姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图</title>
+      <link>https://www.qbitai.com/2026/11/511757.html</link>
+      <description>&lt;![CDATA[姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图]]&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511757.html</guid>
       <category>Ai</category>
     </item>
   </channel>

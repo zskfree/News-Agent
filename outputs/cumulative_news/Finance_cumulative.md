@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-21 03:51
+**最后更新时间**: 2026-11-21 13:17
+
+---
+
+## 🆕 最新更新 (2026-11-21 13:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [America is definitely rich enough to fix Social Security and Medicare. Here’s how.](https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories)
+**发布时间**: 2026-11-21 13:00
+
+#### [Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.](https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories)
+**发布时间**: 2026-11-21 12:31
+
+#### [How a brutal week for stocks almost wiped out their gains for the entire year](https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-21 12:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Navy budget pick has family investments in Trump Jr-linked contractor](https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 12:00
+
+#### [Traders start to move US copper to China as Trump tariff fears ease](https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 12:00
+
+#### [The dead hand of history weighs on Deutsche Bank](https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920)
+**发布时间**: 2026-11-21 06:32
+
+#### [The AI cyber threat is already here](https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 05:00
+
+#### [The manufacturing of novelty](https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 05:00
+
+#### [CVC claims accounting manipulation in €3bn Advent pastry ingredients deal](https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 05:00
+
+#### [Russia and Ukraine’s drone war sends optical fibre prices soaring](https://www.ft.com/content/339c3a72-bce5-44ed-bc6c-c8a8199cfb40?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 05:00
+
+#### [Oil shipped through Hormuz falls as Iranian strikes increase](https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 05:00
 
 ---
 

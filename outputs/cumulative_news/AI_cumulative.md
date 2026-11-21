@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-21 03:49
+**最后更新时间**: 2026-11-21 13:16
+
+---
+
+## 🆕 最新更新 (2026-11-21 13:16)
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac](https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/)
+**发布时间**: 2026-11-21 12:13
+
+#### [OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min](https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/)
+**发布时间**: 2026-11-21 11:46
+
+#### [Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index](https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/)
+**发布时间**: 2026-11-21 04:01
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款](https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html)
+**发布时间**: 2026-11-21 11:47
+
+#### [当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！](https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html)
+**发布时间**: 2026-11-21 10:59
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍](https://www.qbitai.com/2026/11/511779.html)
+**发布时间**: 2026-11-21 06:35
+
+#### [刚刚，DeepSeek V1作者创业项目曝光：开源Agent](https://www.qbitai.com/2026/11/511570.html)
+**发布时间**: 2026-11-21 06:32
+
+#### [姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图](https://www.qbitai.com/2026/11/511757.html)
+**发布时间**: 2026-11-21 06:30
+
+#### [米哈游发了个VLA论文](https://www.qbitai.com/2026/11/511740.html)
+**发布时间**: 2026-11-20 16:25
+
+#### [黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明](https://www.qbitai.com/2026/11/511727.html)
+**发布时间**: 2026-11-20 16:07
+
+#### [美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax](https://www.qbitai.com/2026/11/511722.html)
+**发布时间**: 2026-11-20 12:18
+
+#### [给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂](https://www.qbitai.com/2026/11/511679.html)
+**发布时间**: 2026-11-20 08:59
 
 ---
 
