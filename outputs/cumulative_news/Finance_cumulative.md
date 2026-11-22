@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-21 13:17
+**最后更新时间**: 2026-11-22 03:09
+
+---
+
+## 🆕 最新更新 (2026-11-22 03:09)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [India’s $126bn insurance sector slams proposed commission cap](https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 01:30
+
+#### [Violence erupts in Sinaloa after Mexico captures alleged drug trafficker](https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 21:28
+
+#### [Amazon closes in on $7.5bn deal to buy AI start-up Decart](https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 17:21
+
+#### [Alice Huang’s links to the chip underworld](https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 17:00
+
+#### [Miguel Ángel Félix Gallardo, drug lord, 1946-2026](https://www.ft.com/content/fbf39142-a256-4fa8-a689-e958d80112a4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 05:00
+
+#### [Nvidia affair puts Chinese spies in spotlight](https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-21 03:58
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?](https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories)
+**发布时间**: 2026-11-21 20:15
+
+#### [‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots](https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-21 19:45
+
+#### [‘Never too late to start’: Practical investing advice from some of the top women in finance](https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories)
+**发布时间**: 2026-11-21 18:19
 
 ---
 

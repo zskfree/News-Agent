@@ -1,7 +1,60 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-21 13:17
+**最后更新时间**: 2026-11-22 03:09
+
+---
+
+## 🆕 最新更新 (2026-11-22 03:09)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Pinterest 联合英特尔将开源性能分析推向互联网级规模](https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-22 11:00
+
+#### [智能体身份国际标准化：体系布局与研制实践｜AICon北京](https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-22 10:00
+
+#### [亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改](https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-22 10:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [重控制、轻渲染，达瓦科技的 AI 视频工业路线](http://www.geekpark.net/news/374303)
+**发布时间**: 2026-11-22 10:03
+
+#### [资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段](http://www.geekpark.net/news/374302)
+**发布时间**: 2026-11-22 09:58
+
+#### [关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切](http://www.geekpark.net/news/374301)
+**发布时间**: 2026-11-22 09:56
+
+#### [黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办](http://www.geekpark.net/news/374300)
+**发布时间**: 2026-11-22 09:05
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Edge AI Daily 早报（11月22日）](https://www.tmtpost.com/8213684.html)
+**发布时间**: 2026-11-22 09:06
+
+#### [科伦系迎80后新帅，185亿“输液大王”扶子“上位”](https://www.tmtpost.com/8213633.html)
+**发布时间**: 2026-11-22 09:02
+
+#### [可灵为何开始发力“图片”？](https://www.tmtpost.com/8212803.html)
+**发布时间**: 2026-11-22 09:02
+
+#### [全球Meta一家独大，中国AI眼镜为何还在混战？](https://www.tmtpost.com/8213674.html)
+**发布时间**: 2026-11-22 09:02
+
+#### [特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面](https://www.tmtpost.com/8213639.html)
+**发布时间**: 2026-11-22 08:45
+
+#### [印度大米多到装不下，价格为何还在涨？](https://www.tmtpost.com/8212802.html)
+**发布时间**: 2026-11-22 08:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318)
+**发布时间**: 2026-11-22 09:05
 
 ---
 

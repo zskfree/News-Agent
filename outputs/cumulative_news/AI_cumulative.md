@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-21 13:16
+**最后更新时间**: 2026-11-22 03:07
+
+---
+
+## 🆕 最新更新 (2026-11-22 03:07)
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Meta ads is now available in AWS Quick](https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/)
+**发布时间**: 2026-11-22 01:59
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels](https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/)
+**发布时间**: 2026-11-22 01:51
 
 ---
 

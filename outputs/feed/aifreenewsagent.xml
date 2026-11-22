@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 21 Nov 2026 13:16:00 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2026 13:17:38 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 03:07:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:09:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,67 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac</title>
-      <link>https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</link>
-      <description>&lt;![CDATA[Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</guid>
+      <title>Meta ads is now available in AWS Quick</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</link>
+      <description>&lt;![CDATA[Meta ads is now available in AWS Quick]]&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 01:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min</title>
-      <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
-      <description>&lt;![CDATA[OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index</title>
-      <link>https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/</link>
-      <description>&lt;![CDATA[Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款</title>
-      <link>https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</link>
-      <description>&lt;![CDATA[享界V8上市即开启全国大规模交付，以为家而生的100个设计锁定爆款]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 11:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/cjpukqhxIgaEYhyQ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！</title>
-      <link>https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</link>
-      <description>&lt;![CDATA[当 Kling Image 4.0 自己出设计方案，生图的门槛又变了！]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 10:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍</title>
-      <link>https://www.qbitai.com/2026/11/511779.html</link>
-      <description>&lt;![CDATA[GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 06:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511779.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>刚刚，DeepSeek V1作者创业项目曝光：开源Agent</title>
-      <link>https://www.qbitai.com/2026/11/511570.html</link>
-      <description>&lt;![CDATA[刚刚，DeepSeek V1作者创业项目曝光：开源Agent]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 06:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511570.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图</title>
-      <link>https://www.qbitai.com/2026/11/511757.html</link>
-      <description>&lt;![CDATA[姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图]]&gt;</description>
-      <pubDate>Sat, 21 Nov 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511757.html</guid>
+      <title>A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels</title>
+      <link>https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/</link>
+      <description>&lt;![CDATA[A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels]]&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 01:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/</guid>
       <category>Ai</category>
     </item>
   </channel>
