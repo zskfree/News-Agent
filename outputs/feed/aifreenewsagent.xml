@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Nov 2026 03:07:00 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 03:09:15 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 13:06:00 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:09:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta ads is now available in AWS Quick</title>
-      <link>https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</link>
-      <description>&lt;![CDATA[Meta ads is now available in AWS Quick]]&gt;</description>
-      <pubDate>Sun, 22 Nov 2026 01:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/</guid>
+      <title>特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局</title>
+      <link>https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html</link>
+      <description>&lt;![CDATA[特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局]]&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels</title>
-      <link>https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/</link>
-      <description>&lt;![CDATA[A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels]]&gt;</description>
-      <pubDate>Sun, 22 Nov 2026 01:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/</guid>
+      <title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost</title>
+      <link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
+      <description>&lt;![CDATA[Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost]]&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries</title>
+      <link>https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/</link>
+      <description>&lt;![CDATA[Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries]]&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖</title>
+      <link>https://www.qbitai.com/2026/11/511904.html</link>
+      <description>&lt;![CDATA[Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖]]&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 06:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511904.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿</title>
+      <link>https://www.qbitai.com/2026/11/511870.html</link>
+      <description>&lt;![CDATA[A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿]]&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 06:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/511870.html</guid>
       <category>Ai</category>
     </item>
   </channel>

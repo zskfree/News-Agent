@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-22 03:07
+**最后更新时间**: 2026-11-22 13:06
+
+---
+
+## 🆕 最新更新 (2026-11-22 13:06)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局](https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html)
+**发布时间**: 2026-11-22 18:15
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost](https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/)
+**发布时间**: 2026-11-22 10:36
+
+#### [Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries](https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/)
+**发布时间**: 2026-11-22 10:03
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖](https://www.qbitai.com/2026/11/511904.html)
+**发布时间**: 2026-11-22 06:21
+
+#### [A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿](https://www.qbitai.com/2026/11/511870.html)
+**发布时间**: 2026-11-22 06:03
+
+#### [AI给乐队现场搓MV，这是黑客松还是音乐节啊](https://www.qbitai.com/2026/11/511855.html)
+**发布时间**: 2026-11-21 14:14
+
+#### [中国计算，走出新的登峰之路](https://www.qbitai.com/2026/11/511849.html)
+**发布时间**: 2026-11-21 14:09
+
+#### [8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准](https://www.qbitai.com/2026/11/511841.html)
+**发布时间**: 2026-11-21 11:40
+
+#### [全网疯传！Grok一姐教你如何月提交3000个PR](https://www.qbitai.com/2026/11/511830.html)
+**发布时间**: 2026-11-21 11:34
+
+#### [反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢](https://www.qbitai.com/2026/11/511791.html)
+**发布时间**: 2026-11-21 11:24
 
 ---
 

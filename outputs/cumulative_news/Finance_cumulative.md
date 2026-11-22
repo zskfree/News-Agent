@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-22 03:09
+**最后更新时间**: 2026-11-22 13:09
+
+---
+
+## 🆕 最新更新 (2026-11-22 13:09)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Xi needs Trump more than ever](https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827)
+**发布时间**: 2026-11-22 13:00
+
+#### [Sanctioned Russian vessel ablaze in Finnish waters after drone attack](https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 12:24
+
+#### [Nscale slows hiring and curtails spending ahead of planned $35bn IPO](https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8)
+**发布时间**: 2026-11-22 11:32
+
+#### [Did Anthropic and its bankers get a key call wrong after IPO?](https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e)
+**发布时间**: 2026-11-22 11:00
+
+#### [Democrats will seek to unwind Trump’s tax and tariff policies](https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 11:00
+
+#### [Napoleon’s warning to Nvidia’s Jensen Huang](https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 05:00
+
+#### [A rocky road to Irish unity](https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 05:00
+
+#### [Tech suppliers raise AI server prices up to 45% months after deals are signed](https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 05:00
+
+#### [Private equity backers flag fresh concerns about sell-to-yourself deals](https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.](https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories)
+**发布时间**: 2026-11-22 12:30
 
 ---
 

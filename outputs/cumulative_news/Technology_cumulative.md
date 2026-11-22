@@ -1,7 +1,76 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-22 03:09
+**最后更新时间**: 2026-11-22 13:09
+
+---
+
+## 🆕 最新更新 (2026-11-22 13:09)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [方向盘收起的 10 秒，比亚迪在给下一个十年立标杆](https://www.tmtpost.com/8214070.html)
+**发布时间**: 2026-11-22 20:35
+
+#### [易天股份拟控股艾晨数能，主业承压下新管理层加码储能](https://www.tmtpost.com/8214063.html)
+**发布时间**: 2026-11-22 20:12
+
+#### [中国和印度，在非洲瓷砖市场的第二次交锋](https://www.tmtpost.com/8213860.html)
+**发布时间**: 2026-11-22 19:06
+
+#### [从快手独立，可灵要回答的问题变了](https://www.tmtpost.com/8213670.html)
+**发布时间**: 2026-11-22 19:05
+
+#### [50.6万元惊动整条电力链？南网储能抽蓄首单数币结算落地，小钱撬动中国数字货币规则大棋](https://www.tmtpost.com/8213631.html)
+**发布时间**: 2026-11-22 19:05
+
+#### [拆解大厂财报：谁最舍得为AI花钱？](https://www.tmtpost.com/8212870.html)
+**发布时间**: 2026-11-22 19:05
+
+#### [跨境收款之后，中国公司盯上智能体支付的新生意](https://www.tmtpost.com/8213773.html)
+**发布时间**: 2026-11-22 16:19
+
+#### [大众花巨资买软件，想拿回什么？](https://www.tmtpost.com/8213748.html)
+**发布时间**: 2026-11-22 14:17
+
+#### [中设集团总包，7.5亿美元光伏电站项目落地非洲，央国企EPC不再只卖电站](https://www.tmtpost.com/8213796.html)
+**发布时间**: 2026-11-22 14:17
+
+#### [将靶材卖进台积电，江丰电子布局A+H，第二增长曲线成色待考](https://www.tmtpost.com/8213764.html)
+**发布时间**: 2026-11-22 14:16
+
+#### [GTA6为何封神？](https://www.tmtpost.com/8213679.html)
+**发布时间**: 2026-11-22 14:16
+
+#### [Anthropic万亿上市，搅动的却是半导体江湖](https://www.tmtpost.com/8213769.html)
+**发布时间**: 2026-11-22 14:16
+
+#### [泰国加税，最着急的可能是已经建厂的中国车企](https://www.tmtpost.com/8213763.html)
+**发布时间**: 2026-11-22 14:09
+
+#### [锦浪科技5.44亿弃光投储，撕开光伏电站的旧账本，储能成为一切的答案？](https://www.tmtpost.com/8213795.html)
+**发布时间**: 2026-11-22 14:09
+
+#### [存储行业变天：比涨价更可怕的，是拿不到货](https://www.tmtpost.com/8213789.html)
+**发布时间**: 2026-11-22 14:09
+
+#### [小鹏交出一份增长财报，盈利拐点为何还没来？](https://www.tmtpost.com/8213686.html)
+**发布时间**: 2026-11-22 12:36
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [财务团队的 AI 蓝图](https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-22 17:54
+
+#### [打造 AI 优先的销售与营销运营体系](https://www.infoq.cn/video/mihBFvImttvJlSFUqC49?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-22 17:41
+
+#### [智能体企业新前沿：驱动高效智能](https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-22 17:38
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [很多人想把《GTA 6》移植到 PC 上，这 4 个 GitHub 项目在努力。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538720&idx=1&sn=6ea7087788cd169d016cc3c8f7d0cbc6)
+**发布时间**: 2026-11-22 11:38
 
 ---
 
