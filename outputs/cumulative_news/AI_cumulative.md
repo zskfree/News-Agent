@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-23 03:33
+**最后更新时间**: 2026-11-23 15:43
+
+---
+
+## 🆕 最新更新 (2026-11-23 15:43)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [驭电飞驰，向车而行 | 光跃投资走进2026中国大学生方程式大赛合肥赛场](https://www.leiphone.com/category/weiwu/wXdEB0qbbYQ2PfPH.html)
+**发布时间**: 2026-11-23 18:44
+
+#### [华为星芒限时5499元起，网友喊话再便宜500，刘赫回应：我们选择创新优先；英伟达才说H200芯片不卖中国，美财长突喊：不用再限丨雷峰早报](https://www.leiphone.com/category/zaobao/WvQYh5bertpjOZdF.html)
+**发布时间**: 2026-11-23 18:40
+
+#### [市场份额超90%！从康辉街头出镜到APEC，大疆Pocket为何被反复选择？](https://www.leiphone.com/category/industrynews/nZ7Wi4BaZP4Ej5G2.html)
+**发布时间**: 2026-11-23 17:55
+
+#### [独家解读丨苦战三个月，AI办公经得起财报检验吗？](https://www.leiphone.com/category/industrynews/A2PIgIjrlQx63RSp.html)
+**发布时间**: 2026-11-23 17:54
+
+#### [首届AI音乐视觉黑客松：从一句话到一块大屏，剪映 Hub 让 AI 视觉进入音乐现场](https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html)
+**发布时间**: 2026-11-23 14:39
+
+#### [深拆 GPT-6.2 Astra：性能涨了、价格降了，任务成本减少近一半，OpenAI 怎么做到的？](https://www.leiphone.com/category/ai/MR1Osv9r2Rtr4V7F.html)
+**发布时间**: 2026-11-23 13:50
+
+#### [一场 APEC，测出了大疆手持影像的含金量](https://www.leiphone.com/category/weiwu/xWhlWgFXgwlzWQMj.html)
+**发布时间**: 2026-11-23 13:41
+
+#### [加州起诉 OpenAI：说起来你可能不信，是模型先动的手](https://www.leiphone.com/category/ai/c9ZMpnn48OtWzF0Z.html)
+**发布时间**: 2026-11-23 13:36
+
+#### [科研成果 | NeurIPS 2026发表CCCI博士生蒋翔宇工作｜NeurIPS 2026](https://www.leiphone.com/category/private/hvhKCQokQvsUlFxN.html)
+**发布时间**: 2026-11-23 13:27
+
+#### [蚂蚁CEO韩歆毅：AI拓宽人类健康自塑边界，1.5亿人已用阿福管健康](https://www.leiphone.com/category/industrynews/VK4viDe2WQp64rON.html)
+**发布时间**: 2026-11-23 12:10
+
+#### [蚂蚁阿福App新版发布：实时视频“望闻问切”功能上线，小毛小病在家也能搞定](https://www.leiphone.com/category/industrynews/YXUz5sDMtx6SzE3P.html)
+**发布时间**: 2026-11-23 11:47
+
+#### [国内首个！蚂蚁阿福医生版上线“循证金标准”UpToDate ，打造全场景医生AI工作台](https://www.leiphone.com/category/industrynews/Ljtu9TVFrPPeiBsX.html)
+**发布时间**: 2026-11-23 11:38
+
+#### [0跨境经验，鞋履卖家借助Shopee轻出海跨出第一步](https://www.leiphone.com/category/industrynews/UJ2aT1MWPavF3L26.html)
+**发布时间**: 2026-11-23 10:39
+
+#### [APEC 时刻，PHAIN 登上央视新闻，展现中国自研实力](https://www.leiphone.com/category/industrynews/HTBJLib1WgKs3OIR.html)
+**发布时间**: 2026-11-23 10:27
+
+#### [中通快递与阿里云伶鹊达成深度合作，智慧AI打造客服新体验](https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html)
+**发布时间**: 2026-11-23 10:26
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了](https://www.qbitai.com/2026/11/512195.html)
+**发布时间**: 2026-11-23 11:01
+
+#### [XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”](https://www.qbitai.com/2026/11/512179.html)
+**发布时间**: 2026-11-23 09:10
+
+#### [蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了](https://www.qbitai.com/2026/11/512017.html)
+**发布时间**: 2026-11-23 07:42
+
+#### [“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了](https://www.qbitai.com/2026/11/512004.html)
+**发布时间**: 2026-11-23 06:59
+
+#### [蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力](https://www.qbitai.com/2026/11/511998.html)
+**发布时间**: 2026-11-23 03:56
+
+#### [算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要](https://www.qbitai.com/2026/11/511989.html)
+**发布时间**: 2026-11-23 03:47
+
+#### [当大模型接上真实机器人：RoboChallenge Zero首期评测发布](https://www.qbitai.com/2026/11/511978.html)
+**发布时间**: 2026-11-23 03:13
+
+#### [豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班](https://www.qbitai.com/2026/11/511933.html)
+**发布时间**: 2026-11-23 02:29
+
+#### [姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图](https://www.qbitai.com/2026/11/511921.html)
+**发布时间**: 2026-11-23 02:09
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [27 Cybersecurity Terms to Prepare You for the Age of AI](https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/)
+**发布时间**: 2026-11-23 10:40
+
+#### [Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI](https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/)
+**发布时间**: 2026-11-23 10:05
+
+#### [Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD](https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/)
+**发布时间**: 2026-11-23 08:24
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [How to build and maintain an agentic evaluation](https://huggingface.co/blog/agentic-evals)
+**发布时间**: 2026-11-23 00:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [AI-driven technique could help engineers design analog chips faster and with less expense](https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123)
+**发布时间**: 2026-11-23 00:00
 
 ---
 

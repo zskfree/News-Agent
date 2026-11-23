@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-23 03:35
+**最后更新时间**: 2026-11-23 15:46
+
+---
+
+## 🆕 最新更新 (2026-11-23 15:46)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO](https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 15:15
+
+#### [UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings](https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 14:39
+
+#### [Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?](https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 14:37
+
+#### [I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?](https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 14:15
+
+#### [Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet](https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 14:14
+
+#### [The number of 401(k) millionaires drops amid stock-market swings](https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 14:10
+
+#### [Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler](https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 13:47
+
+#### [A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?](https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 13:45
+
+#### [The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says](https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 10:57
+
+#### [James Bond films were shot all over the world. Here are 5 properties made famous by 007.](https://www.marketwatch.com/story/james-bond-films-were-shot-all-over-the-world-here-are-5-properties-made-famous-by-007-dabafbe6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 10:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia reinstates Jensen Huang as chief executive](https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 15:04
+
+#### [Macron proposes French budget ‘golden rule’](https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 13:22
+
+#### [The trouble with the middle powers project](https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 12:25
+
+#### [CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount](https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 11:02
+
+#### [Ukraine blows up Russian warship in Libya’s Benghazi naval base](https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 09:30
+
+#### [Nvidia shares soar 30% after board reinstates Huang](https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 08:22
+
+#### [China is winning the car war](https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 05:00
+
+#### [Novartis rejects AI industry hopes to cure cancer in five to 10 years](https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 05:00
 
 ---
 
