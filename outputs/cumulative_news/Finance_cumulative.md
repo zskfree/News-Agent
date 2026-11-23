@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-22 13:09
+**最后更新时间**: 2026-11-23 03:35
+
+---
+
+## 🆕 最新更新 (2026-11-23 03:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tech stock sell-off deepens in Asia](https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 01:55
+
+#### [House Democrats to start new Congress with largest majority this century](https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 22:10
+
+#### [Delta flight delays add to concerns about US air travel systems](https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 19:25
+
+#### [Bessent refuses to rule out Huang’s return to Nvidia](https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 19:08
+
+#### [Sanctioned Russian vessel attacked by drones near Finland](https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 14:15
+
+#### [Will Anthropic buck the tech sell-off?](https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 12:00
+
+#### [The American dream of home ownership recedes as mortgage rates surge](https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1)
+**发布时间**: 2026-11-22 11:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport](https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-22 21:51
+
+#### [Ron Johnson’s Social Security gaffe buried important news](https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories)
+**发布时间**: 2026-11-22 21:28
+
+#### [Social Security should be shut down, this Republican senator says](https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories)
+**发布时间**: 2026-11-22 20:26
+
+#### [Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill](https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories)
+**发布时间**: 2026-11-22 19:24
+
+#### [Private equity has been buying up hospice centers — with striking consequences](https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories)
+**发布时间**: 2026-11-22 17:22
+
+#### [‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?](https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-22 17:00
+
+#### [‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch](https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories)
+**发布时间**: 2026-11-22 16:18
 
 ---
 

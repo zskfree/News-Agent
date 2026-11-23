@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-22 13:06
+**最后更新时间**: 2026-11-23 03:33
+
+---
+
+## 🆕 最新更新 (2026-11-23 03:33)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [解码比亚迪高端化：一家技术公司的自我进化](https://www.leiphone.com/category/transportation/QtQ2DYWViqwYNbhu.html)
+**发布时间**: 2026-11-22 22:19
+
+#### [磨了 8 年、折了 9.6 万次，比亚迪折叠智舱终究会「真香」](https://www.leiphone.com/category/transportation/fhogNEQ0PWQ74TGa.html)
+**发布时间**: 2026-11-22 20:55
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor](https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/)
+**发布时间**: 2026-11-22 18:37
 
 ---
 

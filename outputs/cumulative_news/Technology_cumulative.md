@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-22 13:09
+**最后更新时间**: 2026-11-23 03:35
+
+---
+
+## 🆕 最新更新 (2026-11-23 03:35)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [硅基员工元年，投入要向组织与流程倾斜丨ToB产业观察](https://www.tmtpost.com/8214320.html)
+**发布时间**: 2026-11-23 11:33
+
+#### [【Fintech 周报】海南银行获批定向增资扩股；ChatGPT Wallet上线](https://www.tmtpost.com/8214380.html)
+**发布时间**: 2026-11-23 11:03
+
+#### [7 个亿植发、500 亿买钓具：男性购买力终于 "开窍" 了](https://www.tmtpost.com/8214114.html)
+**发布时间**: 2026-11-23 10:52
+
+#### [这届大学生，狂卷黑客松](https://www.tmtpost.com/8214092.html)
+**发布时间**: 2026-11-23 10:52
+
+#### [“假洋牌”Swisse，卖爆了](https://www.tmtpost.com/8214108.html)
+**发布时间**: 2026-11-23 09:59
+
+#### [林俊旸追上李飞飞](https://www.tmtpost.com/8213927.html)
+**发布时间**: 2026-11-23 09:52
+
+#### [Edge AI Daily 早报（11月23日）](https://www.tmtpost.com/8214195.html)
+**发布时间**: 2026-11-23 08:48
+
+#### [【钛晨报】A股利好！交易所打出稳市“组合拳”，事关两融、降费、创业板；积存金价格跌至“7字头”，银行纷纷提示贵金属市场风险；量子计算机“高速内存”全球首次真机实现](https://www.tmtpost.com/8214014.html)
+**发布时间**: 2026-11-23 07:20
+
+#### [开户热、缴费冷：个人养老金产品缺一套靠谱的独立第三方标尺](https://www.tmtpost.com/8214170.html)
+**发布时间**: 2026-11-22 22:47
+
+#### [银行理财五星管理人评级报告 （2026年10月）](https://www.tmtpost.com/8214167.html)
+**发布时间**: 2026-11-22 22:47
+
+#### [价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察](https://www.tmtpost.com/8214152.html)
+**发布时间**: 2026-11-22 22:44
+
+#### [价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察](https://www.tmtpost.com/8214137.html)
+**发布时间**: 2026-11-22 22:12
+
+#### [从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？](https://www.tmtpost.com/8214129.html)
+**发布时间**: 2026-11-22 22:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化](https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 11:00
+
+#### [具身智能进入大浪淘沙阶段，企业需要怎样的人才？](https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 10:48
+
+#### [Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪，Claude 上市当天突发性能降级！靠失业焦虑撑起的万亿估值，该踩刹车了](https://www.infoq.cn/article/OPbZhT0OHL4IbZz8exvA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-23 09:20
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道](http://www.geekpark.net/news/374304)
+**发布时间**: 2026-11-23 09:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想](https://sspai.com/post/119418)
+**发布时间**: 2026-11-23 07:34
 
 ---
 
