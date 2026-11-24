@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-24 06:50
+**最后更新时间**: 2026-11-24 19:25
+
+---
+
+## 🆕 最新更新 (2026-11-24 19:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Many people overlook this crucial piece of retirement planning — and it isn’t money](https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 19:21
+
+#### [Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.](https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 19:02
+
+#### [Visiting Las Vegas is getting too expensive — but don’t blame airfares](https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 18:48
+
+#### [Micron’s stock falls as an analyst warns about a future supply glut](https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 18:33
+
+#### [Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic](https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 18:28
+
+#### [A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?](https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 18:00
+
+#### [The AI debt market isn’t convinced the worst is over for investors](https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 17:48
+
+#### [I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?](https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 17:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The expanding boundaries of the Ukraine war](https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 18:38
+
+#### [EU warns France and Belgium to put public finances on ‘sustainable path’](https://www.ft.com/content/20e28c3f-31b8-40d2-bbb7-ee3f92ede6ac?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 18:02
+
+#### [Anthropic falls below IPO price as tech rally fades](https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 17:52
+
+#### [Trump readies raft of new tariffs on major economies](https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 16:30
+
+#### [Shanghai’s powerful Communist Party boss toppled as Xi  escalates purge](https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 15:55
+
+#### [Jensen Huang’s return should not stop tighter US chip controls](https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a)
+**发布时间**: 2026-11-24 12:54
+
+#### [Russian navy licks its wounds as another warship is sunk](https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 11:51
+
+#### [Big Tech’s blind spot](https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 05:00
+
+#### [Inside the ‘war room’ that lobbied Trump to bring back Jensen Huang](https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 22:46
 
 ---
 

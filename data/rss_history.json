@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9fa26945572c07fc90cc8a7a241e35ec88d1ceb01fadc2666e1afd37b5fef916": {
-        "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
-        "link": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 25 Oct 2026 10:30:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037425"
-      },
-      "35aaf7cb63e8198cfdf4812b232af73f1d3ddcb9d0212515e9ce043dc5579938": {
-        "title": "【数智周报】MiniMax港股破发；DeepSeek开源推理框架DeepInfer并披露收入账本；美国国土安全部正式下令禁采DeepSeek……",
-        "link": "https://www.tmtpost.com/8181051.html",
-        "published_date": "Sun, 25 Oct 2026 17:29:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037438"
-      },
-      "12a2c056082f93043ea5134c39ace0f13cf8c89f90039cbec0e53f22c9c93079": {
-        "title": "单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？",
-        "link": "https://www.tmtpost.com/8179663.html",
-        "published_date": "Sun, 25 Oct 2026 11:10:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037441"
-      },
-      "4d863d6681444eddc4abcaff0c449656f778ec89001ce1ce878f4b4770f8f640": {
-        "title": "阿宽食品拟新三板摘牌，头号客户麻六记回应“欠款”传闻",
-        "link": "https://www.tmtpost.com/8180790.html",
-        "published_date": "Sun, 25 Oct 2026 10:03:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037443"
-      },
-      "f1dd019504a062f814c65ccfd2524d5e679766904fb9ef109277acfeb8c20447": {
-        "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局",
-        "link": "https://www.tmtpost.com/8180842.html",
-        "published_date": "Sun, 25 Oct 2026 09:54:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037445"
-      },
-      "37359900bd11551bda110151b0a1ee8757861b80ae4e2f02d57fa0c61148a486": {
-        "title": "电动化转型有了起色，沃尔沃却越来越难赚钱了",
-        "link": "https://www.tmtpost.com/8180823.html",
-        "published_date": "Sun, 25 Oct 2026 09:52:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037447"
-      },
-      "82c22275deedd450ed941ff01173c075db52ea48b28c0a474fff74466b0c6a0f": {
-        "title": "新石器再获近4亿美元融资，无人配送进入规模化竞争",
-        "link": "https://www.tmtpost.com/8179257.html",
-        "published_date": "Sun, 25 Oct 2026 09:52:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037449"
-      },
-      "2d64e8af279804ae8b445d86aed2653192082c1502c4c28d55bc2e87565073a2": {
-        "title": "日本加入数据中心热潮，这些股票可能从中受益",
-        "link": "https://www.tmtpost.com/8180930.html",
-        "published_date": "Sun, 25 Oct 2026 09:49:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037450"
-      },
-      "138b28767b600b93e0a8101e7ef8f103ecc8ce5a60b7e3535adf509011e3273e": {
-        "title": "腾讯有阅文，微信却去公众号找剧本",
-        "link": "https://www.tmtpost.com/8180817.html",
-        "published_date": "Sun, 25 Oct 2026 09:46:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037452"
-      },
-      "3f4506654d20d8cb3c2206b7f8586de2274112f13b05ff8ae24ca1f67037b325": {
-        "title": "眼油GMV一年破3亿，雏菊的天空难突围",
-        "link": "https://www.tmtpost.com/8180814.html",
-        "published_date": "Sun, 25 Oct 2026 09:42:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.037454"
-      },
       "dc61435d9e976f321df4f9498d4a3cad75e04a421edee8cac688ebc782f93f71": {
         "title": "从技术封锁到自主创新：中国如何在全球经济体系中实现高水平科技自立自强",
         "link": "https://www.tmtpost.com/8181250.html",
@@ -3601,45 +3541,69 @@
         "link": "https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 24 Nov 2026 11:00:00 GMT",
         "first_seen": "2026-11-24T06:50:48.568890"
+      },
+      "fa620091731957370a6c0175ae6e6a4bfbb94510f06671b6b46cb05bc400ddc9": {
+        "title": "自变量发布具身基础模型WALL-OSS-1.0，自测零样本成功率55.1%",
+        "link": "https://www.tmtpost.com/8216666.html",
+        "published_date": "Tue, 24 Nov 2026 21:09:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145168"
+      },
+      "c621fb5a3a94d5b18b0674c300caa0415404c18e6712f67a969457a2f98e69cb": {
+        "title": "10.5亿现金全资拿下银球科技，斯菱智驱机器人转型再下重注",
+        "link": "https://www.tmtpost.com/8216503.html",
+        "published_date": "Tue, 24 Nov 2026 19:02:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145178"
+      },
+      "4ede6e236a075560a99d8aac90b90c580171a3428d46d7d4585335ee1a47c725": {
+        "title": "艾为电子落子电源芯片业务，钰泰半导体八年资本路迎新局 | 并购一线",
+        "link": "https://www.tmtpost.com/8216284.html",
+        "published_date": "Tue, 24 Nov 2026 17:18:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145180"
+      },
+      "07f2ad419484e0ff4729bd7ebdcc61c6b6356ac09360e8b474b7e7f1385157c4": {
+        "title": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
+        "link": "https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 24 Nov 2026 20:21:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145181"
+      },
+      "e17c9e60279647b6199677df3b57c217fde5b853391736bd4035d7e7a9cae676": {
+        "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+        "link": "https://sspai.com/post/119492",
+        "published_date": "Tue, 24 Nov 2026 17:14:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145182"
+      },
+      "837388540fffa7b3a0f6f831577d3b3893381251eaf1781c634e308f6887a8f9": {
+        "title": "编造检验记录，宝莱特华北唯一透析粉液基地遭飞检停产",
+        "link": "https://www.tmtpost.com/8216634.html",
+        "published_date": "Tue, 24 Nov 2026 21:40:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145183"
+      },
+      "c543e78f1a9fc741108af2195a14c42a3d304e6262257d57f190712f4b729e77": {
+        "title": "内存涨价、换机乏力，荣耀如何接住中端市场的难题",
+        "link": "https://www.tmtpost.com/8216686.html",
+        "published_date": "Tue, 24 Nov 2026 21:15:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145184"
+      },
+      "6c630649b9ed5a08c3489d40bf29bea4431864ab12dc299d7b16111915bb6019": {
+        "title": "中国国航，一张油价看跌期权",
+        "link": "https://www.tmtpost.com/8215597.html",
+        "published_date": "Tue, 24 Nov 2026 19:13:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145185"
+      },
+      "a653e48e224449e9cdb076be8e97bb6fcc9ee5b1ade80bca5287e61d7e5f78bc": {
+        "title": "连续四月销量破10万，零跑回应“几箱啤酒压穿后备箱”风波",
+        "link": "https://www.tmtpost.com/8215052.html",
+        "published_date": "Tue, 24 Nov 2026 19:12:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145186"
+      },
+      "b00928736bfdf65273604f09b5fed35f3210f91815f1a1f0f0c4ccfb54c9c5dd": {
+        "title": "DeepSeek限额，腾讯社交帝国松口气",
+        "link": "https://www.tmtpost.com/8209876.html",
+        "published_date": "Tue, 24 Nov 2026 19:11:00 GMT",
+        "first_seen": "2026-11-24T19:25:55.145187"
       }
     },
     "Finance": {
-      "fd1db9493fcb3a797964f1cb5db81a7d823e862746b2b018c59099860daa4747": {
-        "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
-        "link": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 05:00:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.100839"
-      },
-      "2af88d2e163a2713c2d01d1b919afd1334d438e2b82abc1b0f55be1bcf62704c": {
-        "title": "The right’s obsession with ‘civil war’ in Britain",
-        "link": "https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 05:00:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.100848"
-      },
-      "11642300b2f3cdc35728896c3bb54a89a97bd9df5bf7a93a25c031e69039c5ed": {
-        "title": "Bolsonaro and Lula face off in knife-edge Brazil election",
-        "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 05:00:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.100850"
-      },
-      "6332eb503a866dcce2257cf6b6929243a0590c9f8d6292dd73c783373e842dcc": {
-        "title": "The Black Sea is now the world’s deadliest shipping route",
-        "link": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 05:00:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.100852"
-      },
-      "865c04a394bc166a52ca5b877b0b5e470b32ac2c507c62404640e4ab89421334": {
-        "title": "More than 1mn antiquities returned to countries of origin",
-        "link": "https://www.ft.com/content/82f2922f-8c73-4e00-9a71-7682a2c9af1a?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 05:00:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.100853"
-      },
-      "43e4de9bb0cd1f6f8e66be27ceb9e95af55a585eec36212bbd5b80798fc7793b": {
-        "title": "Why 17 is not the magic number in industrial policy",
-        "link": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
-        "published_date": "Sun, 25 Oct 2026 01:00:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.100855"
-      },
       "555386160db813d26940b9da6277867eeb1769fdab38b950940bc77d2804a807": {
         "title": "Lula re-elected Brazil’s president in knife-edge election",
         "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
@@ -7047,33 +7011,69 @@
         "link": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1",
         "published_date": "Mon, 23 Nov 2026 19:00:00 GMT",
         "first_seen": "2026-11-24T06:51:07.540431"
+      },
+      "6826dc0516b23f25f41d52fb0eb9f3486a9bac5ba453fb654bd654dd0b34fabc": {
+        "title": "Anthropic falls below IPO price as tech rally fades",
+        "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 17:52:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006174"
+      },
+      "97482a2aed4ced48b866c3642663736f791672f8eb1147d5918d78acb5e3c833": {
+        "title": "Many people overlook this crucial piece of retirement planning — and it isn’t money",
+        "link": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 19:21:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006186"
+      },
+      "16a74ccbc91a483b50ad33c16d8c898ebf120e85f56b4d299b8b79bc2486eb59": {
+        "title": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+        "link": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 19:02:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006187"
+      },
+      "0f275ece0d5df815495ba6c5b6d949760aeec8e48ce766d0dda774f24eac1708": {
+        "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+        "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 18:48:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006189"
+      },
+      "c8ecfca379a6af5c5fa747c0d9fb4fcaa3550233552f53809f1750a1e5e31d6d": {
+        "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+        "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 18:33:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006191"
+      },
+      "3048ba94cb5dc5fa376ca1e0fa0510132cb4c62df4fed6ea05475ce42c32ca77": {
+        "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
+        "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 18:28:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006191"
+      },
+      "085bb99e67e91c95b456fe2453f490d8ab192891c3e23c7e89ade61c9f60e889": {
+        "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+        "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 18:00:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006193"
+      },
+      "8457cd3217e385172adece04d6bbc6addd84c03491338b42f33ef9e61af0c1da": {
+        "title": "The AI debt market isn’t convinced the worst is over for investors",
+        "link": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 17:48:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006194"
+      },
+      "decd03cd754346e798abb7f3b27ba8f7b47079787091764b7718c2ebf7c2d2e3": {
+        "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+        "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+        "published_date": "Tue, 24 Nov 2026 17:30:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006196"
+      },
+      "f647196649f478b871f344e75f22409e03b84dd2d372b54563601eadbd60b8bb": {
+        "title": "The expanding boundaries of the Ukraine war",
+        "link": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
+        "published_date": "Tue, 24 Nov 2026 18:38:00 GMT",
+        "first_seen": "2026-11-24T19:26:14.006197"
       }
     },
     "Ai": {
-      "99e7ab0a81316939bd8b8656251d08a325c72989d0642675537abcce31937240": {
-        "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
-        "link": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
-        "published_date": "Sun, 25 Oct 2026 03:32:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.262241"
-      },
-      "4c1dda09f8228e53bf3acf7956d0a102908432a797e7a22041fd9c712fb0cb04": {
-        "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
-        "link": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
-        "published_date": "Sun, 25 Oct 2026 02:59:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.262250"
-      },
-      "17a3b4c95ce420772801c35b485d85473c5a837e40c1fe8cf6986a2fe7ae944f": {
-        "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
-        "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
-        "published_date": "Sun, 25 Oct 2026 02:30:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.262252"
-      },
-      "355db985d79bde199864567a00fa09ee4bac08527b40b506f93418b24bba3cf3": {
-        "title": "2026-10-25日刊",
-        "link": "https://hex2077.dev/docs/2026-10/2026-10-25/",
-        "published_date": "Sun, 25 Oct 2026 02:33:00 GMT",
-        "first_seen": "2026-10-25T09:39:03.262253"
-      },
       "df7af7355ac641388dea3d32729dd73dc29d199db8a37593baeb7599f7d232ff": {
         "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
         "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
@@ -9893,13 +9893,73 @@
         "link": "https://www.qbitai.com/2026/11/512297.html",
         "published_date": "Tue, 24 Nov 2026 02:36:00 GMT",
         "first_seen": "2026-11-24T06:50:58.105390"
+      },
+      "9404f498818373c35d845e0ce383896583ffea87beac5e4d1c99a90d547defa0": {
+        "title": "传统大厂的智驾，困在了组织里",
+        "link": "https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html",
+        "published_date": "Tue, 24 Nov 2026 19:12:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628385"
+      },
+      "e406df31884b52ecdb898c2c4b4902e2828bb9181c734fe645d7017bf13e3819": {
+        "title": "从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？",
+        "link": "https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html",
+        "published_date": "Tue, 24 Nov 2026 19:11:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628394"
+      },
+      "66a183aa956589dc2c371bc2da0fa0c30b1d963acf4b8c7e39ce6f10ba109565": {
+        "title": "中国汽车的下一场硬仗：让世界为中国式豪华买单",
+        "link": "https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html",
+        "published_date": "Tue, 24 Nov 2026 19:08:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628396"
+      },
+      "518a1357a0347b2735d8977b5f161f08ef9d497f5cba5378369db6fe70ac886b": {
+        "title": "蚂蚁OceanBase交出六年政企成绩单：服务22个省级数字政府、三分之一央企核心系统",
+        "link": "https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html",
+        "published_date": "Tue, 24 Nov 2026 16:36:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628397"
+      },
+      "3d18641b603d83da2b9d6cf5c0e21165ceb5ac4ff52a52842b2927cf1285f5c9": {
+        "title": "百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场",
+        "link": "https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html",
+        "published_date": "Tue, 24 Nov 2026 16:33:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628398"
+      },
+      "1843c50400991e15f7779927087d5f987281247850a8398fa534ac8738236984": {
+        "title": "自营商品获国际奖项，新华网报告：零售商“定义商品”助推中国零售业高质量发展",
+        "link": "https://www.leiphone.com/category/industrynews/YnXVvIVqWjrFhrDC.html",
+        "published_date": "Tue, 24 Nov 2026 16:19:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628400"
+      },
+      "1265392353a2656bf47d2df504137c53b3b259265853fa871a6931baa3ecf8d2": {
+        "title": "华金证券接入千问办公，73个技能重塑投研风控全流程",
+        "link": "https://www.leiphone.com/category/industrynews/ubwFeDsrkrcQf1BB.html",
+        "published_date": "Tue, 24 Nov 2026 16:01:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628401"
+      },
+      "804b4d41fc639ab736000684c71cb1b1c248c05a2343bf9c4fe183962c2836c5": {
+        "title": "解锁折叠屏新体验范式，华为Mate X8铸就华为史上最强大折叠",
+        "link": "https://www.leiphone.com/category/industrynews/SA56oov1EKhe9sPs.html",
+        "published_date": "Tue, 24 Nov 2026 15:52:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628402"
+      },
+      "3a9e49def9d257a26c70f66b1e8712fc04c2ea2a24170ba844c9b1dab52b7354": {
+        "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+        "link": "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html",
+        "published_date": "Tue, 24 Nov 2026 15:38:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628403"
+      },
+      "cff00bdfae34ca1544497d9906a8ff4f3eb8e7785cdf7c989820a01ec0a63926": {
+        "title": "iPhone Duo迎劲敌！华为旗舰大折叠Mate X8将在美团闪购同步首发",
+        "link": "https://www.leiphone.com/category/industrynews/znn4Mo8Qqn4i7HES.html",
+        "published_date": "Tue, 24 Nov 2026 15:21:00 GMT",
+        "first_seen": "2026-11-24T19:26:04.628405"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-24T06:50:48.568892",
-    "Finance": "2026-11-24T06:51:07.540433",
-    "Ai": "2026-11-24T06:50:58.105393"
+    "Technology": "2026-11-24T19:25:55.145189",
+    "Finance": "2026-11-24T19:26:14.006198",
+    "Ai": "2026-11-24T19:26:04.628407"
   }
 }

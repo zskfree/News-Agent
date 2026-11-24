@@ -1,7 +1,80 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-24 06:48
+**最后更新时间**: 2026-11-24 19:23
+
+---
+
+## 🆕 最新更新 (2026-11-24 19:23)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [传统大厂的智驾，困在了组织里](https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html)
+**发布时间**: 2026-11-24 19:12
+
+#### [从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？](https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html)
+**发布时间**: 2026-11-24 19:11
+
+#### [中国汽车的下一场硬仗：让世界为中国式豪华买单](https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html)
+**发布时间**: 2026-11-24 19:08
+
+#### [蚂蚁OceanBase交出六年政企成绩单：服务22个省级数字政府、三分之一央企核心系统](https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html)
+**发布时间**: 2026-11-24 16:36
+
+#### [百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场](https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html)
+**发布时间**: 2026-11-24 16:33
+
+#### [自营商品获国际奖项，新华网报告：零售商“定义商品”助推中国零售业高质量发展](https://www.leiphone.com/category/industrynews/YnXVvIVqWjrFhrDC.html)
+**发布时间**: 2026-11-24 16:19
+
+#### [华金证券接入千问办公，73个技能重塑投研风控全流程](https://www.leiphone.com/category/industrynews/ubwFeDsrkrcQf1BB.html)
+**发布时间**: 2026-11-24 16:01
+
+#### [解锁折叠屏新体验范式，华为Mate X8铸就华为史上最强大折叠](https://www.leiphone.com/category/industrynews/SA56oov1EKhe9sPs.html)
+**发布时间**: 2026-11-24 15:52
+
+#### [蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力](https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html)
+**发布时间**: 2026-11-24 15:38
+
+#### [iPhone Duo迎劲敌！华为旗舰大折叠Mate X8将在美团闪购同步首发](https://www.leiphone.com/category/industrynews/znn4Mo8Qqn4i7HES.html)
+**发布时间**: 2026-11-24 15:21
+
+#### [蚂蚁OceanBase发布AI数据平台：统一管理多模态数据，为Agent提供业务上下文](https://www.leiphone.com/category/industrynews/vo7BI6hIy3wL6Mi4.html)
+**发布时间**: 2026-11-24 15:18
+
+#### [从“望闻问切”到开源模型，蚂蚁阿福加速打通AI健康服务闭环](https://www.leiphone.com/category/medigital/P6Ota0mqLwk8wsN2.html)
+**发布时间**: 2026-11-24 15:13
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance)
+**发布时间**: 2026-11-24 16:34
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime](https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/)
+**发布时间**: 2026-11-24 14:16
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Google Cloud 出海峰会报名开启](https://www.qbitai.com/2026/11/512370.html)
+**发布时间**: 2026-11-24 06:52
+
+#### [业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型](https://www.qbitai.com/2026/11/512362.html)
+**发布时间**: 2026-11-24 06:35
+
+#### [文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议](https://www.qbitai.com/2026/11/512354.html)
+**发布时间**: 2026-11-24 06:22
+
+#### [八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车](https://www.qbitai.com/2026/11/512348.html)
+**发布时间**: 2026-11-24 06:15
+
+#### [巴新总理见证，仰望U8交付巴布亚新几内亚市场](https://www.qbitai.com/2026/11/512343.html)
+**发布时间**: 2026-11-24 06:12
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing the Amazon Bedrock Trusted Access API, with Enterprise Frontier Safeguards and Enterprise Data Controls for Claude models](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/)
+**发布时间**: 2026-11-24 05:01
 
 ---
 
