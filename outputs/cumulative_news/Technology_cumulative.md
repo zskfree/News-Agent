@@ -1,7 +1,129 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-23 15:46
+**最后更新时间**: 2026-11-24 06:50
+
+---
+
+## 🆕 最新更新 (2026-11-24 06:50)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [当 AI 改变一切，下一步如何构建？](https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 14:12
+
+#### [技术债务具有社会性：它是边做边学的代价](https://www.infoq.cn/article/rdfEoVWlwvbrW0MCsFKs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 14:00
+
+#### [谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨](https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 13:00
+
+#### [营销、销售与 RevOps 的单一可信源：每个答案背后的数据与上下文](https://www.infoq.cn/video/cr6DkWNiQ4fKcs9yq0FP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 12:43
+
+#### [数据分析的下一站：智能体分析](https://www.infoq.cn/video/Q0rXqh3OmSAhcePiDjh2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 12:40
+
+#### [超越试点：销售管理者的 AI 转型行动指南](https://www.infoq.cn/video/UU3P37LW5IE6Xg4O0cSN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 12:36
+
+#### [把 Rust 表达式直接翻译成 JavaScript，Topcoat 走了一条反 WASM 路线](https://www.infoq.cn/article/obHr7mdXqLU1GLskZYN2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 12:00
+
+#### [Pinterest 让大模型取代多阶段聚类，但最大的提速来自“少推理”](https://www.infoq.cn/article/vaEUVvWD9AIaFXZhzSMH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 11:00
+
+#### [基于紫光展锐UIS7885的首个5G开源派诞生！](https://www.infoq.cn/article/eX1YFM98P3MvrYqBbo0x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 10:46
+
+#### [从“抗议性分叉”到可信替代，OpenBao 开始挑战 Vault 企业版](https://www.infoq.cn/article/6JtyOTOrD8TmBT3abP8V?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 10:00
+
+#### [从批量生成到业务可用：电商 AI 剪辑的工程取舍与实践复盘｜AICon北京](https://www.infoq.cn/article/YMYl4DVNr1pRKD8ITfaW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 10:00
+
+#### [黄仁勋杀回英伟达，董事会全票同意！老黄：迫不及待投入工作](https://www.infoq.cn/article/4t3EvHtmI11QEgmV23Iz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-24 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [CAR-T的分水岭时刻](https://www.tmtpost.com/8215707.html)
+**发布时间**: 2026-11-24 12:46
+
+#### [马斯克谈支持黄仁勋：逆境时才能看到真朋友](https://www.tmtpost.com/8215202.html)
+**发布时间**: 2026-11-24 12:46
+
+#### [苹果做智能体，OpenAI做手机](https://www.tmtpost.com/8215096.html)
+**发布时间**: 2026-11-24 12:46
+
+#### [困惑度，为什么成了衡量RSI进度的“度量衡”？](https://www.tmtpost.com/8215712.html)
+**发布时间**: 2026-11-24 12:37
+
+#### [中国旺旺，跋涉越冬](https://www.tmtpost.com/8215711.html)
+**发布时间**: 2026-11-24 12:37
+
+#### [Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？](https://www.tmtpost.com/8215303.html)
+**发布时间**: 2026-11-24 12:37
+
+#### [黄仁勋回来了，明星创始人为何“赶不走”？](https://www.tmtpost.com/8215547.html)
+**发布时间**: 2026-11-24 12:37
+
+#### [ADC杀出一匹黑马](https://www.tmtpost.com/8215427.html)
+**发布时间**: 2026-11-24 12:37
+
+#### [《丑狐》爆火出圈，中式志怪成AI短剧新流量密码？](https://www.tmtpost.com/8215550.html)
+**发布时间**: 2026-11-24 12:24
+
+#### [零跑股价大跌13%，市场在恐慌什么？](https://www.tmtpost.com/8215444.html)
+**发布时间**: 2026-11-24 12:24
+
+#### [全网刷屏黄仁勋王者归来，真正的高手操作，藏在无人关注的低调减持里](https://www.tmtpost.com/8215443.html)
+**发布时间**: 2026-11-24 12:24
+
+#### [宇树涨停、珞石回A，物理AI站到AI行情C位](https://www.tmtpost.com/8215619.html)
+**发布时间**: 2026-11-24 12:24
+
+#### [AI还没顶上，游戏扛着网易跑，锅在短剧？](https://www.tmtpost.com/8215625.html)
+**发布时间**: 2026-11-24 12:23
+
+#### [英伟达的 10 天压力测试：没有黄仁勋，全球 AI 蒸发 4 万亿美元](https://www.tmtpost.com/8215098.html)
+**发布时间**: 2026-11-24 12:13
+
+#### [百年商业帝国大洗牌，私募投资人掌舵后，香港财团要转型做PE？](https://www.tmtpost.com/8215620.html)
+**发布时间**: 2026-11-24 12:12
+
+#### [AI消费硬件，即将“入冬”？](https://www.tmtpost.com/8215575.html)
+**发布时间**: 2026-11-24 12:12
+
+#### [黄仁勋 “回宫”，暴露了华尔街资本的软弱性](https://www.tmtpost.com/8215590.html)
+**发布时间**: 2026-11-24 12:12
+
+#### [中国买家退出泰国楼市，俄罗斯人开始接盘了](https://www.tmtpost.com/8215602.html)
+**发布时间**: 2026-11-24 12:11
+
+#### [2026年大宗商品市场十大价格错判](https://www.tmtpost.com/8215589.html)
+**发布时间**: 2026-11-24 12:02
+
+#### [年轻人为啥开始热衷超市买衣服？](https://www.tmtpost.com/8215599.html)
+**发布时间**: 2026-11-24 12:02
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [极客公园创新大会 2027 全议程公布！](http://www.geekpark.net/news/374395)
+**发布时间**: 2026-11-24 12:37
+
+#### [黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」](http://www.geekpark.net/news/374375)
+**发布时间**: 2026-11-24 08:28
+
+#### [字节，该造手机了](http://www.geekpark.net/news/374374)
+**发布时间**: 2026-11-23 23:47
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [写在动荡之后：漫步巴黎的寻常一日](https://sspai.com/post/119412)
+**发布时间**: 2026-11-24 11:03
+
+#### [派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
+**发布时间**: 2026-11-24 08:37
 
 ---
 

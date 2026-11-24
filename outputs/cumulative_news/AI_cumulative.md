@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-23 15:43
+**最后更新时间**: 2026-11-24 06:48
+
+---
+
+## 🆕 最新更新 (2026-11-24 06:48)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议](https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html)
+**发布时间**: 2026-11-24 12:10
+
+#### [蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险](https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html)
+**发布时间**: 2026-11-24 11:13
+
+#### [豆包工作下调多款模型消耗倍率，超八成日常任务免费用](https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html)
+**发布时间**: 2026-11-24 09:47
+
+#### [公积金智能化应用创新案例发布，支付宝参与共建](https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html)
+**发布时间**: 2026-11-24 09:44
+
+#### [英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报](https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html)
+**发布时间**: 2026-11-24 09:42
+
+#### [科研成果 | 智能计算实验室方承煜同学成果被NeurIPS2026接收｜NeurIPS 2026](https://www.leiphone.com/category/private/wwE4LOG5RjKsajCu.html)
+**发布时间**: 2026-11-23 22:58
+
+### 📰 来源: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/feed/)
+
+#### [Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/)
+**发布时间**: 2026-11-24 05:01
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [报名从速｜来MEET2027！听AI前沿实践者交出“判断”](https://www.qbitai.com/2026/11/512329.html)
+**发布时间**: 2026-11-24 03:33
+
+#### [蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源](https://www.qbitai.com/2026/11/512330.html)
+**发布时间**: 2026-11-24 03:30
+
+#### [释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会](https://www.qbitai.com/2026/11/512305.html)
+**发布时间**: 2026-11-24 03:21
+
+#### [“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！](https://www.qbitai.com/2026/11/512297.html)
+**发布时间**: 2026-11-24 02:36
+
+#### [具身行业，终于等来了自己的通用智能时刻](https://www.qbitai.com/2026/11/512264.html)
+**发布时间**: 2026-11-24 01:51
+
+#### [老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”](https://www.qbitai.com/2026/11/512252.html)
+**发布时间**: 2026-11-24 01:32
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-24日刊](https://hex2077.dev/docs/2026-11/2026-11-24/)
+**发布时间**: 2026-11-24 03:04
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes](https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/)
+**发布时间**: 2026-11-24 00:02
+
+#### [Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice](https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/)
+**发布时间**: 2026-11-23 19:11
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Supercharging transformer residual connections](https://research.google/blog/supercharging-transformer-residual-connections/)
+**发布时间**: 2026-11-23 17:21
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack)
+**发布时间**: 2026-11-23 17:20
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/)
+**发布时间**: 2026-11-23 17:00
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Many languages, one common neural code](https://news.mit.edu/2026/many-languages-one-common-neural-code-1123)
+**发布时间**: 2026-11-23 16:15
 
 ---
 

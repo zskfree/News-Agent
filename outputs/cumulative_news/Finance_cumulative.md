@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-23 15:46
+**最后更新时间**: 2026-11-24 06:50
+
+---
+
+## 🆕 最新更新 (2026-11-24 06:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tech stocks surge on Jensen Huang’s return](https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 06:30
+
+#### [Singapore is no backdoor for US chips, PM says](https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 06:12
+
+#### [The Nvidia protocol: spies and Big Tech](https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 05:00
+
+#### [Britain bought fake C4 explosives for Ukraine](https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 05:00
+
+#### [What are you thinking? It depends who’s asking](https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 05:00
+
+#### [Pentagon delays Patriot missile shipments to Ukraine](https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 05:00
+
+#### [OpenAI engineer possessed dozens of meeting recordings, say US prosecutors](https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 01:31
+
+#### [Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss](https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 22:46
+
+#### [Trump made up to $15mn on Nvidia shares after Huang’s return](https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 22:21
+
+#### [‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham](https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 19:00
+
+#### [Huang is back because he left Nvidia no choice](https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1)
+**发布时间**: 2026-11-23 17:17
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [HPE just posted its strongest growth ever — but its stock is sinking](https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 01:01
+
+#### [The newest addition to the S&P 500 is a maker of viral ice-cream machines](https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 23:18
+
+#### [Nvidia’s stock is surging again. What to know before chasing the AI rally.](https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 22:04
+
+#### [U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm](https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 21:51
+
+#### [Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday](https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 21:45
+
+#### [These stocks are the biggest gainers after Jensen Huang’s return to Nvidia](https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 21:36
+
+#### [Amazon may have just found a ‘cheap’ way to get a lot more out of its chips](https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 21:33
+
+#### [Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing](https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 21:24
+
+#### [Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history](https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-23 21:19
 
 ---
 
