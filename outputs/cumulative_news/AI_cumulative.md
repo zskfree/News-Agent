@@ -1,7 +1,119 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-25 05:15
+**最后更新时间**: 2026-11-25 18:28
+
+---
+
+## 🆕 最新更新 (2026-11-25 18:28)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [阿维塔06T Max先锋版上新，限时权益后19.99万元](https://www.leiphone.com/category/industrynews/u4v3A1QiYM6qUcP1.html)
+**发布时间**: 2026-11-25 22:29
+
+#### [算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划](https://www.leiphone.com/category/chips/Qz3QPf26nVIVA0ga.html)
+**发布时间**: 2026-11-25 22:15
+
+#### [中国算力采购信心指数启动 九章云极核心共建算力市场先行指标](https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html)
+**发布时间**: 2026-11-25 22:01
+
+#### [九章云极携手多方战略合作，物理AI工厂生态协作走进真实场景](https://www.leiphone.com/category/chips/JWelmQaWCBCTOJi3.html)
+**发布时间**: 2026-11-25 21:59
+
+#### [九章云极开放两大接口，携手伙伴共建物理AI产业生态](https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html)
+**发布时间**: 2026-11-25 21:56
+
+#### [多模型协同落地，浙江人形 NAVIAI 提升长序列任务作业稳定性](https://www.leiphone.com/category/industrynews/KnGzlsg6xlU9Nnpk.html)
+**发布时间**: 2026-11-25 21:51
+
+#### [元材新界发布 FrontierMat：330 道真实研发难题难住 GPT-6 Astra，自研跨尺度材料大模型登顶](https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html)
+**发布时间**: 2026-11-25 19:04
+
+#### [希音发布三季度业绩，经调整净利润同比增长近27%](https://www.leiphone.com/category/industrynews/Cnxqgh4z73YfXvCm.html)
+**发布时间**: 2026-11-25 18:44
+
+#### [冻薪、加班、砍休息时长！大众汽车降本连招惹怒工会：员工抬着棺材威胁罢工；黄仁勋：英伟达不需要接班人计划；红果短剧上线「时间锁」](https://www.leiphone.com/category/zaobao/1ER4gdHHQ4gNFpKi.html)
+**发布时间**: 2026-11-25 18:39
+
+#### [芯片研发上云后，沐曦和火山引擎一起走进更多AI应用现场](https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html)
+**发布时间**: 2026-11-25 18:20
+
+#### [独家丨哥大博士创业做眼动追踪，已获 1800 万种子轮融资](https://www.leiphone.com/category/weiwu/4Hb8s6tRcpRrICqZ.html)
+**发布时间**: 2026-11-25 18:19
+
+#### [AI加速酒店从标准化到"千店千策"，中国饭店协会联合千问办公发布酒旅行业白皮书](https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html)
+**发布时间**: 2026-11-25 17:32
+
+#### [拓竹P3C发布：旗舰同源，多色多材料打印走向大众时代](https://www.leiphone.com/category/industrynews/H4iZNCKzlaIQCei3.html)
+**发布时间**: 2026-11-25 17:22
+
+#### [从 AGI 到 ASI，DeepMind 提出让 AI 自己「开公司」、重塑组织架构，自己进化](https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html)
+**发布时间**: 2026-11-25 15:12
+
+#### [大疆 Osmo Action 6 以旗舰影像拓展街拍，Action 系列双11销量份额超八成](https://www.leiphone.com/category/industrynews/vJY0MGRzRVddA3AW.html)
+**发布时间**: 2026-11-25 15:06
+
+#### [OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限](https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html)
+**发布时间**: 2026-11-25 15:01
+
+#### [新希望乳业“产供销服”全领域接入千问办公](https://www.leiphone.com/category/industrynews/rfxUGiq3uRAZJslx.html)
+**发布时间**: 2026-11-25 14:51
+
+#### [AI能力突飞猛进，企业为何还没释放数据生产力？](https://www.leiphone.com/category/industrynews/4Q0TOJ3F8a95ZXGq.html)
+**发布时间**: 2026-11-25 14:49
+
+#### [搭载线控数字底盘，第三代唐售价18.79万-21.99万元](https://www.leiphone.com/category/industrynews/9aHVg0PkWKreUOax.html)
+**发布时间**: 2026-11-25 13:03
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Verifiable Social Reasoning for LLM Assistants](https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/)
+**发布时间**: 2026-11-25 17:10
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [我以为这是摄影作品，你告诉我这是最新的国产AI？！](https://www.qbitai.com/2026/11/512748.html)
+**发布时间**: 2026-11-25 16:34
+
+#### [丢个故事就行！直出15分钟AI短片，家里二舅也能上手](https://www.qbitai.com/2026/11/512727.html)
+**发布时间**: 2026-11-25 14:51
+
+#### [零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体](https://www.qbitai.com/2026/11/512715.html)
+**发布时间**: 2026-11-25 14:32
+
+#### [算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划](https://www.qbitai.com/2026/11/512582.html)
+**发布时间**: 2026-11-25 14:21
+
+#### [逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试](https://www.qbitai.com/2026/11/512683.html)
+**发布时间**: 2026-11-25 14:20
+
+#### [9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了](https://www.qbitai.com/2026/11/512565.html)
+**发布时间**: 2026-11-25 11:07
+
+#### [Anthropic还藏着2个最强模型…](https://www.qbitai.com/2026/11/512538.html)
+**发布时间**: 2026-11-25 08:23
+
+#### [完整议程！第二十一届中国IDC产业年度大典（IDCC2026）](https://www.qbitai.com/2026/11/512532.html)
+**发布时间**: 2026-11-25 08:18
+
+#### [A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆](https://www.qbitai.com/2026/11/512515.html)
+**发布时间**: 2026-11-25 07:46
+
+#### [华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI](https://www.qbitai.com/2026/11/512498.html)
+**发布时间**: 2026-11-25 06:49
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
+**发布时间**: 2026-11-25 10:22
+
+#### [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)
+**发布时间**: 2026-11-25 00:00
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework](https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/)
+**发布时间**: 2026-11-25 05:42
 
 ---
 

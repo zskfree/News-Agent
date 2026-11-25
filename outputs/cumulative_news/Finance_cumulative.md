@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-25 05:17
+**最后更新时间**: 2026-11-25 18:31
+
+---
+
+## 🆕 最新更新 (2026-11-25 18:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance](https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 18:00
+
+#### [Why this stock-market selloff is probably going to get worse before it gets better](https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 17:39
+
+#### [Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.](https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 17:31
+
+#### [HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters](https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 17:24
+
+#### [I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?](https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 17:15
+
+#### [How soon Trump’s new tariffs could hit the economy — and your wallet](https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 16:59
+
+#### [The latest stock-market drop could lower your tax bill over your lifetime](https://www.marketwatch.com/story/the-latest-stock-market-drop-could-lower-your-tax-bill-over-your-lifetime-99420b97?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 16:53
+
+#### [Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel](https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 16:52
+
+#### [‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers](https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 16:49
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US Treasury financial crime watchdog hit by suspected cyber attack](https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 17:45
+
+#### [US stocks sell-off deepens as AI trade cracks](https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 16:23
+
+#### [Upgrade to US GDP figures keeps December rate rise in play for Fed](https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 16:07
+
+#### [No, Burnham is not taking a risk over Europe](https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 14:44
+
+#### [Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’](https://www.ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 14:22
+
+#### [Russia is escalating conflict in Europe and space, warns Merz](https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 11:56
+
+#### [‘Anflopic’ bodes badly for OpenAI’s IPO prospects](https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d)
+**发布时间**: 2026-11-25 06:00
+
+#### [‘Tech bros strike back’ as Trump rescues Nvidia’s Huang](https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 05:00
+
+#### [How an ex-McKinsey partner reverse engineered a $500bn wealth manager](https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 05:00
+
+#### [The secretive Iranian cyber unit behind Europe’s freezer hacks](https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 05:00
+
+#### [Trump shelves plans for business deals with Russia](https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 05:00
+
+#### [Europe must not accept ‘hybrid’ warfare as normal, defence CEO warns](https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 05:00
 
 ---
 

@@ -1,7 +1,117 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-25 05:17
+**最后更新时间**: 2026-11-25 18:31
+
+---
+
+## 🆕 最新更新 (2026-11-25 18:31)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [After Novelty Wears off, How can Companion Robots Actually be Put to Use?](https://www.tmtpost.com/8217942.html)
+**发布时间**: 2026-11-26 01:49
+
+#### [2.07 亿接盘都市酒店，岭南控股踩点兑现三年承诺](https://www.tmtpost.com/8217705.html)
+**发布时间**: 2026-11-25 20:04
+
+#### [对赌刚过业绩就变脸，和仁科技或迎存储芯片二股东 | 并购一线](https://www.tmtpost.com/8217626.html)
+**发布时间**: 2026-11-25 19:17
+
+#### [朋友圈进入集体大失声时代](https://www.tmtpost.com/8216924.html)
+**发布时间**: 2026-11-25 18:57
+
+#### [破发！但这仅仅是Anthropic要填的七个大坑之一](https://www.tmtpost.com/8217094.html)
+**发布时间**: 2026-11-25 18:56
+
+#### [黄仁勋的下一场狠仗：再辞职](https://www.tmtpost.com/8217227.html)
+**发布时间**: 2026-11-25 18:49
+
+#### [穷鬼超市，集体加速](https://www.tmtpost.com/8217178.html)
+**发布时间**: 2026-11-25 18:49
+
+#### [腾讯视频困于“总办”](https://www.tmtpost.com/8217348.html)
+**发布时间**: 2026-11-25 18:49
+
+#### [本轮机构抱团银行股，与巴菲特、李录重仓银行有什么区别？](https://www.tmtpost.com/8217072.html)
+**发布时间**: 2026-11-25 18:49
+
+#### [豆包侧边栏放进购物入口：大厂AI，只做翻译，不当主人](https://www.tmtpost.com/8216992.html)
+**发布时间**: 2026-11-25 18:23
+
+#### [确权、加工、场景：中国数据资产市场的三种力量及其价值形成逻辑](https://www.tmtpost.com/8217341.html)
+**发布时间**: 2026-11-25 18:23
+
+#### [小米继续加码AI，MiMo靠什么回本？](https://www.tmtpost.com/8217008.html)
+**发布时间**: 2026-11-25 18:23
+
+#### [小米，告别小米](https://www.tmtpost.com/8217034.html)
+**发布时间**: 2026-11-25 18:23
+
+#### [AI进厂，先革企业的命](https://www.tmtpost.com/8217052.html)
+**发布时间**: 2026-11-25 18:22
+
+#### [三季度亏损1.33亿，启用星巴克前高管的Tims能否熬过转型之痛？](https://www.tmtpost.com/8217502.html)
+**发布时间**: 2026-11-25 18:12
+
+#### [旧电池泡进水里之后，锂电行业的新考卷：长期可靠性](https://www.tmtpost.com/8213288.html)
+**发布时间**: 2026-11-25 17:33
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构](https://www.infoq.cn/article/stLpgV1kNHuvr21qRH9x?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 19:11
+
+#### [京东基于 Apache Doris 构建统一湖仓分析引擎，支撑日均百万级查询与 PB 级数据扫描](https://www.infoq.cn/article/dcXaJcXchxExJfaxtveD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 18:58
+
+#### [比黑客入侵更难防的，是 AI 正在执行的“合法操作”：企业安全防线，可能守错了地方](https://www.infoq.cn/article/LwwdlrNGE3tbxPO1wIcT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 18:52
+
+#### [“我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用](https://www.infoq.cn/article/6i2DoIJiaTcKyR0UyurQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 18:45
+
+#### [阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型](https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 18:22
+
+#### [Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修](https://www.infoq.cn/article/ExbJjrItIlc9KLfQ2UeT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 18:22
+
+#### [做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？](https://www.infoq.cn/article/2YvROKs0CHz1yR4Wi02o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 17:21
+
+#### [具身智能没有“速胜论”：从 70% 到 99.999%，机器人走出实验室还有多远](https://www.infoq.cn/article/pcisT9ByOG238U0WZEGD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 15:54
+
+#### [2026年IDEA 大会：AI时代编程语言将深刻影响软件能力交付上限](https://www.infoq.cn/article/ad1ILH2yFyN1HighXoFF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 15:44
+
+#### [Netflix 基于运维数据打造知识图谱，实现 AI 可观测性](https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 14:00
+
+#### [“Windows该淘汰了！”Rails之父DHH开炮：微软上万工程师干不过一个人带着AI干活](https://www.infoq.cn/article/ApVrOK0hv1rmmoz2mfGM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 13:30
+
+#### [GLM-5.4 编程能力暴涨、3D惊艳，但推理变久了？智谱押注双路线：首发Loop架构，下一代继续 Scaling](https://www.infoq.cn/article/gXU31yBa9HMEe19PxHVB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 13:27
+
+#### [GTM 领导者 AI 转型蓝图](https://www.infoq.cn/minibook/APpalUCSDcvjS75zsdgi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 13:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [翻开 2027， 值得入手的新年日历推荐](https://sspai.com/post/119264)
+**发布时间**: 2026-11-25 17:48
+
+#### [App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你](https://sspai.com/post/119310)
+**发布时间**: 2026-11-25 14:59
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Plaud、影石、小红书、Looki......我们发起了一场 AI 硬件圈的年度聚会](http://www.geekpark.net/news/374487)
+**发布时间**: 2026-11-25 17:33
+
+#### [从手腕到雪鞋，运动可穿戴探索下一个可能 | 对话 Heygo](http://www.geekpark.net/news/374470)
+**发布时间**: 2026-11-25 14:45
 
 ---
 
