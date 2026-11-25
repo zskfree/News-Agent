@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-24 19:23
+**最后更新时间**: 2026-11-25 05:15
+
+---
+
+## 🆕 最新更新 (2026-11-25 05:15)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物](https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html)
+**发布时间**: 2026-11-25 10:28
+
+#### [CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同](https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html)
+**发布时间**: 2026-11-25 09:51
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-25日刊](https://hex2077.dev/docs/2026-11/2026-11-25/)
+**发布时间**: 2026-11-25 03:29
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking](https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/)
+**发布时间**: 2026-11-24 23:06
+
+### 📰 来源: [MIT News - AI](https://news.mit.edu/rss/topic/artificial-intelligence2)
+
+#### [Agentic system personalizes physical controls to help users “DJ their art”](https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124)
+**发布时间**: 2026-11-24 14:30
 
 ---
 

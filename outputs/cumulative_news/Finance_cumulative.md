@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-24 19:25
+**最后更新时间**: 2026-11-25 05:17
+
+---
+
+## 🆕 最新更新 (2026-11-25 05:17)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Asian markets lose ground as AI fears return](https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 03:52
+
+#### [Will the Nvidia fallout kill off Asia’s data centre boom?](https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 02:04
+
+#### [Shein to pay $100mn to resolve US allegations that it deceived customers](https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 02:00
+
+#### [Huawei convicted in US trial that exposed corporate espionage and sanctions evasion](https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 22:36
+
+#### [Huang says he still does not believe in CEO succession planning at Nvidia](https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1)
+**发布时间**: 2026-11-24 20:18
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dell’s stock rises as the AI boom helps sales more than double](https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 01:11
+
+#### [My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?](https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 00:05
+
+#### [Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows](https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 23:11
+
+#### [12 days of sardines and Croc charms: Are Advent calendars getting out of control?](https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 21:53
+
+#### [Anthropic’s stock just broke below its IPO price for the first time](https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 21:46
+
+#### [How much more are richest Americans spending on the holidays compared to everyone else?](https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories)
+**发布时间**: 2026-11-24 21:31
 
 ---
 

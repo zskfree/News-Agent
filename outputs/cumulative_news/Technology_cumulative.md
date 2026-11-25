@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-24 19:25
+**最后更新时间**: 2026-11-25 05:17
+
+---
+
+## 🆕 最新更新 (2026-11-25 05:17)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [荣耀眼里的 AI 手机：前沿模型可以进来，但入口不能拿走](http://www.geekpark.net/news/374462)
+**发布时间**: 2026-11-25 13:02
+
+#### [豆包个人 AI 助理「小豆」开启公测；存储承压，小米三季度经调整净利润下滑近六成；红果短剧上线时间管理功能 | 极客早知道](http://www.geekpark.net/news/374438)
+**发布时间**: 2026-11-25 08:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障](https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 13:00
+
+#### [领英自研 GitOps 引擎替代 Argo CD，用于 Kubernetes 部署](https://www.infoq.cn/article/bRlUV5HDDY68ocVwWKOk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 12:00
+
+#### [作者访谈：finprim——TypeScript 金融校验统一库实践案例](https://www.infoq.cn/article/xcfFQPW9fF1hVHyOdE0R?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 11:00
+
+#### [Octop 托管 CodeBuddy 实战：打造 7×24 小时在线的 AI 程序员](https://www.infoq.cn/article/cgiP7vstrXKH94L1zj76?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 10:30
+
+#### [用 Super-agent 的理念，拆解 Octop 团队模式](https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 10:28
+
+#### [Clipto首席科学家韩玫已确认出席 AICon北京，分享Agent 的长上下文从哪里来](https://www.infoq.cn/article/XpM5q7sE88iSlxNsRrVu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 10:00
+
+#### [Cloudflare 正式推出 Basin 无服务器分析服务](https://www.infoq.cn/article/235X0EQdwejPvQYvlali?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 10:00
+
+#### [Google Cloud 终于能“封顶”账单了，但超出的费用仍可能照常收](https://www.infoq.cn/article/Wl4EJAhaA33aGwbqxwTS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 10:00
+
+#### [性能提升 6.4 倍、依赖归零，Effect 4.0 值得立即升级吗？](https://www.infoq.cn/article/f1gd1zOMyb76FoYtYEsG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-25 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [世界模型变天了](https://www.tmtpost.com/8216357.html)
+**发布时间**: 2026-11-25 11:49
+
+#### [手机、汽车、AI，小米需要一场新的增长接力](https://www.tmtpost.com/8216871.html)
+**发布时间**: 2026-11-25 11:32
+
+#### [被红果改写的Q3财报季](https://www.tmtpost.com/8216958.html)
+**发布时间**: 2026-11-25 09:38
+
+#### [这届年轻人开始劝父母卖掉租不上价的房，用来收息](https://www.tmtpost.com/8216479.html)
+**发布时间**: 2026-11-25 09:38
+
+#### [Edge AI Daily 早报（11月25日）](https://www.tmtpost.com/8216877.html)
+**发布时间**: 2026-11-25 08:29
+
+#### [【钛晨报】8000亿+5000亿！中国央行“组合拳”出手；新加坡子公司被列入美实体清单，阿里巴巴回应；工业富联大手笔分红，拟派现超132亿元](https://www.tmtpost.com/8216719.html)
+**发布时间**: 2026-11-25 07:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
+**发布时间**: 2026-11-25 11:07
+
+#### [派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
+**发布时间**: 2026-11-25 08:22
 
 ---
 
