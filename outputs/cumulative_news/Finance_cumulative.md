@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-26 04:46
+**最后更新时间**: 2026-11-26 14:47
+
+---
+
+## 🆕 最新更新 (2026-11-26 14:47)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global stocks climb after volatile US trading over AI risks](https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 14:09
+
+#### [Pablo Hernández de Cos wins race for ECB presidency](https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 13:27
+
+#### [Paris and Berlin seek to shield EU budget from Marine Le Pen](https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 12:23
+
+#### [Franco-German clash over ‘Made in Europe’ in EU defence budget](https://www.ft.com/content/c9e569cd-d9c7-43ea-877e-7fa6d1e91ea7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 10:11
+
+#### [China hits back at Trump tariff threat](https://www.ft.com/content/31ae0162-f946-4e2c-b656-1930baea19d0?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 08:02
+
+#### [The ICE raids ‘wreaking havoc’ across American academia](https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 05:01
+
+#### [How Britain taxed itself into a corner](https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 05:00
+
+#### [How ‘Friendsgiving’ took over in America](https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3)
+**发布时间**: 2026-11-26 05:00
+
+#### [Nvidia halts chip shipments to south-east Asia](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 05:00
+
+#### [Software stocks spared in tech rout as AI narrative shifts](https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 05:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia and the whole AI trade aren’t out of the woods — not by a long shot](https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories)
+**发布时间**: 2026-11-26 14:00
+
+#### [Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.](https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories)
+**发布时间**: 2026-11-26 13:41
+
+#### [Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.](https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories)
+**发布时间**: 2026-11-26 13:24
+
+#### [Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility](https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories)
+**发布时间**: 2026-11-26 12:37
+
+#### [The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank](https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories)
+**发布时间**: 2026-11-26 10:11
+
+#### [Is the stock market open for Thanksgiving? The answer might surprise you.](https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories)
+**发布时间**: 2026-11-26 07:16
 
 ---
 

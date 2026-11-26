@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-26 04:46
+**最后更新时间**: 2026-11-26 14:47
+
+---
+
+## 🆕 最新更新 (2026-11-26 14:47)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [纯电销量过半，理想汽车的生意变了](https://www.tmtpost.com/8218517.html)
+**发布时间**: 2026-11-26 22:40
+
+#### [信邦智能拟斥28.56亿“蛇吞象”，英迪芯微第一大股东退出套现9.61亿](https://www.tmtpost.com/8219524.html)
+**发布时间**: 2026-11-26 20:29
+
+#### [祖名股份实控人阵营拟转让17%股份套现近4.8亿，扣非连亏下“豆制品第一股”遇信心考题](https://www.tmtpost.com/8219473.html)
+**发布时间**: 2026-11-26 19:03
+
+#### [阿莫迪自明本志：我本无意让AI掌权](https://www.tmtpost.com/8219202.html)
+**发布时间**: 2026-11-26 18:39
+
+#### [美国众议院发布《美国处方》，对中国创新药意味着什么](https://www.tmtpost.com/8218787.html)
+**发布时间**: 2026-11-26 18:39
+
+#### [捅了秋游的窝，乐高乐园挤满了鸡娃的家长](https://www.tmtpost.com/8219201.html)
+**发布时间**: 2026-11-26 18:38
+
+#### [阿里加速转向国产算力的核心逻辑，被严重误读了](https://www.tmtpost.com/8218607.html)
+**发布时间**: 2026-11-26 18:38
+
+#### [B站越赚钱，越不能张扬](https://www.tmtpost.com/8218349.html)
+**发布时间**: 2026-11-26 18:38
+
+#### [短剧成了大厂三季报下滑的“救命稻草”](https://www.tmtpost.com/8217388.html)
+**发布时间**: 2026-11-26 18:34
+
+#### [Anthropic上市：从Uber的预算看Claude怎么赚钱](https://www.tmtpost.com/8218636.html)
+**发布时间**: 2026-11-26 18:34
+
+#### [小米的利润，被AI拖累了？](https://www.tmtpost.com/8219233.html)
+**发布时间**: 2026-11-26 18:34
+
+#### [一家100人的AI公司，凭什么被英伟达、Anthropic、亚马逊抬到75亿？](https://www.tmtpost.com/8218433.html)
+**发布时间**: 2026-11-26 17:56
+
+#### [基金市场概况与资产配置观点（11.16—11.22）](https://www.tmtpost.com/8219229.html)
+**发布时间**: 2026-11-26 17:14
+
+#### [上市公司TOP5济安评估 （11月16日至11月22日）](https://www.tmtpost.com/8219217.html)
+**发布时间**: 2026-11-26 17:13
+
+#### [APEC：和平崛起的财经试验场 —— 在产业链博弈里寻找鲁棒最优路径](https://www.tmtpost.com/8219208.html)
+**发布时间**: 2026-11-26 17:12
+
+#### [价值判断：跌停板的投资机会和风险提示（11月24日）｜上市公司观察](https://www.tmtpost.com/8219199.html)
+**发布时间**: 2026-11-26 17:11
+
+#### [价值判断：涨停板的投资机会和风险提示（11月24日）｜上市公司观察](https://www.tmtpost.com/8219191.html)
+**发布时间**: 2026-11-26 17:10
+
+#### [最需要Personal Agent的，是开始健忘的中年人](https://www.tmtpost.com/8218302.html)
+**发布时间**: 2026-11-26 17:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具](https://sspai.com/post/116773)
+**发布时间**: 2026-11-26 17:30
+
+#### [论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图](https://sspai.com/post/119563)
+**发布时间**: 2026-11-26 15:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [好消息，AI 可以替你打客服电话了；坏消息，电话那头也是 AI](http://www.geekpark.net/news/374536)
+**发布时间**: 2026-11-26 17:04
+
+#### [成本低九成、开源权重：MAGI-2 带动视频模型进入大掀桌时代](http://www.geekpark.net/news/374532)
+**发布时间**: 2026-11-26 16:38
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？](https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 15:35
+
+#### [Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势](https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 14:56
+
+#### [Snowflake CoWork ：从受治理业务洞察到主动式业务作业 ｜ 技术趋势](https://www.infoq.cn/article/o7KPsR1LxisdOA9aT2Eb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 14:45
+
+#### [Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理](https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 14:00
+
+#### [不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线](https://www.infoq.cn/article/WXXMTPHLTH0bKV3rc35g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 13:46
+
+#### [Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制](https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 13:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上 1.6 万 Star！这个 GitHub 项目让 AI 帮你复刻视频。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247538735&idx=1&sn=6a0f6a23ca5f9f9b466aff684ec31b3f)
+**发布时间**: 2026-11-26 11:06
 
 ---
 

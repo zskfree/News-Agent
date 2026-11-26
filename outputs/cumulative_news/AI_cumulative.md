@@ -1,7 +1,72 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-26 04:44
+**最后更新时间**: 2026-11-26 14:46
+
+---
+
+## 🆕 最新更新 (2026-11-26 14:46)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [美团闪购联合行业头部品牌成立水果即时零售品质联盟，发起好商品计划“即鲜时刻”](https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html)
+**发布时间**: 2026-11-26 19:24
+
+#### [蔚来到底应该值多少钱？](https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html)
+**发布时间**: 2026-11-26 19:23
+
+#### [美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家](https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html)
+**发布时间**: 2026-11-26 19:20
+
+#### [纯电大型SUV最高评级，乐道L90中保研五项指数全优](https://www.leiphone.com/category/industrynews/E8w1PtM3ODZyeSyF.html)
+**发布时间**: 2026-11-26 18:43
+
+#### [手表和眼镜，如何成为AI智能体的「随身感官」？](https://www.leiphone.com/category/chips/1tx0UpMMROQn9vCW.html)
+**发布时间**: 2026-11-26 17:22
+
+#### [一届世界杯，看清小红书的选择](https://www.leiphone.com/category/industrynews/I9n3Ot7WBKtyNiwS.html)
+**发布时间**: 2026-11-26 16:00
+
+#### [月活破百万、同比暴涨93.9%：淘宝成为韩国增速最快的电商平台](https://www.leiphone.com/category/industrynews/7P7TJEooLlAQxqGH.html)
+**发布时间**: 2026-11-26 13:46
+
+#### [月活破百万、同比暴涨93.9%：淘宝成为韩国增速最快的电商平台](https://www.leiphone.com/category/industrynews/lG9YiDwwPFAq8Udm.html)
+**发布时间**: 2026-11-26 13:45
+
+### 📰 来源: [NVIDIA AI Blog](https://blogs.nvidia.com/feed/)
+
+#### [Come for the Games, Stay for the Community With GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/)
+**发布时间**: 2026-11-26 14:00
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [381个AI直播冲刺证明P=NP！把GitHub干崩了](https://www.qbitai.com/2026/11/513021.html)
+**发布时间**: 2026-11-26 13:56
+
+#### [AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用](https://www.qbitai.com/2026/11/512981.html)
+**发布时间**: 2026-11-26 12:39
+
+#### [90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守](https://www.qbitai.com/2026/11/512972.html)
+**发布时间**: 2026-11-26 10:07
+
+#### [极客公园创新大会 2027 全议程公布！](https://www.qbitai.com/2026/11/512952.html)
+**发布时间**: 2026-11-26 08:19
+
+#### [报名最后2天｜AI浪潮之中，来认识创造未来的人](https://www.qbitai.com/2026/11/512942.html)
+**发布时间**: 2026-11-26 07:36
+
+#### [顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一](https://www.qbitai.com/2026/11/512916.html)
+**发布时间**: 2026-11-26 06:41
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+**发布时间**: 2026-11-26 11:37
+
+#### [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)
+**发布时间**: 2026-11-26 05:05
+
+#### [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)
+**发布时间**: 2026-11-26 00:00
 
 ---
 
