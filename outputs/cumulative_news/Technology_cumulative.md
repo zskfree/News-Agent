@@ -1,7 +1,111 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-25 18:31
+**最后更新时间**: 2026-11-26 04:46
+
+---
+
+## 🆕 最新更新 (2026-11-26 04:46)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成](https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 12:00
+
+#### [AI写代码，谁来交付？](https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 11:28
+
+#### [前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型](https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 11:00
+
+#### [开源数据库 DocumentDB 正式发布 1.0 版本](https://www.infoq.cn/article/k2Q7xBBucwOwxVoyq4LG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 11:00
+
+#### [当产品开始写代码、研发开始做需求，团队该怎么变？｜极客对谈](https://www.infoq.cn/article/ehSAx1Ze0UPN2p8WzhHf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 10:30
+
+#### [从语音基座到语音应用：讯飞语音大模型能力全解](https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 10:29
+
+#### [谷歌云 Compute Engine API 改用不可变更的日期格式版本](https://www.infoq.cn/article/htamKOFm9ol5c0htycSK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 10:00
+
+#### [清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理](https://www.infoq.cn/article/xzQgJEw18ECxHGA7FFBx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 10:00
+
+#### [TypeScript 改用 Go，Angular 被迫拥抱 Rust：前端编译链越来越“多语言”](https://www.infoq.cn/article/7qFCpLgFvMpScsxyX2fF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-26 08:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！](https://www.tmtpost.com/8217882.html)
+**发布时间**: 2026-11-26 11:55
+
+#### [小米三季报：手机开始高端化，汽车还没走出亏损](https://www.tmtpost.com/8217508.html)
+**发布时间**: 2026-11-26 11:02
+
+#### [中产减脂流行新三件套：盒马选购、Keep训练、体脂秤验收](https://www.tmtpost.com/8218241.html)
+**发布时间**: 2026-11-26 10:55
+
+#### [从两轮到轻四轮，一家柏林公司的出行探索](https://www.tmtpost.com/8217928.html)
+**发布时间**: 2026-11-26 10:51
+
+#### [BOSS直聘Q3：营收增11.7%，利润率守住44%](https://www.tmtpost.com/8217700.html)
+**发布时间**: 2026-11-26 10:48
+
+#### [从山水酒店到青乐文旅：中青旅“甩卖”背后的利润焦虑](https://www.tmtpost.com/8218234.html)
+**发布时间**: 2026-11-26 10:43
+
+#### [4000亿鸡蛋市场，为何孵不出一个龙头？](https://www.tmtpost.com/8218254.html)
+**发布时间**: 2026-11-26 10:37
+
+#### [ByteDance's Short-Video Platform Hongguo Forces Second-Tier Platforms to Bet on AI](https://www.tmtpost.com/8218450.html)
+**发布时间**: 2026-11-26 10:31
+
+#### [理想汽车三季报：销量回来了，利润还没回来](https://www.tmtpost.com/8217859.html)
+**发布时间**: 2026-11-26 10:31
+
+#### [腾讯音乐的尽头，是粉丝经济？](https://www.tmtpost.com/8217733.html)
+**发布时间**: 2026-11-26 10:26
+
+#### [字节跳动到底值多少钱？](https://www.tmtpost.com/8217239.html)
+**发布时间**: 2026-11-26 10:21
+
+#### [神舟二十四号，重新分配太空里的时间](https://www.tmtpost.com/8218010.html)
+**发布时间**: 2026-11-26 10:16
+
+#### [影石会走GoPro的老路吗？](https://www.tmtpost.com/8217862.html)
+**发布时间**: 2026-11-26 10:08
+
+#### [刚果（金）全面暂停钴矿出口，但这次市场只买账一天，钴的稀缺故事讲到头了](https://www.tmtpost.com/8217929.html)
+**发布时间**: 2026-11-26 10:03
+
+#### [从聊天助手到主动Agent，字节和腾讯再次走上对立面](https://www.tmtpost.com/8217934.html)
+**发布时间**: 2026-11-26 09:59
+
+#### [欧洲车企对技术外包上瘾了](https://www.tmtpost.com/8217936.html)
+**发布时间**: 2026-11-26 09:53
+
+#### [最大赢家成中国厂商，SMA、SolarEdge 相继退出澳洲，户用光储市场中企狂飙突进](https://www.tmtpost.com/8217930.html)
+**发布时间**: 2026-11-26 09:50
+
+#### [豆包也要上餐桌](https://www.tmtpost.com/8217897.html)
+**发布时间**: 2026-11-26 09:45
+
+#### [单卡3小时干翻128张卡7天：伯克利CoRL最佳论文把机器人训练成本砍掉1000倍](https://www.tmtpost.com/8218079.html)
+**发布时间**: 2026-11-26 09:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [我用AI做了一张两千年的中国历史地图](https://sspai.com/post/117510)
+**发布时间**: 2026-11-26 11:13
+
+#### [派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等](https://sspai.com/post/119560)
+**发布时间**: 2026-11-26 08:08
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [黄仁勋复职后首次主持全员大会：向员工道歉；iPhone Duo 零部件成本创历代 iPhone 新高；Anthropic 跌破发行价｜极客早知道](http://www.geekpark.net/news/374500)
+**发布时间**: 2026-11-26 08:19
 
 ---
 

@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-25 18:31
+**最后更新时间**: 2026-11-26 04:46
+
+---
+
+## 🆕 最新更新 (2026-11-26 04:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stocks advance in Asia after volatile US trading over AI risks](https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679)
+**发布时间**: 2026-11-26 03:28
+
+#### [Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash](https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 03:11
+
+#### [Bank of Korea raises interest rates amid AI chip boom](https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa)
+**发布时间**: 2026-11-26 02:27
+
+#### [‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback](https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1)
+**发布时间**: 2026-11-26 00:45
+
+#### [Israeli judges advise prosecutors to drop some charges against Netanyahu](https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 23:18
+
+#### [Financier Todd Boehly strikes deal for Lukoil assets](https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-25 23:18
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oracle, CoreWeave and other tech stocks bounce back after selloff](https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 22:16
+
+#### [Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in](https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 22:11
+
+#### [Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’](https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 21:50
+
+#### [HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters](https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories)
+**发布时间**: 2026-11-25 21:36
 
 ---
 

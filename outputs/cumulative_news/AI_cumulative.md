@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-25 18:28
+**最后更新时间**: 2026-11-26 04:44
+
+---
+
+## 🆕 最新更新 (2026-11-26 04:44)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [从婴儿睡袋到时尚孕产服饰，Nest Designs在  Shopee 找到了新机会](https://www.leiphone.com/category/industrynews/3zKYASqpb5PEKGwC.html)
+**发布时间**: 2026-11-26 10:40
+
+#### [国产模型扎进 AI4S 深水区，几毫秒破译尘封18年密码学悬案](https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html)
+**发布时间**: 2026-11-26 10:23
+
+#### [独家 | 华人 CV 先驱权龙二次创业，成立空间与物理 AI 公司「Envision AI」](https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html)
+**发布时间**: 2026-11-26 10:09
+
+#### [机器人量产背后，物理AI开始算新账：研发底座何必各自建？](https://www.leiphone.com/category/chips/HQvbSEUnkDy0Tos9.html)
+**发布时间**: 2026-11-26 09:35
+
+#### [一月只开工两三天！奥迪中国回应长春工厂产能利用率跌破10%；Anthropic创始人兄妹上市次日套现37亿；小鹏智驾拟开启全球付费订阅](https://www.leiphone.com/category/zaobao/TaYBp58OxQSPMi10.html)
+**发布时间**: 2026-11-26 09:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习](https://www.qbitai.com/2026/11/512897.html)
+**发布时间**: 2026-11-26 03:23
+
+#### [沈向洋刚讲了好多AI非共识啊](https://www.qbitai.com/2026/11/512840.html)
+**发布时间**: 2026-11-26 03:13
+
+#### [AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了](https://www.qbitai.com/2026/11/512828.html)
+**发布时间**: 2026-11-26 02:53
+
+#### [刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行](https://www.qbitai.com/2026/11/512819.html)
+**发布时间**: 2026-11-26 00:40
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-26日刊](https://hex2077.dev/docs/2026-11/2026-11-26/)
+**发布时间**: 2026-11-26 03:12
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
+**发布时间**: 2026-11-25 18:52
 
 ---
 
