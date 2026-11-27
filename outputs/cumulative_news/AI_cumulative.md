@@ -1,7 +1,100 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-27 04:49
+**最后更新时间**: 2026-11-27 14:45
+
+---
+
+## 🆕 最新更新 (2026-11-27 14:45)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [美团财报电话会：Keeta沙特实现全季度盈利](https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html)
+**发布时间**: 2026-11-27 20:24
+
+#### [美团电话会：预期四季度餐饮外卖UE较二季度明显提升](https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html)
+**发布时间**: 2026-11-27 20:23
+
+#### [美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家](https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html)
+**发布时间**: 2026-11-27 18:28
+
+#### [支付宝车载助手3.0发布，助力智能座舱打造下一代可靠可信生活服务](https://www.leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html)
+**发布时间**: 2026-11-27 17:56
+
+#### [具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题](https://www.leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html)
+**发布时间**: 2026-11-27 17:37
+
+#### [Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%](https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html)
+**发布时间**: 2026-11-27 16:41
+
+#### [OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？](https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html)
+**发布时间**: 2026-11-27 16:18
+
+#### [多地启动2027年度城乡居民医保集中缴费，上支付宝可一站式办理](https://www.leiphone.com/category/industrynews/10xzmIYoNuG6p12b.html)
+**发布时间**: 2026-11-27 15:43
+
+#### [魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体](https://www.leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html)
+**发布时间**: 2026-11-27 15:10
+
+#### [广州车展最美概念车 纵横R700开启新派越野新时代](https://www.leiphone.com/category/industrynews/BMsSJPgf18A1GxuH.html)
+**发布时间**: 2026-11-27 14:46
+
+#### [第二十八届高交会科学智能分论坛：从理解科学到自主实验，AI4S如何跨越产业化拐点？](https://www.leiphone.com/category/ai/c8sG7O6YKz3vKB6a.html)
+**发布时间**: 2026-11-27 14:26
+
+#### [千问辟谣：周昊离职不实，将起诉自媒体"Top华人科创社"](https://www.leiphone.com/category/industrynews/CFGZPziprklwXuQw.html)
+**发布时间**: 2026-11-27 13:52
+
+#### [2027款极氪7X正式上市，限时权益价21.68万元起](https://www.leiphone.com/category/industrynews/IcCp66sNRwAbvDSF.html)
+**发布时间**: 2026-11-27 13:25
+
+#### [通用大脑再升级：蚂蚁灵波发布LingBot-Map 2.0和LingBot-Navi](https://www.leiphone.com/category/industrynews/WFWuafAg4rdHjEEi.html)
+**发布时间**: 2026-11-27 13:22
+
+#### [吉翼智能首登高交会，新模型、新本体、双场景三箭齐发](https://www.leiphone.com/category/industrynews/VZZDjKdc8UxwaG2U.html)
+**发布时间**: 2026-11-27 11:47
+
+#### [江行智能基模 CTO 陈龙：当「物理 AI 大脑」进厂，如何实现可靠落地？| ACM MM 2026](https://www.leiphone.com/category/private/O7QLSVU8zvpfzY6B.html)
+**发布时间**: 2026-11-27 11:07
+
+#### [xAI 三杰造了台「互联网时光机」：AI 能预测未来，才是真正的智能？](https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html)
+**发布时间**: 2026-11-27 10:58
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [全国首批首家！商汤大装置获Token工厂智算能力最高评级](https://www.qbitai.com/2026/11/513346.html)
+**发布时间**: 2026-11-27 11:18
+
+#### [韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名](https://www.qbitai.com/2026/11/513320.html)
+**发布时间**: 2026-11-27 07:39
+
+#### [DeepSeek APP突然更新账单，网友：要收费了？](https://www.qbitai.com/2026/11/513305.html)
+**发布时间**: 2026-11-27 07:29
+
+#### [刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑](https://www.qbitai.com/2026/11/513227.html)
+**发布时间**: 2026-11-27 07:01
+
+#### [钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间](https://www.qbitai.com/2026/11/513194.html)
+**发布时间**: 2026-11-27 04:05
+
+#### [蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准](https://www.qbitai.com/2026/11/513211.html)
+**发布时间**: 2026-11-27 04:05
+
+#### [20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩](https://www.qbitai.com/2026/11/513163.html)
+**发布时间**: 2026-11-27 03:53
+
+#### [腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻](https://www.qbitai.com/2026/11/513155.html)
+**发布时间**: 2026-11-27 03:45
+
+#### [具身公司抱团回应：通用大模型跨维打击？没那么简单](https://www.qbitai.com/2026/11/513125.html)
+**发布时间**: 2026-11-27 03:33
+
+#### [百亿具身独角兽破壁，玩家集体涌向它的牌桌](https://www.qbitai.com/2026/11/513101.html)
+**发布时间**: 2026-11-27 03:23
+
+### 📰 来源: [Hugging Face Blog](https://huggingface.co/blog/feed.xml)
+
+#### [Taking Trainium3 to the Track: Generating Videos with LTX-2.5](https://huggingface.co/blog/video-trainium3)
+**发布时间**: 2026-11-27 00:00
 
 ---
 

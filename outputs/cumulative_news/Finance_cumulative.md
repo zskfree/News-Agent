@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-27 04:52
+**最后更新时间**: 2026-11-27 14:47
+
+---
+
+## 🆕 最新更新 (2026-11-27 14:47)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead](https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 14:40
+
+#### [Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?](https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 13:45
+
+#### [Renters are now a national political constituency that can influence elections](https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 13:30
+
+#### [New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals](https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 13:22
+
+#### [How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images](https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 12:42
+
+#### [A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.](https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 12:29
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US tech stocks set to jump at open as volatile trading takes hold](https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 13:15
+
+#### [First principles to cling to when markets convulse](https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 12:32
+
+#### [French economy shrinks 0.2% in third quarter](https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 11:38
+
+#### [Japanese carmakers’ sales collapse amid China market plunge](https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 11:31
+
+#### [Chinese shares soar after Beijing signals more support](https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 08:32
+
+#### [Hong Kong seeks to lure sovereign wealth funds with tax breaks](https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 06:47
+
+#### [Marine Le Pen: the woman who could break the EU](https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 05:00
+
+#### [Middle-class Americans and Europeans have opposite problems](https://www.ft.com/content/047e1a9d-0448-4ccd-aaec-c5c06125d111?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 05:00
+
+#### [Warsh’s ‘good family fight’ could turn ugly](https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 05:00
+
+#### [Chinese households shed billions in consumer debt](https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 05:00
+
+#### [Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals](https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 05:00
+
+#### [China’s super-rich have a new obsession: million-dollar fish](https://www.ft.com/content/5a8b6b3c-c293-4f38-9f14-f5cc6cf98a34?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 05:00
 
 ---
 

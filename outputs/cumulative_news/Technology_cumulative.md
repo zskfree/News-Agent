@@ -1,7 +1,52 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-27 04:52
+**最后更新时间**: 2026-11-27 14:47
+
+---
+
+## 🆕 最新更新 (2026-11-27 14:47)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类](https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 19:56
+
+#### [“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？](https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 18:53
+
+#### [如何让Agent 记得住、查得准、改得对？](https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 17:25
+
+#### [瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力](https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 16:15
+
+#### [给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打](https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 15:00
+
+#### [Netflix Titus为容器增加单租户VM隔离](https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 14:00
+
+#### [DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒](https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 13:00
+
+#### [把 MiniMax H3Image 塞进 1L 盒子：ThinkStation PGX 单机与双机原生 4K 生图实测](https://www.infoq.cn/article/NbtPgaZdwwaZ5uBiWWCM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 00:21
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [大厂的应届生名额，正在先让给 AI 预算](http://www.geekpark.net/news/374601)
+**发布时间**: 2026-11-27 17:26
+
+#### [B 站十几年的家底，在 AI 时代「升值」](http://www.geekpark.net/news/374593)
+**发布时间**: 2026-11-27 16:29
+
+#### [AI 创作，走过产能竞速之后](http://www.geekpark.net/news/374584)
+**发布时间**: 2026-11-27 15:16
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/119658)
+**发布时间**: 2026-11-27 16:32
 
 ---
 
