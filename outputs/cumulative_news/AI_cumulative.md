@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-26 14:46
+**最后更新时间**: 2026-11-27 04:49
+
+---
+
+## 🆕 最新更新 (2026-11-27 04:49)
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [RoboScience 机器科学发布 GenSight：如何在一个模型，搞定生成和感知？](https://www.leiphone.com/category/ai/yVUjZ1Pgo80vJ5T0.html)
+**发布时间**: 2026-11-27 10:48
+
+#### [深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效](https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html)
+**发布时间**: 2026-11-26 21:45
+
+#### [直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验](https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html)
+**发布时间**: 2026-11-26 20:50
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in](https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/)
+**发布时间**: 2026-11-27 03:43
+
+#### [Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache](https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/)
+**发布时间**: 2026-11-27 03:31
+
+#### [Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano](https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/)
+**发布时间**: 2026-11-26 22:06
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-11-27日刊](https://hex2077.dev/docs/2026-11/2026-11-27/)
+**发布时间**: 2026-11-27 03:36
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！](https://www.qbitai.com/2026/11/513091.html)
+**发布时间**: 2026-11-27 02:56
+
+#### [乾崑共创者计划发布：加入乾崑生态，共创出行未来！](https://www.qbitai.com/2026/11/513087.html)
+**发布时间**: 2026-11-27 02:19
+
+#### [陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”](https://www.qbitai.com/2026/11/513075.html)
+**发布时间**: 2026-11-27 02:03
+
+#### [20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩](https://www.qbitai.com/2026/11/513053.html)
+**发布时间**: 2026-11-27 01:16
 
 ---
 

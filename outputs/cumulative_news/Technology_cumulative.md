@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-26 14:47
+**最后更新时间**: 2026-11-27 04:52
+
+---
+
+## 🆕 最新更新 (2026-11-27 04:52)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [PingCAP数据泄露事件暴露客户记录与源代码](https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 12:00
+
+#### [JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能](https://www.infoq.cn/article/dsu2PlHW6JXNquGpJZNe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 11:00
+
+#### [如何在Postgres上实现无需外部编排器的持久化工作流](https://www.infoq.cn/article/ASHxIY37Q9IFf52OWmo3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 10:00
+
+#### [淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战](https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 10:00
+
+#### [iOS 应用诡异崩溃始终无法复现！连测近 10 个版本，Apple 一个隐藏的线程约束坑了开发者](https://www.infoq.cn/article/dgyrhBUSBtDo85O5cXiU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-27 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/119601)
+**发布时间**: 2026-11-27 11:48
+
+#### [派早报：1Password 确认内部系统遭入侵等](https://sspai.com/post/119632)
+**发布时间**: 2026-11-27 08:27
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一场物理AI闭门会里的三层“温差”](https://www.tmtpost.com/8218564.html)
+**发布时间**: 2026-11-27 11:27
+
+#### [白酒的“去库存周期”走到哪了？](https://www.tmtpost.com/8219964.html)
+**发布时间**: 2026-11-27 11:16
+
+#### [功臣不封侯，字节无山头](https://www.tmtpost.com/8219495.html)
+**发布时间**: 2026-11-27 11:03
+
+#### [独家 |  在看不见“真人”的红果，人怎么赚钱](https://www.tmtpost.com/8220004.html)
+**发布时间**: 2026-11-27 11:00
+
+#### [比亚迪开始买欧洲工厂：中国汽车出海，进入下半场](https://www.tmtpost.com/8219833.html)
+**发布时间**: 2026-11-27 10:59
+
+#### [炎症性肠病之争，绕不开的艾伯维](https://www.tmtpost.com/8219400.html)
+**发布时间**: 2026-11-27 10:59
+
+#### [马云，走进芯片时代](https://www.tmtpost.com/8219379.html)
+**发布时间**: 2026-11-27 10:59
+
+#### [ALO趁火打劫Lululemon](https://www.tmtpost.com/8219789.html)
+**发布时间**: 2026-11-27 10:59
+
+#### [黑五开考：直邮已死，谁获新生？](https://www.tmtpost.com/8219884.html)
+**发布时间**: 2026-11-27 10:44
+
+#### [光伏2026这一年：亏损周期里继续“反内卷”，集体押注储能、技术和AI](https://www.tmtpost.com/8219738.html)
+**发布时间**: 2026-11-27 10:37
+
+#### [舜宇智行：三年分红39.11亿超累计净利，关联交易、募资补流引争议](https://www.tmtpost.com/8216831.html)
+**发布时间**: 2026-11-27 10:13
+
+#### [普祺医药：九年累计亏损超6亿元，公司目前已资不抵债](https://www.tmtpost.com/8216839.html)
+**发布时间**: 2026-11-27 10:10
+
+#### [消费级显卡正在变成一门边缘生意](https://www.tmtpost.com/8219460.html)
+**发布时间**: 2026-11-27 10:05
+
+#### [他们，将剩菜做成了生意](https://www.tmtpost.com/8219729.html)
+**发布时间**: 2026-11-27 10:05
+
+#### [中国无人出租车的迪拜热战](https://www.tmtpost.com/8219718.html)
+**发布时间**: 2026-11-27 09:39
+
+#### [AI制药2026：科技巨头集体下注，研发从“工具外挂”奔赴临床大考](https://www.tmtpost.com/8219609.html)
+**发布时间**: 2026-11-27 09:08
+
+#### [Edge AI Daily 早报（11月27日）](https://www.tmtpost.com/8219678.html)
+**发布时间**: 2026-11-27 09:00
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [智谱辟谣 GLM-5.5 延期；特斯拉和 SpaceX 冲刺年底合并；18 家平台完成算法协商，覆盖 2500 万新就业形态劳动者｜极客早知道](http://www.geekpark.net/news/374546)
+**发布时间**: 2026-11-27 08:43
 
 ---
 
