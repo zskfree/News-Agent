@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-28 04:36
+**最后更新时间**: 2026-11-28 13:58
+
+---
+
+## 🆕 最新更新 (2026-11-28 13:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These tech stocks may let you play defense without giving up on AI](https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories)
+**发布时间**: 2026-11-28 12:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The outsider from Cannes shaking up France’s presidential race](https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 12:00
+
+#### [The mathematicians living through an AI revolution](https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 05:00
+
+#### [AI agents are coming for big business](https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 05:00
+
+#### [Pedro Sánchez: the partisan warrior fighting to the last](https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 05:00
+
+#### [‘Only in America’ and other good lies](https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 05:00
+
+#### [Iran hitting same ships twice to deter traffic from Strait of Hormuz](https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 05:00
+
+#### [US military repelled drones at RAF base](https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 05:00
+
+#### [Five US multinationals pay more tax to Ireland than anywhere else](https://www.ft.com/content/ec489542-0968-45d7-9dd7-985ad679f9b2?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 05:00
+
+#### [England’s post-Brexit fishing windfall swept up by Dutch tycoon](https://www.ft.com/content/13566b4a-e996-4029-829b-94fb89a76841?syn-25a6b1a6=1)
+**发布时间**: 2026-11-28 05:00
 
 ---
 

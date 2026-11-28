@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Nov 2026 04:34:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2026 04:36:59 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 13:56:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:58:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资</title>
-      <link>https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html</link>
-      <description>&lt;![CDATA[独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资]]&gt;</description>
-      <pubDate>Sat, 28 Nov 2026 03:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html</guid>
+      <title>xAI联创张国栋戴自航创业，90天搓出互联网时光机</title>
+      <link>https://www.qbitai.com/2026/11/513507.html</link>
+      <description>&lt;![CDATA[xAI联创张国栋戴自航创业，90天搓出互联网时光机]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 12:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513507.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资</title>
-      <link>https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html</link>
-      <description>&lt;![CDATA[独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资]]&gt;</description>
-      <pubDate>Sat, 28 Nov 2026 03:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html</guid>
+      <title>最新：黎曼猜想证明通过独立验证！</title>
+      <link>https://www.qbitai.com/2026/11/513484.html</link>
+      <description>&lt;![CDATA[最新：黎曼猜想证明通过独立验证！]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513484.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026-11-28日刊</title>
-      <link>https://hex2077.dev/docs/2026-11/2026-11-28/</link>
-      <description>&lt;![CDATA[2026-11-28日刊]]&gt;</description>
-      <pubDate>Sat, 28 Nov 2026 02:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-28/</guid>
+      <title>用Claude证明黎曼猜想的90后数学家，收到了致命威胁</title>
+      <link>https://www.qbitai.com/2026/11/513463.html</link>
+      <description>&lt;![CDATA[用Claude证明黎曼猜想的90后数学家，收到了致命威胁]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 12:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513463.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛</title>
+      <link>https://www.qbitai.com/2026/11/513428.html</link>
+      <description>&lt;![CDATA[亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 05:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/11/513428.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>双城联动首发｜共绩算力云平台，一站式跑通 AI 训推全流程</title>
+      <link>https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html</link>
+      <description>&lt;![CDATA[双城联动首发｜共绩算力云平台，一站式跑通 AI 训推全流程]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token</title>
+      <link>https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/</link>
+      <description>&lt;![CDATA[Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/</guid>
       <category>Ai</category>
     </item>
   </channel>

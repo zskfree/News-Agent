@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-11-28 04:34
+**最后更新时间**: 2026-11-28 13:56
+
+---
+
+## 🆕 最新更新 (2026-11-28 13:56)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [xAI联创张国栋戴自航创业，90天搓出互联网时光机](https://www.qbitai.com/2026/11/513507.html)
+**发布时间**: 2026-11-28 12:53
+
+#### [最新：黎曼猜想证明通过独立验证！](https://www.qbitai.com/2026/11/513484.html)
+**发布时间**: 2026-11-28 12:42
+
+#### [用Claude证明黎曼猜想的90后数学家，收到了致命威胁](https://www.qbitai.com/2026/11/513463.html)
+**发布时间**: 2026-11-28 12:25
+
+#### [亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛](https://www.qbitai.com/2026/11/513428.html)
+**发布时间**: 2026-11-28 05:54
+
+### 📰 来源: [雷峰网](https://www.leiphone.com/feed)
+
+#### [双城联动首发｜共绩算力云平台，一站式跑通 AI 训推全流程](https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html)
+**发布时间**: 2026-11-28 10:40
+
+### 📰 来源: [MarkTechPost](https://www.marktechpost.com/feed/)
+
+#### [Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token](https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/)
+**发布时间**: 2026-11-28 09:45
 
 ---
 
