@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Nov 2026 14:47:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 14:47:42 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 04:36:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:36:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力</title>
-      <link>https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌发布新一代 TPU，开发者：真正重要的不是芯片</title>
+      <link>https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌发布新一代 TPU，开发者：真正重要的不是芯片]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类</title>
-      <link>https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 19:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时</title>
+      <link>https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 12:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？</title>
-      <link>https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Netflix将GPU可靠性视为分布式系统的问题</title>
+      <link>https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Netflix将GPU可靠性视为分布式系统的问题]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>如何让Agent 记得住、查得准、改得对？</title>
-      <link>https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[如何让Agent 记得住、查得准、改得对？]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 17:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>港交所科技100指数大换血：六进七出，中国科技资产正在重新定价</title>
+      <link>https://www.tmtpost.com/8220989.html</link>
+      <description>&lt;![CDATA[港交所科技100指数大换血：六进七出，中国科技资产正在重新定价]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 10:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8220989.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打</title>
-      <link>https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&amp;utm_medium=article</guid>
+      <title>长鑫科技流通股东大洗牌，外资股东至少套现80亿</title>
+      <link>https://www.tmtpost.com/8220923.html</link>
+      <description>&lt;![CDATA[长鑫科技流通股东大洗牌，外资股东至少套现80亿]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 10:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8220923.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix Titus为容器增加单租户VM隔离</title>
-      <link>https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix Titus为容器增加单租户VM隔离]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>十年：谷歌更新 SRE 著作，拥抱 AI 时代</title>
+      <link>https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[十年：谷歌更新 SRE 著作，拥抱 AI 时代]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒</title>
-      <link>https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力</title>
+      <link>https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大厂的应届生名额，正在先让给 AI 预算</title>
-      <link>http://www.geekpark.net/news/374601</link>
-      <description>&lt;![CDATA[大厂的应届生名额，正在先让给 AI 预算]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374601</guid>
+      <title>本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限</title>
+      <link>https://sspai.com/post/119686</link>
+      <description>&lt;![CDATA[本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/119686</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>B 站十几年的家底，在 AI 时代「升值」</title>
-      <link>http://www.geekpark.net/news/374593</link>
-      <description>&lt;![CDATA[B 站十几年的家底，在 AI 时代「升值」]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 16:29:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374593</guid>
+      <title>AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么</title>
+      <link>https://www.tmtpost.com/8221273.html</link>
+      <description>&lt;![CDATA[AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 11:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8221273.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 创作，走过产能竞速之后</title>
-      <link>http://www.geekpark.net/news/374584</link>
-      <description>&lt;![CDATA[AI 创作，走过产能竞速之后]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 15:16:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/374584</guid>
+      <title>《复联5》要来救市了</title>
+      <link>https://www.tmtpost.com/8221005.html</link>
+      <description>&lt;![CDATA[《复联5》要来救市了]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8221005.html</guid>
       <category>Technology</category>
     </item>
   </channel>

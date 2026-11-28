@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "023a5b03af5ba1817fa3ec64fdc1cfe797dc39b4d64e115251d47e26afe2ba8c": {
-        "title": "告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/ii1qFkWaDFZudHSL1lIM?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Oct 2026 09:30:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208933"
-      },
-      "96004e1ae5bf5cdd7e72094c8cedd370069cf8d030152a8f2af639bb2c300ae4": {
-        "title": "优化软件工作流：探索技术带来的根本性影响",
-        "link": "https://www.infoq.cn/article/QDQLUs4cCqLqC9WlvAyY?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Oct 2026 09:11:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208943"
-      },
-      "acb0f83db02541ee2f6e08abdbe61c128e9133eedc0695f00160f7d75cf54549": {
-        "title": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
-        "link": "https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Oct 2026 08:00:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208946"
-      },
-      "43d675cb0ce0316aa9591482d45c929bc291da5febb83a8f5784136896c2cc9b": {
-        "title": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Oct 2026 22:05:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208948"
-      },
-      "0fc5814ee53f094e205d8bf1297e9d32cccfa9c3a82ca87ae02bcc33dacaefd6": {
-        "title": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Oct 2026 21:39:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208949"
-      },
-      "f5b8f7d2d3aef43565db7277012a34def6daa09d06a327181a648df458f871ec": {
-        "title": "影石创新距离百亿营收，只差最后一步",
-        "link": "https://www.tmtpost.com/8185210.html",
-        "published_date": "Thu, 29 Oct 2026 09:48:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208951"
-      },
-      "619e2b2b881c3f4185d466a1c0b44d198c63dbbeec93c8234ea807577e87cff4": {
-        "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
-        "link": "https://sspai.com/post/117750",
-        "published_date": "Thu, 29 Oct 2026 08:26:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208952"
-      },
-      "ff0bfc4f3dc2f852e82a824a7b64f453cfbfb0a3d4eb4a7052da9db9e7fb9b6b": {
-        "title": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
-        "link": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Oct 2026 09:58:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208954"
-      },
-      "f40fb7c01d3b818accb54f07eea52c214d25e413c227db2089199485f5ca4f46": {
-        "title": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
-        "link": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 29 Oct 2026 09:55:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208956"
-      },
-      "c029d931a017fc1f13db0128efb5d5df4d88adc48d298b22a17c00b9c54a8b66": {
-        "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
-        "link": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 28 Oct 2026 22:53:00 GMT",
-        "first_seen": "2026-10-29T02:11:09.208958"
-      },
       "149b6950484758033bd546697aee56834a2fcda24b4a0f1d2cc81e9e9cdf9a4f": {
         "title": "钛媒体「2026 EDGE AWARDS 全球创新评选」正式启动，AI 进入下一阶段，价值该如何衡量？",
         "link": "https://www.tmtpost.com/8185865.html",
@@ -3601,69 +3541,69 @@
         "link": "http://www.geekpark.net/news/374584",
         "published_date": "Fri, 27 Nov 2026 15:16:00 GMT",
         "first_seen": "2026-11-27T14:47:42.711569"
+      },
+      "397fd600c1f9613816d593657b88f45235c6f2f27bfbf95875d7e7cd73e907d7": {
+        "title": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+        "link": "https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Nov 2026 08:00:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226907"
+      },
+      "817cb2763628ae6f2d8aa5633914ff78d0a28467adfe003eb44b3c72bc7fc691": {
+        "title": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+        "link": "https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Nov 2026 12:07:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226921"
+      },
+      "c519279a277428ed8c02dab44b69adee23511440e69a54db3f4ed58b9cf514cb": {
+        "title": "Netflix将GPU可靠性视为分布式系统的问题",
+        "link": "https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226924"
+      },
+      "1a56d5722932c44b064a7cf58581ea46baccf54f13071ab6b14a60de71b0f065": {
+        "title": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
+        "link": "https://www.tmtpost.com/8220989.html",
+        "published_date": "Sat, 28 Nov 2026 10:36:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226925"
+      },
+      "1f057b2e6050e27bd082ff0ef54148064d44003e44b0dbf0068de030f2f3bbb7": {
+        "title": "长鑫科技流通股东大洗牌，外资股东至少套现80亿",
+        "link": "https://www.tmtpost.com/8220923.html",
+        "published_date": "Sat, 28 Nov 2026 10:02:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226927"
+      },
+      "404afc1df5460b2f0826f19f5f19cdc2850da9e23994cb14a9d368fd3116d719": {
+        "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+        "link": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Nov 2026 11:00:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226929"
+      },
+      "c1932d2b110c1f0fc21265f46809ed5da9fa8afc75be910dd0252a7531d090d3": {
+        "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+        "link": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Nov 2026 10:00:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226930"
+      },
+      "de2f151177c8979a71a93394c1619c37e95416b773e66ffea94333633fd9d42f": {
+        "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+        "link": "https://sspai.com/post/119686",
+        "published_date": "Sat, 28 Nov 2026 08:47:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226932"
+      },
+      "c8788c215330c032d356e4ab98e5d8220546182a3c243405f2a687e8588fc6cb": {
+        "title": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+        "link": "https://www.tmtpost.com/8221273.html",
+        "published_date": "Sat, 28 Nov 2026 11:17:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226933"
+      },
+      "3a6a029f78cf8c78b6f27eb04fb6bbc37d544705e92ae58c7b629d008b9f10bd": {
+        "title": "《复联5》要来救市了",
+        "link": "https://www.tmtpost.com/8221005.html",
+        "published_date": "Sat, 28 Nov 2026 11:03:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.226935"
       }
     },
     "Finance": {
-      "d35aa7de1ac2e23f58e9c9aacda9e6acc9393ae6676452592603d4bc13e90400": {
-        "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-        "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Oct 2026 22:25:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818219"
-      },
-      "3fcaf029afb1b7e750a29e2b20c5a488f6095b6c6a3b30c495026555ccfc53a7": {
-        "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-        "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-        "published_date": "Thu, 29 Oct 2026 01:58:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818227"
-      },
-      "17eef6b957c0f338c824574be20f19a0131971929c97453bbfa57b2babc55ae9": {
-        "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-        "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-        "published_date": "Thu, 29 Oct 2026 00:20:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818230"
-      },
-      "3a710455846a1ee357131fde22578b8e8a9566dd6fcebbfff273aff73d3858e4": {
-        "title": "The major reason Microsoft’s stock is heading higher after earnings",
-        "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-        "published_date": "Thu, 29 Oct 2026 00:10:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818232"
-      },
-      "010fa7756b8ef5b97bb6165346d2708e31fc153da73828838670b5d385c22dae": {
-        "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-        "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Oct 2026 23:18:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818234"
-      },
-      "d93330b574f239edc44089c28760ac028431c037fbeb375381f68f995f214fde": {
-        "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-        "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Oct 2026 23:02:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818235"
-      },
-      "e396e5d8cd8003417ea420cbe386c496cff8ace3454a53d489ce07e90bcd63b6": {
-        "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-        "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-        "published_date": "Wed, 28 Oct 2026 22:41:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818237"
-      },
-      "1522dc1df743c64fdc5eb5b4f5339b6cf1fa257874d5d19caac77282b2f444e3": {
-        "title": "Flávio Bolsonaro claims fraud in Brazil’s presidential election",
-        "link": "https://www.ft.com/content/040c71ac-cef9-46b6-9ca1-aeaa01420d64?syn-25a6b1a6=1",
-        "published_date": "Thu, 29 Oct 2026 00:21:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818238"
-      },
-      "cb2b469535b6f9804ec9f624b4cc58367b210d647457e1092a0c9f72edb1c062": {
-        "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
-        "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-        "published_date": "Wed, 28 Oct 2026 23:27:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818239"
-      },
-      "f4d606ed58933e9c775517c2f6fdcf5dbba71aa3af3ee4b49d67c23d3a8a622e": {
-        "title": "Microsoft blames data centre delays for lower capital expenditure",
-        "link": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
-        "published_date": "Wed, 28 Oct 2026 23:20:00 GMT",
-        "first_seen": "2026-10-29T02:11:18.818241"
-      },
       "52a20659531a9ca2ade28e606d4a617d07f482b6e8ef066e71adc842fecf6514": {
         "title": "Lilly raises outlook for third time this year as Zepbound sales soar",
         "link": "https://www.marketwatch.com/story/lilly-raises-outlook-for-third-time-this-year-as-zepbound-sales-soar-6d987407?mod=mw_rss_topstories",
@@ -7053,69 +6993,69 @@
         "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
         "published_date": "Fri, 27 Nov 2026 08:32:00 GMT",
         "first_seen": "2026-11-27T14:48:01.521889"
+      },
+      "4fdf4faf942acbb1f00e579df839e8d7488f52161757a73bcc3ff0d2f3e07ebc": {
+        "title": "OpenAI countersues Apple for stealing trade secrets",
+        "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+        "published_date": "Fri, 27 Nov 2026 23:00:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659229"
+      },
+      "10fcd8cb04a5f4d7ffa22277237ba5b5652c1ce09ae98da35000825bfa674340": {
+        "title": "S&P cuts France outlook to negative",
+        "link": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+        "published_date": "Fri, 27 Nov 2026 22:45:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659238"
+      },
+      "d164c85d7dd791291a134350bfe7b184cf713888e64e02e15d4c88db43a1cf51": {
+        "title": "US tech stocks rise in latest market swing",
+        "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+        "published_date": "Fri, 27 Nov 2026 20:08:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659240"
+      },
+      "f021e7beb3a419a8051cd6a6ca5f248a6cbda58b5ad4a37597d584c4c8be7f21": {
+        "title": "Trump’s Nvidia intervention has a cost for US stocks",
+        "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+        "published_date": "Fri, 27 Nov 2026 18:26:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659242"
+      },
+      "3634cedb4318049657e8528973574978518ec1e841b71526ca7d14469d8ecfdd": {
+        "title": "AI and the decryption nightmare",
+        "link": "https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1",
+        "published_date": "Fri, 27 Nov 2026 18:18:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659243"
+      },
+      "438b90d9125ca72a62aa61a83eaa98d2f504f15814d025dd1fac093d1047cc5b": {
+        "title": "Can AI crack encryption?",
+        "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+        "published_date": "Fri, 27 Nov 2026 18:16:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659244"
+      },
+      "a3e71edf4b418f366a596b56a066f61ea83fc301af71e9d47dba92b4e5434e52": {
+        "title": "Mélenchon takes aim at Germany in Berlin campaign stop",
+        "link": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1",
+        "published_date": "Fri, 27 Nov 2026 16:45:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659245"
+      },
+      "b77e9e9152f1031560055535d0baac3cfc02fa19cc2e69ad6d300a50f0160805": {
+        "title": "Wave of cyber incidents rattles western economies",
+        "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+        "published_date": "Fri, 27 Nov 2026 16:19:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659247"
+      },
+      "afb2e5d0ece6c02d0a2d4d2a578af3db7a7d407b256ca617572528f014c6b276": {
+        "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+        "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Nov 2026 20:16:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659248"
+      },
+      "7c06e36bbfbd6d7383834beb5fd105299b02a46d6d154f31ef8cf47307389c6d": {
+        "title": "The warnings behind this week’s stock-market rally",
+        "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Nov 2026 18:40:00 GMT",
+        "first_seen": "2026-11-28T04:37:08.659249"
       }
     },
     "Ai": {
-      "88afdd76cf5ab5882572d5ad56d65bf0b071955e164765fff95228b757c3d954": {
-        "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
-        "published_date": "Wed, 28 Oct 2026 18:28:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008650"
-      },
-      "98ec9558035b0fdb8b11394d010d559e0207ea0c851bfba151af44f20959c8e3": {
-        "title": "Distributed training with Ray Train DLCs and EFA on EKS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
-        "published_date": "Wed, 28 Oct 2026 18:19:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008658"
-      },
-      "da3f418833abf6d88bd821d10815f58013c08611a3efc36765f02131b4b7b63f": {
-        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
-        "published_date": "Wed, 28 Oct 2026 18:12:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008660"
-      },
-      "fdad3ae0d2f8c84dc17a6da827d5d5cd4ea46db9a4c8776c6345c433147af0ed": {
-        "title": "具身智能军备竞赛，胜负手在工程生态",
-        "link": "https://www.leiphone.com/category/ai/D4SlkV6zQ4ill9MG.html",
-        "published_date": "Wed, 28 Oct 2026 18:17:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008661"
-      },
-      "6092621858a5c1a7565fe7bbea1d663dc211251665d36b4e9fb1dfcd09c3167b": {
-        "title": "字节辟谣\"群演数据喂大模型\"：严重失实！",
-        "link": "https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html",
-        "published_date": "Wed, 28 Oct 2026 17:16:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008663"
-      },
-      "985ab321745303e4f2ee1b7e59396c2f19f55932ce0cb727604c5260edc3a0c2": {
-        "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
-        "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
-        "published_date": "Wed, 28 Oct 2026 17:48:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008664"
-      },
-      "ddc6f944e433646ae6998ed773636712d8326415d0e9bb37c9e2f866b3531dd8": {
-        "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
-        "link": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
-        "published_date": "Wed, 28 Oct 2026 17:20:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008666"
-      },
-      "934d4a12e97743c7242f02725729dbc1495e25567809c48807745b0e42262cb9": {
-        "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-        "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-        "published_date": "Wed, 28 Oct 2026 15:00:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008667"
-      },
-      "733be89c84ec567e1046a5f0c3e88031bd2973ba9eb094e4422da5bef1b90275": {
-        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-        "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-        "published_date": "Wed, 28 Oct 2026 14:58:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008668"
-      },
-      "681a96d39a75048093b6a540220494bc6552e38556252d015ac7636c53e2cf17": {
-        "title": "3 Questions: Why infrastructure is entering a defining era",
-        "link": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
-        "published_date": "Wed, 28 Oct 2026 12:00:00 GMT",
-        "first_seen": "2026-10-29T02:11:19.008670"
-      },
       "61d278833b0da2519131a662b2e3748c22d178cb56342a3ea9acd394747b4151": {
         "title": "抖音李亮发文：希望同行在阳光下竞争，专家自媒体要遵守基本道德规范",
         "link": "https://www.leiphone.com/category/industrynews/poaG1T65huOcWV91.html",
@@ -9989,13 +9929,31 @@
         "link": "https://www.leiphone.com/category/industrynews/BMsSJPgf18A1GxuH.html",
         "published_date": "Fri, 27 Nov 2026 14:46:00 GMT",
         "first_seen": "2026-11-27T14:47:52.170352"
+      },
+      "c0f860faf6e6cdfaaadc74fb864356403f9d040ca1d233053857032f563a5a85": {
+        "title": "独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资",
+        "link": "https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html",
+        "published_date": "Sat, 28 Nov 2026 03:14:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.390654"
+      },
+      "219df458545ed51b47f4f23910918ad4d3eb29862eb0ea7e210d785084772ad7": {
+        "title": "独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资",
+        "link": "https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html",
+        "published_date": "Sat, 28 Nov 2026 03:06:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.390661"
+      },
+      "55336b7283f9d0a90b6ef2dc502e41d6eec4748d6a676b088188887b6f1263cb": {
+        "title": "2026-11-28日刊",
+        "link": "https://hex2077.dev/docs/2026-11/2026-11-28/",
+        "published_date": "Sat, 28 Nov 2026 02:47:00 GMT",
+        "first_seen": "2026-11-28T04:36:59.390663"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-11-27T14:47:42.711570",
-    "Finance": "2026-11-27T14:48:01.521891",
-    "Ai": "2026-11-27T14:47:52.170354"
+    "Technology": "2026-11-28T04:36:59.226936",
+    "Finance": "2026-11-28T04:37:08.659251",
+    "Ai": "2026-11-28T04:36:59.390666"
   }
 }

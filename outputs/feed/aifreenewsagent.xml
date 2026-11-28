@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Nov 2026 14:45:00 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 14:47:52 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 04:34:00 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:36:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,83 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>美团财报电话会：Keeta沙特实现全季度盈利</title>
-      <link>https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html</link>
-      <description>&lt;![CDATA[美团财报电话会：Keeta沙特实现全季度盈利]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 20:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html</guid>
+      <title>独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资</title>
+      <link>https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html</link>
+      <description>&lt;![CDATA[独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 03:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团电话会：预期四季度餐饮外卖UE较二季度明显提升</title>
-      <link>https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html</link>
-      <description>&lt;![CDATA[美团电话会：预期四季度餐饮外卖UE较二季度明显提升]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 20:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html</guid>
+      <title>独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资</title>
+      <link>https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html</link>
+      <description>&lt;![CDATA[独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 03:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家</title>
-      <link>https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html</link>
-      <description>&lt;![CDATA[美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 18:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>支付宝车载助手3.0发布，助力智能座舱打造下一代可靠可信生活服务</title>
-      <link>https://www.leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html</link>
-      <description>&lt;![CDATA[支付宝车载助手3.0发布，助力智能座舱打造下一代可靠可信生活服务]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题</title>
-      <link>https://www.leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html</link>
-      <description>&lt;![CDATA[具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%</title>
-      <link>https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html</link>
-      <description>&lt;![CDATA[Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 16:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？</title>
-      <link>https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html</link>
-      <description>&lt;![CDATA[OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 16:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>多地启动2027年度城乡居民医保集中缴费，上支付宝可一站式办理</title>
-      <link>https://www.leiphone.com/category/industrynews/10xzmIYoNuG6p12b.html</link>
-      <description>&lt;![CDATA[多地启动2027年度城乡居民医保集中缴费，上支付宝可一站式办理]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/10xzmIYoNuG6p12b.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体</title>
-      <link>https://www.leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html</link>
-      <description>&lt;![CDATA[魏建军称车企竞争激烈，董明珠：有些产业害虫该灭就灭；英伟达暂停向东南亚四国出货服务器；腾讯、小红书都在招人加码个人智能体]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 15:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/zaobao/VrpGC0c4wtt3NcEi.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>广州车展最美概念车 纵横R700开启新派越野新时代</title>
-      <link>https://www.leiphone.com/category/industrynews/BMsSJPgf18A1GxuH.html</link>
-      <description>&lt;![CDATA[广州车展最美概念车 纵横R700开启新派越野新时代]]&gt;</description>
-      <pubDate>Fri, 27 Nov 2026 14:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.leiphone.com/category/industrynews/BMsSJPgf18A1GxuH.html</guid>
+      <title>2026-11-28日刊</title>
+      <link>https://hex2077.dev/docs/2026-11/2026-11-28/</link>
+      <description>&lt;![CDATA[2026-11-28日刊]]&gt;</description>
+      <pubDate>Sat, 28 Nov 2026 02:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-11/2026-11-28/</guid>
       <category>Ai</category>
     </item>
   </channel>

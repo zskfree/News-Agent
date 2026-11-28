@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-27 14:47
+**最后更新时间**: 2026-11-28 04:36
+
+---
+
+## 🆕 最新更新 (2026-11-28 04:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI countersues Apple for stealing trade secrets](https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 23:00
+
+#### [S&P cuts France outlook to negative](https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 22:45
+
+#### [US tech stocks rise in latest market swing](https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 20:08
+
+#### [Trump’s Nvidia intervention has a cost for US stocks](https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 18:26
+
+#### [AI and the decryption nightmare](https://www.ft.com/content/4114d053-de5e-46a5-8b46-758726abdcb7?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 18:18
+
+#### [Can AI crack encryption?](https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 18:16
+
+#### [Mélenchon takes aim at Germany in Berlin campaign stop](https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 16:45
+
+#### [Wave of cyber incidents rattles western economies](https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1)
+**发布时间**: 2026-11-27 16:19
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia](https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 20:16
+
+#### [Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest](https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 19:55
+
+#### [The warnings behind this week’s stock-market rally](https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories)
+**发布时间**: 2026-11-27 18:40
 
 ---
 

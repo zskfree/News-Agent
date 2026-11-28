@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-11-27 14:47
+**最后更新时间**: 2026-11-28 04:36
+
+---
+
+## 🆕 最新更新 (2026-11-28 04:36)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时](https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-28 12:07
+
+#### [十年：谷歌更新 SRE 著作，拥抱 AI 时代](https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-28 11:00
+
+#### [华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力](https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-28 10:00
+
+#### [Netflix将GPU可靠性视为分布式系统的问题](https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-28 10:00
+
+#### [谷歌发布新一代 TPU，开发者：真正重要的不是芯片](https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-11-28 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「黑五」值得买：不容错过的数码硬件优惠](https://sspai.com/post/119651)
+**发布时间**: 2026-11-28 11:30
+
+#### [本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限](https://sspai.com/post/119686)
+**发布时间**: 2026-11-28 08:47
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么](https://www.tmtpost.com/8221273.html)
+**发布时间**: 2026-11-28 11:17
+
+#### [《复联5》要来救市了](https://www.tmtpost.com/8221005.html)
+**发布时间**: 2026-11-28 11:03
+
+#### [“争议”总经理上任176天“闪辞”，水井坊6年已换8帅](https://www.tmtpost.com/8221007.html)
+**发布时间**: 2026-11-28 10:58
+
+#### [OpenAI 和 Anthropic 在招什么样的营销人才？](https://www.tmtpost.com/8221003.html)
+**发布时间**: 2026-11-28 10:53
+
+#### [半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？](https://www.tmtpost.com/8220992.html)
+**发布时间**: 2026-11-28 10:48
+
+#### [港交所科技100指数大换血：六进七出，中国科技资产正在重新定价](https://www.tmtpost.com/8220989.html)
+**发布时间**: 2026-11-28 10:36
+
+#### [客户不买单，具身智能的“第一”还值几个钱？](https://www.tmtpost.com/8220898.html)
+**发布时间**: 2026-11-28 10:33
+
+#### [从2026广州车展，看汽车产业链的权力位移](https://www.tmtpost.com/8220706.html)
+**发布时间**: 2026-11-28 10:28
+
+#### [先别急着让宿华表演“黄仁勋回宫”](https://www.tmtpost.com/8220747.html)
+**发布时间**: 2026-11-28 10:22
+
+#### [中国客车出海，遇到了比关税更复杂的壁垒](https://www.tmtpost.com/8220984.html)
+**发布时间**: 2026-11-28 10:22
+
+#### [格力老兵，加码飞利浦空调](https://www.tmtpost.com/8220748.html)
+**发布时间**: 2026-11-28 10:15
+
+#### [袁记云饺一边招股，一边开出堡店首店](https://www.tmtpost.com/8220862.html)
+**发布时间**: 2026-11-28 10:15
+
+#### [爱奇艺站在悬崖之上，龚宇也有心无力？](https://www.tmtpost.com/8220926.html)
+**发布时间**: 2026-11-28 10:15
+
+#### [刘銮雄长子的资本野心：豪门长子不接班，盯上海外地产生意](https://www.tmtpost.com/8220724.html)
+**发布时间**: 2026-11-28 10:08
+
+#### [解码袁记IPO：一只饺子，两个市场，三种生意](https://www.tmtpost.com/8220884.html)
+**发布时间**: 2026-11-28 10:08
+
+#### [蔚来老板娘的千元女装店开到德基，难怪李斌的衣品好](https://www.tmtpost.com/8220737.html)
+**发布时间**: 2026-11-28 10:02
+
+#### [长鑫科技流通股东大洗牌，外资股东至少套现80亿](https://www.tmtpost.com/8220923.html)
+**发布时间**: 2026-11-28 10:02
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 硬件竞争白热化，OpenAI 反诉苹果窃密；iPhone 18 量产再度推迟；王兴回应美团与小微试点合作](http://www.geekpark.net/news/374621)
+**发布时间**: 2026-11-28 08:53
 
 ---
 
